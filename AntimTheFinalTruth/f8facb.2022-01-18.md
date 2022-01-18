@@ -1,0 +1,14 @@
+| City      | Name                          |  Time | Type        | Price | Capacity | Booked |
+| :-------- | :---------------------------- | ----: | :---------- | ----: | -------: | -----: |
+| Hyderabad | SreeSaiRajaTheatreMusheerabad | 11:30 | Balcony     |  100₹ |      377 |    227 |
+| Hyderabad | SreeSaiRajaTheatreMusheerabad | 11:30 | FirstClass  |   80₹ |      338 |    188 |
+| Hyderabad | SreeSaiRajaTheatreMusheerabad | 11:30 | SecondClass |   40₹ |      209 |    209 |
+| Hyderabad | SreeSaiRajaTheatreMusheerabad | 14:30 | Balcony     |  100₹ |      377 |    227 |
+| Hyderabad | SreeSaiRajaTheatreMusheerabad | 14:30 | FirstClass  |   80₹ |      338 |    188 |
+| Hyderabad | SreeSaiRajaTheatreMusheerabad | 14:30 | SecondClass |   40₹ |      209 |    209 |
+| Hyderabad | SreeSaiRajaTheatreMusheerabad | 18:00 | Balcony     |  100₹ |      377 |    227 |
+| Hyderabad | SreeSaiRajaTheatreMusheerabad | 18:00 | FirstClass  |   80₹ |      338 |    188 |
+| Hyderabad | SreeSaiRajaTheatreMusheerabad | 18:00 | SecondClass |   40₹ |      209 |    209 |
+| Hyderabad | SreeSaiRajaTheatreMusheerabad | 21:00 | Balcony     |  100₹ |      377 |    227 |
+| Hyderabad | SreeSaiRajaTheatreMusheerabad | 21:00 | FirstClass  |   80₹ |      338 |    188 |
+| Hyderabad | SreeSaiRajaTheatreMusheerabad | 21:00 | SecondClass |   40₹ |      209 |    209 |
