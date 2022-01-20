@@ -1,0 +1,15 @@
+| City       | Name                       |  Time | Type        | Price | Capacity | Booked |
+| :--------- | :------------------------- | ----: | :---------- | ----: | -------: | -----: |
+| Mumbai     | GoldCinemaDadarE           | 09:30 | Balcony     |  110₹ |      100 |      0 |
+| Mumbai     | GoldCinemaDadarE           | 09:30 | Gold        |  110₹ |      100 |      0 |
+| Mumbai     | GoldCinemaDadarE           | 09:30 | Executive   |  110₹ |      100 |      0 |
+| Pune       | AshokTheatrePimpri         | 10:00 | Balcony     |  100₹ |      100 |      0 |
+| Pune       | AshokTheatrePimpri         | 10:00 | Reserved    |   80₹ |      100 |      0 |
+| Parbhani   | MahaveerTalkiesParbhani    | 10:30 | Balcony     |   70₹ |      149 |      0 |
+| Parbhani   | MahaveerTalkiesParbhani    | 10:30 | DressCircle |   50₹ |      208 |      0 |
+| Parbhani   | MahaveerTalkiesParbhani    | 10:30 | UpperStall  |   50₹ |      272 |      0 |
+| Aurangabad | MohanNovaCinemazSarafaRoad | 11:55 | Platinum    |  130₹ |      100 |      0 |
+| Aurangabad | MohanNovaCinemazSarafaRoad | 11:55 | Gold        |  130₹ |      100 |      0 |
+| Aurangabad | MohanNovaCinemazSarafaRoad | 11:55 | Silver      |  130₹ |      100 |      0 |
+| Nanded     | LibertyTalkiesGadipura     | 12:00 | Gold        |   60₹ |      207 |    104 |
+| Nanded     | LibertyTalkiesGadipura     | 12:00 | Silver      |   60₹ |      116 |     58 |
