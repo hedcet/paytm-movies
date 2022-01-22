@@ -1,0 +1,12 @@
+| City       | Name                          |  Time | Type       | Price | Capacity | Booked |
+| :--------- | :---------------------------- | ----: | :--------- | ----: | -------: | -----: |
+| Kishangarh | TheCrystalParkCinemaAjmerRoad | 14:00 | CoupleBoxR |  270₹ |        6 |      6 |
+| Kishangarh | TheCrystalParkCinemaAjmerRoad | 14:00 | CoupleBox  |  220₹ |        6 |      0 |
+| Kishangarh | TheCrystalParkCinemaAjmerRoad | 14:00 | RoyalBox   |  320₹ |        5 |      5 |
+| Kishangarh | TheCrystalParkCinemaAjmerRoad | 14:00 | FamilyBox  |  220₹ |       24 |     12 |
+| Kishangarh | TheCrystalParkCinemaAjmerRoad | 14:00 | Gold       |  130₹ |      111 |      4 |
+| Kishangarh | TheCrystalParkCinemaAjmerRoad | 17:00 | CoupleBoxR |  270₹ |        6 |      6 |
+| Kishangarh | TheCrystalParkCinemaAjmerRoad | 17:00 | CoupleBox  |  220₹ |        6 |      0 |
+| Kishangarh | TheCrystalParkCinemaAjmerRoad | 17:00 | RoyalBox   |  320₹ |        5 |      5 |
+| Kishangarh | TheCrystalParkCinemaAjmerRoad | 17:00 | FamilyBox  |  220₹ |       24 |     12 |
+| Kishangarh | TheCrystalParkCinemaAjmerRoad | 17:00 | Gold       |  130₹ |      111 |      4 |
