@@ -1,0 +1,8 @@
+| City     | Name        |  Time | Type        | Price | Capacity | Booked |
+| :------- | :---------- | ----: | :---------- | ----: | -------: | -----: |
+| Kakinada | MayuriAcDts | 14:30 | FirstClass  |  100₹ |      296 |    148 |
+| Kakinada | MayuriAcDts | 14:30 | SecondClass |   60₹ |       48 |     24 |
+| Kakinada | MayuriAcDts | 14:30 | ThirdClass  |   40₹ |      100 |     50 |
+| Kakinada | MayuriAcDts | 20:30 | FirstClass  |  100₹ |      296 |    148 |
+| Kakinada | MayuriAcDts | 20:30 | SecondClass |   60₹ |       48 |     24 |
+| Kakinada | MayuriAcDts | 20:30 | ThirdClass  |   40₹ |      100 |     50 |
