@@ -1,0 +1,11 @@
+| City             | Name                                     |  Time | Type        | Price | Capacity | Booked |
+| :--------------- | :--------------------------------------- | ----: | :---------- | ----: | -------: | -----: |
+| Malappuram       | MallikaPlexMattilMall                    | 10:00 | Executive   |  140₹ |       50 |     17 |
+| Kattanam         | GanamTheatreComplexACKayamkulam          | 11:00 | FirstClass  |  140₹ |      202 |    202 |
+| Vadanapally      | AsokaTheatreACDolby71Vadanapally         | 12:00 | GoldCircle  |  110₹ |      480 |    336 |
+| Kochi            | PvrLuluKochi                             | 13:25 | Classic     |  140₹ |       39 |     19 |
+| Kochi            | PvrLuluKochi                             | 13:25 | ClassicPlus |  160₹ |       91 |     46 |
+| Kochi            | PvrLuluKochi                             | 13:25 | Prime       |  190₹ |       68 |     34 |
+| Kochi            | PvrLuluKochi                             | 13:25 | Recliner    |  350₹ |       10 |      5 |
+| Angamaly         | CarnivalKsrtComplexSalemErnakulamHighway | 13:30 | GoldOffline |  130₹ |      203 |    102 |
+| Thalayolaparambu | CarnivalThalayolaparambu                 | 16:00 | Gold        |  110₹ |      144 |     72 |
