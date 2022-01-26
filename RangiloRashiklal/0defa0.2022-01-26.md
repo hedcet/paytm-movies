@@ -1,0 +1,16 @@
+| City      | Name                     |  Time | Type          | Price | Capacity | Booked |
+| :-------- | :----------------------- | ----: | :------------ | ----: | -------: | -----: |
+| Ahmedabad | RevolutionMultiplexCtm   | 10:00 | SofaClass     |  250₹ |      100 |      0 |
+| Ahmedabad | RevolutionMultiplexCtm   | 10:00 | PlatinumClass |  170₹ |      100 |      0 |
+| Ahmedabad | RevolutionMultiplexCtm   | 10:00 | GoldenClass   |  150₹ |      100 |      0 |
+| Ahmedabad | RevolutionMultiplexCtm   | 10:00 | SilverClass   |  120₹ |      100 |      0 |
+| Ahmedabad | AppleMultiplexAhmedabad  | 15:15 | Sofa          |  130₹ |       12 |      0 |
+| Ahmedabad | AppleMultiplexAhmedabad  | 15:15 | Platinum      |  100₹ |       96 |     52 |
+| Ahmedabad | AppleMultiplexAhmedabad  | 15:15 | Recliner      |  130₹ |        9 |      0 |
+| Anand     | ShaanCinemaAvFortuneMall | 18:00 | Recliner      |  300₹ |      100 |      0 |
+| Anand     | ShaanCinemaAvFortuneMall | 18:00 | Sofa          |  250₹ |      100 |      0 |
+| Anand     | ShaanCinemaAvFortuneMall | 18:00 | Platinum      |   90₹ |      100 |      0 |
+| Anand     | ShaanCinemaAvFortuneMall | 18:00 | Gold          |   90₹ |      100 |      0 |
+| Ahmedabad | AppleMultiplexAhmedabad  | 18:00 | Sofa          |  130₹ |       12 |      0 |
+| Ahmedabad | AppleMultiplexAhmedabad  | 18:00 | Platinum      |  100₹ |       96 |     52 |
+| Ahmedabad | AppleMultiplexAhmedabad  | 18:00 | Recliner      |  130₹ |        9 |      0 |
