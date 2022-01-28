@@ -1,0 +1,15 @@
+| City       | Name                                 |  Time | Type       | Price | Capacity | Booked |
+| :--------- | :----------------------------------- | ----: | :--------- | ----: | -------: | -----: |
+| Kovilpatti | LakshmiMultiplexDolbyatmosKovilpatti | 10:30 | Platinum   |  100₹ |      208 |    104 |
+| Tenkasi    | SriPadmamTenkasi                     | 11:30 | BoxA       |  150₹ |       18 |     18 |
+| Tenkasi    | SriPadmamTenkasi                     | 11:30 | BoxB       |  150₹ |       10 |     10 |
+| Tenkasi    | SriPadmamTenkasi                     | 11:30 | FirstClass |  130₹ |      397 |     42 |
+| Kovilpatti | LakshmiMultiplexDolbyatmosKovilpatti | 14:30 | Platinum   |  100₹ |      208 |    104 |
+| Tenkasi    | SriPadmamTenkasi                     | 14:30 | BoxA       |  150₹ |       18 |     18 |
+| Tenkasi    | SriPadmamTenkasi                     | 14:30 | BoxB       |  150₹ |       10 |     10 |
+| Tenkasi    | SriPadmamTenkasi                     | 14:30 | FirstClass |  130₹ |      397 |     42 |
+| Kovilpatti | LakshmiMultiplexDolbyatmosKovilpatti | 18:30 | Platinum   |  100₹ |      208 |    104 |
+| Tenkasi    | SriPadmamTenkasi                     | 18:30 | BoxA       |  150₹ |       18 |     18 |
+| Tenkasi    | SriPadmamTenkasi                     | 18:30 | BoxB       |  150₹ |       10 |     10 |
+| Tenkasi    | SriPadmamTenkasi                     | 18:30 | FirstClass |  130₹ |      397 |     42 |
+| Kovilpatti | LakshmiMultiplexDolbyatmosKovilpatti | 22:30 | Platinum   |  100₹ |      208 |    104 |
