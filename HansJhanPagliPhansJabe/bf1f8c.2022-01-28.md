@@ -1,0 +1,14 @@
+| City   | Name                     |  Time | Type    | Price | Capacity | Booked |
+| :----- | :----------------------- | ----: | :------ | ----: | -------: | -----: |
+| Pendra | PoojaShreeCineplexPendra | 12:00 | Diamond |  150₹ |       93 |     78 |
+| Pendra | PoojaShreeCineplexPendra | 12:00 | Gold    |  120₹ |       60 |     60 |
+| Pendra | PoojaShreeCineplexPendra | 12:00 | Silver  |  100₹ |       60 |     60 |
+| Pendra | PoojaShreeCineplexPendra | 15:00 | Diamond |  150₹ |       93 |     78 |
+| Pendra | PoojaShreeCineplexPendra | 15:00 | Gold    |  120₹ |       60 |     60 |
+| Pendra | PoojaShreeCineplexPendra | 15:00 | Silver  |  100₹ |       60 |     60 |
+| Pendra | PoojaShreeCineplexPendra | 18:00 | Diamond |  150₹ |       93 |     78 |
+| Pendra | PoojaShreeCineplexPendra | 18:00 | Gold    |  120₹ |       60 |     60 |
+| Pendra | PoojaShreeCineplexPendra | 18:00 | Silver  |  100₹ |       60 |     60 |
+| Pendra | PoojaShreeCineplexPendra | 21:00 | Diamond |  150₹ |       93 |     78 |
+| Pendra | PoojaShreeCineplexPendra | 21:00 | Gold    |  120₹ |       60 |     60 |
+| Pendra | PoojaShreeCineplexPendra | 21:00 | Silver  |  100₹ |       60 |     60 |
