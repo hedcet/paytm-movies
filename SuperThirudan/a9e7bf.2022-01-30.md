@@ -1,0 +1,14 @@
+| City       | Name                                                  |  Time | Type        | Price | Capacity | Booked |
+| :--------- | :---------------------------------------------------- | ----: | :---------- | ----: | -------: | -----: |
+| Kumbakonam | SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital | 11:00 | Balcony     |  100₹ |       34 |     17 |
+| Kumbakonam | SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital | 11:00 | FirstClass  |   80₹ |      212 |    106 |
+| Kumbakonam | SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital | 11:00 | SecondClass |   80₹ |       44 |     22 |
+| Kumbakonam | SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital | 14:00 | Balcony     |  100₹ |       34 |     17 |
+| Kumbakonam | SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital | 14:00 | FirstClass  |   80₹ |      212 |    106 |
+| Kumbakonam | SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital | 14:00 | SecondClass |   80₹ |       44 |     22 |
+| Kumbakonam | SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital | 18:00 | Balcony     |  100₹ |       34 |     17 |
+| Kumbakonam | SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital | 18:00 | FirstClass  |   80₹ |      212 |    106 |
+| Kumbakonam | SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital | 18:00 | SecondClass |   80₹ |       44 |     22 |
+| Kumbakonam | SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital | 22:00 | Balcony     |  100₹ |       34 |     17 |
+| Kumbakonam | SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital | 22:00 | FirstClass  |   80₹ |      212 |    106 |
+| Kumbakonam | SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital | 22:00 | SecondClass |   80₹ |       44 |     22 |
