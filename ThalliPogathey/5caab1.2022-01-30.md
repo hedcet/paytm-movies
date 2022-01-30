@@ -1,0 +1,10 @@
+| City       | Name                            |  Time | Type       | Price | Capacity | Booked |
+| :--------- | :------------------------------ | ----: | :--------- | ----: | -------: | -----: |
+| Kumbakonam | MsmCinemasRgbLaserPremierTowers | 11:00 | BalconyAC  |  120₹ |      118 |     59 |
+| Kumbakonam | MsmCinemasRgbLaserPremierTowers | 11:00 | FirstClass |  100₹ |      350 |    175 |
+| Kumbakonam | MsmCinemasRgbLaserPremierTowers | 14:00 | BalconyAC  |  120₹ |      118 |      0 |
+| Kumbakonam | MsmCinemasRgbLaserPremierTowers | 14:00 | FirstClass |  100₹ |      350 |      0 |
+| Kumbakonam | MsmCinemasRgbLaserPremierTowers | 18:00 | BalconyAC  |  120₹ |      118 |      0 |
+| Kumbakonam | MsmCinemasRgbLaserPremierTowers | 18:00 | FirstClass |  100₹ |      350 |      0 |
+| Kumbakonam | MsmCinemasRgbLaserPremierTowers | 22:00 | BalconyAC  |  120₹ |      118 |      0 |
+| Kumbakonam | MsmCinemasRgbLaserPremierTowers | 22:00 | FirstClass |  100₹ |      350 |      0 |
