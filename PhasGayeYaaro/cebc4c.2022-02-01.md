@@ -1,0 +1,10 @@
+| City      | Name                             | Language |  Time | Type      | Price | Capacity | Booked |
+| :-------- | :------------------------------- | :------- | ----: | :-------- | ----: | -------: | -----: |
+| Hyderabad | CinepolisSudhaCinemasRajpalNagar | Hindi    | 12:30 | Executive |  150₹ |      175 |      6 |
+| Hyderabad | CinepolisSudhaCinemasRajpalNagar | Hindi    | 12:30 | Normal    |  150₹ |       92 |      0 |
+| Hyderabad | CinepolisSudhaCinemasRajpalNagar | Hindi    | 15:15 | Executive |  150₹ |      175 |      4 |
+| Hyderabad | CinepolisSudhaCinemasRajpalNagar | Hindi    | 15:15 | Normal    |  150₹ |       92 |      0 |
+| Hyderabad | CinepolisSudhaCinemasRajpalNagar | Hindi    | 19:50 | Normal    |  150₹ |       71 |      1 |
+| Hyderabad | CinepolisSudhaCinemasRajpalNagar | Hindi    | 19:50 | Executive |  150₹ |       93 |     21 |
+| Hyderabad | CinepolisSudhaCinemasRajpalNagar | Hindi    | 22:55 | Normal    |  150₹ |       71 |      0 |
+| Hyderabad | CinepolisSudhaCinemasRajpalNagar | Hindi    | 22:55 | Executive |  150₹ |       93 |     21 |
