@@ -1,0 +1,14 @@
+| City   | Name                     | Language      |  Time | Type    | Price | Capacity | Booked |
+| :----- | :----------------------- | :------------ | ----: | :------ | ----: | -------: | -----: |
+| Pendra | PoojaShreeCineplexPendra | Chhattisgarhi | 12:00 | Diamond |  150₹ |       93 |     78 |
+| Pendra | PoojaShreeCineplexPendra | Chhattisgarhi | 12:00 | Gold    |  120₹ |       60 |     60 |
+| Pendra | PoojaShreeCineplexPendra | Chhattisgarhi | 12:00 | Silver  |  100₹ |       60 |     60 |
+| Pendra | PoojaShreeCineplexPendra | Chhattisgarhi | 15:00 | Diamond |  150₹ |       93 |     78 |
+| Pendra | PoojaShreeCineplexPendra | Chhattisgarhi | 15:00 | Gold    |  120₹ |       60 |     60 |
+| Pendra | PoojaShreeCineplexPendra | Chhattisgarhi | 15:00 | Silver  |  100₹ |       60 |     60 |
+| Pendra | PoojaShreeCineplexPendra | Chhattisgarhi | 18:00 | Diamond |  150₹ |       93 |     78 |
+| Pendra | PoojaShreeCineplexPendra | Chhattisgarhi | 18:00 | Gold    |  120₹ |       60 |     60 |
+| Pendra | PoojaShreeCineplexPendra | Chhattisgarhi | 18:00 | Silver  |  100₹ |       60 |     60 |
+| Pendra | PoojaShreeCineplexPendra | Chhattisgarhi | 21:00 | Diamond |  150₹ |       93 |     78 |
+| Pendra | PoojaShreeCineplexPendra | Chhattisgarhi | 21:00 | Gold    |  120₹ |       60 |     60 |
+| Pendra | PoojaShreeCineplexPendra | Chhattisgarhi | 21:00 | Silver  |  100₹ |       60 |     60 |
