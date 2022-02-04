@@ -1,0 +1,13 @@
+| City     | Name                             | Language |  Time | Type             |  Price | Capacity | Booked |
+| :------- | :------------------------------- | :------- | ----: | :--------------- | -----: | -------: | -----: |
+| Noida    | PvrLogixCityCentreNoida          | English  | 11:35 | Classic          |   190₹ |       60 |      0 |
+| NewDelhi | PvrSelectCityWalkGoldDelhi       | English  | 11:40 | PlatinumSuperior |   800₹ |        8 |      0 |
+| NewDelhi | PvrSelectCityWalkGoldDelhi       | English  | 11:40 | Platinum         |   600₹ |       12 |      0 |
+| DelhiNcr | PvrPromenadeVasantKunj           | English  | 13:30 | Classic          |   440₹ |       50 |     25 |
+| DelhiNcr | PvrPromenadeVasantKunj           | English  | 13:30 | Prime            |   470₹ |       44 |     22 |
+| NewDelhi | PvrPacificSubhashNagarDelhi      | English  | 13:35 | Prime            |   480₹ |       52 |      0 |
+| NewDelhi | PvrPacificSubhashNagarDelhi      | English  | 13:35 | PrimePlus        |   480₹ |       18 |      2 |
+| NewDelhi | PvrDirectorsCutDelhiAmbienceMall | English  | 18:55 | Platinum         | 1,000₹ |        9 |      4 |
+| NewDelhi | PvrDirectorsCutDelhiAmbienceMall | English  | 18:55 | PlatinumSuperior | 1,200₹ |        3 |      3 |
+| Gurgaon  | PvrAmbienceGoldGurgaon           | English  | 19:15 | PlatinumSuperior | 1,000₹ |        8 |      0 |
+| Gurgaon  | PvrAmbienceGoldGurgaon           | English  | 19:15 | Platinum         |   800₹ |       14 |      0 |
