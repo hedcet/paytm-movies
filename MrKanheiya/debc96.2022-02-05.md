@@ -1,0 +1,9 @@
+| City        | Name                         | Language |  Time | Type      | Price | Capacity | Booked |
+| :---------- | :--------------------------- | :------- | ----: | :-------- | ----: | -------: | -----: |
+| JajpurRoad  | SaraswatiMultiplexJajpurRoad | Odia     | 12:00 | Vip       |  130₹ |      128 |     88 |
+| JajpurRoad  | SaraswatiMultiplexJajpurRoad | Odia     | 12:00 | Diamond   |  100₹ |       78 |     55 |
+| JajpurRoad  | SaraswatiMultiplexJajpurRoad | Odia     | 14:45 | Vip       |  130₹ |      128 |     88 |
+| JajpurRoad  | SaraswatiMultiplexJajpurRoad | Odia     | 14:45 | Diamond   |  100₹ |       78 |     55 |
+| Bhubaneswar | InoxDnRegaliaMallPatrapada   | Odia     | 17:30 | Club      |  150₹ |       23 |      0 |
+| Bhubaneswar | InoxDnRegaliaMallPatrapada   | Odia     | 17:30 | Executive |  150₹ |       10 |      0 |
+| Bhubaneswar | InoxDnRegaliaMallPatrapada   | Odia     | 17:30 | Royal     |  150₹ |       20 |      0 |
