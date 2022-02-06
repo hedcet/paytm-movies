@@ -1,0 +1,12 @@
+| City     | Name                        | Language |  Time | Type      | Price | Capacity | Booked |
+| :------- | :-------------------------- | :------- | ----: | :-------- | ----: | -------: | -----: |
+| NewDelhi | PvrVegasDwarka              | English  | 11:00 | Prime     |  420₹ |        7 |      0 |
+| NewDelhi | PvrVegasDwarka              | English  | 11:00 | Classic   |  325₹ |       60 |      0 |
+| Noida    | PvrLogixCityCentreNoida     | English  | 11:35 | Classic   |  300₹ |       60 |      2 |
+| DelhiNcr | PvrPromenadeVasantKunj      | English  | 13:30 | Classic   |  440₹ |       50 |     27 |
+| DelhiNcr | PvrPromenadeVasantKunj      | English  | 13:30 | Prime     |  470₹ |       44 |     24 |
+| NewDelhi | PvrPacificSubhashNagarDelhi | English  | 13:35 | Prime     |  480₹ |       52 |      2 |
+| NewDelhi | PvrPacificSubhashNagarDelhi | English  | 13:35 | PrimePlus |  480₹ |       18 |      4 |
+| Guwahati | PvrCityCentreGuwahati       | English  | 18:05 | Classic   |  210₹ |       40 |     20 |
+| Guwahati | PvrCityCentreGuwahati       | English  | 18:05 | Prime     |  240₹ |       82 |     43 |
+| Guwahati | PvrCityCentreGuwahati       | English  | 18:05 | PrimePlus |  280₹ |       13 |      7 |
