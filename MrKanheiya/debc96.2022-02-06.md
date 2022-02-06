@@ -1,0 +1,17 @@
+| City       | Name                         | Language |  Time | Type          | Price | Capacity | Booked |
+| :--------- | :--------------------------- | :------- | ----: | :------------ | ----: | -------: | -----: |
+| Athagarh   | GaneshTalkiesAthagarh        | Odia     | 12:00 | Gold          |  100₹ |      100 |      0 |
+| JajpurRoad | SaraswatiMultiplexJajpurRoad | Odia     | 12:00 | Vip           |  130₹ |      128 |     88 |
+| JajpurRoad | SaraswatiMultiplexJajpurRoad | Odia     | 12:00 | Diamond       |  100₹ |       78 |     55 |
+| Cuttack    | InoxSgblSquareMallCuttack    | Odia     | 13:55 | Club          |  140₹ |       44 |      0 |
+| Cuttack    | InoxSgblSquareMallCuttack    | Odia     | 13:55 | Executive     |  112₹ |       14 |      0 |
+| Cuttack    | InoxSgblSquareMallCuttack    | Odia     | 13:55 | RoyalRecliner |  190₹ |        4 |      0 |
+| Cuttack    | InoxSgblSquareMallCuttack    | Odia     | 13:55 | Royal         |  140₹ |       31 |      0 |
+| JajpurRoad | SaraswatiMultiplexJajpurRoad | Odia     | 14:45 | Vip           |  130₹ |      128 |     88 |
+| JajpurRoad | SaraswatiMultiplexJajpurRoad | Odia     | 14:45 | Diamond       |  100₹ |       78 |     55 |
+| Athagarh   | GaneshTalkiesAthagarh        | Odia     | 15:00 | Gold          |  100₹ |      100 |      0 |
+| Cuttack    | InoxSgblSquareMallCuttack    | Odia     | 17:00 | Club          |  140₹ |       44 |      0 |
+| Cuttack    | InoxSgblSquareMallCuttack    | Odia     | 17:00 | Executive     |  112₹ |       14 |      0 |
+| Cuttack    | InoxSgblSquareMallCuttack    | Odia     | 17:00 | RoyalRecliner |  190₹ |        4 |      0 |
+| Cuttack    | InoxSgblSquareMallCuttack    | Odia     | 17:00 | Royal         |  140₹ |       31 |      0 |
+| Athagarh   | GaneshTalkiesAthagarh        | Odia     | 18:00 | Gold          |  100₹ |      100 |      0 |
