@@ -1,0 +1,16 @@
+| City        | Name                         | Language |  Time | Type          | Price | Capacity | Booked |
+| :---------- | :--------------------------- | :------- | ----: | :------------ | ----: | -------: | -----: |
+| Athagarh    | GaneshTalkiesAthagarh        | Odia     | 12:00 | Gold          |  100₹ |      100 |      0 |
+| JajpurRoad  | SaraswatiMultiplexJajpurRoad | Odia     | 12:00 | Vip           |  130₹ |      128 |     88 |
+| JajpurRoad  | SaraswatiMultiplexJajpurRoad | Odia     | 12:00 | Diamond       |  100₹ |       78 |     55 |
+| JajpurRoad  | SaraswatiMultiplexJajpurRoad | Odia     | 14:45 | Vip           |  130₹ |      128 |     88 |
+| JajpurRoad  | SaraswatiMultiplexJajpurRoad | Odia     | 14:45 | Diamond       |  100₹ |       78 |     55 |
+| Athagarh    | GaneshTalkiesAthagarh        | Odia     | 15:00 | Gold          |  100₹ |      100 |      0 |
+| Cuttack     | InoxSgblSquareMallCuttack    | Odia     | 17:00 | Club          |  112₹ |       44 |      0 |
+| Cuttack     | InoxSgblSquareMallCuttack    | Odia     | 17:00 | Executive     |  112₹ |       14 |      0 |
+| Cuttack     | InoxSgblSquareMallCuttack    | Odia     | 17:00 | RoyalRecliner |  190₹ |        4 |      0 |
+| Cuttack     | InoxSgblSquareMallCuttack    | Odia     | 17:00 | Royal         |  112₹ |       31 |      0 |
+| Bhubaneswar | InoxDnRegaliaMallPatrapada   | Odia     | 17:30 | Club          |  130₹ |       25 |      0 |
+| Bhubaneswar | InoxDnRegaliaMallPatrapada   | Odia     | 17:30 | Executive     |  130₹ |       10 |      0 |
+| Bhubaneswar | InoxDnRegaliaMallPatrapada   | Odia     | 17:30 | Royal         |  130₹ |       18 |      0 |
+| Athagarh    | GaneshTalkiesAthagarh        | Odia     | 18:00 | Gold          |  100₹ |      100 |      0 |
