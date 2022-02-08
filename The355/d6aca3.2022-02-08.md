@@ -1,0 +1,14 @@
+| City     | Name                             | Language |  Time | Type             | Price | Capacity | Booked |
+| :------- | :------------------------------- | :------- | ----: | :--------------- | ----: | -------: | -----: |
+| NewDelhi | PvrVegasDwarka                   | English  | 11:15 | Prime            |  295₹ |        7 |      0 |
+| NewDelhi | PvrVegasDwarka                   | English  | 11:15 | Classic          |  240₹ |       60 |      0 |
+| Noida    | PvrLogixCityCentreNoida          | English  | 11:35 | Classic          |  165₹ |       60 |      2 |
+| NewDelhi | PvrPacificSubhashNagarDelhi      | English  | 14:15 | Prime            |  350₹ |       52 |      0 |
+| NewDelhi | PvrPacificSubhashNagarDelhi      | English  | 14:15 | PrimePlus        |  350₹ |       18 |      0 |
+| DelhiNcr | PvrPromenadeVasantKunj           | English  | 14:15 | Classic          |  360₹ |       50 |     25 |
+| DelhiNcr | PvrPromenadeVasantKunj           | English  | 14:15 | Prime            |  390₹ |       44 |     24 |
+| Guwahati | PvrCityCentreGuwahati            | English  | 18:05 | Classic          |  180₹ |       40 |     20 |
+| Guwahati | PvrCityCentreGuwahati            | English  | 18:05 | Prime            |  200₹ |       82 |     41 |
+| Guwahati | PvrCityCentreGuwahati            | English  | 18:05 | PrimePlus        |  220₹ |       13 |      9 |
+| NewDelhi | PvrDirectorsCutDelhiAmbienceMall | English  | 19:45 | Platinum         |  600₹ |        9 |      4 |
+| NewDelhi | PvrDirectorsCutDelhiAmbienceMall | English  | 19:45 | PlatinumSuperior |  600₹ |        3 |      3 |
