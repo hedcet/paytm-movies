@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+ShriGanganagar,PvrRidhiSidhiMall,Punjabi,11:05,Classic,110₹,20,0
+ShriGanganagar,PvrRidhiSidhiMall,Punjabi,11:05,Prime,110₹,54,0
+Mohali,PvrVrPunjabMallMohali,Punjabi,16:45,Classic,190₹,79,3
+Mohali,PvrVrPunjabMallMohali,Punjabi,16:45,Prime,220₹,42,0
