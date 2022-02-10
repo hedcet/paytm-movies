@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Chennai,SangamCinemas4KRgbLaserDolbyAtmosKilpauk,Tamil,11:30,Executive,160₹,142,30
+Chennai,SangamCinemas4KRgbLaserDolbyAtmosKilpauk,Tamil,11:30,Corporate,111₹,90,0
+Chennai,SangamCinemas4KRgbLaserDolbyAtmosKilpauk,Tamil,11:30,Budget,60₹,54,54
+Coimbatore,InoxProzoneMallSathyRoad,Tamil,12:35,Club,152₹,72,0
+Coimbatore,InoxProzoneMallSathyRoad,Tamil,12:35,Executive,60₹,11,0
+Chennai,SangamCinemas4KRgbLaserDolbyAtmosKilpauk,Tamil,15:10,Executive,160₹,142,16
+Chennai,SangamCinemas4KRgbLaserDolbyAtmosKilpauk,Tamil,15:10,Corporate,111₹,90,0
+Chennai,SangamCinemas4KRgbLaserDolbyAtmosKilpauk,Tamil,15:10,Budget,60₹,54,54
+Coimbatore,InoxProzoneMallSathyRoad,Tamil,15:55,Club,152₹,79,0
+Coimbatore,InoxProzoneMallSathyRoad,Tamil,15:55,Executive,60₹,11,0
+Coimbatore,InoxProzoneMallSathyRoad,Tamil,19:15,Club,152₹,77,0
+Coimbatore,InoxProzoneMallSathyRoad,Tamil,19:15,Executive,60₹,11,0
