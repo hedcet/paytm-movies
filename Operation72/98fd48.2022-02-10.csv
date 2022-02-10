@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Kannada,11:35,Recliner,180₹,14,0
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Kannada,11:35,Classic,100₹,179,12
+Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,11:45,Normal,110₹,9,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,11:45,Executive,110₹,78,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,11:45,Premium,110₹,49,0
