@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Jorhat,InoxAbsMallJorhat,Assamese,15:00,Club,210₹,34,0
+Jorhat,InoxAbsMallJorhat,Assamese,15:00,Executive,150₹,16,0
+Jorhat,InoxAbsMallJorhat,Assamese,15:00,Gold,350₹,6,0
+Jorhat,InoxAbsMallJorhat,Assamese,15:00,Premier,100₹,16,0
+Guwahati,PvrCityCentreGuwahati,Assamese,15:10,Classic,180₹,40,20
+Guwahati,PvrCityCentreGuwahati,Assamese,15:10,Prime,200₹,82,42
+Guwahati,PvrCityCentreGuwahati,Assamese,15:10,PrimePlus,220₹,13,9
