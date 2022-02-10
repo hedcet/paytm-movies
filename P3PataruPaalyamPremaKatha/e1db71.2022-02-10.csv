@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Nellore,SiriMultiplex,Telugu,12:00,GoldClass,100₹,55,28
+Nellore,SiriMultiplex,Telugu,12:00,SilverClass,60₹,10,5
+Kurnool,VMegaAnandCineComplexKurnool,Telugu,12:20,Gold,110₹,190,95
+Kurnool,VMegaAnandCineComplexKurnool,Telugu,12:20,Executive,70₹,48,24
+Hyderabad,PvrNextGalleriaMallPanjagutta,Telugu,13:05,Classic,150₹,145,24
+Hyderabad,PvrInorbitCyberabad,Telugu,13:35,Classic,150₹,147,147
+Nellore,SiriMultiplex,Telugu,15:00,GoldClass,100₹,55,34
+Nellore,SiriMultiplex,Telugu,15:00,SilverClass,60₹,10,5
+Kurnool,VMegaAnandCineComplexKurnool,Telugu,15:05,Gold,110₹,190,95
+Kurnool,VMegaAnandCineComplexKurnool,Telugu,15:05,Executive,70₹,48,26
+Kurnool,VMegaAnandCineComplexKurnool,Telugu,19:15,Platinum,110₹,13,13
+Kurnool,VMegaAnandCineComplexKurnool,Telugu,19:15,Gold,110₹,190,95
+Kurnool,VMegaAnandCineComplexKurnool,Telugu,19:15,Executive,70₹,48,24
+Hyderabad,PvrKukatpally,Telugu,22:40,Classic,150₹,135,135
+Hyderabad,PvrKukatpally,Telugu,22:40,Recliner,250₹,9,9
