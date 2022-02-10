@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Karkala,PlanetTheatreMarketRoad,Tulu,16:00,FirstClass,100₹,98,70
+Moodabidri,AmarshreeTheatreVijayaNagar,Tulu,16:00,Balcony,100₹,192,152
+Moodabidri,AmarshreeTheatreVijayaNagar,Tulu,16:00,SecondClass,90₹,368,368
+Mangalore,PvrForumFizaMallPandeshwar,Tulu,18:15,Classic,112₹,71,0
+Moodabidri,AmarshreeTheatreVijayaNagar,Tulu,21:15,Balcony,100₹,192,152
+Moodabidri,AmarshreeTheatreVijayaNagar,Tulu,21:15,SecondClass,90₹,368,368
