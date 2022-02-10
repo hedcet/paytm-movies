@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,SurendraTheatre,Punjabi,19:00,DressCircle,110₹,24,0
+Kolkata,SurendraTheatre,Punjabi,19:00,Balcony,50₹,46,0
+Kolkata,LaliCinemaBarasat,Punjabi,19:15,DressCircle,100₹,22,16
+Kolkata,LaliCinemaBarasat,Punjabi,19:15,Balcony,70₹,169,142
+Kolkata,LaliCinemaBarasat,Punjabi,19:15,RearStall,50₹,270,216
