@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,PvrNextGalleriaMallPanjagutta,Kannada,15:50,Classic,150₹,145,50
+Hyderabad,CinepolisMantraMallUpparpally,Kannada,19:15,Normal,150₹,141,0
+Hyderabad,CinepolisMantraMallUpparpally,Kannada,19:15,Vip,250₹,10,0
+Hyderabad,PvrKukatpally,Kannada,19:40,Classic,150₹,135,16
+Hyderabad,PvrKukatpally,Kannada,19:40,Recliner,250₹,9,4
+Hyderabad,CinepolisMantraMallUpparpally,Kannada,22:35,Normal,150₹,207,0
+Hyderabad,CinepolisMantraMallUpparpally,Kannada,22:35,Vip,250₹,10,2
