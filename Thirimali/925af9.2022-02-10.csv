@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kochi,SaritaCinemasKacheripady,Malayalam,12:00,BlueCircle,150₹,227,218
+Kochi,SaritaCinemasKacheripady,Malayalam,15:00,BlueCircle,150₹,227,218
+Kochi,PvrLuluKochi,Malayalam,22:20,Classic,110₹,39,19
+Kochi,PvrLuluKochi,Malayalam,22:20,ClassicPlus,140₹,91,50
+Kochi,PvrLuluKochi,Malayalam,22:20,Prime,160₹,68,45
+Kochi,PvrLuluKochi,Malayalam,22:20,Recliner,290₹,10,10
