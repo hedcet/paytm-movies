@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,13:20,Club,190₹,74,0
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,13:20,Executive,130₹,13,0
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,13:20,RoyalRecliner,350₹,5,0
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,13:20,Royal,190₹,3,0
+Kochi,PvrLuluKochi,Malayalam,15:55,Classic,140₹,39,20
+Kochi,PvrLuluKochi,Malayalam,15:55,ClassicPlus,160₹,91,59
+Kochi,PvrLuluKochi,Malayalam,15:55,Prime,190₹,68,42
+Kochi,PvrLuluKochi,Malayalam,15:55,Recliner,350₹,10,10
+Kochi,PvrOberonMallErnakulam,Malayalam,19:10,Classic,140₹,36,18
+Kochi,PvrOberonMallErnakulam,Malayalam,19:10,ClassicPlus,170₹,81,61
