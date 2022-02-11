@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Surat,TimeCinemaSuratGalaxyCircle,Hindi,10:00,Infinity250,250₹,22,0
+Ahmedabad,RevolutionMultiplexCtm,Hindi,13:20,PlatinumClass,180₹,100,0
+Ahmedabad,RevolutionMultiplexCtm,Hindi,13:20,GoldenClass,160₹,100,0
+Ahmedabad,RevolutionMultiplexCtm,Hindi,13:20,SilverClass,140₹,100,0
+Surat,TimeCinemaSuratGalaxyCircle,Hindi,15:45,Standard170,170₹,96,0
+Ahmedabad,RevolutionMultiplexCtm,Hindi,15:55,PlatinumClass,180₹,100,0
+Ahmedabad,RevolutionMultiplexCtm,Hindi,15:55,GoldenClass,160₹,100,0
+Ahmedabad,RevolutionMultiplexCtm,Hindi,15:55,SilverClass,140₹,100,0
+Ahmedabad,TimeCinemaCgRoad,Hindi,16:15,Infinity1000,"1,000₹",12,0
+Ahmedabad,TimeCinemaCgRoad,Hindi,19:15,Standard280,280₹,108,8
+Surat,TimeCinemaSuratGalaxyCircle,Hindi,19:30,Standard190,190₹,96,0
+Kodoli,VasantChitraMandirVasanthiComplex,Hindi,21:30,Class,70₹,260,200
