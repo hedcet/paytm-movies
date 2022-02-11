@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrMilapKandivaliW,Gujarati,16:10,Classic,150₹,52,0
+Mumbai,PvrMilapKandivaliW,Gujarati,16:10,Prime,150₹,28,15
+Bhavnagar,Top3MultiplexBhavnagar,Gujarati,16:15,Gold,70₹,100,0
+Bhavnagar,Top3MultiplexBhavnagar,Gujarati,16:15,Silver,70₹,100,0
