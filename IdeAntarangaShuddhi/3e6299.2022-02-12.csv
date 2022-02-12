@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Indi,SriSangameshwarTheater,Kannada,12:00,DressCircle,81₹,250,150
+Bengaluru,PvrVegaBannerghattaRoad,Kannada,12:35,Classic,220₹,86,0
+Bengaluru,PvrVegaBannerghattaRoad,Kannada,12:35,Recliner,380₹,9,0
+Mysuru,InoxMallOfMysoreMgRoad,Kannada,12:45,Club,140₹,196,0
+Indi,SriSangameshwarTheater,Kannada,15:00,DressCircle,81₹,250,150
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,15:15,Classic,210₹,128,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,15:15,Prime,230₹,98,5
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,15:15,Recliner,340₹,14,0
+Bengaluru,InoxMantriSquareMalleshwaram,Kannada,15:50,Club,230₹,200,0
+Mysuru,PvrGarudaMallAlbertVictorRoad,Kannada,15:50,Classic,150₹,119,0
+Mangalore,PvrForumFizaMallPandeshwar,Kannada,18:35,Classic,150₹,79,0
+Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,Kannada,18:40,Classic,230₹,114,2
+Indi,SriSangameshwarTheater,Kannada,21:00,DressCircle,81₹,250,150
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,21:40,Classic,210₹,85,0
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,21:40,Prime,230₹,29,0
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,21:40,Recliner,340₹,9,0
