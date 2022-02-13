@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mysuru,PvrGarudaMallAlbertVictorRoad,Kannada,12:55,Classic,150₹,119,0
+Davanagere,Pushpanjali2KDolbyTheatreDavanagere,Kannada,18:00,Balcony,150₹,338,279
+Davanagere,Pushpanjali2KDolbyTheatreDavanagere,Kannada,21:00,Balcony,150₹,338,279
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,21:30,Classic,180₹,128,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,21:30,Prime,220₹,98,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,21:30,Recliner,320₹,14,0
+Mangalore,PvrForumFizaMallPandeshwar,Kannada,21:35,Classic,150₹,79,0
