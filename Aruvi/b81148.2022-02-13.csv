@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Malda,TpmcOms,Tamil,11:30,Corporate,200₹,156,26
+Malda,TpmcOms,Tamil,11:30,DriveInCircle,150₹,600,0
+Malda,TpmcOms,Tamil,18:30,Corporate,200₹,156,26
+Malda,TpmcOms,Tamil,18:30,DriveInCircle,150₹,600,0
+Malda,TpmcOms,Tamil,18:30,Executive,1₹,222,143
+Malda,TpmcOms,Tamil,18:30,Corporate,1₹,538,100
+Malda,TpmcOms,Tamil,22:00,Corporate,200₹,156,26
+Malda,TpmcOms,Tamil,22:00,DriveInCircle,150₹,600,0
