@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,10:30,Recliner,350₹,7,0
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,10:30,Prime,250₹,34,5
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,10:30,Classic,140₹,20,2
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,10:30,Lounger,160₹,5,0
+Chandigarh,PvrElanteMallChandigarh,English,12:35,Classic,212₹,123,4
+Chandigarh,PvrElanteMallChandigarh,English,12:35,Recliner,599₹,13,1
+Noida,PvrLogixCityCentreNoida,English,13:10,Classic,345₹,88,14
+Mumbai,InoxMegaplexInorbitMall,English,14:00,Club,320₹,8,0
+Mumbai,InoxMegaplexInorbitMall,English,14:00,Royal,320₹,25,0
+Ahmedabad,TimeCinemaCgRoad,English,14:00,Infinity1000,"1,000₹",12,0
+Mumbai,PvrMarketCity4DxKurlaW,English,14:10,4DxPrime,350₹,42,5
+Mumbai,PvrMarketCity4DxKurlaW,English,14:10,4DxClassic,300₹,30,2
