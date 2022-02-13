@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Chandigarh,PvrElanteMallChandigarh,Hindi,10:20,Classic,165₹,120,7
+Chandigarh,PvrElanteMallChandigarh,Hindi,10:20,Recliner,414₹,26,2
+Surat,PvrRahulRajMallDumasRoad,Hindi,15:30,Recliner,420₹,24,0
+Surat,PvrRahulRajMallDumasRoad,Hindi,15:30,Prime,230₹,87,29
+Surat,PvrRahulRajMallDumasRoad,Hindi,15:30,ClassicPlus,210₹,30,0
+Surat,PvrRahulRajMallDumasRoad,Hindi,15:30,Classic,190₹,30,0
