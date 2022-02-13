@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Payyanur,AradhanaArchanaMovieHousePayyanur,Malayalam,10:30,Balcony,110₹,144,72
+Thalassery,LibertyParadiseComplexThalassery,Malayalam,11:30,Mini,125₹,250,194
+Mukkam,RoseCinePalaceMukkam,Malayalam,11:45,Executive,112₹,161,84
+Mukkam,RoseCinePalaceMukkam,Malayalam,14:45,Executive,112₹,161,84
+Manjeri,LadderCinemasIndianMall,Malayalam,15:00,Executive,150₹,74,36
+Mukkam,RoseCinePalaceMukkam,Malayalam,17:45,Executive,112₹,161,84
+Manjeri,LadderCinemasIndianMall,Malayalam,18:00,Executive,150₹,74,36
+Thalassery,CarnivalDowntownThalassery,Malayalam,19:00,ExecutiveOffline,160₹,135,92
+Thalassery,CarnivalDowntownThalassery,Malayalam,19:00,GoldOffline,250₹,8,4
+Mukkam,RoseCinePalaceMukkam,Malayalam,21:00,Executive,112₹,161,84
+Manjeri,LadderCinemasIndianMall,Malayalam,21:00,Executive,150₹,74,36
+Thalassery,LibertyParadiseComplexThalassery,Malayalam,21:15,Mini,125₹,250,201
