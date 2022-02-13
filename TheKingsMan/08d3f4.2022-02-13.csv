@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,InoxRCityGhatkoparW,English,13:20,Insignia,500₹,13,0
+Chandigarh,PvrElanteMallChandigarh,English,15:20,Classic,212₹,120,12
+Chandigarh,PvrElanteMallChandigarh,English,15:20,Recliner,599₹,26,14
+Mumbai,PvrIconLuxeInfinitiAndheriWMumbai,English,17:35,Luxe,400₹,51,27
+Mumbai,PvrIconLuxeInfinitiAndheriWMumbai,English,17:35,DboxLuxe,500₹,33,18
+Noida,PvrLogixCityCentreNoida,English,18:30,Classic,350₹,89,4
+Gurgaon,PvrAmbienceGoldGurgaon,English,19:20,Platinum,"1,000₹",14,5
+Gurgaon,PvrAmbienceGoldGurgaon,English,19:20,PlatinumSuperior,"1,200₹",8,4
+Chennai,SpiEscapeCinemasRoyapettah,English,19:30,Elite,211₹,50,33
+Chennai,SpiEscapeCinemasRoyapettah,English,19:30,Budget,66₹,5,5
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:40,Recliner,750₹,7,4
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:40,Prime,400₹,34,4
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:40,Classic,290₹,20,0
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:40,Lounger,320₹,5,3
+Mumbai,InoxMegaplexInorbitMall,English,21:45,Insignia,750₹,8,0
