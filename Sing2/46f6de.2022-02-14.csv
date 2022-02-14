@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NewDelhi,PvrVegasPlayHouseDwarka,English,15:00,3DRecliner,430₹,4,0
+NewDelhi,PvrVegasPlayHouseDwarka,English,15:00,3DPrime,430₹,10,0
+NewDelhi,PvrVegasPlayHouseDwarka,English,15:00,3DClassic,385₹,18,0
+Gurgaon,PvrAmbienceGurgaon,English,17:00,3DClassic,300₹,45,0
+Gurgaon,PvrAmbienceGurgaon,English,17:00,3DPrime,350₹,36,8
+NewDelhi,PvrVegasPlayHouseDwarka,English,17:30,3DRecliner,430₹,4,2
+NewDelhi,PvrVegasPlayHouseDwarka,English,17:30,3DPrime,430₹,10,0
+NewDelhi,PvrVegasPlayHouseDwarka,English,17:30,3DClassic,385₹,18,0
