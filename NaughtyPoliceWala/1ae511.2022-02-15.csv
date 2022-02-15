@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,SapnaCinema35MmAbids,Hindi,21:00,Balcony,100₹,324,270
+Hyderabad,SapnaCinema35MmAbids,Hindi,21:00,Silver,70₹,228,164
+Hyderabad,SapnaCinema35MmAbids,Hindi,21:00,Bronze,50₹,144,144
