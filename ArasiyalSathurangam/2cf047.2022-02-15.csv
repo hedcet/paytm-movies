@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Tuticorin,NewCleopatraTheatreSouthCottonRoad,Tamil,11:30,Box,100₹,32,32
+Tuticorin,NewCleopatraTheatreSouthCottonRoad,Tamil,11:30,BalconyAC,100₹,100,7
+Tuticorin,NewCleopatraTheatreSouthCottonRoad,Tamil,11:30,FirstClassAC,100₹,569,29
+Tuticorin,NewCleopatraTheatreSouthCottonRoad,Tamil,18:30,Box,100₹,32,32
+Tuticorin,NewCleopatraTheatreSouthCottonRoad,Tamil,18:30,BalconyAC,100₹,100,7
+Tuticorin,NewCleopatraTheatreSouthCottonRoad,Tamil,18:30,FirstClassAC,100₹,569,29
