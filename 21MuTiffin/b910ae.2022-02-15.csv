@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Veraval,SachiMultiplex,Gujarati,13:00,Captain,100₹,68,0
+Veraval,SachiMultiplex,Gujarati,13:00,Crew,100₹,60,0
+Mumbai,PvrMilapKandivaliW,Gujarati,19:45,Classic,130₹,52,7
+Mumbai,PvrMilapKandivaliW,Gujarati,19:45,Prime,130₹,28,9
