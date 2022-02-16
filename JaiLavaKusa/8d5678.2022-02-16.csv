@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Nellore,MythiliTheatre,Telugu,14:30,FirstClass,100₹,168,84
+Nellore,MythiliTheatre,Telugu,14:30,SecondClass,80₹,81,40
+Nellore,MythiliTheatre,Telugu,18:30,FirstClass,100₹,168,84
+Nellore,MythiliTheatre,Telugu,18:30,SecondClass,80₹,81,40
