@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Indi,SriSangameshwarTheater,Kannada,12:00,DressCircle,81₹,250,150
+Bengaluru,PvrVegaBannerghattaRoad,Kannada,12:35,Classic,150₹,86,0
+Bengaluru,PvrVegaBannerghattaRoad,Kannada,12:35,Recliner,260₹,9,0
+Bengaluru,InoxMantriSquareMalleshwaram,Kannada,12:50,Club,130₹,225,19
+Indi,SriSangameshwarTheater,Kannada,15:00,DressCircle,81₹,250,150
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,15:15,Classic,150₹,128,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,15:15,Prime,170₹,98,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,15:15,Recliner,260₹,14,0
+Kalaburagi,MirajCinemasShraddhaMallMadoopura,Kannada,15:30,Special,160₹,80,0
+Kalaburagi,MirajCinemasShraddhaMallMadoopura,Kannada,15:30,Executive,180₹,192,0
+Kalaburagi,MirajCinemasShraddhaMallMadoopura,Kannada,15:30,Gold,350₹,10,0
+Mangalore,PvrForumFizaMallPandeshwar,Kannada,18:35,Classic,112₹,71,1
+Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,Kannada,18:40,Classic,190₹,114,0
+Indi,SriSangameshwarTheater,Kannada,21:00,DressCircle,81₹,250,150
