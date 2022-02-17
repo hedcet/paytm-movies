@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Chandigarh,PvrElanteMallChandigarh,English,12:35,Classic,165₹,138,0
+Chandigarh,PvrElanteMallChandigarh,English,12:35,Recliner,507₹,11,0
+Ahmedabad,TimeCinemaCgRoad,English,13:00,Standard190,190₹,108,8
+Noida,PvrLogixCityCentreNoida,English,13:10,Classic,215₹,89,7
+Mumbai,InoxMegaplexInorbitMall,English,14:00,Club,280₹,8,0
+Mumbai,InoxMegaplexInorbitMall,English,14:00,Royal,280₹,30,0
+Mumbai,PvrMarketCity4DxKurlaW,English,14:10,4DxPrime,230₹,42,0
+Mumbai,PvrMarketCity4DxKurlaW,English,14:10,4DxClassic,180₹,30,0
+Ahmedabad,TimeCinemaCgRoad,English,18:15,Standard240,240₹,108,8
+Ahmedabad,TimeCinemaCgRoad,English,20:30,Standard260,260₹,108,8
