@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kurnool,BharathComplexKurnool,Telugu,12:00,FirstClass,70₹,206,110
+Kurnool,BharathComplexKurnool,Telugu,12:00,SecondClass,50₹,68,34
+Kurnool,BharathComplexKurnool,Telugu,15:00,FirstClass,70₹,206,110
+Kurnool,BharathComplexKurnool,Telugu,15:00,SecondClass,50₹,68,34
+Kurnool,BharathComplexKurnool,Telugu,18:30,FirstClass,70₹,206,110
+Kurnool,BharathComplexKurnool,Telugu,18:30,SecondClass,50₹,68,34
+Kurnool,BharathComplexKurnool,Telugu,21:30,FirstClass,70₹,206,110
+Kurnool,BharathComplexKurnool,Telugu,21:30,SecondClass,50₹,68,34
