@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mukkam,RoseCinePalaceMukkam,Malayalam,11:45,Executive,112₹,161,84
+Mukkam,RoseCinePalaceMukkam,Malayalam,14:45,Executive,112₹,161,84
+Manjeri,LadderCinemasIndianMall,Malayalam,15:00,Executive,150₹,74,36
+Thalassery,CarnivalDowntownThalassery,Malayalam,16:15,ExecutiveOffline,140₹,131,82
+Mukkam,RoseCinePalaceMukkam,Malayalam,17:45,Executive,112₹,161,84
+Manjeri,LadderCinemasIndianMall,Malayalam,18:00,Executive,150₹,74,36
+Thalassery,CarnivalDowntownThalassery,Malayalam,19:30,ExecutiveOffline,140₹,135,118
+Thalassery,CarnivalDowntownThalassery,Malayalam,19:30,GoldOffline,200₹,8,4
+Mukkam,RoseCinePalaceMukkam,Malayalam,21:00,Executive,112₹,161,84
+Manjeri,LadderCinemasIndianMall,Malayalam,21:00,Executive,150₹,74,36
