@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Kannada,12:15,Classic,112₹,221,3
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Kannada,12:15,Recliner,230₹,4,0
+Mangalore,PvrForumFizaMallPandeshwar,Kannada,12:35,Classic,112₹,79,0
+Bengaluru,PvrVegaBannerghattaRoad,Kannada,15:35,Classic,150₹,86,0
+Bengaluru,PvrVegaBannerghattaRoad,Kannada,15:35,Recliner,260₹,9,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,18:30,Classic,170₹,140,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,18:30,Prime,190₹,112,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,18:30,Recliner,280₹,25,0
+Mysuru,PvrForumCentreCityMallMysuru,Kannada,19:10,Classic,150₹,143,0
