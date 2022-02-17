@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PaytmImaxInoxRCityGhatkoparW,English,13:20,Insignia,330₹,20,0
+Chandigarh,PvrElanteMallChandigarh,English,15:20,Classic,165₹,160,2
+Chandigarh,PvrElanteMallChandigarh,English,15:20,Recliner,507₹,26,1
+Mumbai,PvrIconLuxeInfinitiAndheriWMumbai,English,17:35,Luxe,500₹,51,25
+Mumbai,PvrIconLuxeInfinitiAndheriWMumbai,English,17:35,DboxLuxe,600₹,33,21
+Noida,PvrLogixCityCentreNoida,English,18:30,Classic,260₹,78,4
+Gurgaon,PvrAmbienceGoldGurgaon,English,19:20,Platinum,600₹,28,0
+Gurgaon,PvrAmbienceGoldGurgaon,English,19:20,PlatinumSuperior,600₹,16,2
