@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,13:20,Normal,60₹,17,0
+Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,13:20,Executive,152₹,152,4
+Chennai,InoxChandraMetroMallVirugambakkam,Tamil,15:25,Premiere,60₹,15,0
+Chennai,InoxChandraMetroMallVirugambakkam,Tamil,15:25,Silver,152₹,120,0
+Chennai,SpiEscapeCinemasRoyapettah,Tamil,15:40,Budget,60₹,12,12
+Chennai,SpiEscapeCinemasRoyapettah,Tamil,15:40,Elite,190₹,108,16
+Chennai,InoxChennaiCitiCentreDrRKSalai,Tamil,15:40,Club,152₹,129,0
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,Tamil,15:45,Budget,60₹,28,20
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,Tamil,15:45,Elite,190₹,170,11
+Coimbatore,InoxProzoneMallSathyRoad,Tamil,15:45,Club,152₹,126,0
+Coimbatore,InoxProzoneMallSathyRoad,Tamil,15:45,Executive,60₹,17,0
+Chennai,PvrHeritageRslEcrChennai,Tamil,19:15,Classic,60₹,11,11
+Chennai,PvrHeritageRslEcrChennai,Tamil,19:15,Prime,152₹,99,8
+Chennai,InoxTheMarinaMallOmrEgatoor,Tamil,22:40,Club,152₹,121,0
