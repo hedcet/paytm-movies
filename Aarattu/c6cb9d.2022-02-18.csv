@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Surat,TimeCinemaSuratGalaxyCircle,Malayalam,19:30,Standard190,190₹,96,0
+Sangli,AurumCinemasCenter1MallVijaynagarChowk,Malayalam,19:31,Gl,250₹,108,12
+Sangli,AurumCinemasCenter1MallVijaynagarChowk,Malayalam,19:31,Sl,250₹,24,0
+Anand,TimeCinemaAnandTheCityMall,Malayalam,19:45,Standard110,110₹,142,42
+PortBlair,AnandParadiseMultiplex3D4KDolbyAtmos,Malayalam,20:10,Paltinum,500₹,17,13
+PortBlair,AnandParadiseMultiplex3D4KDolbyAtmos,Malayalam,20:10,Gold,260₹,52,47
+PortBlair,AnandParadiseMultiplex3D4KDolbyAtmos,Malayalam,20:10,Silver,165₹,102,46
+PortBlair,AnandParadiseMultiplex3D4KDolbyAtmos,Malayalam,20:10,Bronze,95₹,20,0
