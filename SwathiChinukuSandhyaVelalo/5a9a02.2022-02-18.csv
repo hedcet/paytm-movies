@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Vizag,CinepolisSreekanyaCineglitzMadhurwada,Telugu,12:00,Normal,138₹,36,0
+Vizag,CinepolisSreekanyaCineglitzMadhurwada,Telugu,12:00,Executive,138₹,150,31
+Hyderabad,InoxGsmMallMadinaguda,Telugu,12:05,Executive,200₹,175,0
+Hyderabad,InoxGsmMallMadinaguda,Telugu,12:05,Royal,300₹,8,0
+Vizag,InoxVarunBeachMaharanipet,Telugu,12:10,Excutive,150₹,29,0
+Chodavaram,LakshmiTheatreChodavaram,Telugu,14:30,UpperClass,100₹,378,378
+Chodavaram,LakshmiTheatreChodavaram,Telugu,14:30,MiddleClass,60₹,30,30
+Hyderabad,PvrKukatpally,Telugu,15:45,Classic,150₹,135,39
+Hyderabad,PvrKukatpally,Telugu,15:45,Recliner,250₹,9,5
+Hyderabad,MirajShaliniShivaniCinemasKothapet,Telugu,17:00,Executive,150₹,130,0
+Hyderabad,MirajCinemasBalanagar,Telugu,17:10,Executive,150₹,262,0
+Hyderabad,MirajCinemasBalanagar,Telugu,17:10,Gold,250₹,25,0
+Hyderabad,PvrPanjagutta,Telugu,18:00,Classic,150₹,141,13
+Vizag,InoxChitralayaaMallChitralayaa,Telugu,19:45,Executive,150₹,97,0
+Chodavaram,LakshmiTheatreChodavaram,Telugu,21:30,UpperClass,100₹,378,236
+Chodavaram,LakshmiTheatreChodavaram,Telugu,21:30,MiddleClass,60₹,30,30
