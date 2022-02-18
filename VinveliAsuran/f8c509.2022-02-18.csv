@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Chennai,MRTheatre4KACDtsTambaram,Tamil,12:00,FirstClass,100₹,208,106
+Chennai,MRTheatre4KACDtsTambaram,Tamil,12:00,SecondClass,100₹,242,132
+Chennai,MRTheatre4KACDtsTambaram,Tamil,15:15,FirstClass,100₹,208,106
+Chennai,MRTheatre4KACDtsTambaram,Tamil,15:15,SecondClass,100₹,242,132
+Chennai,MRTheatre4KACDtsTambaram,Tamil,19:00,FirstClass,100₹,208,106
+Chennai,MRTheatre4KACDtsTambaram,Tamil,19:00,SecondClass,100₹,242,132
+Chennai,MRTheatre4KACDtsTambaram,Tamil,22:00,FirstClass,100₹,208,106
+Chennai,MRTheatre4KACDtsTambaram,Tamil,22:00,SecondClass,100₹,242,132
