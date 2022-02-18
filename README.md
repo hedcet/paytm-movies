@@ -1,5 +1,7 @@
-&nbsp;&nbsp;&nbsp;&nbsp;you will get the daily aggregated results in the following social media handles
+you will get the daily aggregated results in the following social media handles
 
-- [Twitter/MalayalamMovie_](https://twitter.com/MalayalamMovie_)
-- [Twitter/TamilMovie_](https://twitter.com/TamilMovie_)
-- [Twitter/TeluguMovie_](https://twitter.com/TeluguMovie_)
+### Twitter/Paytm
+
+- [PaytmML](https://twitter.com/paytmML) (Malayalam Movies)
+- [PaytmTA](https://twitter.com/paytmTA) (Tamil Movies)
+- [PaytmTE](https://twitter.com/paytmTE) (Telugu Movies)
