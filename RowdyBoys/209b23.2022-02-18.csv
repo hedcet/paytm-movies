@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Dowlaiswaram,KumariTheatreTyagarajaNagar,Telugu,11:00,Balcony,110₹,194,145
+Dowlaiswaram,KumariTheatreTyagarajaNagar,Telugu,11:00,FirstClass,100₹,191,149
+Dowlaiswaram,KumariTheatreTyagarajaNagar,Telugu,11:00,SecondClass,65₹,69,69
+Dowlaiswaram,KumariTheatreTyagarajaNagar,Telugu,11:00,ThirdClass,45₹,113,113
+Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,Telugu,11:00,FirstClass,112₹,345,43
+Kurnool,SvcCinemasCitySquareMall,Telugu,13:05,Platinum,200₹,9,0
+Kurnool,SvcCinemasCitySquareMall,Telugu,13:05,Sliders,150₹,77,0
+Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,Telugu,14:30,FirstClass,112₹,345,43
+Dowlaiswaram,KumariTheatreTyagarajaNagar,Telugu,18:15,Balcony,110₹,194,145
+Dowlaiswaram,KumariTheatreTyagarajaNagar,Telugu,18:15,FirstClass,100₹,191,149
+Dowlaiswaram,KumariTheatreTyagarajaNagar,Telugu,18:15,SecondClass,65₹,69,69
+Dowlaiswaram,KumariTheatreTyagarajaNagar,Telugu,18:15,ThirdClass,45₹,113,113
+Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,Telugu,18:15,FirstClass,112₹,345,43
+Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,Telugu,21:30,FirstClass,112₹,345,43
