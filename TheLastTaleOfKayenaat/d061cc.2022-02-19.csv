@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+CoochBehar,BhavaniCinemaKeshavRoad,Hindi,10:15,Special,100₹,260,134
+CoochBehar,BhavaniCinemaKeshavRoad,Hindi,10:15,1stClass,50₹,56,36
+Dakshinbarasat,MahamayaTalkiesDakshinbarasat,Hindi,13:00,Goldclass,100₹,89,77
+Dakshinbarasat,MahamayaTalkiesDakshinbarasat,Hindi,13:00,Silverclass,70₹,312,299
+CoochBehar,BhavaniCinemaKeshavRoad,Hindi,13:00,Special,100₹,260,134
+CoochBehar,BhavaniCinemaKeshavRoad,Hindi,13:00,1stClass,50₹,56,36
+Siliguri,VishalCinemaSevokeRoad,Hindi,13:00,DressCircle,100₹,25,0
+Siliguri,VishalCinemaSevokeRoad,Hindi,13:00,Balcony,70₹,25,0
+Dakshinbarasat,MahamayaTalkiesDakshinbarasat,Hindi,16:00,Goldclass,100₹,89,77
+Dakshinbarasat,MahamayaTalkiesDakshinbarasat,Hindi,16:00,Silverclass,70₹,312,299
+Siliguri,VishalCinemaSevokeRoad,Hindi,16:00,DressCircle,100₹,25,0
+Siliguri,VishalCinemaSevokeRoad,Hindi,16:00,Balcony,70₹,25,0
+Dakshinbarasat,MahamayaTalkiesDakshinbarasat,Hindi,18:45,Goldclass,100₹,89,77
+Dakshinbarasat,MahamayaTalkiesDakshinbarasat,Hindi,18:45,Silverclass,70₹,312,299
+Siliguri,VishalCinemaSevokeRoad,Hindi,19:00,DressCircle,100₹,25,0
+Siliguri,VishalCinemaSevokeRoad,Hindi,19:00,Balcony,70₹,25,0
