@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Noida,PvrLogixCityCentreNoida,English,11:00,Classic,300₹,97,2
+Ahmedabad,TimeCinemaCgRoad,English,13:00,Standard190,190₹,108,8
+Ahmedabad,TimeCinemaCgRoad,English,20:30,Standard260,260₹,108,8
+Chandigarh,PvrElanteMallChandigarh,English,23:00,Classic,212₹,138,6
+Chandigarh,PvrElanteMallChandigarh,English,23:00,Recliner,599₹,12,1
