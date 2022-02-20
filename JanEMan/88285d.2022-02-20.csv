@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,13:40,Executive,130₹,1,0
+Kochi,PvrLuluKochi,Malayalam,16:40,Classic,140₹,39,39
+Kochi,PvrLuluKochi,Malayalam,16:40,ClassicPlus,160₹,91,91
+Kochi,PvrLuluKochi,Malayalam,16:40,Prime,190₹,64,64
+Kochi,PvrLuluKochi,Malayalam,16:40,Recliner,350₹,9,9
+Kochi,PvrOberonMallErnakulam,Malayalam,19:20,Classic,140₹,36,36
+Kochi,PvrOberonMallErnakulam,Malayalam,19:20,ClassicPlus,170₹,81,81
