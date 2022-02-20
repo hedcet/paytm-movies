@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,InoxMegaplexInorbitMall,English,16:15,Insignia,650₹,7,0
+Noida,PvrLogixCityCentreNoida,English,17:15,Classic,345₹,97,7
+Gurgaon,PvrAmbienceGoldGurgaon,English,18:50,PlatinumSuperior,600₹,16,1
+Gurgaon,PvrAmbienceGoldGurgaon,English,18:50,Platinum,600₹,28,0
+Chandigarh,PvrElanteMallChandigarh,English,20:00,Classic,212₹,138,4
+Chandigarh,PvrElanteMallChandigarh,English,20:00,Recliner,599₹,13,0
