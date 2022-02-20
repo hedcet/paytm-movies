@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,RevolutionMultiplexCtm,Hindi,13:20,PlatinumClass,180₹,100,0
+Ahmedabad,RevolutionMultiplexCtm,Hindi,13:20,GoldenClass,160₹,100,0
+Ahmedabad,RevolutionMultiplexCtm,Hindi,13:20,SilverClass,140₹,100,0
+Ahmedabad,RevolutionMultiplexCtm,Hindi,15:55,PlatinumClass,180₹,15,6
+Ahmedabad,RevolutionMultiplexCtm,Hindi,15:55,GoldenClass,160₹,40,18
+Ahmedabad,RevolutionMultiplexCtm,Hindi,15:55,SilverClass,140₹,20,19
