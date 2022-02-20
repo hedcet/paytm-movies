@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kotdwar,KayCinemasKotdwar,Hindi,12:30,Gold,200₹,60,18
+Kotdwar,KayCinemasKotdwar,Hindi,12:30,Silver,150₹,88,0
+Kashipur,SuncityCinemaKashipur,Hindi,13:30,Platinum,200₹,184,0
+Kashipur,SuncityCinemaKashipur,Hindi,13:30,Gold,150₹,184,0
+Kashipur,SuncityCinemaKashipur,Hindi,13:30,Silver,100₹,184,0
+Haridwar,WavePentagonMallSidcul,Hindi,15:00,Classic,180₹,142,0
+Rudrapur,WaveRudrapur,Hindi,15:00,Classic,180₹,156,0
+Dehradun,SilvercityDehradun,Hindi,15:30,Gold,200₹,117,0
+Dehradun,SilvercityDehradun,Hindi,15:30,Recliner,500₹,15,0
+Dehradun,SilvercityDehradun,Hindi,15:30,Silver,150₹,60,0
