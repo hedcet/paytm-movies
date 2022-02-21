@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Hindaun,GeetaTalkiesKeshavPura,Hindi,12:00,FamilyBox,220₹,10,4
+Hindaun,GeetaTalkiesKeshavPura,Hindi,12:00,Balcony,120₹,30,0
+Hindaun,GeetaTalkiesKeshavPura,Hindi,12:00,Gold,100₹,35,0
+Hindaun,GeetaTalkiesKeshavPura,Hindi,12:00,Classsic,70₹,10,0
+Hindaun,GeetaTalkiesKeshavPura,Hindi,15:00,FamilyBox,220₹,10,2
+Hindaun,GeetaTalkiesKeshavPura,Hindi,15:00,Balcony,120₹,30,0
+Hindaun,GeetaTalkiesKeshavPura,Hindi,15:00,Gold,100₹,35,0
+Hindaun,GeetaTalkiesKeshavPura,Hindi,15:00,Classsic,70₹,10,0
+Hindaun,GeetaTalkiesKeshavPura,Hindi,18:00,FamilyBox,220₹,10,0
+Hindaun,GeetaTalkiesKeshavPura,Hindi,18:00,Balcony,120₹,30,0
+Hindaun,GeetaTalkiesKeshavPura,Hindi,18:00,Gold,100₹,35,0
+Hindaun,GeetaTalkiesKeshavPura,Hindi,18:00,Classsic,70₹,10,0
+Hindaun,GeetaTalkiesKeshavPura,Hindi,21:00,FamilyBox,220₹,10,0
+Hindaun,GeetaTalkiesKeshavPura,Hindi,21:00,Balcony,120₹,30,0
+Hindaun,GeetaTalkiesKeshavPura,Hindi,21:00,Gold,100₹,35,0
+Hindaun,GeetaTalkiesKeshavPura,Hindi,21:00,Classsic,70₹,10,0
