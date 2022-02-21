@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Chodavaram,LakshmiTheatreChodavaram,Telugu,14:30,UpperClass,100₹,378,378
+Chodavaram,LakshmiTheatreChodavaram,Telugu,14:30,MiddleClass,60₹,30,30
+Hyderabad,PvrKukatpally,Telugu,15:45,Classic,150₹,135,5
+Hyderabad,PvrKukatpally,Telugu,15:45,Recliner,250₹,9,0
+Hyderabad,MirajShaliniShivaniCinemasKothapet,Telugu,16:20,Executive,150₹,130,0
+Hyderabad,PvrPanjagutta,Telugu,18:00,Classic,150₹,141,13
+Chodavaram,LakshmiTheatreChodavaram,Telugu,21:30,UpperClass,100₹,378,378
+Chodavaram,LakshmiTheatreChodavaram,Telugu,21:30,MiddleClass,60₹,30,30
