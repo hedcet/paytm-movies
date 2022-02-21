@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bhopal,BharatCineplexHamidiaRoad,Hindi,11:30,BoxSofa,150₹,28,2
+Bhopal,BharatCineplexHamidiaRoad,Hindi,11:30,Balcony,100₹,99,63
+Bhopal,BharatCineplexHamidiaRoad,Hindi,11:30,Gold,100₹,144,99
+Bhopal,BharatCineplexHamidiaRoad,Hindi,11:30,ReserveStall,70₹,417,341
+Bhopal,BharatCineplexHamidiaRoad,Hindi,14:30,BoxSofa,150₹,28,0
+Bhopal,BharatCineplexHamidiaRoad,Hindi,14:30,Balcony,100₹,99,63
+Bhopal,BharatCineplexHamidiaRoad,Hindi,14:30,Gold,100₹,144,99
+Bhopal,BharatCineplexHamidiaRoad,Hindi,14:30,ReserveStall,70₹,417,341
+Bhopal,BharatCineplexHamidiaRoad,Hindi,17:30,BoxSofa,150₹,28,0
+Bhopal,BharatCineplexHamidiaRoad,Hindi,17:30,Balcony,100₹,99,63
+Bhopal,BharatCineplexHamidiaRoad,Hindi,17:30,Gold,100₹,144,99
+Bhopal,BharatCineplexHamidiaRoad,Hindi,17:30,ReserveStall,70₹,417,341
+Bhopal,BharatCineplexHamidiaRoad,Hindi,20:30,BoxSofa,150₹,28,0
+Bhopal,BharatCineplexHamidiaRoad,Hindi,20:30,Balcony,100₹,99,63
+Bhopal,BharatCineplexHamidiaRoad,Hindi,20:30,Gold,100₹,144,99
+Bhopal,BharatCineplexHamidiaRoad,Hindi,20:30,ReserveStall,70₹,417,341
