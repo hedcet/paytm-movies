@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,10:00,Balcony,120₹,307,151
+Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,10:00,FirstClass,80₹,555,555
+Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,10:00,SecondClass,40₹,202,202
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,12:35,Classic,150₹,128,20
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,12:35,Prime,170₹,92,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,12:35,Recliner,260₹,17,2
+Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,13:00,Balcony,120₹,307,151
+Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,13:00,FirstClass,80₹,555,555
+Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,13:00,SecondClass,40₹,202,202
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,15:30,Classic,112₹,85,0
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,15:30,Prime,140₹,37,0
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,15:30,Recliner,230₹,13,0
