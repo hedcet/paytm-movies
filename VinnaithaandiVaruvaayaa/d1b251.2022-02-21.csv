@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Chennai,PvrVrMallAnnaNagar,Tamil,11:40,Classic,59₹,11,11
+Chennai,PvrVrMallAnnaNagar,Tamil,11:40,Prime,189₹,102,16
+Chennai,SpiEscapeCinemasRoyapettah,Tamil,12:00,Elite,151₹,99,18
+Chennai,SpiEscapeCinemasRoyapettah,Tamil,12:00,Budget,59₹,11,11
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,Tamil,14:50,Elite,189₹,210,17
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,Tamil,14:50,Budget,59₹,27,13
+Chennai,PvrVrMallAnnaNagar,Tamil,15:10,Classic,59₹,16,16
+Chennai,PvrVrMallAnnaNagar,Tamil,15:10,Prime,189₹,110,12
+Chennai,SpiEscapeCinemasRoyapettah,Tamil,15:15,Elite,151₹,99,12
+Chennai,SpiEscapeCinemasRoyapettah,Tamil,15:15,Budget,59₹,11,11
