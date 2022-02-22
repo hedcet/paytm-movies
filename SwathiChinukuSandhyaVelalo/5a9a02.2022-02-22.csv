@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,PvrKukatpally,Telugu,15:45,Classic,150₹,135,0
+Hyderabad,PvrKukatpally,Telugu,15:45,Recliner,250₹,9,0
+Hyderabad,MirajShaliniShivaniCinemasKothapet,Telugu,16:20,Executive,150₹,130,1
+Hyderabad,PvrPanjagutta,Telugu,18:00,Classic,150₹,141,13
