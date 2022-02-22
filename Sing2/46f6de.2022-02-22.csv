@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NewDelhi,PvrPromenadeVasantKunj,English,14:30,3DClassic,400₹,96,48
+NewDelhi,PvrPromenadeVasantKunj,English,14:30,3DPrime,430₹,33,18
+Gurgaon,PvrAmbienceGurgaon,English,17:00,3DClassic,300₹,105,0
+Gurgaon,PvrAmbienceGurgaon,English,17:00,3DPrime,350₹,62,0
+NewDelhi,PvrVegasPlayHouseDwarka,English,18:15,3DRecliner,355₹,4,0
+NewDelhi,PvrVegasPlayHouseDwarka,English,18:15,3DPrime,355₹,10,0
+NewDelhi,PvrVegasPlayHouseDwarka,English,18:15,3DClassic,300₹,18,0
