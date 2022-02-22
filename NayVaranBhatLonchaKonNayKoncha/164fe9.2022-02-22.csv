@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Amravati,FunCinemasSarojCinemaSarojChowk,Marathi,15:15,Premier,100₹,100,0
+Amravati,FunCinemasSarojCinemaSarojChowk,Marathi,15:15,Economy,60₹,100,0
+Mumbai,MovieTimeHubMallGoregaonE,Marathi,15:40,Mhraja,130₹,22,4
+Amravati,FunCinemasSarojCinemaSarojChowk,Marathi,18:15,Premier,100₹,100,0
+Amravati,FunCinemasSarojCinemaSarojChowk,Marathi,18:15,Economy,60₹,100,0
