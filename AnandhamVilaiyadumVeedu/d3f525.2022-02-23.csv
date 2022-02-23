@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kozhinjampara,RavirajComplexACKozhinjampara,Tamil,11:00,FirstClass,110₹,163,82
+Kochi,SaritaCinemasKacheripady,Tamil,12:00,Saphire,150₹,42,42
+Kochi,SaritaCinemasKacheripady,Tamil,12:00,EmeraldCircle,150₹,370,342
+Kochi,SaritaCinemasKacheripady,Tamil,12:00,Ruby,150₹,821,821
+Kozhinjampara,RavirajComplexACKozhinjampara,Tamil,14:00,FirstClass,110₹,163,82
+Kochi,SaritaCinemasKacheripady,Tamil,15:00,Saphire,150₹,42,42
+Kochi,SaritaCinemasKacheripady,Tamil,15:00,EmeraldCircle,150₹,370,342
+Kochi,SaritaCinemasKacheripady,Tamil,15:00,Ruby,150₹,821,821
+Kochi,SaritaCinemasKacheripady,Tamil,18:00,Saphire,150₹,42,42
+Kochi,SaritaCinemasKacheripady,Tamil,18:00,EmeraldCircle,150₹,370,342
+Kochi,SaritaCinemasKacheripady,Tamil,18:00,Ruby,150₹,821,821
+Kozhinjampara,RavirajComplexACKozhinjampara,Tamil,18:00,FirstClass,110₹,163,82
+Kochi,SaritaCinemasKacheripady,Tamil,21:00,Saphire,150₹,42,42
+Kochi,SaritaCinemasKacheripady,Tamil,21:00,EmeraldCircle,150₹,370,342
+Kochi,SaritaCinemasKacheripady,Tamil,21:00,Ruby,150₹,821,821
+Kozhinjampara,RavirajComplexACKozhinjampara,Tamil,21:00,FirstClass,110₹,163,82
