@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Anand,TimeCinemaAnandTheCityMall,Malayalam,19:45,Standard110,110₹,142,42
+Surat,TimeCinemaSuratGalaxyCircle,Malayalam,20:45,Standard190,190₹,96,0
+Payyanur,SumangaliCinemasAnnurRoad,Malayalam,22:15,PlatinumCircle,110₹,161,80
