@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,BhumikaDigital2KCinemaGandhiNagar,Kannada,10:30,Balcony,120₹,318,262
+Bengaluru,BhumikaDigital2KCinemaGandhiNagar,Kannada,10:30,Middle,100₹,576,512
+Mysuru,LidoDolbyDigitalCinemaBNRoad,Kannada,10:30,Balcony,120₹,244,0
+Mysuru,LidoDolbyDigitalCinemaBNRoad,Kannada,10:30,Second,100₹,456,0
+Bengaluru,BhumikaDigital2KCinemaGandhiNagar,Kannada,13:30,Balcony,120₹,318,262
+Bengaluru,BhumikaDigital2KCinemaGandhiNagar,Kannada,13:30,Middle,100₹,576,512
+Mysuru,LidoDolbyDigitalCinemaBNRoad,Kannada,13:30,Balcony,120₹,244,0
+Mysuru,LidoDolbyDigitalCinemaBNRoad,Kannada,13:30,Second,100₹,456,0
+Bengaluru,BhumikaDigital2KCinemaGandhiNagar,Kannada,16:30,Balcony,120₹,318,262
+Bengaluru,BhumikaDigital2KCinemaGandhiNagar,Kannada,16:30,Middle,100₹,576,512
+Mysuru,LidoDolbyDigitalCinemaBNRoad,Kannada,16:30,Balcony,120₹,244,0
+Mysuru,LidoDolbyDigitalCinemaBNRoad,Kannada,16:30,Second,100₹,456,0
+Bengaluru,BhumikaDigital2KCinemaGandhiNagar,Kannada,19:15,Balcony,120₹,318,262
+Bengaluru,BhumikaDigital2KCinemaGandhiNagar,Kannada,19:15,Middle,100₹,576,512
+Mysuru,LidoDolbyDigitalCinemaBNRoad,Kannada,19:30,Balcony,120₹,244,0
+Mysuru,LidoDolbyDigitalCinemaBNRoad,Kannada,19:30,Second,100₹,456,0
