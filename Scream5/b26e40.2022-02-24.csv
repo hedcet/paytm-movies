@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,TimeCinemaCgRoad,English,10:10,Infinity900,900₹,12,0
+Noida,PvrLogixCityCentreNoida,English,11:00,Classic,165₹,87,1
+Ahmedabad,TimeCinemaCgRoad,English,13:00,Sofa220,220₹,84,0
+Ahmedabad,TimeCinemaCgRoad,English,21:30,Standard260,260₹,108,8
