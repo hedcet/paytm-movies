@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Vizag,SapthagiriTheatreChittivalasa,Telugu,10:45,ReservedClass,112₹,359,339
+Vizag,SapthagiriTheatreChittivalasa,Telugu,10:45,SecondClass,100₹,59,59
+Vizag,SapthagiriTheatreChittivalasa,Telugu,10:45,ThirdClass,70₹,94,94
+Kurnool,SvcCinemasCitySquareMall,Telugu,14:00,Platinum,200₹,9,0
+Kurnool,SvcCinemasCitySquareMall,Telugu,14:00,Sliders,150₹,77,0
+Vizag,SapthagiriTheatreChittivalasa,Telugu,14:30,ReservedClass,112₹,359,339
+Vizag,SapthagiriTheatreChittivalasa,Telugu,14:30,SecondClass,100₹,59,59
+Vizag,SapthagiriTheatreChittivalasa,Telugu,14:30,ThirdClass,70₹,94,94
+Vizag,SapthagiriTheatreChittivalasa,Telugu,18:15,ReservedClass,112₹,359,339
+Vizag,SapthagiriTheatreChittivalasa,Telugu,18:15,SecondClass,100₹,59,59
+Vizag,SapthagiriTheatreChittivalasa,Telugu,18:15,ThirdClass,70₹,94,94
+Vizag,SapthagiriTheatreChittivalasa,Telugu,21:30,ReservedClass,112₹,359,339
+Vizag,SapthagiriTheatreChittivalasa,Telugu,21:30,SecondClass,100₹,59,59
+Vizag,SapthagiriTheatreChittivalasa,Telugu,21:30,ThirdClass,70₹,94,94
