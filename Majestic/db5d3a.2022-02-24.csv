@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,Kannada,10:00,Balcony,100₹,354,318
+Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,Kannada,10:00,SecondClass,80₹,748,708
+Shivamogga,MallikarjunaTheatreDtsDurgigudi,Kannada,11:00,Balcony,150₹,208,170
+Shivamogga,MallikarjunaTheatreDtsDurgigudi,Kannada,11:00,First,100₹,312,208
+Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,Kannada,13:00,Balcony,100₹,354,318
+Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,Kannada,13:00,SecondClass,80₹,748,708
+Shivamogga,MallikarjunaTheatreDtsDurgigudi,Kannada,14:00,Balcony,150₹,208,170
+Shivamogga,MallikarjunaTheatreDtsDurgigudi,Kannada,14:00,First,100₹,312,208
+Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,Kannada,16:00,Balcony,100₹,354,318
+Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,Kannada,16:00,SecondClass,80₹,748,708
+Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,Kannada,19:00,Balcony,100₹,354,318
+Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,Kannada,19:00,SecondClass,80₹,748,708
