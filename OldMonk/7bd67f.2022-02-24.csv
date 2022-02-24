@@ -1,0 +1,12 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Hubli,PvrLaxmiMallCoenRoad,Kannada,18:20,Classic,150₹,64,33
+Hubli,PvrLaxmiMallCoenRoad,Kannada,18:20,Prime,270₹,9,9
+Hubli,PvrLaxmiMallCoenRoad,Kannada,18:20,ClassicPlus,170₹,129,83
+Davanagere,MovieTimeSsGardeniaMall,Kannada,19:00,Premier,150₹,180,113
+Davanagere,MovieTimeSsGardeniaMall,Kannada,19:00,Gold,180₹,79,24
+Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,19:00,Normal,150₹,9,9
+Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,19:00,Executive,150₹,81,81
+Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,19:00,Premium,150₹,35,35
+Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,19:10,Normal,150₹,10,10
+Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,19:10,Executive,150₹,82,82
+Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,19:10,Premium,150₹,46,46
