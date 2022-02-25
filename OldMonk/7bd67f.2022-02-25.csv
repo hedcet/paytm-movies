@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mudhol,ApsonaTheatreMudhol,Kannada,15:00,Balcony,100₹,70,40
+Mudhol,ApsonaTheatreMudhol,Kannada,18:00,Balcony,100₹,70,40
+Bengaluru,PvrPlayHousePhoenixMarketcityMallBengaluruWhitefieldRoad,Kannada,18:05,Classic,210₹,120,0
+Bengaluru,PvrPlayHousePhoenixMarketcityMallBengaluruWhitefieldRoad,Kannada,18:05,Recliner,400₹,8,0
+Bengaluru,BalajiTheatreTavarekereNextToLakshmiTheatre,Kannada,19:00,Diamond,150₹,296,191
+Bengaluru,BalajiTheatreTavarekereNextToLakshmiTheatre,Kannada,19:00,Gold,120₹,442,248
+Mudhol,ApsonaTheatreMudhol,Kannada,21:00,Balcony,100₹,70,40
