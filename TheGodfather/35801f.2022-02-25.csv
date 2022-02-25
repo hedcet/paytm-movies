@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Noida,PvrLogixCityCentreNoida,English,15:50,Classic,285₹,88,6
+Mumbai,PvrIconLuxeInfinitiAndheriWMumbai,English,16:30,Luxe,900₹,51,25
+Mumbai,PvrIconLuxeInfinitiAndheriWMumbai,English,16:30,LuxeSuperior,900₹,33,18
+Noida,PvrGoldLogixCityCentreNoida,English,21:40,Recliner,"1,100₹",30,0
