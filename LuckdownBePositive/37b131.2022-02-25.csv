@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Pune,RajhansCinema93Avenue,Marathi,14:00,Marvel,112₹,24,12
+Pune,RajhansCinema93Avenue,Marathi,14:00,Royal,112₹,48,24
+Pune,RajhansCinema93Avenue,Marathi,14:00,Executive,112₹,84,42
+Pune,RajhansCinema93Avenue,Marathi,14:00,Recliner,220₹,16,8
+Nashik,InoxOldVijayMamtaNasik,Marathi,20:05,Executive,112₹,18,0
+Nashik,InoxOldVijayMamtaNasik,Marathi,20:05,Platinum,160₹,45,0
+Nashik,InoxOldVijayMamtaNasik,Marathi,20:05,Silver,160₹,91,0
+Junnar,ShevantaCinemaJunnar,Marathi,21:30,Gold,99₹,100,0
