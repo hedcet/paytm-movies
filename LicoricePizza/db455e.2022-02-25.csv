@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MaisonPvrTheLoftLuxeJioWorldDriveBkc,English,14:30,Platinum,"1,600₹",33,18
+Mumbai,PvrIconInfinitiAndheriW,English,20:10,Classic,220₹,42,21
+Mumbai,PvrIconInfinitiAndheriW,English,20:10,Prime,260₹,126,77
+Mumbai,PvrIconInfinitiAndheriW,English,20:10,PrimeSuperior,260₹,32,32
+Mumbai,PvrIconInfinitiAndheriW,English,20:10,Recliner,700₹,11,5
+Goa,InoxPorvorimBardez,English,22:30,Club,220₹,55,0
+Goa,InoxPorvorimBardez,English,22:30,Executive,200₹,17,0
+Goa,InoxPorvorimBardez,English,22:30,RoyalRecliner,410₹,7,0
+Goa,InoxPorvorimBardez,English,22:30,Royal,230₹,28,0
