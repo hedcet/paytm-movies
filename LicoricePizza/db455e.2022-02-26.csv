@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,PvrKukatpally,English,20:05,Classic,150₹,135,44
+Hyderabad,PvrKukatpally,English,20:05,Recliner,250₹,9,9
+Mumbai,PvrIconInfinitiAndheriW,English,20:10,Classic,250₹,42,23
+Mumbai,PvrIconInfinitiAndheriW,English,20:10,Prime,290₹,126,85
+Mumbai,PvrIconInfinitiAndheriW,English,20:10,PrimeSuperior,290₹,32,28
+Mumbai,PvrIconInfinitiAndheriW,English,20:10,Recliner,800₹,11,5
+Goa,InoxPorvorimBardez,English,22:30,Club,220₹,54,0
+Goa,InoxPorvorimBardez,English,22:30,Executive,200₹,17,0
+Goa,InoxPorvorimBardez,English,22:30,RoyalRecliner,410₹,6,0
+Goa,InoxPorvorimBardez,English,22:30,Royal,230₹,28,0
+Hyderabad,InoxGvkOneBanjaraHills,English,22:40,Executive,150₹,99,0
+Hyderabad,InoxGvkOneBanjaraHills,English,22:40,Royal,250₹,2,0
