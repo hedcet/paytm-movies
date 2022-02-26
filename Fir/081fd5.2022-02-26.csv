@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Chennai,SriVenkateswaraTalkiesACDolby71Thiruvallur,Tamil,18:15,First,50₹,172,161
+Karaikudi,NatarajaTheatrePeriyamet,Tamil,18:15,Balcony,100₹,72,16
+Karaikudi,NatarajaTheatrePeriyamet,Tamil,18:15,FirstClass,80₹,65,26
+Karaikudi,NatarajaTheatrePeriyamet,Tamil,18:15,SecondClass,80₹,242,110
+Tirunelveli,ArunagiriTheatreTirunelveli,Tamil,18:30,ACBoxA,130₹,35,0
+Tirunelveli,ArunagiriTheatreTirunelveli,Tamil,18:30,FirstClassNonAC,100₹,534,0
+Kaveripattinam,RaviTheatre4KKaveripattinam,Tamil,18:30,Gold,90₹,204,0
+Kaveripattinam,RaviTheatre4KKaveripattinam,Tamil,18:30,Silver,70₹,244,0
+Kaveripattinam,RaviTheatre4KKaveripattinam,Tamil,21:30,Gold,90₹,204,0
+Kaveripattinam,RaviTheatre4KKaveripattinam,Tamil,21:30,Silver,70₹,244,0
+Kumbakonam,SriVijayalakshmiCinemasAC4K3D,Tamil,22:00,FirstClass,120₹,414,414
+Karaikudi,NatarajaTheatrePeriyamet,Tamil,22:15,Balcony,100₹,72,16
+Karaikudi,NatarajaTheatrePeriyamet,Tamil,22:15,FirstClass,80₹,65,26
+Karaikudi,NatarajaTheatrePeriyamet,Tamil,22:15,SecondClass,80₹,242,110
+Tirunelveli,ArunagiriTheatreTirunelveli,Tamil,22:30,ACBoxA,130₹,35,0
+Tirunelveli,ArunagiriTheatreTirunelveli,Tamil,22:30,FirstClassNonAC,100₹,534,0
