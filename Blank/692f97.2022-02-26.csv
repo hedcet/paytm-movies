@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,InoxForumNeighbourhoodMallWhiteField,Kannada,12:50,Premiere,160₹,78,0
+Bengaluru,InoxForumNeighbourhoodMallWhiteField,Kannada,12:50,Silver,180₹,68,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,19:20,Normal,150₹,10,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,19:20,Executive,150₹,82,4
+Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,19:20,Premium,150₹,46,4
+Bengaluru,PvrVegaBannerghattaRoad,Kannada,21:40,Classic,250₹,78,0
+Bengaluru,PvrVegaBannerghattaRoad,Kannada,21:40,Recliner,470₹,9,0
