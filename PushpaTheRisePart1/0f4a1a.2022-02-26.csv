@@ -1,0 +1,14 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,2NewfangledMiniplexMoteraAhmedabad,Hindi,11:01,CoupleSeat,300₹,58,46
+Ahmedabad,1NewfangledMiniplexMondealRetailParkAhmedabad,Hindi,12:01,FirstFloor,300₹,40,32
+Maddur,SumaChitramandira,Kannada,13:30,FirstClass,81₹,600,300
+Ahmedabad,2NewfangledMiniplexMoteraAhmedabad,Hindi,14:15,CoupleSeat,300₹,22,14
+Ahmedabad,1NewfangledMiniplexMondealRetailParkAhmedabad,Hindi,14:31,GroundFloor,300₹,48,38
+Agra,RajeevCinemaBhogipura,Hindi,15:00,Balcony,40₹,280,224
+Agra,RajeevCinemaBhogipura,Hindi,15:00,DressCircle,10₹,660,600
+Maddur,SumaChitramandira,Kannada,16:30,FirstClass,81₹,600,300
+Agra,RajeevCinemaBhogipura,Hindi,18:00,Balcony,40₹,280,224
+Agra,RajeevCinemaBhogipura,Hindi,18:00,DressCircle,10₹,660,600
+Maddur,SumaChitramandira,Kannada,19:30,FirstClass,81₹,600,300
+Ahmedabad,2NewfangledMiniplexMoteraAhmedabad,Hindi,20:01,CoupleSeat,300₹,58,46
+Ahmedabad,1NewfangledMiniplexMondealRetailParkAhmedabad,Hindi,20:45,FirstFloor,300₹,40,32
