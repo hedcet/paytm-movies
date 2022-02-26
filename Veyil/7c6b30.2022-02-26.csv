@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Malappuram,PadmamTheatreAC2KDownHill,Malayalam,11:30,Platinum,110₹,269,144
+Kunnamkulam,BavanaMoviesHouseACKunnamkulam,Malayalam,14:45,Balcony,130₹,219,102
+Kunnamkulam,BavanaMoviesHouseACKunnamkulam,Malayalam,14:45,FirstClass,110₹,300,148
+Vadanapally,AsokaTheatreACDolby71Vadanapally,Malayalam,15:02,GoldCircle,110₹,480,336
+Alappuzha,RaibanCineHouseAC2K71Dolby,Malayalam,18:15,Balcony,125₹,206,181
+Kodungallur,LakshmiCinemas4KLaserAtmosKodungallur,Malayalam,21:00,Diamond,250₹,17,8
+Kodungallur,LakshmiCinemas4KLaserAtmosKodungallur,Malayalam,21:00,Platinum,200₹,64,32
+Kodungallur,LakshmiCinemas4KLaserAtmosKodungallur,Malayalam,21:00,Gold,150₹,249,108
+Kodungallur,LakshmiCinemas4KLaserAtmosKodungallur,Malayalam,21:00,Silver,100₹,70,35
+Malappuram,PadmamTheatreAC2KDownHill,Malayalam,21:15,Platinum,110₹,269,144
+Alappuzha,RaibanCineHouseAC2K71Dolby,Malayalam,21:15,Balcony,125₹,206,181
+Vadanapally,AsokaTheatreACDolby71Vadanapally,Malayalam,21:16,GoldCircle,110₹,480,336
+Kakkattil,AjanthaCinemasKakkattil,Malayalam,21:30,Executive,110₹,199,100
+Edappal,SaradaMovies,Malayalam,21:30,Platinum,110₹,127,21
+Cheruvathur,PakkanarCinemasCheruvathur,Malayalam,22:30,Executive,100₹,322,161
+Malappuram,MallikaPlexMattilMall,Malayalam,22:45,Executive,140₹,50,17
