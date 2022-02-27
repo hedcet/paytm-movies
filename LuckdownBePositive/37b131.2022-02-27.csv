@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Junnar,ShevantaCinemaJunnar,Marathi,18:30,Gold,99₹,100,0
+Junnar,ShevantaCinemaJunnar,Marathi,21:30,Gold,99₹,100,0
+Loni,NathgangaCinemaLoni,Marathi,23:59,DlxPush,150₹,27,3
+Loni,NathgangaCinemaLoni,Marathi,23:59,Push,100₹,88,8
