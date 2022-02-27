@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NewDelhi,PvrSelectCityWalkSaket,English,19:50,ClassicNormal,300₹,56,13
+NewDelhi,PvrSelectCityWalkSaket,English,19:50,ClassicSuperior,400₹,23,11
+NewDelhi,PvrSelectCityWalkSaket,English,19:50,ReclinersNormal,900₹,5,0
+Hyderabad,PvrKukatpally,English,20:05,Classic,150₹,135,44
+Hyderabad,PvrKukatpally,English,20:05,Recliner,250₹,9,4
+Gurgaon,PvrAmbienceGoldGurgaon,English,21:50,PlatinumSuperior,500₹,16,4
+Gurgaon,PvrAmbienceGoldGurgaon,English,21:50,Platinum,500₹,28,4
+Goa,InoxPorvorimBardez,English,22:30,Club,220₹,55,0
+Goa,InoxPorvorimBardez,English,22:30,Executive,200₹,17,0
+Goa,InoxPorvorimBardez,English,22:30,RoyalRecliner,410₹,7,0
+Goa,InoxPorvorimBardez,English,22:30,Royal,230₹,27,0
+Hyderabad,InoxGvkOneBanjaraHills,English,22:40,Executive,150₹,146,0
+Hyderabad,InoxGvkOneBanjaraHills,English,22:40,Royal,250₹,4,0
+Pune,InoxBundGarden,English,23:00,Royale,450₹,14,0
