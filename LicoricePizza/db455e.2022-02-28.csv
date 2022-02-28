@@ -1,0 +1,12 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NewDelhi,InoxInsigniaAtEpicuriaNehruPlace,English,18:20,Insignia,645₹,36,1
+Hyderabad,PvrKukatpally,English,20:05,Classic,150₹,135,31
+Hyderabad,PvrKukatpally,English,20:05,Recliner,250₹,9,4
+Goa,InoxPorvorimBardez,English,22:30,Club,220₹,55,0
+Goa,InoxPorvorimBardez,English,22:30,Executive,200₹,17,0
+Goa,InoxPorvorimBardez,English,22:30,RoyalRecliner,410₹,7,0
+Goa,InoxPorvorimBardez,English,22:30,Royal,230₹,28,7
+Mumbai,PvrDynamicJuhu,English,22:50,Prime,240₹,72,62
+Mumbai,PvrDynamicJuhu,English,22:50,Classic,240₹,40,20
+Mumbai,InoxMegaplexInorbitMall,English,23:00,Insignia,550₹,16,3
+Mumbai,InoxLaserplexCr2NarimanPoint,English,23:00,Insignia,700₹,35,0
