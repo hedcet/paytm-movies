@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Dakshinbarasat,MahamayaTalkiesDakshinbarasat,Bengali,11:00,Goldclass,100₹,68,50
+Dakshinbarasat,MahamayaTalkiesDakshinbarasat,Bengali,11:00,Silverclass,70₹,160,140
+Kolkata,MirajCinemasNewtownKolkata,Bengali,16:50,Special,130₹,51,0
+Kolkata,MirajCinemasNewtownKolkata,Bengali,16:50,Executive,130₹,85,0
+Kolkata,MirajCinemasNewtownKolkata,Bengali,16:50,Recliner,200₹,23,0
+Howrah,InoxForumRangoliMallBelur,Bengali,16:50,Club,130₹,158,0
+Howrah,InoxForumRangoliMallBelur,Bengali,16:50,Executive,130₹,69,0
+Kolkata,InoxSouthCityMall,Bengali,17:40,Premier,170₹,34,0
+Kolkata,InoxSouthCityMall,Bengali,17:40,Silver,170₹,157,3
+Kolkata,CarnivalArtiSuncityMallBarasat,Bengali,17:40,Silver,90₹,40,0
+Kolkata,CarnivalArtiSuncityMallBarasat,Bengali,17:40,Gold,90₹,60,6
+Kolkata,CarnivalArtiSuncityMallBarasat,Bengali,17:40,Diamond,110₹,115,5
+Kolkata,CarnivalSaltLake,Bengali,17:45,Silver,99₹,166,0
+Kolkata,JayantiCinemaBarrackpore,Bengali,17:45,SuperStall,200₹,183,145
+Kolkata,JayantiCinemaBarrackpore,Bengali,17:45,Stall,200₹,39,39
+Kolkata,PadmaCinemaSodepur,Bengali,20:00,Balcony,70₹,38,0
