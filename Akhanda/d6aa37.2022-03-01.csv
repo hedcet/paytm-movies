@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Adoni,RajshriCineComplexAdhoni,Telugu,11:20,Balcony,150₹,50,4
+Adoni,RajshriCineComplexAdhoni,Telugu,11:20,FirstClass,100₹,193,12
+Adoni,RajshriCineComplexAdhoni,Telugu,11:20,SecondClass,60₹,50,1
+Hyderabad,SensationComplexKhairatabad,Telugu,23:40,Balcony,150₹,542,31
+Hyderabad,SensationComplexKhairatabad,Telugu,23:40,DressClass,80₹,166,2
