@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrIconLuxeInfinitiAndheriWMumbai,English,15:00,Luxe,800₹,51,28
+Mumbai,PvrIconLuxeInfinitiAndheriWMumbai,English,15:00,LuxeSuperior,800₹,33,27
+Noida,PvrLogixCityCentreNoida,English,15:50,Classic,285₹,88,18
+Mumbai,MaisonPvrLivingRoomLuxeJioWorldDriveBkc,English,19:15,Luxe,"1,500₹",24,12
+Mumbai,MaisonPvrLivingRoomLuxeJioWorldDriveBkc,English,19:15,LuxeSuperior,"1,500₹",10,7
+Noida,PvrGoldLogixCityCentreNoida,English,21:40,Recliner,"1,100₹",30,0
+Gurgaon,PvrAmbienceGoldGurgaon,English,21:50,PlatinumSuperior,400₹,16,3
+Gurgaon,PvrAmbienceGoldGurgaon,English,21:50,Platinum,400₹,28,0
