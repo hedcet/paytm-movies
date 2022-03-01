@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,SampurnaTheatreVanasthalipuram,Telugu,23:59,Balcony,150₹,253,114
+Hyderabad,SampurnaTheatreVanasthalipuram,Telugu,23:59,DressCircle,110₹,300,153
+Hyderabad,SampurnaTheatreVanasthalipuram,Telugu,23:59,FirstClass,70₹,95,95
+Hyderabad,SampurnaTheatreVanasthalipuram,Telugu,23:59,LowerClass,50₹,187,187
