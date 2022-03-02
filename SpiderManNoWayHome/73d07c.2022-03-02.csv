@@ -1,0 +1,12 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,CinepolisSeawoodsGrandCentralMall,English,14:05,Normal,300₹,54,0
+Indore,PvrPlayHouseTreasureIslandIndore,Hindi,16:00,Prime,130₹,46,21
+Indore,PvrPlayHouseTreasureIslandIndore,Hindi,16:00,Classic,130₹,26,0
+Indore,PvrPlayHouseTreasureIslandIndore,Hindi,16:00,Recliner,230₹,8,6
+Noida,PvrLogixCityCentrePlayHouseNoida,English,17:30,3DClassic,315₹,38,14
+Bengaluru,PvrVegaPlayHouseBannerghattaRoad,English,18:25,3DClassic,248₹,70,13
+Mumbai,CinepolisSeawoodsGrandCentralMall,English,19:30,Normal,300₹,54,19
+Bengaluru,CinepolisForumShantiniketanThigalarapalya,English,21:20,Normal,300₹,96,9
+Bengaluru,PvrVegaPlayHouseBannerghattaRoad,English,21:45,3DClassic,264₹,70,21
+Mumbai,InoxMegaplexInorbitMall,English,22:30,Club,390₹,16,0
+Mumbai,InoxMegaplexInorbitMall,English,22:30,Royal,390₹,58,16
