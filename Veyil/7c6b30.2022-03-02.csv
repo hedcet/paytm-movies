@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Alappuzha,RaibanCineHouseAC2K71Dolby,Malayalam,11:00,Balcony,125₹,206,181
+Malappuram,PadmamTheatreAC2KDownHill,Malayalam,11:30,Platinum,110₹,269,144
+Alappuzha,RaibanCineHouseAC2K71Dolby,Malayalam,18:15,Balcony,125₹,206,181
+Alappuzha,RaibanCineHouseAC2K71Dolby,Malayalam,21:15,Balcony,125₹,206,182
+Vadanapally,AsokaTheatreACDolby71Vadanapally,Malayalam,21:16,GoldCircle,110₹,480,192
+Kakkattil,AjanthaCinemasKakkattil,Malayalam,21:30,Executive,110₹,199,0
+Cheruvathur,PakkanarCinemasCheruvathur,Malayalam,22:30,Executive,100₹,322,0
