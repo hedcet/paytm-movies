@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mangalore,CinepolisCityCentreMallMangaluru,Tulu,13:05,Normal,110₹,28,0
+Mangalore,CinepolisCityCentreMallMangaluru,Tulu,13:05,Executive,110₹,133,7
+Mangalore,CinepolisCityCentreMallMangaluru,Tulu,13:05,Premium,150₹,58,11
+Moodabidri,AmarshreeTheatreVijayaNagar,Tulu,18:30,Balcony,100₹,192,114
+Moodabidri,AmarshreeTheatreVijayaNagar,Tulu,18:30,SecondClass,90₹,368,368
+Mangalore,PvrForumFizaMallPandeshwar,Tulu,21:55,Classic,150₹,126,0
+Mangalore,PvrForumFizaMallPandeshwar,Tulu,21:55,Prime,150₹,32,17
+Mangalore,PvrForumFizaMallPandeshwar,Tulu,21:55,Recliner,300₹,12,0
