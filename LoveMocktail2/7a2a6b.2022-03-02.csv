@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Sirsi,NatarajMovieHallCpBazaar,Kannada,13:00,Balcony,150₹,160,116
+Shivamogga,HpcChitramandirDurgigudi,Kannada,14:15,Balcony,150₹,150,64
+Shivamogga,HpcChitramandirDurgigudi,Kannada,14:15,First,100₹,460,138
+Davanagere,GeethanjaliTheatreDavangare,Kannada,17:45,Balcony,150₹,184,100
+Davanagere,GeethanjaliTheatreDavangare,Kannada,17:45,SecondClass,100₹,198,198
+Shivamogga,HpcChitramandirDurgigudi,Kannada,18:00,Balcony,150₹,150,64
+Shivamogga,HpcChitramandirDurgigudi,Kannada,18:00,First,100₹,460,132
+Sirsi,NatarajMovieHallCpBazaar,Kannada,19:00,Balcony,150₹,160,116
+Davanagere,GeethanjaliTheatreDavangare,Kannada,20:45,Balcony,150₹,184,100
+Davanagere,GeethanjaliTheatreDavangare,Kannada,20:45,SecondClass,100₹,198,198
+Davanagere,MovieTimeSsGardeniaMall,Kannada,22:00,Premier,180₹,180,4
+Davanagere,MovieTimeSsGardeniaMall,Kannada,22:00,Gold,200₹,79,8
