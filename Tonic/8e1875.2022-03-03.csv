@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,AjantaCinemaBehala,Bengali,15:15,Balcony,150₹,106,60
+Kolkata,PvrDiamondPlazaJassore,Bengali,19:15,Classic,160₹,100,9
+Kolkata,PvrDiamondPlazaJassore,Bengali,19:15,Prime,220₹,11,7
+Kolkata,PvrDiamondPlazaJassore,Bengali,19:15,Recliner,420₹,12,0
