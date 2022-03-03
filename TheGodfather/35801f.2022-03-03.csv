@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NewDelhi,PvrVegasDwarka,English,12:35,Prime,390₹,15,1
+NewDelhi,PvrVegasDwarka,English,12:35,Classic,350₹,105,0
+Noida,PvrLogixCityCentreNoida,English,15:50,Classic,250₹,99,0
+Noida,PvrGoldLogixCityCentreNoida,English,21:40,Recliner,900₹,24,0
+Bengaluru,InoxGarudaMallMagrathRoad,English,21:40,Club,150₹,60,25
+Bengaluru,InoxGarudaMallMagrathRoad,English,21:40,Executive,140₹,90,1
+Bengaluru,InoxGarudaMallMagrathRoad,English,21:40,RoyaleRecliners,230₹,9,9
+Gurgaon,PvrAmbienceGoldGurgaon,English,21:50,PlatinumSuperior,400₹,16,5
+Gurgaon,PvrAmbienceGoldGurgaon,English,21:50,Platinum,400₹,28,0
