@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Shivamogga,HpcChitramandirDurgigudi,Kannada,11:00,Balcony,150₹,150,64
+Shivamogga,HpcChitramandirDurgigudi,Kannada,11:00,First,100₹,460,132
+Shivamogga,HpcChitramandirDurgigudi,Kannada,14:15,Balcony,150₹,150,64
+Shivamogga,HpcChitramandirDurgigudi,Kannada,14:15,First,100₹,460,132
+Hubli,PvrLaxmiMallCoenRoad,Kannada,15:25,Classic,140₹,64,5
+Hubli,PvrLaxmiMallCoenRoad,Kannada,15:25,Prime,260₹,9,2
+Hubli,PvrLaxmiMallCoenRoad,Kannada,15:25,ClassicPlus,160₹,129,11
+Sirsi,NatarajMovieHallCpBazaar,Kannada,19:00,Balcony,150₹,160,118
+Davanagere,GeethanjaliTheatreDavangare,Kannada,20:45,Balcony,150₹,184,100
+Davanagere,GeethanjaliTheatreDavangare,Kannada,20:45,SecondClass,100₹,198,198
