@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,Hindi,09:45,Normal,140₹,25,0
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,Hindi,09:45,Executive,140₹,67,0
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,Hindi,09:45,Premium,140₹,48,0
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,Hindi,09:45,Vip,400₹,16,0
+Bengaluru,PvrVegaPlayHouseBannerghattaRoad,English,11:45,3DClassic,198₹,70,11
+Noida,CinepolisSmartBharatMallFormerlySpiceMall,Hindi,13:00,Classic,210₹,75,0
+Noida,CinepolisSmartBharatMallFormerlySpiceMall,Hindi,13:00,Premium,220₹,113,2
+Noida,PvrLogixCityCentrePlayHouseNoida,English,14:15,3DClassic,315₹,49,15
+Indore,PvrPlayHouseTreasureIslandIndore,Hindi,19:15,Prime,150₹,46,18
+Indore,PvrPlayHouseTreasureIslandIndore,Hindi,19:15,Classic,130₹,26,0
+Indore,PvrPlayHouseTreasureIslandIndore,Hindi,19:15,Recliner,320₹,8,6
+Mumbai,CinepolisSeawoodsGrandCentralMall,English,19:30,Normal,300₹,54,11
+Bengaluru,CinepolisForumShantiniketanThigalarapalya,English,21:20,Normal,300₹,84,26
+Bengaluru,PvrVegaPlayHouseBannerghattaRoad,English,21:45,3DClassic,264₹,70,45
