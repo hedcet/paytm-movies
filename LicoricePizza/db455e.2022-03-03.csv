@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NewDelhi,InoxInsigniaAtEpicuriaNehruPlace,English,18:20,Insignia,460₹,36,5
+Goa,InoxPorvorimBardez,English,22:30,Club,190₹,55,1
+Goa,InoxPorvorimBardez,English,22:30,Executive,170₹,17,0
+Goa,InoxPorvorimBardez,English,22:30,RoyalRecliner,340₹,7,0
+Goa,InoxPorvorimBardez,English,22:30,Royal,210₹,28,5
+Mumbai,MaisonPvrLivingRoomLuxeJioWorldDriveBkc,English,22:45,Luxe,"1,500₹",24,12
+Mumbai,MaisonPvrLivingRoomLuxeJioWorldDriveBkc,English,22:45,LuxeSuperior,"1,500₹",10,5
