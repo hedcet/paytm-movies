@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Pune,CarnivalPremierPlazaChinchwad,Marathi,14:30,GoldOffline,100₹,80,46
+Pune,CarnivalPremierPlazaChinchwad,Marathi,14:30,SilverOffline,100₹,40,21
+Pune,CarnivalPremierPlazaChinchwad,Marathi,14:30,PlatinumOffline,100₹,189,189
+Pune,CarnivalPremierPlazaChinchwad,Marathi,14:30,PremiumReclineOffline,180₹,19,10
+Junnar,ShevantaCinemaJunnar,Marathi,21:30,Gold,99₹,100,0
