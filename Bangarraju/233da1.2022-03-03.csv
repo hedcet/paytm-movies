@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Nandyal,SriRamaComplexLalitanagar,Telugu,14:30,FristClass,78₹,275,21
+Nandyal,SriRamaComplexLalitanagar,Telugu,14:30,SecondClass,78₹,39,0
+Nandyal,SriRamaComplexLalitanagar,Telugu,14:30,ThirdClass,56₹,80,0
+Mandapeta,SatyasriPicturePalaceGandhiNagar,Telugu,21:15,FirstClass,110₹,336,84
