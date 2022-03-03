@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,AbhinayTheatreGandhiNagar,Kannada,10:30,Balcony,150₹,369,312
+Bengaluru,AbhinayTheatreGandhiNagar,Kannada,10:30,MiniBalcony,120₹,146,146
+Bengaluru,AbhinayTheatreGandhiNagar,Kannada,10:30,Second,100₹,480,424
