@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kaveripattinam,RaviTheatre4KKaveripattinam,Tamil,10:30,Gold,70₹,204,0
+Kaveripattinam,RaviTheatre4KKaveripattinam,Tamil,10:30,Silver,50₹,244,0
+Chennai,SriVenkateswaraTalkiesACDolby71Thiruvallur,Tamil,14:00,First,50₹,172,24
+Kaveripattinam,RaviTheatre4KKaveripattinam,Tamil,14:30,Gold,70₹,204,0
+Kaveripattinam,RaviTheatre4KKaveripattinam,Tamil,14:30,Silver,50₹,244,0
+Chennai,SriVenkateswaraTalkiesACDolby71Thiruvallur,Tamil,18:15,First,50₹,172,34
+Kumbakonam,SriVijayalakshmiCinemasAC4K3D,Tamil,18:15,FirstClass,120₹,414,198
+Kaveripattinam,RaviTheatre4KKaveripattinam,Tamil,21:30,Gold,90₹,204,0
+Kaveripattinam,RaviTheatre4KKaveripattinam,Tamil,21:30,Silver,70₹,244,0
+Kaveripattinam,RaviTheatre4KKaveripattinam,Tamil,21:30,Gold,70₹,204,0
+Kaveripattinam,RaviTheatre4KKaveripattinam,Tamil,21:30,Silver,50₹,244,0
+Kumbakonam,SriVijayalakshmiCinemasAC4K3D,Tamil,22:00,FirstClass,120₹,414,198
+Karaikudi,NatarajaTheatrePeriyamet,Tamil,22:15,Balcony,100₹,72,16
+Karaikudi,NatarajaTheatrePeriyamet,Tamil,22:15,FirstClass,80₹,65,26
+Karaikudi,NatarajaTheatrePeriyamet,Tamil,22:15,SecondClass,80₹,242,110
