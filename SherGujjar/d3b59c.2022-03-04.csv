@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ghaziabad,MirajCinemasM4URajendraNagar,Hindi,11:35,Executive,130₹,134,5
+Ghaziabad,MirajCinemasM4URajendraNagar,Hindi,11:35,Special,110₹,60,0
+Jaipur,InoxCityPlazaMallBaniPark,Hindi,12:00,Comfort,112₹,30,0
+Jaipur,InoxCityPlazaMallBaniPark,Hindi,12:00,Luxury,140₹,120,0
+Jaipur,InoxCityPlazaMallBaniPark,Hindi,12:00,PassPass,150₹,45,0
+Meerut,InoxPvsMallShastriNagar,Hindi,12:30,Cl,150₹,112,2
+Meerut,InoxPvsMallShastriNagar,Hindi,12:30,Ex,150₹,40,0
+Meerut,InoxPvsMallShastriNagar,Hindi,12:30,Rr,290₹,15,2
+Meerut,InoxPvsMallShastriNagar,Hindi,12:30,Ry,150₹,28,2
+Gurgaon,CarnivalRahejaMallGurgaon,Hindi,12:45,Classic,250₹,40,0
+Gurgaon,CarnivalRahejaMallGurgaon,Hindi,12:45,PremiumOffline,250₹,51,3
+Gurgaon,CarnivalRahejaMallGurgaon,Hindi,12:45,Aurus,400₹,14,0
+Gurgaon,CarnivalRahejaMallGurgaon,Hindi,12:45,Standard,250₹,52,0
+Noida,CarnivalTgipNoida,Hindi,13:00,Gold,200₹,263,9
+Faridabad,InoxCrownInteriorzMallDelhiMathuraRoad,Hindi,15:05,Club,230₹,154,63
+Faridabad,InoxCrownInteriorzMallDelhiMathuraRoad,Hindi,15:05,Executive,210₹,54,0
