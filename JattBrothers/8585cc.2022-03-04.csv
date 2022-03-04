@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Hisar,EliteCinemasHisar,Punjabi,19:30,Gold,100₹,30,0
+Hisar,EliteCinemasHisar,Punjabi,19:30,Lounge,250₹,30,0
+Batala,SolitaireCinemasBatala,Punjabi,21:50,SolitaireClassic,150₹,49,0
+Batala,SolitaireCinemasBatala,Punjabi,21:50,Gold,150₹,48,9
+Batala,SolitaireCinemasBatala,Punjabi,21:50,Silver,150₹,20,20
+Rupnagar,RitzMultiplexRupnagar,Punjabi,22:01,GoldClass,200₹,17,0
+Rupnagar,RitzMultiplexRupnagar,Punjabi,22:01,SilverClass,180₹,57,0
+Rupnagar,RitzMultiplexRupnagar,Punjabi,22:01,Silver1Class,150₹,38,0
+Rupnagar,RitzMultiplexRupnagar,Punjabi,22:01,NormalC,120₹,34,0
