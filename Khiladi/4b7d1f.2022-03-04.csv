@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+CoochBehar,BhavaniCinemaKeshavRoad,Hindi,10:00,Special,100₹,260,134
+CoochBehar,BhavaniCinemaKeshavRoad,Hindi,10:00,1stClass,50₹,56,36
+Siliguri,NewCinemaPara,Hindi,10:45,Sofa,100₹,96,24
+Siliguri,NewCinemaPara,Hindi,10:45,Special,60₹,102,28
+Siliguri,NewCinemaPara,Hindi,10:45,FirstClass,40₹,285,0
+Jamkhambhaliya,VijayCinemaYogeshwarNagar,Hindi,15:00,Balcony,70₹,100,51
+Jamkhambhaliya,VijayCinemaYogeshwarNagar,Hindi,15:00,First,60₹,227,114
+Kota,MayurCinemaNayapura,Hindi,15:15,Royal,70₹,10,0
+Kota,MayurCinemaNayapura,Hindi,15:15,Gold,50₹,65,0
+Kota,MayurCinemaNayapura,Hindi,15:15,Silver,50₹,55,0
+Kota,MayurCinemaNayapura,Hindi,21:15,Royal,70₹,10,0
+Kota,MayurCinemaNayapura,Hindi,21:15,Gold,50₹,65,0
+Kota,MayurCinemaNayapura,Hindi,21:15,Silver,50₹,55,0
+Jamkhambhaliya,VijayCinemaYogeshwarNagar,Hindi,21:30,Balcony,70₹,100,51
+Jamkhambhaliya,VijayCinemaYogeshwarNagar,Hindi,21:30,First,60₹,227,114
