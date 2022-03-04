@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,Vaibhav4KAC71DolbySanjayNagar,Kannada,11:00,Diamond,150₹,384,199
+Bengaluru,Vaibhav4KAC71DolbySanjayNagar,Kannada,11:00,Gold,120₹,513,274
+Channagiri,SriVenkateshwaraChitramandira,Kannada,18:00,FirstClass,100₹,404,304
+Devadurga,BharathChitramandira,Kannada,18:00,FirstClass,101₹,360,260
+Karkala,PlanetTheatreMarketRoad,Kannada,19:30,FirstClass,100₹,98,70
+Channagiri,SriVenkateshwaraChitramandira,Kannada,21:00,FirstClass,100₹,404,304
+Devadurga,BharathChitramandira,Kannada,21:00,FirstClass,101₹,360,260
+Bhadravati,TrsCinemasSatyaNetravathiTheatresCNRoad,Kannada,21:30,GoldClass,120₹,175,54
+Bengaluru,Vaibhav4KAC71DolbySanjayNagar,Kannada,21:45,Diamond,150₹,384,201
+Bengaluru,Vaibhav4KAC71DolbySanjayNagar,Kannada,21:45,Gold,120₹,513,274
