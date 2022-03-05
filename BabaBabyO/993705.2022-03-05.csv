@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PadmaCinemaSodepur,Bengali,11:45,Balcony,70₹,38,0
+Burdwan,InoxBurdwanArcadeBBGhoshRoad,Bengali,13:35,Club,140₹,72,0
+Burdwan,InoxBurdwanArcadeBBGhoshRoad,Bengali,13:35,Executive,112₹,36,0
+Burdwan,InoxBurdwanArcadeBBGhoshRoad,Bengali,13:35,Royal,140₹,40,7
+Kolkata,CinepolisAcropolisMallRajdangaRoad,Bengali,13:50,Executive,210₹,59,21
+Kolkata,CinepolisAcropolisMallRajdangaRoad,Bengali,13:50,Premium,220₹,34,10
+Kolkata,InoxCityCentreIiRajarhat,Bengali,14:00,Club,190₹,229,18
+Kolkata,InoxCityCentreIiRajarhat,Bengali,14:00,Executive,180₹,42,0
+Kolkata,InoxStarMallMadhyamgram,Bengali,14:40,Club,160₹,104,4
+Kolkata,InoxStarMallMadhyamgram,Bengali,14:40,Executive,140₹,34,0
+Kolkata,InoxStarMallMadhyamgram,Bengali,14:40,Royal,180₹,73,5
+Kolkata,CarnivalArtiSuncityMallBarasat,Bengali,17:35,Silver,89₹,40,0
+Kolkata,CarnivalArtiSuncityMallBarasat,Bengali,17:35,Gold,89₹,60,3
+Kolkata,CarnivalArtiSuncityMallBarasat,Bengali,17:35,Diamond,100₹,115,24
