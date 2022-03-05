@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Dabra,PrakashCineplexGurudwaraRoad,Hindi,15:15,Recliner,150₹,84,3
+Dabra,PrakashCineplexGurudwaraRoad,Hindi,15:15,Maharaja,100₹,84,3
+Dabra,PrakashCineplexGurudwaraRoad,Hindi,15:15,Gold,100₹,84,3
+Dabra,PrakashCineplexGurudwaraRoad,Hindi,15:15,Silver,100₹,84,3
+Dabra,PrakashCineplexGurudwaraRoad,Hindi,18:15,Recliner,150₹,84,0
+Dabra,PrakashCineplexGurudwaraRoad,Hindi,18:15,Maharaja,100₹,84,0
+Dabra,PrakashCineplexGurudwaraRoad,Hindi,18:15,Gold,100₹,84,0
+Dabra,PrakashCineplexGurudwaraRoad,Hindi,18:15,Silver,100₹,84,0
+Dabra,PrakashCineplexGurudwaraRoad,Hindi,21:00,Recliner,150₹,84,0
+Dabra,PrakashCineplexGurudwaraRoad,Hindi,21:00,Maharaja,100₹,84,0
+Dabra,PrakashCineplexGurudwaraRoad,Hindi,21:00,Gold,100₹,84,0
+Dabra,PrakashCineplexGurudwaraRoad,Hindi,21:00,Silver,100₹,84,0
