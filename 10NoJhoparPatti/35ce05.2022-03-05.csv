@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Arambagh,SudhanilTalkies,Bengali,18:00,Balcony,35₹,400,344
+Arambagh,SudhanilTalkies,Bengali,18:00,RearStall,25₹,412,370
+Krishnanagar,SangeetaTalkies,Bengali,19:00,Balcony,50₹,231,165
+Krishnanagar,SangeetaTalkies,Bengali,19:00,FirstClass,30₹,513,454
+Kolkata,ChhabigharCinemaBaithakkhana,Bengali,19:00,Balcony,80₹,144,80
+Kolkata,ChhabigharCinemaBaithakkhana,Bengali,19:00,RearStall,60₹,502,148
