@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Jaipur,InoxCityPlazaMallBaniPark,Hindi,12:00,Comfort,112₹,30,0
+Jaipur,InoxCityPlazaMallBaniPark,Hindi,12:00,Luxury,140₹,120,0
+Jaipur,InoxCityPlazaMallBaniPark,Hindi,12:00,PassPass,150₹,45,0
+GreaterNoida,PvrAnsalPlazaGreaterNoida,Hindi,12:00,Classic,150₹,128,0
+GreaterNoida,PvrAnsalPlazaGreaterNoida,Hindi,12:00,Prime,180₹,64,0
+Gurgaon,CarnivalRahejaMallGurgaon,Hindi,12:45,Classic,250₹,40,0
+Gurgaon,CarnivalRahejaMallGurgaon,Hindi,12:45,PremiumOffline,250₹,51,9
+Gurgaon,CarnivalRahejaMallGurgaon,Hindi,12:45,Aurus,400₹,14,0
+Gurgaon,CarnivalRahejaMallGurgaon,Hindi,12:45,Standard,250₹,52,0
+Noida,CarnivalTgipNoida,Hindi,13:00,Gold,200₹,263,2
