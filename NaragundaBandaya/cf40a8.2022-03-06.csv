@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Nargund,SriRenukaChitramandira,Kannada,12:00,Balcony,100₹,110,0
+Nargund,SriRenukaChitramandira,Kannada,12:00,FirstClass,80₹,371,0
+Mudhol,ApsonaTheatreMudhol,Kannada,18:00,Balcony,100₹,70,40
+Nargund,SriRenukaChitramandira,Kannada,18:00,Balcony,100₹,110,0
+Nargund,SriRenukaChitramandira,Kannada,18:00,FirstClass,80₹,371,0
+Mudhol,ApsonaTheatreMudhol,Kannada,21:00,Balcony,100₹,70,40
+Nargund,SriRenukaChitramandira,Kannada,21:00,Balcony,100₹,110,0
+Nargund,SriRenukaChitramandira,Kannada,21:00,FirstClass,80₹,371,0
+Yelburga,PraveenTalkies,Kannada,21:45,FirstClass,80₹,386,270
