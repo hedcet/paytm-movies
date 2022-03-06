@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bihpuria,PreranaCinema,Assamese,16:00,Platinum,150₹,57,2
+Bihpuria,PreranaCinema,Assamese,16:00,Gold,120₹,50,2
+Bihpuria,PreranaCinema,Assamese,16:00,Silver,80₹,33,0
+Tezpur,GoldCinemaTezpur,Assamese,20:00,Platinum,150₹,100,0
+Tezpur,GoldCinemaTezpur,Assamese,20:00,Gold,120₹,100,0
+Tezpur,GoldCinemaTezpur,Assamese,20:00,Silver,100₹,100,0
