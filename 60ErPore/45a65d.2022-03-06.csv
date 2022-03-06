@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,LaliCinemaBarasat,Bengali,14:00,DressCircle,100₹,22,16
+Kolkata,LaliCinemaBarasat,Bengali,14:00,Balcony,70₹,169,142
+Kolkata,LaliCinemaBarasat,Bengali,14:00,RearStall,50₹,270,216
+Kolkata,MinarCinemaACDolbyHatiBagan,Bengali,14:30,Balcony,130₹,274,159
+Kolkata,ChhabigharCinemaBaithakkhana,Bengali,17:15,Balcony,80₹,144,80
+Kolkata,ChhabigharCinemaBaithakkhana,Bengali,17:15,RearStall,60₹,502,148
+Kolkata,BijoliCinemaBhowanipore,Bengali,19:00,Balcony,100₹,188,109
+Kolkata,BijoliCinemaBhowanipore,Bengali,19:00,RearStall,80₹,614,194
