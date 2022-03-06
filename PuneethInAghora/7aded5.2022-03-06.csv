@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Manipal,InoxCentralCinemasLaxmindraNagar,Kannada,12:35,Club,150₹,43,0
+Manipal,InoxCentralCinemasLaxmindraNagar,Kannada,12:35,Executive,130₹,40,1
+Manipal,InoxCentralCinemasLaxmindraNagar,Kannada,12:35,Royal,250₹,7,0
+Mysuru,InoxMallOfMysoreMgRoad,Kannada,12:45,Club,140₹,264,4
+Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,Kannada,13:10,Classic,240₹,106,4
+Bengaluru,AbhinayTheatreGandhiNagar,Kannada,13:30,Balcony,150₹,369,312
+Bengaluru,AbhinayTheatreGandhiNagar,Kannada,13:30,MiniBalcony,120₹,146,146
+Bengaluru,AbhinayTheatreGandhiNagar,Kannada,13:30,Second,100₹,480,424
+Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,Kannada,16:00,Balcony,100₹,354,318
+Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,Kannada,16:00,SecondClass,80₹,748,708
+Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,Kannada,19:00,Balcony,100₹,354,318
+Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,Kannada,19:00,SecondClass,80₹,748,708
