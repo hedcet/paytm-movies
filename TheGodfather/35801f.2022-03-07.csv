@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Noida,PvrLogixCityCentreNoida,English,16:35,Classic,250₹,87,2
+NewDelhi,PvrPromenadeVasantKunj,English,22:20,Classic,320₹,96,2
+NewDelhi,PvrPromenadeVasantKunj,English,22:20,Prime,320₹,33,2
+NewDelhi,PvrVegasDwarka,English,22:30,Classic,300₹,76,0
