@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Malda,RupkothaCinemaHallMalda,Hindi,10:30,SpecialAc,130₹,82,35
+Malda,RupkothaCinemaHallMalda,Hindi,10:30,DressCircle,60₹,99,42
+Titagarh,LaxmiCinemaTitagarh,Hindi,11:00,Balcony,70₹,31,0
+Titagarh,LaxmiCinemaTitagarh,Hindi,11:00,Firstclass,50₹,48,0
+Karimganj,GoldCinemaKarimganj,Hindi,14:00,Platinum,150₹,100,0
+Karimganj,GoldCinemaKarimganj,Hindi,14:00,Gold,130₹,100,0
+Karimganj,GoldCinemaKarimganj,Hindi,14:00,Silver,100₹,100,0
+Tezpur,GoldCinemaTezpur,Hindi,16:30,Platinum,150₹,100,0
+Tezpur,GoldCinemaTezpur,Hindi,16:30,Gold,120₹,100,0
+Tezpur,GoldCinemaTezpur,Hindi,16:30,Silver,100₹,100,0
+Nagaon,DivyaJyotiCinemaNagaon,Hindi,19:30,PrivateBox,150₹,10,0
+Nagaon,DivyaJyotiCinemaNagaon,Hindi,19:30,GoldA,100₹,90,68
+Nagaon,DivyaJyotiCinemaNagaon,Hindi,19:30,GoldB,100₹,144,96
+Guwahati,GoldCinemaPaltanbazar,Hindi,20:00,Gold,120₹,100,0
+Guwahati,GoldCinemaPaltanbazar,Hindi,20:00,Silver,100₹,100,0
