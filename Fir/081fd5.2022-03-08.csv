@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Trichy,SriRengarajTalkiesSrirangam,Tamil,14:15,FirstClass,50₹,200,0
+Trichy,SriRengarajTalkiesSrirangam,Tamil,18:15,FirstClass,50₹,200,0
+Srivaikuntam,ChandraTheatreSrivaikuntam,Tamil,18:30,FirstClass,40₹,86,0
+Srivaikuntam,ChandraTheatreSrivaikuntam,Tamil,18:30,SecondClass,20₹,196,196
+Kulittalai,PalaceTheatreMaduraiRoad,Tamil,22:00,FirstClass,60₹,249,0
+Srivaikuntam,ChandraTheatreSrivaikuntam,Tamil,22:00,FirstClass,40₹,86,0
+Srivaikuntam,ChandraTheatreSrivaikuntam,Tamil,22:00,SecondClass,20₹,196,196
+Trichy,SriRengarajTalkiesSrirangam,Tamil,22:15,FirstClass,50₹,200,0
