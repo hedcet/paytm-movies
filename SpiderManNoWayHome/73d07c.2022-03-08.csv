@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Indore,PvrPlayHouseTreasureIslandIndore,Hindi,10:00,Prime,110₹,46,19
+Indore,PvrPlayHouseTreasureIslandIndore,Hindi,10:00,Classic,110₹,26,0
+Indore,PvrPlayHouseTreasureIslandIndore,Hindi,10:00,Recliner,170₹,8,5
+Bengaluru,PvrVegaPlayHouseBannerghattaRoad,English,12:00,3DClassic,178₹,70,7
+NewDelhi,PvrVegasPlayHouseDwarka,Hindi,15:15,3DRecliner,400₹,8,2
+NewDelhi,PvrVegasPlayHouseDwarka,Hindi,15:15,3DPrime,400₹,14,1
+NewDelhi,PvrVegasPlayHouseDwarka,Hindi,15:15,3DClassic,350₹,36,0
+Bengaluru,PvrVegaPlayHouseBannerghattaRoad,English,22:00,3DClassic,198₹,70,16
