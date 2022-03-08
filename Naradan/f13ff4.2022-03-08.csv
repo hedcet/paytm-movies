@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kozhikode,ApsaraTheatre4KCalicut,Malayalam,11:30,Balcony,200₹,210,44
+Kozhikode,ApsaraTheatre4KCalicut,Malayalam,11:30,FirstClass,110₹,803,75
+Kozhikode,ApsaraTheatre4KCalicut,Malayalam,18:00,Balcony,200₹,210,46
+Kozhikode,ApsaraTheatre4KCalicut,Malayalam,18:00,FirstClass,110₹,803,77
+Kozhikode,ApsaraTheatre4KCalicut,Malayalam,21:00,Balcony,200₹,210,42
+Kozhikode,ApsaraTheatre4KCalicut,Malayalam,21:00,FirstClass,110₹,803,77
+Thrissur,RamdasMGRoad,Malayalam,21:15,DimondCircle,125₹,51,0
+Thrissur,RamdasMGRoad,Malayalam,21:15,PearlCircle,100₹,288,14
+Trivandrum,KrishnaTheatreKazhakoottam,Malayalam,21:30,Reserved,130₹,252,102
+Thrissur,GirijaTheatreThrissur,Malayalam,21:30,Recliner,290₹,10,3
+Thrissur,GirijaTheatreThrissur,Malayalam,21:30,Luxury,180₹,103,4
+Thrissur,GirijaTheatreThrissur,Malayalam,21:30,StadiumClass,120₹,376,28
+Amballur,ChandVsreeramaMoviesPudukkad,Malayalam,22:00,Platinum,180₹,25,0
+Amballur,ChandVsreeramaMoviesPudukkad,Malayalam,22:00,Gold,129₹,182,0
