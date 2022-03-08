@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Pusad,RajkumarCineplex,Marathi,11:45,Platinum,100₹,100,0
+Pusad,RajkumarCineplex,Marathi,11:45,LadiesGold,50₹,100,0
+Pusad,RajkumarCineplex,Marathi,11:45,Silver,50₹,100,0
+Latur,RegalCinemaSaweWadi,Marathi,18:00,Balcony,80₹,150,0
+Latur,RegalCinemaSaweWadi,Marathi,18:00,FirstClass,60₹,322,0
+Bhokardan,EraaCinemaMhadaColony,Marathi,18:00,Balcony,90₹,99,0
+Bhokardan,EraaCinemaMhadaColony,Marathi,18:00,FirstClass,70₹,107,0
+Parbhani,MahaveerTalkiesParbhani,Marathi,18:05,Balcony,70₹,149,37
+Parbhani,MahaveerTalkiesParbhani,Marathi,18:05,DressCircle,50₹,208,5
+Parbhani,MahaveerTalkiesParbhani,Marathi,18:05,UpperStall,50₹,272,0
