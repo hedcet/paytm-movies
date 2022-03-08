@@ -1,0 +1,14 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Meerut,InoxPvsMallShastriNagar,Hindi,09:00,Cl,150₹,112,0
+Meerut,InoxPvsMallShastriNagar,Hindi,09:00,Ex,150₹,40,0
+Meerut,InoxPvsMallShastriNagar,Hindi,09:00,Rr,310₹,15,0
+Meerut,InoxPvsMallShastriNagar,Hindi,09:00,Ry,150₹,28,0
+GreaterNoida,PvrAnsalPlazaGreaterNoida,Hindi,12:00,Classic,130₹,128,0
+GreaterNoida,PvrAnsalPlazaGreaterNoida,Hindi,12:00,Prime,160₹,48,48
+Gurgaon,CarnivalRahejaMallGurgaon,Hindi,12:45,Classic,250₹,40,0
+Gurgaon,CarnivalRahejaMallGurgaon,Hindi,12:45,PremiumOffline,250₹,51,8
+Gurgaon,CarnivalRahejaMallGurgaon,Hindi,12:45,Aurus,400₹,14,4
+Gurgaon,CarnivalRahejaMallGurgaon,Hindi,12:45,Standard,250₹,52,0
+Noida,CarnivalTgipNoida,Hindi,13:00,Gold,200₹,263,72
+Ghaziabad,MirajCinemasM4URajendraNagar,Hindi,14:30,Executive,110₹,134,0
+Ghaziabad,MirajCinemasM4URajendraNagar,Hindi,14:30,Special,110₹,60,0
