@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bihpuria,PreranaCinema,Assamese,11:00,Platinum,150₹,57,0
+Bihpuria,PreranaCinema,Assamese,11:00,Gold,120₹,50,0
+Bihpuria,PreranaCinema,Assamese,11:00,Silver,80₹,33,0
+Guwahati,GoldCinemaNarengi,Assamese,14:00,Diamond,130₹,100,0
+Guwahati,GoldCinemaNarengi,Assamese,14:00,Gold,110₹,100,0
+Guwahati,GoldCinemaNarengi,Assamese,14:00,Silver,90₹,100,0
+Bihpuria,PreranaCinema,Assamese,16:00,Platinum,150₹,57,0
+Bihpuria,PreranaCinema,Assamese,16:00,Gold,120₹,50,2
+Bihpuria,PreranaCinema,Assamese,16:00,Silver,80₹,33,0
+Guwahati,GoldCinemaNarengi,Assamese,17:00,Diamond,130₹,100,0
+Guwahati,GoldCinemaNarengi,Assamese,17:00,Gold,110₹,100,0
+Guwahati,GoldCinemaNarengi,Assamese,17:00,Silver,90₹,100,0
