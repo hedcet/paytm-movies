@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Huvinahadagali,GayathriTheatre,Kannada,10:30,FirstClass,81₹,200,0
+Malebennur,SriJyothiTalkies,Kannada,10:30,FirstClass,81₹,400,352
+Gadag,ShriKrishnaTheatreDolbyDigital71TangaKoot,Kannada,12:00,Balcony,100₹,230,92
+Gadag,ShriKrishnaTheatreDolbyDigital71TangaKoot,Kannada,12:00,DressCircle,80₹,537,0
+Gadag,ShriKrishnaTheatreDolbyDigital71TangaKoot,Kannada,15:00,Balcony,100₹,230,92
+Gadag,ShriKrishnaTheatreDolbyDigital71TangaKoot,Kannada,15:00,DressCircle,80₹,537,0
+Malebennur,SriJyothiTalkies,Kannada,18:30,FirstClass,81₹,400,352
+Huvinahadagali,GayathriTheatre,Kannada,20:30,FirstClass,81₹,200,0
+Malebennur,SriJyothiTalkies,Kannada,21:30,FirstClass,81₹,400,352
