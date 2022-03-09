@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bellary,RaghavendraTheatre2KACKcRoad,Kannada,13:30,Diamond,150₹,150,45
+Bellary,RaghavendraTheatre2KACKcRoad,Kannada,13:30,Gold,100₹,453,312
+Gadag,ShriKrishnaTheatreDolbyDigital71TangaKoot,Kannada,18:00,Balcony,100₹,230,92
+Gadag,ShriKrishnaTheatreDolbyDigital71TangaKoot,Kannada,18:00,DressCircle,80₹,537,0
+Bellary,RaghavendraTheatre2KACKcRoad,Kannada,19:30,Diamond,150₹,150,45
+Bellary,RaghavendraTheatre2KACKcRoad,Kannada,19:30,Gold,100₹,453,312
+Gadag,ShriKrishnaTheatreDolbyDigital71TangaKoot,Kannada,21:00,Balcony,100₹,230,92
+Gadag,ShriKrishnaTheatreDolbyDigital71TangaKoot,Kannada,21:00,DressCircle,80₹,537,0
+Moodabidri,AmarshreeTheatreVijayaNagar,Kannada,21:15,Balcony,100₹,192,114
+Moodabidri,AmarshreeTheatreVijayaNagar,Kannada,21:15,SecondClass,90₹,368,367
