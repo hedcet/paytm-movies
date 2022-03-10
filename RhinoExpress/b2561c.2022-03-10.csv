@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Tezpur,GoldCinemaTezpur,Assamese,15:20,Platinum,150₹,100,0
+Tezpur,GoldCinemaTezpur,Assamese,15:20,Gold,120₹,100,0
+Tezpur,GoldCinemaTezpur,Assamese,15:20,Silver,100₹,100,0
+Bihpuria,PreranaCinema,Assamese,16:00,Platinum,150₹,57,1
+Bihpuria,PreranaCinema,Assamese,16:00,Gold,120₹,50,0
+Bihpuria,PreranaCinema,Assamese,16:00,Silver,80₹,33,0
+Guwahati,GoldCinemaNarengi,Assamese,17:00,Diamond,130₹,100,0
+Guwahati,GoldCinemaNarengi,Assamese,17:00,Gold,110₹,100,0
+Guwahati,GoldCinemaNarengi,Assamese,17:00,Silver,90₹,100,0
+Tezpur,GoldCinemaTezpur,Assamese,17:45,Platinum,150₹,100,0
+Tezpur,GoldCinemaTezpur,Assamese,17:45,Gold,120₹,100,0
+Tezpur,GoldCinemaTezpur,Assamese,17:45,Silver,100₹,100,0
+Tezpur,GoldCinemaTezpur,Assamese,20:00,Platinum,150₹,100,0
+Tezpur,GoldCinemaTezpur,Assamese,20:00,Gold,120₹,100,0
+Tezpur,GoldCinemaTezpur,Assamese,20:00,Silver,100₹,100,0
