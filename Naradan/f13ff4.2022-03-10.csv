@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,KrishnaTheatreKazhakoottam,Malayalam,18:15,Reserved,130₹,252,102
+Kurumassery,KripaMoviesAC71PxdKurumassery,Malayalam,18:15,GoldCircle,110₹,250,50
+Koottanad,SapthaTharangCinemaCityCentralMall,Malayalam,18:30,Diamond,200₹,13,0
+Koottanad,SapthaTharangCinemaCityCentralMall,Malayalam,18:30,Golden,110₹,150,0
+Kurumassery,KripaMoviesAC71PxdKurumassery,Malayalam,21:30,GoldCircle,110₹,250,50
+Koottanad,SapthaTharangCinemaCityCentralMall,Malayalam,21:30,Diamond,200₹,13,0
+Koottanad,SapthaTharangCinemaCityCentralMall,Malayalam,21:30,Golden,110₹,150,0
+Kattanam,GanamTheatreComplexACKattanam,Malayalam,21:30,FirstClass,110₹,129,67
+Amballur,ChandVsreeramaMoviesPudukkad,Malayalam,22:00,Platinum,180₹,25,0
+Amballur,ChandVsreeramaMoviesPudukkad,Malayalam,22:00,Gold,129₹,182,0
