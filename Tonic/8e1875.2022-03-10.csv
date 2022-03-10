@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,IndiraCinemaBhawanipur,Bengali,12:00,Box,100₹,30,0
+Kolkata,IndiraCinemaBhawanipur,Bengali,12:00,Balcony,80₹,280,120
+Kolkata,AjantaCinemaBehala,Bengali,16:00,Balcony,150₹,106,106
+Kolkata,PvrDiamondPlazaJassore,Bengali,19:05,Classic,160₹,100,22
+Kolkata,PvrDiamondPlazaJassore,Bengali,19:05,Prime,220₹,11,7
+Kolkata,PvrDiamondPlazaJassore,Bengali,19:05,Recliner,420₹,12,0
