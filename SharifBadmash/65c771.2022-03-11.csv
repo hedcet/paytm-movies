@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Jamnagar,AmberCinemaJamnagar,Gujarati,10:30,Balcony,60₹,358,298
+Jamnagar,AmberCinemaJamnagar,Gujarati,10:30,StallClass,50₹,598,568
+Ahmedabad,RevolutionMultiplexMahemdavad,Gujarati,18:30,Couple,160₹,100,0
+Ahmedabad,RevolutionMultiplexMahemdavad,Gujarati,18:30,Platinum,140₹,100,0
+Ahmedabad,RevolutionMultiplexMahemdavad,Gujarati,18:30,Golden,120₹,100,0
+Ahmedabad,RevolutionMultiplexMahemdavad,Gujarati,18:30,Silver,100₹,100,0
