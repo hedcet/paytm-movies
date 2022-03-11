@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mylavaram,NarayanaTheatreMylavaram,Telugu,11:00,FirstClass,150₹,220,148
+Mylavaram,NarayanaTheatreMylavaram,Telugu,11:00,SecondClass,110₹,48,24
+Mylavaram,NarayanaTheatreMylavaram,Telugu,11:00,ThirdClass,110₹,92,92
