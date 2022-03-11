@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Vijayawada,SakuntalaAC2KDolbySurroundVijayawada,Telugu,11:15,Balcony,100₹,264,24
+Vijayawada,SakuntalaAC2KDolbySurroundVijayawada,Telugu,11:15,FirstClass,100₹,44,0
+Vijayawada,SakuntalaAC2KDolbySurroundVijayawada,Telugu,11:15,SecondClass,100₹,40,0
+Vijayawada,SakuntalaAC2KDolbySurroundVijayawada,Telugu,11:15,ThirdClass,50₹,103,83
+Vijayawada,SakuntalaAC2KDolbySurroundVijayawada,Telugu,14:30,Balcony,100₹,264,24
+Vijayawada,SakuntalaAC2KDolbySurroundVijayawada,Telugu,14:30,FirstClass,100₹,44,0
+Vijayawada,SakuntalaAC2KDolbySurroundVijayawada,Telugu,14:30,SecondClass,100₹,40,0
+Vijayawada,SakuntalaAC2KDolbySurroundVijayawada,Telugu,14:30,ThirdClass,50₹,103,1
