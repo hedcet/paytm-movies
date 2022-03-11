@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,10:00,Balcony,120₹,307,151
+Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,10:00,FirstClass,80₹,555,555
+Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,10:00,SecondClass,40₹,202,202
+Bengaluru,KrishnaTheatreKrPuram,Kannada,11:00,Balcony,120₹,271,243
+Bengaluru,KrishnaTheatreKrPuram,Kannada,11:00,FirstClass,50₹,600,600
+Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,13:00,Balcony,120₹,307,151
+Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,13:00,FirstClass,80₹,555,555
+Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,13:00,SecondClass,40₹,202,202
