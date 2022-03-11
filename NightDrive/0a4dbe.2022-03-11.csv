@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Puthoor,ChellamTheatrePuthoor,Malayalam,10:30,Balcony,150₹,390,12
+Puthoor,ChellamTheatrePuthoor,Malayalam,10:30,Reserved,125₹,610,340
+Kozhinjampara,GeethaCinemax,Malayalam,14:00,Golden,110₹,231,0
+Trivandrum,KrishnaTheatreKazhakoottam,Malayalam,21:30,Reserved,130₹,252,104
+Kattanam,GanamTheatreComplexACKattanam,Malayalam,21:30,FirstClass,110₹,129,67
+Amballur,ChandVsreeramaMoviesPudukkad,Malayalam,22:00,Platinum,180₹,25,4
+Amballur,ChandVsreeramaMoviesPudukkad,Malayalam,22:00,Gold,129₹,182,11
+Pattambi,SyndicateCinemas4KRgbLaserAtmosKoppam,Malayalam,22:25,Platinum,250₹,20,0
+Pattambi,SyndicateCinemas4KRgbLaserAtmosKoppam,Malayalam,22:25,Gold,150₹,109,14
+Pattambi,SyndicateCinemas4KRgbLaserAtmosKoppam,Malayalam,22:25,Silver,130₹,76,0
