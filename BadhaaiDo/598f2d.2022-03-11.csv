@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Jaipur,InoxGtCentralMallMalviyaNagar,Hindi,09:05,Kiddles,160₹,34,8
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,Hindi,12:35,Club,210₹,32,16
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,Hindi,12:35,Executive,200₹,16,0
+Lucknow,InoxRiversideMallGomtiNagar,Hindi,15:50,Club,180₹,93,21
+Lucknow,InoxRiversideMallGomtiNagar,Hindi,15:50,Executive,160₹,20,0
+Faridabad,InoxCrownInteriorzMallDelhiMathuraRoad,Hindi,16:05,Club,230₹,178,11
+Faridabad,InoxCrownInteriorzMallDelhiMathuraRoad,Hindi,16:05,Executive,210₹,48,0
+Ghaziabad,NewUsCinemasAdityaMall,Hindi,16:30,Luxury,150₹,130,0
+Ghaziabad,NewUsCinemasAdityaMall,Hindi,16:30,LuxuryPlus,180₹,132,0
