@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kumbakonam,SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital,Tamil,18:15,Balcony,100₹,34,0
+Kumbakonam,SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital,Tamil,18:15,FirstClass,80₹,212,0
+Kumbakonam,SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital,Tamil,18:15,SecondClass,80₹,44,0
+Kumbakonam,SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital,Tamil,22:15,Balcony,100₹,34,0
+Kumbakonam,SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital,Tamil,22:15,FirstClass,80₹,212,1
+Kumbakonam,SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital,Tamil,22:15,SecondClass,80₹,44,1
