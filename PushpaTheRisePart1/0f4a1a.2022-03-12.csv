@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Vijayawada,SakuntalaAC2KDolbySurroundVijayawada,Telugu,14:30,Balcony,100₹,264,25
+Vijayawada,SakuntalaAC2KDolbySurroundVijayawada,Telugu,14:30,FirstClass,100₹,44,0
+Vijayawada,SakuntalaAC2KDolbySurroundVijayawada,Telugu,14:30,SecondClass,100₹,40,0
+Vijayawada,SakuntalaAC2KDolbySurroundVijayawada,Telugu,14:30,ThirdClass,50₹,103,89
