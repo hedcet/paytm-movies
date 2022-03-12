@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Indore,InoxC21MallSheetalNagar,Hindi,09:05,Normal,112₹,164,14
+Lucknow,InoxRiversideMallGomtiNagar,Hindi,09:45,Club,130₹,93,2
+Lucknow,InoxRiversideMallGomtiNagar,Hindi,09:45,Executive,130₹,20,0
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,Hindi,12:35,Club,210₹,32,16
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,Hindi,12:35,Executive,200₹,16,0
+Lucknow,InoxRiversideMallGomtiNagar,Hindi,15:50,Club,180₹,93,23
+Lucknow,InoxRiversideMallGomtiNagar,Hindi,15:50,Executive,160₹,20,0
+Faridabad,InoxCrownInteriorzMallDelhiMathuraRoad,Hindi,16:05,Club,230₹,178,34
+Faridabad,InoxCrownInteriorzMallDelhiMathuraRoad,Hindi,16:05,Executive,210₹,48,2
+Indore,InoxC21MallSheetalNagar,Hindi,21:15,Normal,230₹,163,0
+Noida,CinepolisSmartBharatMallFormerlySpiceMall,Hindi,22:00,Classic,240₹,65,0
+Noida,CinepolisSmartBharatMallFormerlySpiceMall,Hindi,22:00,Premium,250₹,40,26
