@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+AurangabadWestBengal,ShyamalTalkies,Hindi,14:00,AcRoom,100₹,22,22
+AurangabadWestBengal,ShyamalTalkies,Hindi,14:00,Balcony,50₹,220,180
+AurangabadWestBengal,ShyamalTalkies,Hindi,14:00,RearStall,30₹,460,420
+AurangabadWestBengal,ShyamalTalkies,Hindi,20:00,AcRoom,100₹,22,22
+AurangabadWestBengal,ShyamalTalkies,Hindi,20:00,Balcony,50₹,220,180
+AurangabadWestBengal,ShyamalTalkies,Hindi,20:00,RearStall,30₹,460,420
