@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,KrishnaTheatreKazhakoottam,Malayalam,18:15,Reserved,130₹,252,103
+Trivandrum,KrishnaTheatreKazhakoottam,Malayalam,21:30,Reserved,130₹,252,102
+Kattanam,GanamTheatreComplexACKattanam,Malayalam,21:30,FirstClass,110₹,129,70
+Edappal,SaradaMovies,Malayalam,21:30,Platinum,110₹,254,15
+Cherthala,EvmGrandCinemasCherthala,Malayalam,22:00,Platinum,160₹,18,18
+Cherthala,EvmGrandCinemasCherthala,Malayalam,22:00,Gold,130₹,185,76
+Amballur,ChandVsreeramaMoviesPudukkad,Malayalam,22:00,Platinum,180₹,25,0
+Amballur,ChandVsreeramaMoviesPudukkad,Malayalam,22:00,Gold,129₹,182,0
