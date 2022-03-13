@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,CarnivalArtiSuncityMallBarasat,Bengali,11:30,Silver,90₹,40,0
+Kolkata,CarnivalArtiSuncityMallBarasat,Bengali,11:30,Gold,90₹,60,0
+Kolkata,CarnivalArtiSuncityMallBarasat,Bengali,11:30,Diamond,90₹,115,4
+Kolkata,InoxSouthCityMall,Bengali,14:30,Premier,220₹,34,2
+Kolkata,InoxSouthCityMall,Bengali,14:30,Silver,230₹,156,107
+Kolkata,InoxStarMallMadhyamgram,Bengali,17:35,Club,160₹,92,61
+Kolkata,InoxStarMallMadhyamgram,Bengali,17:35,Executive,140₹,32,4
+Kolkata,InoxStarMallMadhyamgram,Bengali,17:35,Royal,180₹,63,47
