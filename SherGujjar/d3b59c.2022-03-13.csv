@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Faridabad,PristineMallOldSrsSec31Faridabad,Hindi,12:55,Platinum,180₹,94,66
+Faridabad,PristineMallOldSrsSec31Faridabad,Hindi,12:55,Gold,150₹,39,26
+Faridabad,PristineMallOldSrsSec31Faridabad,Hindi,12:55,Silver,130₹,26,13
+Gurgaon,CarnivalRahejaMallGurgaon,Hindi,17:10,Classic,250₹,40,0
+Gurgaon,CarnivalRahejaMallGurgaon,Hindi,17:10,PremiumOffline,250₹,51,3
+Gurgaon,CarnivalRahejaMallGurgaon,Hindi,17:10,Aurus,400₹,14,0
+Gurgaon,CarnivalRahejaMallGurgaon,Hindi,17:10,Standard,250₹,52,0
