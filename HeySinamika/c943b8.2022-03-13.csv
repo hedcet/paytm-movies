@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Thanjavur,VijayaTheatreACThanjavur,Tamil,11:15,FirstClass,120₹,388,0
+Chennai,SriVenkateswaraTalkiesACDolby71Thiruvallur,Tamil,14:00,First,50₹,172,128
+Thanjavur,VijayaTheatreACThanjavur,Tamil,14:15,FirstClass,120₹,388,0
+Kumbakonam,MsmCinemasRgbLaserPremierTowers,Tamil,18:00,BalconyAC,120₹,118,0
+Kumbakonam,MsmCinemasRgbLaserPremierTowers,Tamil,18:00,FirstClass,100₹,350,0
+Thanjavur,VijayaTheatreACThanjavur,Tamil,18:15,FirstClass,120₹,388,0
+Chennai,SriVenkateswaraTalkiesACDolby71Thiruvallur,Tamil,18:15,First,50₹,172,153
+Thanjavur,VijayaTheatreACThanjavur,Tamil,22:00,FirstClass,120₹,388,0
+Kumbakonam,MsmCinemasRgbLaserPremierTowers,Tamil,22:00,BalconyAC,120₹,118,0
+Kumbakonam,MsmCinemasRgbLaserPremierTowers,Tamil,22:00,FirstClass,100₹,350,0
