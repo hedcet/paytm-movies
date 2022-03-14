@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Suryapet,EshwaraMovieMahalSuryapet,Telugu,14:00,Balcony,100₹,352,200
+Suryapet,EshwaraMovieMahalSuryapet,Telugu,14:00,ReserveClass,100₹,70,70
+Suryapet,EshwaraMovieMahalSuryapet,Telugu,14:00,SecondClass,100₹,81,81
+Suryapet,EshwaraMovieMahalSuryapet,Telugu,21:00,Balcony,100₹,352,200
+Suryapet,EshwaraMovieMahalSuryapet,Telugu,21:00,ReserveClass,100₹,70,70
+Suryapet,EshwaraMovieMahalSuryapet,Telugu,21:00,SecondClass,100₹,81,81
