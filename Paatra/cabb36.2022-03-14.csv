@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,10:35,Classic,112₹,108,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,10:35,Prime,150₹,100,2
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,10:35,Recliner,220₹,8,0
+Bengaluru,InoxBrookefieldMallKundalahalli,Kannada,13:30,Club,130₹,20,0
+Bengaluru,InoxBrookefieldMallKundalahalli,Kannada,13:30,Executive,110₹,85,2
+Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,19:45,Executive,150₹,69,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,19:45,Premium,150₹,42,0
