@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PvrManiSquareMallEmBypassRoad,English,20:15,Classic,190₹,48,0
+Kolkata,PvrManiSquareMallEmBypassRoad,English,20:15,Prime,230₹,94,0
+Kolkata,PvrManiSquareMallEmBypassRoad,English,20:15,Recliner,510₹,8,0
+Kolkata,InoxQuestMallBallygunge,English,20:20,RoyalRecliner,250₹,77,1
