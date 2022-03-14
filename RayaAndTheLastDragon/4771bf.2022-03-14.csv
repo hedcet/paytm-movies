@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Gurgaon,PvrAmbienceGurgaon,English,19:50,ClassicNormal,250₹,84,0
+Gurgaon,PvrAmbienceGurgaon,English,19:50,Prime,300₹,68,0
+Indore,PvrTreasureIslandMallSouthTukoganj,English,20:00,Prime,150₹,69,20
+Indore,PvrTreasureIslandMallSouthTukoganj,English,20:00,Classic,130₹,28,0
