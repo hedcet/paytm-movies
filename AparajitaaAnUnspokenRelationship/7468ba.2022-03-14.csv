@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Durgapur,CarnivalCityCenterDreamplexBuilding,Bengali,11:10,Economy,99₹,44,0
+Durgapur,CarnivalCityCenterDreamplexBuilding,Bengali,11:10,Regular,99₹,70,0
+Durgapur,CarnivalCityCenterDreamplexBuilding,Bengali,11:10,Executive,99₹,219,0
+Kolkata,CarnivalArtiSuncityMallBarasat,Bengali,13:00,Diamond,90₹,118,4
+Kolkata,CarnivalArtiSuncityMallBarasat,Bengali,13:00,Gold,90₹,60,0
+Kolkata,CarnivalArtiSuncityMallBarasat,Bengali,13:00,Silver,90₹,40,0
