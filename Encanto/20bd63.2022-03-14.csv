@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NewDelhi,PvrSelectCityWalkSaket,English,20:00,ClassicNormal,200₹,120,4
+NewDelhi,PvrSelectCityWalkSaket,English,20:00,ClassicSuperior,250₹,34,11
+NewDelhi,PvrSelectCityWalkSaket,English,20:00,ReclinersNormal,500₹,10,1
