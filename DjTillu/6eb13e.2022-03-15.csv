@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Srikakulam,MithraMovieMaxLbsColony,Telugu,11:00,Premium,147₹,264,72
+Srikakulam,MithraMovieMaxLbsColony,Telugu,11:00,NonPremium,100₹,95,0
+Nalgonda,PvnCinemax,Telugu,14:00,1Balcony,110₹,473,193
+Nalgonda,PvnCinemax,Telugu,14:00,2SecondClass,80₹,131,0
+Nalgonda,PvnCinemax,Telugu,14:00,3ThirdClass,50₹,163,99
+Vizag,ShankaraSatyamPicturePalaceGopalapatnam,Telugu,21:00,Balcony,145₹,208,186
+Vizag,ShankaraSatyamPicturePalaceGopalapatnam,Telugu,21:00,FirstClass,80₹,25,25
+Vizag,ShankaraSatyamPicturePalaceGopalapatnam,Telugu,21:00,SecondClass,40₹,65,65
+Hyderabad,Kumar70MmKachiguda,Telugu,21:15,Balcony,100₹,346,233
+Hyderabad,Kumar70MmKachiguda,Telugu,21:15,DressCircle,70₹,170,130
+Srikakulam,MithraMovieMaxLbsColony,Telugu,21:45,Premium,147₹,264,71
+Srikakulam,MithraMovieMaxLbsColony,Telugu,21:45,NonPremium,100₹,95,0
