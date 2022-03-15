@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Cherpulassery,CheloorGrandCinemasNearFederalBank,Malayalam,11:00,Diamond,140₹,26,0
+Cherpulassery,CheloorGrandCinemasNearFederalBank,Malayalam,11:00,GoldCircle,125₹,220,0
+Manjeri,LadderCinemasIndianMall,Malayalam,21:15,Executive,150₹,74,1
+Trivandrum,KrishnaTheatreKazhakoottam,Malayalam,21:30,Reserved,130₹,252,102
+Edappal,SaradaMovies,Malayalam,21:30,Platinum,110₹,254,4
+Kattanam,GanamTheatreComplexACKattanam,Malayalam,21:30,FirstClass,110₹,129,67
+Amballur,ChandVsreeramaMoviesPudukkad,Malayalam,22:00,Platinum,180₹,25,0
+Amballur,ChandVsreeramaMoviesPudukkad,Malayalam,22:00,Gold,129₹,182,0
+Kozhikode,MallikaPlexDolbyAtmosCalicut,Malayalam,23:00,Executive,140₹,163,9
