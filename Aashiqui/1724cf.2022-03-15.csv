@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Muzaffarpur,FunCinemaAmarjyotiMahammadpurKazi,Bhojpuri,12:00,Balcony,100₹,100,0
+Surat,MovieAngleMultiplexVedRoad,Bhojpuri,12:00,Gold,50₹,156,0
+Surat,MovieAngleMultiplexVedRoad,Bhojpuri,15:00,Gold,50₹,156,1
+Surat,MovieAngleMultiplexVedRoad,Bhojpuri,18:00,Gold,50₹,156,0
+Surat,MovieAngleMultiplexVedRoad,Bhojpuri,21:30,Gold,50₹,156,0
