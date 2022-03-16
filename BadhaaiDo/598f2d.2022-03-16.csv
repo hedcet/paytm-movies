@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Indore,InoxC21MallSheetalNagar,Hindi,09:10,Normal,110₹,164,1
+Noida,PvrLogixCityCentreNoida,Hindi,10:00,Classic,180₹,89,0
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,Hindi,12:35,Club,170₹,32,5
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,Hindi,12:35,Executive,130₹,16,0
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,Hindi,13:10,Normal,150₹,25,0
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,Hindi,13:10,Executive,160₹,67,2
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,Hindi,13:10,Premium,170₹,48,8
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,Hindi,13:10,Vip,450₹,16,0
+NewDelhi,InoxInsigniaAtEpicuriaNehruPlace,Hindi,13:30,Insignia,645₹,36,36
+NewDelhi,PvrPromenadeVasantKunj,Hindi,13:40,Classic,360₹,96,5
+NewDelhi,PvrPromenadeVasantKunj,Hindi,13:40,Prime,390₹,33,5
+Noida,CinepolisSmartBharatMallFormerlySpiceMall,Hindi,22:40,Classic,210₹,207,0
+Noida,CinepolisSmartBharatMallFormerlySpiceMall,Hindi,22:40,Premium,220₹,175,1
+GreaterNoida,PvrGaurCityGreaterNoida,Hindi,23:00,Classic,185₹,87,0
+GreaterNoida,PvrGaurCityGreaterNoida,Hindi,23:00,Prime,215₹,13,0
