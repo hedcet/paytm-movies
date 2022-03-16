@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Narasannapeta,SriVenkateswaraMahal,Telugu,14:15,Reserved,100₹,300,100
+Narasannapeta,SriVenkateswaraMahal,Telugu,14:15,1stClass,100₹,16,0
+Narasannapeta,SriVenkateswaraMahal,Telugu,14:15,2ndClass,80₹,76,76
+Narasannapeta,SriVenkateswaraMahal,Telugu,18:15,Reserved,100₹,300,100
+Narasannapeta,SriVenkateswaraMahal,Telugu,18:15,1stClass,100₹,16,0
+Narasannapeta,SriVenkateswaraMahal,Telugu,18:15,2ndClass,80₹,76,76
+Narasannapeta,SriVenkateswaraMahal,Telugu,21:15,Reserved,100₹,300,100
+Narasannapeta,SriVenkateswaraMahal,Telugu,21:15,1stClass,100₹,16,0
+Narasannapeta,SriVenkateswaraMahal,Telugu,21:15,2ndClass,80₹,76,76
