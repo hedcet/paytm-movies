@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bihpuria,PreranaCinema,Assamese,14:10,Platinum,150₹,57,1
+Bihpuria,PreranaCinema,Assamese,14:10,Gold,120₹,50,18
+Bihpuria,PreranaCinema,Assamese,14:10,Silver,80₹,33,0
+Guwahati,PvrCityCentreGuwahati,Assamese,20:40,Classic,190₹,40,0
+Guwahati,PvrCityCentreGuwahati,Assamese,20:40,Prime,220₹,82,14
+Guwahati,PvrCityCentreGuwahati,Assamese,20:40,PrimePlus,260₹,13,2
