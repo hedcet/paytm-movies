@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mansa,SamratCinemaKhokharRoad,Punjabi,10:00,Box1,100₹,36,0
+Mansa,SamratCinemaKhokharRoad,Punjabi,10:00,Balconey,70₹,72,0
+Doraha,NovaCinemazDoraha,Punjabi,14:45,Platinum,200₹,100,0
+Doraha,NovaCinemazDoraha,Punjabi,14:45,Gold,180₹,100,0
+Doraha,NovaCinemazDoraha,Punjabi,14:45,Silver,150₹,100,0
+Morinda,SalhCinema,Punjabi,15:00,GoldClass,200₹,43,0
+Morinda,SalhCinema,Punjabi,15:00,SilverClass,100₹,104,104
+Mansa,SamratCinemaKhokharRoad,Punjabi,16:00,Box1,100₹,36,0
+Mansa,SamratCinemaKhokharRoad,Punjabi,16:00,Balconey,70₹,72,0
+Mullanpur,4GNovaCinemazMullanpurMandiRoad,Punjabi,17:15,Platinum,160₹,100,0
+Mullanpur,4GNovaCinemazMullanpurMandiRoad,Punjabi,17:15,Gold,110₹,100,0
+Mullanpur,4GNovaCinemazMullanpurMandiRoad,Punjabi,17:15,Silver,110₹,100,0
+Mansa,SamratCinemaKhokharRoad,Punjabi,19:00,Box1,100₹,36,0
+Mansa,SamratCinemaKhokharRoad,Punjabi,19:00,Balconey,70₹,72,0
