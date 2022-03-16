@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,English,13:30,PrimePlus,450₹,30,14
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,English,13:30,Prime,450₹,11,0
+Gurgaon,PvrAmbienceGoldGurgaon,English,22:10,PlatinumSuperior,900₹,8,7
+Gurgaon,PvrAmbienceGoldGurgaon,English,22:10,Platinum,800₹,28,8
