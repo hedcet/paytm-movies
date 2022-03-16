@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kumbakonam,SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital,Tamil,14:15,Balcony,100₹,34,0
+Kumbakonam,SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital,Tamil,14:15,FirstClass,80₹,212,0
+Kumbakonam,SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital,Tamil,14:15,SecondClass,80₹,44,0
+Chennai,InoxTheMarinaMallOmrEgatoor,Tamil,15:20,Club,152₹,180,2
+Chennai,InoxTheMarinaMallOmrEgatoor,Tamil,15:20,Executive,60₹,24,0
+Chennai,PvrHeritageRslEcrChennai,Tamil,15:55,Classic,60₹,11,11
+Chennai,PvrHeritageRslEcrChennai,Tamil,15:55,Prime,190₹,99,0
+Kumbakonam,SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital,Tamil,18:15,Balcony,100₹,34,0
+Kumbakonam,SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital,Tamil,18:15,FirstClass,80₹,212,0
+Kumbakonam,SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital,Tamil,18:15,SecondClass,80₹,44,0
+Kumbakonam,SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital,Tamil,22:15,Balcony,100₹,34,0
+Kumbakonam,SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital,Tamil,22:15,FirstClass,80₹,212,0
+Kumbakonam,SriLakshmiTheatreACThirunageswaramDolby4WayUfoDigital,Tamil,22:15,SecondClass,80₹,44,0
+Chennai,SpiEscapeCinemasRoyapettah,Tamil,22:20,Elite,190₹,99,4
+Chennai,SpiEscapeCinemasRoyapettah,Tamil,22:20,Budget,60₹,11,11
