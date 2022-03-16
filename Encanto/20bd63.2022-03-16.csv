@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NewDelhi,PvrPromenadeVasantKunj,English,19:30,Classic,320₹,96,12
+NewDelhi,PvrPromenadeVasantKunj,English,19:30,Prime,320₹,33,21
+Gurgaon,PvrAmbienceGurgaon,English,19:50,ClassicNormal,250₹,84,1
+Gurgaon,PvrAmbienceGurgaon,English,19:50,Prime,300₹,68,2
+Kolkata,InoxQuestMallBallygunge,English,20:20,RoyalRecliner,250₹,77,18
