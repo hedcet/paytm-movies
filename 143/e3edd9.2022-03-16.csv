@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Malegaon,CinemaxMalegaon,Marathi,16:00,Prime,100₹,65,1
+Malegaon,CinemaxMalegaon,Marathi,16:00,ClassicPlus,100₹,59,0
+Malegaon,CinemaxMalegaon,Marathi,16:00,Classic,80₹,16,0
