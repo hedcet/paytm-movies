@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Noida,PvrLogixCityCentreNoida,English,19:30,Classic,260₹,89,4
+NewDelhi,PvrSelectCityWalkSaket,English,20:40,ClassicNormal,200₹,120,0
+NewDelhi,PvrSelectCityWalkSaket,English,20:40,ClassicSuperior,250₹,34,7
+NewDelhi,PvrSelectCityWalkSaket,English,20:40,ReclinersNormal,500₹,10,0
