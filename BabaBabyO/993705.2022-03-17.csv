@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,CarnivalArtiSuncityMallBarasat,Bengali,11:30,Silver,80₹,40,0
+Kolkata,CarnivalArtiSuncityMallBarasat,Bengali,11:30,Gold,80₹,60,0
+Kolkata,CarnivalArtiSuncityMallBarasat,Bengali,11:30,Diamond,80₹,115,11
+Kolkata,PvrDiamondPlazaJassore,Bengali,14:15,Classic,160₹,176,10
+Kolkata,PvrDiamondPlazaJassore,Bengali,14:15,Prime,220₹,12,0
+Kolkata,PvrDiamondPlazaJassore,Bengali,14:15,Recliner,420₹,14,0
