@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PvrDiamondPlazaJassore,Bengali,12:00,Classic,160₹,100,0
+Kolkata,PvrDiamondPlazaJassore,Bengali,12:00,Prime,220₹,11,2
+Kolkata,PvrDiamondPlazaJassore,Bengali,12:00,Recliner,420₹,12,0
+Kolkata,CinepolisAcropolisMallRajdangaRoad,Bengali,15:40,Executive,110₹,59,14
+Kolkata,CinepolisAcropolisMallRajdangaRoad,Bengali,15:40,Premium,110₹,34,34
