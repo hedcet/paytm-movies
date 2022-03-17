@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Srivaikuntam,ChandraTheatreSrivaikuntam,Tamil,14:30,FirstClass,40₹,86,0
+Srivaikuntam,ChandraTheatreSrivaikuntam,Tamil,14:30,SecondClass,20₹,196,196
+Srivaikuntam,ChandraTheatreSrivaikuntam,Tamil,18:30,FirstClass,40₹,86,0
+Srivaikuntam,ChandraTheatreSrivaikuntam,Tamil,18:30,SecondClass,20₹,196,196
+Srivaikuntam,ChandraTheatreSrivaikuntam,Tamil,22:00,FirstClass,40₹,86,0
+Srivaikuntam,ChandraTheatreSrivaikuntam,Tamil,22:00,SecondClass,20₹,196,196
