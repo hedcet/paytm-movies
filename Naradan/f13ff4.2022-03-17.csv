@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kochi,SaritaCinemasKacheripady,Malayalam,12:00,Deluxe,150₹,555,544
+Kochi,SaritaCinemasKacheripady,Malayalam,12:00,RoseCircle,150₹,115,115
+Kochi,PvrLuluKochi,Malayalam,12:15,Classic,140₹,39,3
+Kochi,PvrLuluKochi,Malayalam,12:15,ClassicPlus,160₹,91,10
+Kochi,PvrLuluKochi,Malayalam,12:15,Prime,190₹,68,17
+Kochi,PvrLuluKochi,Malayalam,12:15,Recliner,350₹,10,0
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,18:35,Club,170₹,63,0
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,18:35,Executive,130₹,22,0
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,18:35,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,18:35,Royal,170₹,16,3
+Kochi,PvrLuluKochi,Malayalam,18:45,Classic,140₹,39,1
+Kochi,PvrLuluKochi,Malayalam,18:45,ClassicPlus,160₹,91,12
+Kochi,PvrLuluKochi,Malayalam,18:45,Prime,190₹,68,1
+Kochi,PvrLuluKochi,Malayalam,18:45,Recliner,350₹,10,3
