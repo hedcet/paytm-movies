@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Gurgaon,PvrAmbienceGoldGurgaon,Hindi,10:30,Platinum,600₹,28,8
+Gurgaon,PvrAmbienceGoldGurgaon,Hindi,10:30,PlatinumSuperior,600₹,16,11
+Mumbai,MetroInoxCinemaMGRoad,Hindi,13:35,Kiddles,220₹,36,35
+Noida,PvrLogixCityCentreNoida,Hindi,16:05,Classic,250₹,89,43
+Gurgaon,PvrAmbienceGoldGurgaon,Hindi,17:00,Platinum,800₹,28,26
+Gurgaon,PvrAmbienceGoldGurgaon,Hindi,17:00,PlatinumSuperior,900₹,16,10
+Bengaluru,PvrPlayHouseForumMallKoramangala,Hindi,21:30,Classic,200₹,103,46
