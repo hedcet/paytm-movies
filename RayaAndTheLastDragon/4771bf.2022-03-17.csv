@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NewDelhi,PvrDirectorsCutDelhiAmbienceMall,English,19:30,Platinum,900₹,12,3
+NewDelhi,PvrDirectorsCutDelhiAmbienceMall,English,19:30,PlatinumSuperior,"1,000₹",6,4
+Gurgaon,PvrMgfMallGurgaon,English,19:45,Classic,300₹,85,0
+Gurgaon,PvrMgfMallGurgaon,English,19:45,Prime,350₹,39,4
+Gurgaon,PvrMgfMallGurgaon,English,19:45,Recliner,500₹,8,0
