@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Bengali,18:35,Classic,190₹,72,4
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Bengali,18:35,Recliner,290₹,7,3
+Kolkata,PvrDiamondPlazaJassore,Bengali,19:30,Classic,160₹,100,9
+Kolkata,PvrDiamondPlazaJassore,Bengali,19:30,Prime,220₹,11,7
+Kolkata,PvrDiamondPlazaJassore,Bengali,19:30,Recliner,420₹,12,0
