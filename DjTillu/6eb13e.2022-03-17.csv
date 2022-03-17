@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Vizianagaram,SpHimagiriAndSaptagiriComplexVizianagaram,Telugu,11:00,Premium,112₹,240,44
+Vizianagaram,SpHimagiriAndSaptagiriComplexVizianagaram,Telugu,11:00,NonPremium,78₹,93,0
+Hyderabad,Kumar70MmKachiguda,Telugu,11:30,Balcony,100₹,346,230
+Hyderabad,Kumar70MmKachiguda,Telugu,11:30,DressCircle,70₹,170,127
+Hyderabad,Kumar70MmKachiguda,Telugu,14:30,Balcony,100₹,346,230
+Hyderabad,Kumar70MmKachiguda,Telugu,14:30,DressCircle,70₹,170,127
+Vizianagaram,SpHimagiriAndSaptagiriComplexVizianagaram,Telugu,14:30,Premium,112₹,240,44
+Vizianagaram,SpHimagiriAndSaptagiriComplexVizianagaram,Telugu,14:30,NonPremium,78₹,93,0
+Hyderabad,Kumar70MmKachiguda,Telugu,18:00,Balcony,100₹,346,230
+Hyderabad,Kumar70MmKachiguda,Telugu,18:00,DressCircle,70₹,170,127
+Hyderabad,Kumar70MmKachiguda,Telugu,21:15,Balcony,100₹,346,230
+Hyderabad,Kumar70MmKachiguda,Telugu,21:15,DressCircle,70₹,170,127
