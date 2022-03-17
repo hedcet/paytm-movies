@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Gurgaon,CarnivalRahejaMallGurgaon,Hindi,17:10,Classic,150₹,40,0
+Gurgaon,CarnivalRahejaMallGurgaon,Hindi,17:10,PremiumOffline,150₹,51,5
+Gurgaon,CarnivalRahejaMallGurgaon,Hindi,17:10,Aurus,350₹,14,0
+Gurgaon,CarnivalRahejaMallGurgaon,Hindi,17:10,Standard,150₹,52,0
