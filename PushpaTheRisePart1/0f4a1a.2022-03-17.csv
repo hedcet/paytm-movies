@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Burhanpur,AnkitaMultiplexBalajiNagar,Hindi,09:30,Vip,250₹,62,38
+Burhanpur,AnkitaMultiplexBalajiNagar,Hindi,09:30,Gold,180₹,52,36
+Burhanpur,AnkitaMultiplexBalajiNagar,Hindi,09:30,Silver,100₹,24,12
+Surendranagar,MahalaxmiMultiplexSurendranagar,Hindi,09:30,Gold,80₹,122,0
+Surendranagar,MahalaxmiMultiplexSurendranagar,Hindi,09:30,Silver,80₹,60,0
+Vadodara,PvrTransCubeVadodara,Hindi,12:00,Classic,150₹,42,0
+Vadodara,PvrTransCubeVadodara,Hindi,12:00,Prime,150₹,137,0
+Vadodara,PvrTransCubeVadodara,Hindi,12:00,Recliner,250₹,7,0
+Ahmedabad,MirajCityPulseManiNagar,Hindi,22:15,Gold,100₹,24,15
