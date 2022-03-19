@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrVrWhitefieldRoad,English,18:35,Classic,240₹,129,0
+Bengaluru,PvrVrWhitefieldRoad,English,18:35,Prime,260₹,17,2
+Bengaluru,PvrVrWhitefieldRoad,English,18:35,Recliner,450₹,14,0
+NewDelhi,PvrPromenadeVasantKunj,English,19:30,Classic,440₹,50,1
+NewDelhi,PvrPromenadeVasantKunj,English,19:30,Prime,470₹,44,26
