@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Surendranagar,MahalaxmiMultiplexSurendranagar,Hindi,09:30,Platinum,300₹,11,0
+Surendranagar,MahalaxmiMultiplexSurendranagar,Hindi,09:30,Gold,80₹,64,2
+Surendranagar,MahalaxmiMultiplexSurendranagar,Hindi,09:30,Silver,80₹,105,0
