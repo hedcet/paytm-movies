@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Surat,TimeCinemaSuratGalaxyCircle,English,09:40,Sofa170,170₹,34,0
+Indore,PvrPlayHouseTreasureIslandIndore,Hindi,12:15,Prime,200₹,46,8
+Indore,PvrPlayHouseTreasureIslandIndore,Hindi,12:15,Classic,180₹,26,0
+Indore,PvrPlayHouseTreasureIslandIndore,Hindi,12:15,Recliner,350₹,8,2
+Hyderabad,Pvr4DxIrrumManzilKhairatabad,English,13:35,4Dx,350₹,96,70
+Chandigarh,Pvr4DxElanteChandigarh,English,13:45,Classic,414₹,104,68
+Noida,PvrLogixCityCentrePlayHouseNoida,English,15:25,Classic,375₹,38,38
+Hyderabad,Pvr4DxKukatpallyHyderabad,English,16:45,4DxClassic,350₹,108,104
+Indore,PvrPlayHouseTreasureIslandIndore,Hindi,18:00,Prime,220₹,46,28
+Indore,PvrPlayHouseTreasureIslandIndore,Hindi,18:00,Classic,200₹,26,9
+Indore,PvrPlayHouseTreasureIslandIndore,Hindi,18:00,Recliner,450₹,8,7
+Noida,PvrLogixCityCentrePlayHouseNoida,English,21:15,Classic,400₹,38,26
