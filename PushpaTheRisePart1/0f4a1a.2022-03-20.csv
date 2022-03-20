@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Rajkot,RajshreeTalkiesRajkot,Hindi,07:00,Balcony,40₹,100,0
+Rajkot,RajshreeTalkiesRajkot,Hindi,07:00,Upper,40₹,100,0
+Surendranagar,MahalaxmiMultiplexSurendranagar,Hindi,09:30,Platinum,300₹,11,11
+Surendranagar,MahalaxmiMultiplexSurendranagar,Hindi,09:30,Gold,80₹,64,64
+Surendranagar,MahalaxmiMultiplexSurendranagar,Hindi,09:30,Silver,80₹,105,105
