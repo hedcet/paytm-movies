@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrVrWhitefieldRoad,English,18:45,Classic,190₹,129,2
+Bengaluru,PvrVrWhitefieldRoad,English,18:45,Prime,210₹,17,3
+Bengaluru,PvrVrWhitefieldRoad,English,18:45,Recliner,330₹,14,1
+Gurgaon,PvrAmbienceGurgaon,English,19:30,ClassicNormal,250₹,84,2
+Gurgaon,PvrAmbienceGurgaon,English,19:30,Prime,300₹,68,8
