@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,11:30,FirstClass,112₹,404,108
+Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,11:30,SecondClass,75₹,108,0
+Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,11:30,Reclinear,295₹,23,23
+Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,14:30,FirstClass,112₹,404,108
+Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,14:30,SecondClass,75₹,108,0
+Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,14:30,Reclinear,295₹,23,23
+Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,18:30,FirstClass,112₹,404,108
+Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,18:30,SecondClass,75₹,108,0
+Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,18:30,Reclinear,295₹,23,23
+Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,21:30,FirstClass,112₹,404,108
+Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,21:30,SecondClass,75₹,108,0
+Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,21:30,Reclinear,295₹,23,23
