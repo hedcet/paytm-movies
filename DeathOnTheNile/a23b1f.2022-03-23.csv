@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Surat,TimeCinemaSuratGalaxyCircle,English,10:05,Standard150,150₹,96,0
+Ahmedabad,TimeCinemaCgRoad,English,14:10,Infinity900,900₹,12,0
+Surat,TimeCinemaSuratGalaxyCircle,English,22:00,Standard240,240₹,115,15
+Ahmedabad,TimeCinemaCgRoad,English,22:45,Infinity1000,"1,000₹",12,0
