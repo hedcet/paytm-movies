@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Amalapuram,SriVenkataramanaAmalapuram,Telugu,11:15,ReservedClass,110₹,378,252
+Draksharamam,SuryaCinemax2KACDtsDraksharamam,Telugu,11:30,FirstClass,100₹,254,254
+Amalapuram,SriVenkataramanaAmalapuram,Telugu,14:15,ReservedClass,110₹,378,255
+Draksharamam,SuryaCinemax2KACDtsDraksharamam,Telugu,14:30,FirstClass,100₹,254,254
+Amalapuram,SriVenkataramanaAmalapuram,Telugu,18:15,ReservedClass,110₹,378,252
+Draksharamam,SuryaCinemax2KACDtsDraksharamam,Telugu,18:30,FirstClass,100₹,254,254
+Amalapuram,SriVenkataramanaAmalapuram,Telugu,21:15,ReservedClass,110₹,378,252
+Draksharamam,SuryaCinemax2KACDtsDraksharamam,Telugu,21:30,FirstClass,100₹,254,254
