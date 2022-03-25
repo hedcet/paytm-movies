@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolathur,SriCinemasKtvrAC3DRgbLaserKolathur,Tamil,10:45,Gold,110₹,184,24
+Kulittalai,PalaceTheatreMaduraiRoad,Tamil,11:15,FirstClass,60₹,249,0
+Kulittalai,PalaceTheatreMaduraiRoad,Tamil,14:15,FirstClass,60₹,249,0
+Thanjavur,GvComplexThanjavur,Tamil,14:15,I,120₹,110,15
+Thanjavur,GvComplexThanjavur,Tamil,14:15,Ii,100₹,105,0
+Kolathur,SriCinemasKtvrAC3DRgbLaserKolathur,Tamil,14:45,Gold,110₹,184,24
+Kulittalai,PalaceTheatreMaduraiRoad,Tamil,18:15,FirstClass,60₹,249,0
+Thanjavur,GvComplexThanjavur,Tamil,18:15,I,120₹,110,15
+Thanjavur,GvComplexThanjavur,Tamil,18:15,Ii,100₹,105,0
+Kolathur,SriCinemasKtvrAC3DRgbLaserKolathur,Tamil,18:45,Gold,110₹,184,24
+Kulittalai,PalaceTheatreMaduraiRoad,Tamil,22:00,FirstClass,60₹,249,1
+Thanjavur,GvComplexThanjavur,Tamil,22:00,I,120₹,110,15
+Thanjavur,GvComplexThanjavur,Tamil,22:00,Ii,100₹,105,0
+Kolathur,SriCinemasKtvrAC3DRgbLaserKolathur,Tamil,22:15,Gold,110₹,184,24
