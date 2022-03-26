@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,TimeCinemaCgRoad,English,10:00,Sofa180,180₹,84,0
+Surat,TimeCinemaSuratGalaxyCircle,English,10:05,Sofa180,180₹,34,0
+Surat,TimeCinemaSuratGalaxyCircle,English,12:45,Sofa220,220₹,34,0
+Surat,TimeCinemaSuratGalaxyCircle,English,19:20,Standard200,200₹,96,0
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,English,20:00,Prime,800₹,19,19
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,English,20:00,PrimePlus,800₹,42,42
+Surat,TimeCinemaSuratGalaxyCircle,English,23:10,Infinity400,400₹,22,0
