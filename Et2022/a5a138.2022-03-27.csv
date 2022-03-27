@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Chodavaram,LakshmiTheatreChodavaram,Telugu,11:00,GoldClass,100₹,284,284
+Chodavaram,LakshmiTheatreChodavaram,Telugu,11:00,SilverClass,80₹,30,30
+Pithapuram,PoornaTheatre2KACDtsMadhavaNagar,Telugu,11:15,FirstClass,100₹,390,0
+Pithapuram,PoornaTheatre2KACDtsMadhavaNagar,Telugu,11:15,SecondClass,50₹,44,44
+Pithapuram,PoornaTheatre2KACDtsMadhavaNagar,Telugu,14:15,FirstClass,100₹,390,0
+Pithapuram,PoornaTheatre2KACDtsMadhavaNagar,Telugu,14:15,SecondClass,50₹,44,44
+Chodavaram,LakshmiTheatreChodavaram,Telugu,14:30,GoldClass,100₹,284,207
+Chodavaram,LakshmiTheatreChodavaram,Telugu,14:30,SilverClass,80₹,30,30
+Pithapuram,PoornaTheatre2KACDtsMadhavaNagar,Telugu,18:15,FirstClass,100₹,390,0
+Pithapuram,PoornaTheatre2KACDtsMadhavaNagar,Telugu,18:15,SecondClass,50₹,44,44
+Chodavaram,LakshmiTheatreChodavaram,Telugu,18:30,GoldClass,100₹,284,214
+Chodavaram,LakshmiTheatreChodavaram,Telugu,18:30,SilverClass,80₹,30,30
+Pithapuram,PoornaTheatre2KACDtsMadhavaNagar,Telugu,21:15,FirstClass,100₹,390,0
+Pithapuram,PoornaTheatre2KACDtsMadhavaNagar,Telugu,21:15,SecondClass,50₹,44,44
+Chodavaram,LakshmiTheatreChodavaram,Telugu,21:30,GoldClass,100₹,284,214
+Chodavaram,LakshmiTheatreChodavaram,Telugu,21:30,SilverClass,80₹,30,30
