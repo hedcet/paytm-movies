@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Guntur,SreeGaneshMahalKothapet,Telugu,11:15,FristClass,40₹,202,142
+Guntur,SreeGaneshMahalKothapet,Telugu,11:15,SecondClass,25₹,209,209
+Guntur,SreeGaneshMahalKothapet,Telugu,14:30,FristClass,40₹,202,142
+Guntur,SreeGaneshMahalKothapet,Telugu,14:30,SecondClass,25₹,209,209
+Vizag,InoxVarunBeachMaharanipet,Telugu,16:00,Excutive,177₹,130,71
+Narsipatnam,PvrSreekanyaNarsipatnam,Telugu,16:30,Classic,60₹,29,10
+Narsipatnam,PvrSreekanyaNarsipatnam,Telugu,16:30,ClassicPlus,150₹,171,11
+Guntur,SreeGaneshMahalKothapet,Telugu,18:15,FristClass,40₹,202,142
+Guntur,SreeGaneshMahalKothapet,Telugu,18:15,SecondClass,25₹,209,209
+Vizag,InoxCmrCentralMaddilapalem,Telugu,19:15,Executive,177₹,151,100
+Guntur,SreeGaneshMahalKothapet,Telugu,21:30,FristClass,40₹,202,142
+Guntur,SreeGaneshMahalKothapet,Telugu,21:30,SecondClass,25₹,209,209
