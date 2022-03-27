@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Chodavaram,LakshmiTheatreChodavaram,Telugu,11:00,UpperClass,100₹,378,239
+Chodavaram,LakshmiTheatreChodavaram,Telugu,11:00,MiddleClass,80₹,30,30
+Chodavaram,LakshmiTheatreChodavaram,Telugu,14:30,UpperClass,100₹,378,239
+Chodavaram,LakshmiTheatreChodavaram,Telugu,14:30,MiddleClass,80₹,30,30
+Chodavaram,LakshmiTheatreChodavaram,Telugu,18:30,UpperClass,100₹,378,313
+Chodavaram,LakshmiTheatreChodavaram,Telugu,18:30,MiddleClass,80₹,30,30
+Chodavaram,LakshmiTheatreChodavaram,Telugu,21:30,UpperClass,100₹,378,288
+Chodavaram,LakshmiTheatreChodavaram,Telugu,21:30,MiddleClass,80₹,30,30
