@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PvrDiamondPlazaJassore,Bengali,18:15,Classic,250₹,100,91
+Kolkata,PvrDiamondPlazaJassore,Bengali,18:15,Prime,300₹,11,1
+Kolkata,PvrDiamondPlazaJassore,Bengali,18:15,Recliner,470₹,12,0
