@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Thanjavur,GvComplexThanjavur,Tamil,11:00,I,120₹,110,15
+Thanjavur,GvComplexThanjavur,Tamil,11:00,Ii,100₹,105,0
+Kulittalai,PalaceTheatreMaduraiRoad,Tamil,11:15,FirstClass,60₹,249,4
+Kulittalai,PalaceTheatreMaduraiRoad,Tamil,14:15,FirstClass,60₹,249,1
+Kulittalai,PalaceTheatreMaduraiRoad,Tamil,18:15,FirstClass,60₹,249,0
+Kulittalai,PalaceTheatreMaduraiRoad,Tamil,22:00,FirstClass,60₹,249,0
