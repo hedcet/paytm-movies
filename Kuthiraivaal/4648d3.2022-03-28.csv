@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Chennai,SpiEscapeCinemasRoyapettah,Tamil,12:30,Elite,190₹,99,19
+Chennai,SpiEscapeCinemasRoyapettah,Tamil,12:30,Budget,60₹,11,11
+Chennai,PvrVrMallAnnaNagar,Tamil,18:50,Classic,60₹,16,5
+Chennai,PvrVrMallAnnaNagar,Tamil,18:50,Prime,190₹,110,13
