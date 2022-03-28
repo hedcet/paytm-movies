@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Surat,TimeCinemaSuratGalaxyCircle,English,09:45,Standard150,150₹,96,0
+Chandigarh,Pvr4DxElanteChandigarh,English,13:15,Classic,368₹,92,19
+Hyderabad,Pvr4DxIrrumManzilKhairatabad,English,13:35,4Dx,350₹,96,22
+Noida,PvrLogixCityCentrePlayHouseNoida,English,14:15,Classic,275₹,49,12
+Hyderabad,Pvr4DxKukatpallyHyderabad,English,16:45,4DxClassic,350₹,108,21
+Noida,PvrLogixCityCentrePlayHouseNoida,English,20:05,Classic,275₹,49,2
+Surat,TimeCinemaSuratGalaxyCircle,English,23:15,Infinity400,400₹,22,0
