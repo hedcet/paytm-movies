@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ravulapalem,PadmasriPicturePalaceRavulapalem,Telugu,11:00,FirstClass,100₹,230,155
+Vizag,InoxChitralayaaMallChitralayaa,Telugu,13:05,Executive,177₹,116,15
+Ravulapalem,PadmasriPicturePalaceRavulapalem,Telugu,14:10,FirstClass,100₹,230,155
+Vizag,InoxVarunBeachMaharanipet,Telugu,16:00,Excutive,177₹,130,12
+Narsipatnam,PvrSreekanyaNarsipatnam,Telugu,16:30,Classic,60₹,29,0
+Narsipatnam,PvrSreekanyaNarsipatnam,Telugu,16:30,ClassicPlus,150₹,171,1
+Ravulapalem,PadmasriPicturePalaceRavulapalem,Telugu,18:10,FirstClass,100₹,230,155
+Ravulapalem,PadmasriPicturePalaceRavulapalem,Telugu,21:10,FirstClass,100₹,230,155
+Vizag,RamachandraMaxLakshmikanthComplexDolbyAtmosGajuwaka,Telugu,21:35,Premium,145₹,192,192
+Vizag,RamachandraMaxLakshmikanthComplexDolbyAtmosGajuwaka,Telugu,21:35,NonPremium,100₹,95,95
