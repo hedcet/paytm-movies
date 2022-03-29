@@ -1,0 +1,12 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Malda,TpmcOms,Tamil,11:30,Executive,1₹,222,143
+Malda,TpmcOms,Tamil,11:30,Corporate,1₹,538,100
+Malda,TpmcOms,Tamil,11:30,Budget,1₹,95,32
+Malda,TpmcOms,Tamil,15:00,Executive,1₹,222,143
+Malda,TpmcOms,Tamil,15:00,Corporate,1₹,538,101
+Malda,TpmcOms,Tamil,15:00,Budget,1₹,95,32
+Malda,TpmcOms,Tamil,18:30,Executive,1₹,222,143
+Malda,TpmcOms,Tamil,18:30,Corporate,1₹,538,100
+Malda,TpmcOms,Tamil,18:30,Budget,1₹,95,32
+Malda,TpmcOms,Tamil,22:00,Executive,1₹,222,143
+Malda,TpmcOms,Tamil,22:00,Corporate,1₹,538,103
