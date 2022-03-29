@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Pattambi,SyndicateCinemas4KRgbLaserAtmosKoppam,Malayalam,17:15,Platinum,250₹,20,0
+Pattambi,SyndicateCinemas4KRgbLaserAtmosKoppam,Malayalam,17:15,Gold,150₹,109,3
+Pattambi,SyndicateCinemas4KRgbLaserAtmosKoppam,Malayalam,17:15,Silver,130₹,57,0
+Kattanam,GanamTheatreComplexACKattanam,Malayalam,18:30,FirstClass,110₹,129,74
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,19:30,Club,170₹,63,26
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,19:30,Executive,130₹,22,0
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,19:30,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,19:30,Royal,170₹,16,15
+Kochi,PvrLuluKochi,Malayalam,19:40,Classic,140₹,39,39
+Kochi,PvrLuluKochi,Malayalam,19:40,ClassicPlus,160₹,91,91
+Kochi,PvrLuluKochi,Malayalam,19:40,Prime,190₹,68,68
+Kochi,PvrLuluKochi,Malayalam,19:40,Recliner,350₹,10,10
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,21:50,Club,170₹,66,0
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,21:50,Executive,130₹,22,0
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,21:50,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,21:50,Royal,170₹,13,9
