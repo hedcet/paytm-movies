@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ravulapalem,PadmasriPicturePalaceRavulapalem,Telugu,11:00,FirstClass,100₹,230,155
+Guntur,SreeGaneshMahalKothapet,Telugu,11:15,FristClass,40₹,202,142
+Guntur,SreeGaneshMahalKothapet,Telugu,11:15,SecondClass,25₹,209,209
+Vizag,InoxChitralayaaMallChitralayaa,Telugu,13:05,Executive,177₹,116,18
+Ravulapalem,PadmasriPicturePalaceRavulapalem,Telugu,14:10,FirstClass,100₹,230,155
+Guntur,SreeGaneshMahalKothapet,Telugu,14:30,FristClass,40₹,202,142
+Guntur,SreeGaneshMahalKothapet,Telugu,14:30,SecondClass,25₹,209,209
+Vizag,InoxVarunBeachMaharanipet,Telugu,16:00,Excutive,177₹,130,5
+Narsipatnam,PvrSreekanyaNarsipatnam,Telugu,16:30,Classic,60₹,29,1
+Narsipatnam,PvrSreekanyaNarsipatnam,Telugu,16:30,ClassicPlus,150₹,171,1
+Ravulapalem,PadmasriPicturePalaceRavulapalem,Telugu,18:10,FirstClass,100₹,230,155
+Guntur,SreeGaneshMahalKothapet,Telugu,18:15,FristClass,40₹,202,142
+Guntur,SreeGaneshMahalKothapet,Telugu,18:15,SecondClass,25₹,209,209
+Ravulapalem,PadmasriPicturePalaceRavulapalem,Telugu,21:10,FirstClass,100₹,230,155
+Guntur,SreeGaneshMahalKothapet,Telugu,21:30,FristClass,40₹,202,142
+Guntur,SreeGaneshMahalKothapet,Telugu,21:30,SecondClass,25₹,209,209
