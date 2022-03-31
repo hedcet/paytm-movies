@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrVrWhitefieldRoad,English,18:15,Classic,190₹,153,5
+Bengaluru,PvrVrWhitefieldRoad,English,18:15,Recliner,300₹,16,0
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:15,Recliner,550₹,13,1
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:15,Prime,300₹,68,0
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:15,Classic,250₹,42,2
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:15,Lounger,250₹,10,0
+Gurgaon,PvrAmbienceGurgaon,English,19:30,ClassicNormal,250₹,84,2
+Gurgaon,PvrAmbienceGurgaon,English,19:30,Prime,300₹,68,6
+NewDelhi,PvrPromenadeVasantKunj,English,19:30,Classic,360₹,50,0
+NewDelhi,PvrPromenadeVasantKunj,English,19:30,Prime,390₹,44,4
