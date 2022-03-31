@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Surendranagar,MahalaxmiMultiplexSurendranagar,Hindi,09:00,Gold,80₹,122,122
+Surendranagar,MahalaxmiMultiplexSurendranagar,Hindi,09:00,Silver,80₹,60,60
+Chennai,AvkCinemasAC2K3DMappedu,Tamil,11:15,Platinum,100₹,164,14
+Chennai,AvkCinemasAC2K3DMappedu,Tamil,15:00,Platinum,100₹,164,14
+Chennai,AvkCinemasAC2K3DMappedu,Tamil,18:45,Platinum,100₹,164,14
+Chennai,AvkCinemasAC2K3DMappedu,Tamil,22:30,Platinum,100₹,164,14
