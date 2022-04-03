@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Perinthalmanna,VismayaCinemasPerinthalmanna,Malayalam,10:00,Platinum,100₹,111,0
+Perinthalmanna,VismayaCinemasPerinthalmanna,Malayalam,13:00,Platinum,100₹,111,8
+Kochi,PvrOberonMallErnakulam,Malayalam,13:05,Classic,120₹,36,14
+Kochi,PvrOberonMallErnakulam,Malayalam,13:05,ClassicPlus,150₹,81,62
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,14:20,Club,190₹,66,9
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,14:20,Executive,130₹,22,0
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,14:20,RoyalRecliner,350₹,10,0
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,14:20,Royal,190₹,13,5
+Kochi,PvrLuluKochi,Malayalam,16:05,Classic,140₹,54,0
+Kochi,PvrLuluKochi,Malayalam,16:05,ClassicPlus,160₹,108,54
+Kochi,PvrLuluKochi,Malayalam,16:05,Prime,190₹,125,55
+Kochi,PvrLuluKochi,Malayalam,16:05,Recliner,350₹,14,1
