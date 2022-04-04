@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kurnool,BharathComplexKurnool,Telugu,12:00,Premium,80₹,257,0
+Kurnool,BharathComplexKurnool,Telugu,12:00,NonPremium,50₹,85,0
+Amalapuram,SriLalithaTheatre2KACDts,Telugu,14:30,ReservedClass,110₹,314,314
+Amalapuram,SriLalithaTheatre2KACDts,Telugu,14:30,SecondClass,60₹,105,105
+Kurnool,BharathComplexKurnool,Telugu,15:00,Premium,80₹,257,0
+Kurnool,BharathComplexKurnool,Telugu,15:00,NonPremium,50₹,85,3
+Kurnool,BharathComplexKurnool,Telugu,18:30,Premium,80₹,257,0
+Kurnool,BharathComplexKurnool,Telugu,18:30,NonPremium,50₹,85,1
+Kurnool,BharathComplexKurnool,Telugu,21:30,Premium,80₹,257,0
+Kurnool,BharathComplexKurnool,Telugu,21:30,NonPremium,50₹,85,0
+Amalapuram,SriLalithaTheatre2KACDts,Telugu,21:30,ReservedClass,110₹,314,314
+Amalapuram,SriLalithaTheatre2KACDts,Telugu,21:30,SecondClass,60₹,105,105
