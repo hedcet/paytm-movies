@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Vizag,SreeLeelamahalACDtsAllipuram,Telugu,11:00,Premium,145₹,497,385
+Vizag,SreeLeelamahalACDtsAllipuram,Telugu,11:00,NoPremium,100₹,182,182
+Vizag,SreeLeelamahalACDtsAllipuram,Telugu,14:30,Premium,145₹,497,385
+Vizag,SreeLeelamahalACDtsAllipuram,Telugu,14:30,NoPremium,100₹,182,182
+Vizag,SreeLeelamahalACDtsAllipuram,Telugu,18:30,Premium,145₹,497,387
+Vizag,SreeLeelamahalACDtsAllipuram,Telugu,18:30,NoPremium,100₹,182,182
+Vizag,SreeLeelamahalACDtsAllipuram,Telugu,21:30,Premium,145₹,497,385
+Vizag,SreeLeelamahalACDtsAllipuram,Telugu,21:30,NoPremium,100₹,182,182
