@@ -1,13 +1,19 @@
-you will get the daily aggregated results in the following social media handles
+> for daily aggregated results
 
-### twitter + paytm
+#### twitter bookmyshow handles
 
-- [paytmML](https://twitter.com/paytmML) (Malayalam Movies)
-- [paytmTA](https://twitter.com/paytmTA) (Tamil Movies)
-- [paytmTE](https://twitter.com/paytmTE) (Telugu Movies)
+- [@bookmyshowML](https://twitter.com/bookmyshowML) (Malayalam Movies)
+- [@bookmyshowTA](https://twitter.com/bookmyshowTA) (Tamil Movies)
+- [@bookmyshowTE](https://twitter.com/bookmyshowTE) (Telugu Movies)
 
-### twitter + bookmyshow
+#### twitter paytm handles
 
-- [bookmyshowML](https://twitter.com/bookmyshowML) (Malayalam Movies)
-- [bookmyshowTA](https://twitter.com/bookmyshowTA) (Tamil Movies)
-- [bookmyshowTE](https://twitter.com/bookmyshowTE) (Telugu Movies)
+- [@paytmML](https://twitter.com/paytmML) (Malayalam Movies)
+- [@paytmTA](https://twitter.com/paytmTA) (Tamil Movies)
+- [@paytmTE](https://twitter.com/paytmTE) (Telugu Movies)
+
+#### twitter ticketnew handles
+
+- [@ticketnewML](https://twitter.com/ticketnewML) (Malayalam Movies)
+- [@ticketnewTA](https://twitter.com/ticketnewTA) (Tamil Movies)
+- [@ticketnewTE](https://twitter.com/ticketnewTE) (Telugu Movies)
