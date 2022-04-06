@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Banga,RitzMultiplexBanga,Punjabi,10:00,GoldC,130₹,12,0
+Banga,RitzMultiplexBanga,Punjabi,10:00,SilverC,90₹,109,0
+Chandigarh,PvrElanteMallChandigarh,Punjabi,14:20,Classic,165₹,138,6
+Chandigarh,PvrElanteMallChandigarh,Punjabi,14:20,Recliner,507₹,13,0
+Banga,RitzMultiplexBanga,Punjabi,15:10,GoldC,200₹,12,0
+Banga,RitzMultiplexBanga,Punjabi,15:10,SilverC,150₹,109,0
+Banga,RitzMultiplexBanga,Punjabi,15:35,GoldC,200₹,12,0
+Banga,RitzMultiplexBanga,Punjabi,15:35,SilverC,150₹,109,0
+Mohali,PvrVrPunjabMallMohali,Punjabi,16:10,Classic,190₹,84,8
+Mohali,PvrVrPunjabMallMohali,Punjabi,16:10,Prime,220₹,38,5
+Amritsar,CinepolisMallOfAmritsarAmritsar,Punjabi,23:20,Executive,170₹,194,9
+Amritsar,CinepolisMallOfAmritsarAmritsar,Punjabi,23:20,Normal,160₹,156,0
