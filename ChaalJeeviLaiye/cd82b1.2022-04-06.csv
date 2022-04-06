@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Surat,TimeCinemaSuratGalaxyCircle,Gujarati,11:00,Sofa180,180₹,34,0
+Ahmedabad,TimeCinemaCgRoad,Gujarati,12:00,Infinity900,900₹,12,0
+Surat,TimeCinemaSuratGalaxyCircle,Gujarati,13:15,Standard190,190₹,96,0
+Surat,InoxRajImperialVarachhaRoad,Gujarati,15:45,Gold,140₹,23,0
+Surat,InoxRajImperialVarachhaRoad,Gujarati,15:45,Imperial,320₹,5,5
+Surat,InoxRajImperialVarachhaRoad,Gujarati,15:45,Platinum,170₹,20,2
+Surat,InoxRajImperialVarachhaRoad,Gujarati,15:45,Silver,120₹,10,4
+Ahmedabad,RevolutionMultiplexCtm,Gujarati,18:35,PlatinumClass,180₹,100,0
+Ahmedabad,RevolutionMultiplexCtm,Gujarati,18:35,GoldenClass,160₹,100,0
+Ahmedabad,RevolutionMultiplexCtm,Gujarati,18:35,SilverClass,140₹,100,0
+Ahmedabad,TimeCinemaCgRoad,Gujarati,19:25,Standard260,260₹,84,0
+Surat,TimeCinemaSuratGalaxyCircle,Gujarati,19:30,Sofa320,320₹,34,0
