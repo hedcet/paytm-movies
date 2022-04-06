@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Noida,PvrLogixCityCentrePlayHouseNoida,English,11:00,3DClassic,240₹,49,0
+Indore,PvrPlayHouseTreasureIslandIndore,Hindi,12:00,Prime,130₹,46,18
+Indore,PvrPlayHouseTreasureIslandIndore,Hindi,12:00,Classic,130₹,26,0
+Indore,PvrPlayHouseTreasureIslandIndore,Hindi,12:00,Recliner,230₹,8,8
+Kochi,Pvr4DxLuluKochi,English,12:40,3DClassic,425₹,116,30
+Hyderabad,Pvr4DxIrrumManzilKhairatabad,English,13:45,4Dx,350₹,96,16
+Noida,PvrLogixCityCentrePlayHouseNoida,English,16:50,3DClassic,315₹,49,6
+NewDelhi,PvrVegasPlayHouseDwarka,Hindi,17:20,3DRecliner,405₹,8,8
+NewDelhi,PvrVegasPlayHouseDwarka,Hindi,17:20,3DPrime,405₹,14,5
+NewDelhi,PvrVegasPlayHouseDwarka,Hindi,17:20,3DClassic,355₹,36,0
+Hyderabad,Pvr4DxKukatpallyHyderabad,English,19:50,4DxClassic,350₹,108,46
+NewDelhi,PvrVegasPlayHouseDwarka,English,20:30,3DRecliner,405₹,8,8
+NewDelhi,PvrVegasPlayHouseDwarka,English,20:30,3DPrime,405₹,21,3
+NewDelhi,PvrVegasPlayHouseDwarka,English,20:30,3DClassic,355₹,36,4
+Noida,PvrLogixCityCentrePlayHouseNoida,English,22:40,3DClassic,315₹,49,9
