@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Sidlaghatta,MayuraTheatreAC4KNationalHighway234,Telugu,10:30,Balcony,120₹,172,80
+Sidlaghatta,MayuraTheatreAC4KNationalHighway234,Telugu,10:30,First,100₹,198,198
+Nandyal,RajPicturePalaceNandyal,Telugu,11:15,Delux,90₹,252,61
+Nandyal,RajPicturePalaceNandyal,Telugu,11:15,NonDelux,70₹,285,162
+Sidlaghatta,MayuraTheatreAC4KNationalHighway234,Telugu,14:00,Balcony,120₹,172,80
+Sidlaghatta,MayuraTheatreAC4KNationalHighway234,Telugu,14:00,First,100₹,198,198
+Nandyal,RajPicturePalaceNandyal,Telugu,14:30,Delux,90₹,252,61
+Nandyal,RajPicturePalaceNandyal,Telugu,14:30,NonDelux,70₹,285,162
+Sidlaghatta,MayuraTheatreAC4KNationalHighway234,Telugu,17:00,Balcony,120₹,172,80
+Sidlaghatta,MayuraTheatreAC4KNationalHighway234,Telugu,17:00,First,100₹,198,198
+Nandyal,RajPicturePalaceNandyal,Telugu,18:15,Delux,90₹,252,0
+Nandyal,RajPicturePalaceNandyal,Telugu,18:15,NonDelux,70₹,285,87
+Sidlaghatta,MayuraTheatreAC4KNationalHighway234,Telugu,20:00,Balcony,120₹,172,80
+Sidlaghatta,MayuraTheatreAC4KNationalHighway234,Telugu,20:00,First,100₹,198,198
+Nandyal,RajPicturePalaceNandyal,Telugu,21:30,Delux,90₹,252,0
+Nandyal,RajPicturePalaceNandyal,Telugu,21:30,NonDelux,70₹,285,87
