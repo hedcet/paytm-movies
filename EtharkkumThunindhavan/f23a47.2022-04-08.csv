@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Thanjavur,GvComplexThanjavur,Tamil,11:15,BoxA,150₹,11,11
+Thanjavur,GvComplexThanjavur,Tamil,11:15,BoxB,150₹,11,11
+Thanjavur,GvComplexThanjavur,Tamil,11:15,I,130₹,156,29
+Thanjavur,GvComplexThanjavur,Tamil,11:15,Ii,100₹,60,0
+Chennai,PvrVrMallAnnaNagar,Tamil,12:40,Classic,60₹,34,34
+Chennai,PvrVrMallAnnaNagar,Tamil,12:40,Prime,190₹,142,21
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,Tamil,13:00,Elite,190₹,170,3
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,Tamil,13:00,Budget,60₹,28,9
+Thanjavur,GvComplexThanjavur,Tamil,14:30,BoxA,150₹,11,11
+Thanjavur,GvComplexThanjavur,Tamil,14:30,BoxB,150₹,11,11
+Thanjavur,GvComplexThanjavur,Tamil,14:30,I,130₹,156,29
+Thanjavur,GvComplexThanjavur,Tamil,14:30,Ii,100₹,60,0
+Chennai,SpiEscapeCinemasRoyapettah,Tamil,16:15,Elite,190₹,99,31
+Chennai,SpiEscapeCinemasRoyapettah,Tamil,16:15,Budget,60₹,11,11
