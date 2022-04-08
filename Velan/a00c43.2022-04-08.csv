@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bhopal,AlpanaCineplexHamidiaRoad,Tamil,11:45,BoxA,150₹,12,12
+Bhopal,AlpanaCineplexHamidiaRoad,Tamil,11:45,BoxB,150₹,12,0
+Bhopal,AlpanaCineplexHamidiaRoad,Tamil,11:45,BalconyGold,100₹,203,123
+Bhopal,AlpanaCineplexHamidiaRoad,Tamil,11:45,Deluxe,100₹,198,198
+Bhopal,AlpanaCineplexHamidiaRoad,Tamil,11:45,Silver,100₹,110,110
