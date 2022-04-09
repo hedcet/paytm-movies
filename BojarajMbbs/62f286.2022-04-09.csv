@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,CinepolisForumShantiniketanThigalarapalya,Tulu,17:55,Vip,400₹,10,0
+Bengaluru,CinepolisForumShantiniketanThigalarapalya,Tulu,17:55,Premium,220₹,32,0
+Bengaluru,CinepolisForumShantiniketanThigalarapalya,Tulu,17:55,Executive,200₹,56,2
+Bengaluru,CinepolisForumShantiniketanThigalarapalya,Tulu,17:55,Normal,180₹,24,0
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Tulu,18:00,Classic,200₹,210,2
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Tulu,18:00,Recliner,350₹,6,4
+Bengaluru,RocklineCinemasJalahalliCross,Tulu,18:55,Gold,150₹,193,21
+Bengaluru,InoxForumNeighbourhoodMallWhiteField,Tulu,18:55,Premiere,240₹,78,0
+Bengaluru,InoxForumNeighbourhoodMallWhiteField,Tulu,18:55,Silver,250₹,69,0
