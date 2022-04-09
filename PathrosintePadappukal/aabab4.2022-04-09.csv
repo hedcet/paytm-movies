@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kochi,PvrOberonMallErnakulam,Malayalam,15:40,Classic,140₹,36,1
+Kochi,PvrOberonMallErnakulam,Malayalam,15:40,ClassicPlus,170₹,81,27
+Kochi,PvrLuluKochi,Malayalam,16:15,Classic,140₹,54,4
+Kochi,PvrLuluKochi,Malayalam,16:15,ClassicPlus,160₹,108,15
+Kochi,PvrLuluKochi,Malayalam,16:15,Prime,190₹,125,23
+Kochi,PvrLuluKochi,Malayalam,16:15,Recliner,350₹,14,2
+Perinthalmanna,VismayaCinemasPerinthalmanna,Malayalam,19:00,Platinum,100₹,111,0
