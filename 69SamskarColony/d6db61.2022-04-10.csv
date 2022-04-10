@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Nalgonda,PvnCinemax,Telugu,11:00,1Balcony,110₹,473,120
+Nalgonda,PvnCinemax,Telugu,11:00,2SecondClass,80₹,131,0
+Nalgonda,PvnCinemax,Telugu,11:00,3ThirdClass,50₹,163,64
+Nalgonda,PvnCinemax,Telugu,14:00,1Balcony,110₹,473,120
+Nalgonda,PvnCinemax,Telugu,14:00,2SecondClass,80₹,131,0
+Nalgonda,PvnCinemax,Telugu,14:00,3ThirdClass,50₹,163,64
+Nalgonda,PvnCinemax,Telugu,18:00,1Balcony,110₹,473,120
+Nalgonda,PvnCinemax,Telugu,18:00,2SecondClass,80₹,131,0
+Nalgonda,PvnCinemax,Telugu,18:00,3ThirdClass,50₹,163,64
+Nalgonda,PvnCinemax,Telugu,21:00,1Balcony,110₹,473,120
+Nalgonda,PvnCinemax,Telugu,21:00,2SecondClass,80₹,131,0
+Nalgonda,PvnCinemax,Telugu,21:00,3ThirdClass,50₹,163,64
