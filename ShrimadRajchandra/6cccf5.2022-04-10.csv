@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Rajkot,InoxRWorldRajkot,Gujarati,09:00,Gold,150₹,133,133
+Rajkot,InoxRWorldRajkot,Gujarati,09:00,Silver,150₹,41,22
+Mumbai,InoxRCityGhatkoparW,Gujarati,09:00,Club,150₹,63,63
+Mumbai,InoxRCityGhatkoparW,Gujarati,09:00,Executive,150₹,36,36
+Mumbai,InoxRCityGhatkoparW,Gujarati,09:00,RoyalRecliner,150₹,13,13
+Mumbai,InoxRCityGhatkoparW,Gujarati,09:00,Royal,150₹,37,37
+Idar,TimeCinemaIdarSapawada,Hindi,09:00,Standard120,120₹,125,25
+Idar,TimeCinemaIdarSapawada,Hindi,09:00,Standard140,140₹,90,0
