@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,LilaCinemaFultala,Bengali,13:00,Balcony,60₹,28,0
+Kolkata,PvrDiamondPlazaJassore,Bengali,14:05,Classic,230₹,80,15
+Kolkata,PvrDiamondPlazaJassore,Bengali,14:05,Prime,280₹,11,8
+Kolkata,PvrDiamondPlazaJassore,Bengali,14:05,Recliner,460₹,12,3
+Kolkata,LilaCinemaFultala,Bengali,16:00,Balcony,60₹,28,0
+Kolkata,LilaCinemaFultala,Bengali,18:45,Balcony,60₹,28,0
