@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,CinepolisRoyalMeenakshiMallBannerghattaRoad,Tulu,15:50,Normal,150₹,24,0
+Bengaluru,CinepolisRoyalMeenakshiMallBannerghattaRoad,Tulu,15:50,Executive,150₹,42,0
+Bengaluru,CinepolisRoyalMeenakshiMallBannerghattaRoad,Tulu,15:50,Premium,150₹,28,0
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Tulu,18:00,Classic,170₹,210,0
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Tulu,18:00,Recliner,280₹,6,0
+Bengaluru,RocklineCinemasJalahalliCross,Tulu,18:55,Gold,150₹,193,19
+Mangalore,CineGalaxySurathkalMangalore,Tulu,19:00,Gold,210₹,100,0
+Mangalore,CineGalaxySurathkalMangalore,Tulu,19:00,Prime,180₹,100,0
+Mangalore,CineGalaxySurathkalMangalore,Tulu,19:00,Classic,150₹,100,0
