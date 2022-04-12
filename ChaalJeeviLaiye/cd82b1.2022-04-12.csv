@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Surat,InoxRajImperialVarachhaRoad,Gujarati,10:35,Gold,112₹,143,1
+Surat,InoxRajImperialVarachhaRoad,Gujarati,10:35,Imperial,260₹,6,6
+Surat,InoxRajImperialVarachhaRoad,Gujarati,10:35,Platinum,140₹,38,2
+Surat,InoxRajImperialVarachhaRoad,Gujarati,10:35,Silver,100₹,32,0
+Ahmedabad,TimeCinemaCgRoad,Gujarati,12:00,Infinity900,900₹,12,0
+Ahmedabad,RevolutionMultiplexCtm,Gujarati,18:35,PlatinumClass,180₹,100,0
+Ahmedabad,RevolutionMultiplexCtm,Gujarati,18:35,GoldenClass,160₹,100,0
+Ahmedabad,RevolutionMultiplexCtm,Gujarati,18:35,SilverClass,140₹,100,0
