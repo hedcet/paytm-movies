@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Manjeri,LadderCinemasIndianMall,Malayalam,14:45,Executive,150₹,114,0
+Manjeri,LadderCinemasIndianMall,Malayalam,18:15,Executive,150₹,114,0
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,21:50,Club,170₹,66,0
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,21:50,Executive,130₹,22,9
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,21:50,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,21:50,Royal,170₹,13,0
