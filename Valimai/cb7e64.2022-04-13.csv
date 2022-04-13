@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Rasipuram,VijayalakshmiTheatreRasipuram,Tamil,10:30,FirstClass,50₹,300,0
+Sendurai,RamasamyTheatreRamasamyNagar,Tamil,11:15,FirstClass,50₹,54,0
+Sendurai,RamasamyTheatreRamasamyNagar,Tamil,11:15,SecondClass,50₹,148,148
+Rasipuram,VijayalakshmiTheatreRasipuram,Tamil,14:00,FirstClass,50₹,300,0
+Sendurai,RamasamyTheatreRamasamyNagar,Tamil,14:30,FirstClass,50₹,54,0
+Sendurai,RamasamyTheatreRamasamyNagar,Tamil,14:30,SecondClass,50₹,148,148
+Rasipuram,VijayalakshmiTheatreRasipuram,Tamil,18:00,FirstClass,50₹,300,0
+Sendurai,RamasamyTheatreRamasamyNagar,Tamil,18:30,FirstClass,50₹,54,0
+Sendurai,RamasamyTheatreRamasamyNagar,Tamil,18:30,SecondClass,50₹,148,148
+Rasipuram,VijayalakshmiTheatreRasipuram,Tamil,21:30,FirstClass,50₹,300,0
+Sendurai,RamasamyTheatreRamasamyNagar,Tamil,22:15,FirstClass,50₹,54,0
+Sendurai,RamasamyTheatreRamasamyNagar,Tamil,22:15,SecondClass,50₹,148,148
