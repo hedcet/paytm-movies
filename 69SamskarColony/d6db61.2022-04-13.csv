@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Markapuram,VijayaTheatreMarkapuram,Telugu,11:00,RoyalClass,70₹,22,22
+Markapuram,VijayaTheatreMarkapuram,Telugu,11:00,FristClass,70₹,140,54
+Markapuram,VijayaTheatreMarkapuram,Telugu,11:00,SecondClass,70₹,177,0
+Markapuram,VijayaTheatreMarkapuram,Telugu,11:00,ThirdClass,70₹,75,0
+Markapuram,VijayaTheatreMarkapuram,Telugu,14:30,RoyalClass,70₹,22,22
+Markapuram,VijayaTheatreMarkapuram,Telugu,14:30,FristClass,70₹,140,54
+Markapuram,VijayaTheatreMarkapuram,Telugu,14:30,SecondClass,70₹,177,0
+Markapuram,VijayaTheatreMarkapuram,Telugu,14:30,ThirdClass,70₹,75,0
+Markapuram,VijayaTheatreMarkapuram,Telugu,18:30,RoyalClass,70₹,22,22
+Markapuram,VijayaTheatreMarkapuram,Telugu,18:30,FristClass,70₹,140,54
+Markapuram,VijayaTheatreMarkapuram,Telugu,18:30,SecondClass,70₹,177,0
+Markapuram,VijayaTheatreMarkapuram,Telugu,18:30,ThirdClass,70₹,75,0
+Markapuram,VijayaTheatreMarkapuram,Telugu,21:30,RoyalClass,70₹,22,22
+Markapuram,VijayaTheatreMarkapuram,Telugu,21:30,FristClass,70₹,140,54
+Markapuram,VijayaTheatreMarkapuram,Telugu,21:30,SecondClass,70₹,177,0
+Markapuram,VijayaTheatreMarkapuram,Telugu,21:30,ThirdClass,70₹,75,0
