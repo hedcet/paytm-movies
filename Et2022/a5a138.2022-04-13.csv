@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Cheepurupalli,RmCinemasCheepurupalli,Telugu,10:30,Balcony,150₹,206,51
+Cheepurupalli,RmCinemasCheepurupalli,Telugu,10:30,FirstClass,100₹,116,116
+Bellary,RrCinemasBellary,Telugu,11:00,Gold,150₹,124,83
+Bellary,RrCinemasBellary,Telugu,11:00,Silver,100₹,242,132
+Bellary,RrCinemasBellary,Telugu,14:00,Gold,150₹,124,83
+Bellary,RrCinemasBellary,Telugu,14:00,Silver,100₹,242,132
+Cheepurupalli,RmCinemasCheepurupalli,Telugu,14:30,Balcony,150₹,206,51
+Cheepurupalli,RmCinemasCheepurupalli,Telugu,14:30,FirstClass,100₹,116,116
+Bellary,RrCinemasBellary,Telugu,17:00,Gold,150₹,124,83
+Bellary,RrCinemasBellary,Telugu,17:00,Silver,100₹,242,132
+Cheepurupalli,RmCinemasCheepurupalli,Telugu,18:15,Balcony,150₹,206,51
+Cheepurupalli,RmCinemasCheepurupalli,Telugu,18:15,FirstClass,100₹,116,116
+Bellary,RrCinemasBellary,Telugu,20:00,Gold,150₹,124,83
+Bellary,RrCinemasBellary,Telugu,20:00,Silver,100₹,242,132
+Cheepurupalli,RmCinemasCheepurupalli,Telugu,21:45,Balcony,150₹,206,51
+Cheepurupalli,RmCinemasCheepurupalli,Telugu,21:45,FirstClass,100₹,116,116
