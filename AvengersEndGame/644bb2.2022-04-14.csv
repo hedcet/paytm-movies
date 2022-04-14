@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Malda,TpmcOms,English,09:00,Corporate,100₹,156,26
+Malda,TpmcOms,English,09:00,DriveInCircle,100₹,600,0
+Malda,TpmcOms,English,11:30,Corporate,100₹,156,29
+Malda,TpmcOms,English,11:30,DriveInCircle,100₹,600,0
+Malda,TpmcOms,English,15:00,Corporate,1₹,156,26
+Malda,TpmcOms,English,15:00,DriveInCircle,1₹,600,0
+Malda,TpmcOms,English,18:30,Corporate,1₹,156,26
+Malda,TpmcOms,English,18:30,DriveInCircle,1₹,600,0
