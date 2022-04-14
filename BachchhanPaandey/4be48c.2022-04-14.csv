@@ -1,0 +1,12 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kanpur,JugulPalaceCinemaKrishnaNagar,Hindi,08:15,Balcony,110₹,20,0
+Kanpur,JugulPalaceCinemaKrishnaNagar,Hindi,11:00,Balcony,110₹,20,0
+Agra,RajeevCinemaBhogipura,Hindi,12:15,Balcony,40₹,280,224
+Agra,RajeevCinemaBhogipura,Hindi,12:15,DressCircle,20₹,660,601
+Kanpur,JugulPalaceCinemaKrishnaNagar,Hindi,13:30,Balcony,110₹,20,0
+Agra,RajeevCinemaBhogipura,Hindi,15:15,Balcony,40₹,280,224
+Agra,RajeevCinemaBhogipura,Hindi,15:15,DressCircle,20₹,660,600
+Kanpur,JugulPalaceCinemaKrishnaNagar,Hindi,16:00,Balcony,110₹,20,0
+Agra,RajeevCinemaBhogipura,Hindi,18:15,Balcony,40₹,280,224
+Agra,RajeevCinemaBhogipura,Hindi,18:15,DressCircle,20₹,660,600
+Kanpur,JugulPalaceCinemaKrishnaNagar,Hindi,18:30,Balcony,110₹,20,2
