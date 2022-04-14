@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kankipadu,SriRamaChandraTheatreKankipadu,Telugu,11:30,Premium,100₹,121,0
+Kankipadu,SriRamaChandraTheatreKankipadu,Telugu,11:30,NonPremium,78₹,60,48
+Kankipadu,SriRamaChandraTheatreKankipadu,Telugu,14:30,Premium,100₹,121,0
+Kankipadu,SriRamaChandraTheatreKankipadu,Telugu,14:30,NonPremium,78₹,60,48
+Kankipadu,SriRamaChandraTheatreKankipadu,Telugu,18:30,Premium,100₹,121,0
+Kankipadu,SriRamaChandraTheatreKankipadu,Telugu,18:30,NonPremium,78₹,60,48
+Kankipadu,SriRamaChandraTheatreKankipadu,Telugu,21:30,Premium,100₹,121,0
+Kankipadu,SriRamaChandraTheatreKankipadu,Telugu,21:30,NonPremium,78₹,60,48
