@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,PvrArvedTranscube,Kannada,17:00,Classic,175₹,36,0
+Ahmedabad,PvrArvedTranscube,Kannada,17:00,Prime,200₹,119,15
+Ahmedabad,PvrArvedTranscube,Kannada,17:00,Recliner,500₹,4,0
