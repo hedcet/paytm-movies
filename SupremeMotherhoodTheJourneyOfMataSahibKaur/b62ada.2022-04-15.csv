@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrIconInfinitiAndheriW,Punjabi,08:30,Classic,180₹,45,0
+Mumbai,PvrIconInfinitiAndheriW,Punjabi,08:30,Prime,180₹,179,11
+Mumbai,PvrIconInfinitiAndheriW,Punjabi,08:30,Recliner,400₹,12,0
+Mumbai,InoxMegaplexInorbitMall,Punjabi,09:10,Insignia,300₹,42,0
+Mumbai,InoxRCityGhatkoparW,Punjabi,09:15,Insignia,230₹,42,20
+NewDelhi,PvrPromenadeVasantKunj,Punjabi,11:00,Classic,390₹,96,12
+NewDelhi,PvrPromenadeVasantKunj,Punjabi,11:00,Prime,420₹,33,12
+Noida,PvrLogixCityCentreNoida,Punjabi,11:20,Classic,190₹,89,7
+NewDelhi,PvrVegasDwarka,Punjabi,13:55,Classic,295₹,76,3
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,16:45,PrimePlus,160₹,63,19
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,16:45,Prime,140₹,100,14
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,16:45,Classic,120₹,70,10
+NewDelhi,PvrPacificSubhashNagarDelhi,Punjabi,19:30,Classic,440₹,52,4
+NewDelhi,PvrPacificSubhashNagarDelhi,Punjabi,19:30,Prime,480₹,88,23
+Gurgaon,PvrAmbienceGurgaon,Punjabi,21:00,ClassicNormal,350₹,84,0
+Gurgaon,PvrAmbienceGurgaon,Punjabi,21:00,Prime,450₹,38,0
