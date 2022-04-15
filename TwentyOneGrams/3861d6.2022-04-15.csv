@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kochi,PvrLuluKochi,Malayalam,12:50,Classic,140₹,39,1
+Kochi,PvrLuluKochi,Malayalam,12:50,ClassicPlus,160₹,91,23
+Kochi,PvrLuluKochi,Malayalam,12:50,Prime,190₹,64,12
+Kochi,PvrLuluKochi,Malayalam,12:50,Recliner,350₹,9,9
+Kochi,PvrOberonMallErnakulam,Malayalam,22:20,Classic,140₹,36,2
+Kochi,PvrOberonMallErnakulam,Malayalam,22:20,ClassicPlus,170₹,81,57
