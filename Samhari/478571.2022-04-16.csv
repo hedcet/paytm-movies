@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Srikakulam,SriRamaKrishnaTheatreSrikakulam,Telugu,11:00,PremiumClass,147₹,323,273
+Srikakulam,SriRamaKrishnaTheatreSrikakulam,Telugu,11:00,NonPremiumClass,100₹,102,102
+Srikakulam,SriRamaKrishnaTheatreSrikakulam,Telugu,14:30,PremiumClass,147₹,323,273
+Srikakulam,SriRamaKrishnaTheatreSrikakulam,Telugu,14:30,NonPremiumClass,100₹,102,102
+Srikakulam,SriRamaKrishnaTheatreSrikakulam,Telugu,18:30,PremiumClass,147₹,323,273
+Srikakulam,SriRamaKrishnaTheatreSrikakulam,Telugu,18:30,NonPremiumClass,100₹,102,102
+Srikakulam,SriRamaKrishnaTheatreSrikakulam,Telugu,21:45,PremiumClass,147₹,323,273
+Srikakulam,SriRamaKrishnaTheatreSrikakulam,Telugu,21:45,NonPremiumClass,100₹,102,102
