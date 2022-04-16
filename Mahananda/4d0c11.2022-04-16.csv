@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,InoxCityCentreSaltlake,Bengali,14:35,DressCircle,240₹,158,4
+Kolkata,InoxCityCentreSaltlake,Bengali,14:35,Galleria,200₹,36,0
+Kolkata,InoxCityCentreSaltlake,Bengali,14:35,Royale,280₹,31,4
+Kolkata,CinepolisLakeMallRashbehari,Bengali,15:45,Normal,180₹,22,0
+Kolkata,CinepolisLakeMallRashbehari,Bengali,15:45,Executive,200₹,54,3
+Kolkata,CinepolisLakeMallRashbehari,Bengali,15:45,Premium,220₹,22,9
+Kolkata,AjantaCinemaBehala,Bengali,15:45,Balcony,120₹,106,60
+Kolkata,PvrDiamondPlazaJassore,Bengali,16:40,Classic,240₹,100,3
+Kolkata,PvrDiamondPlazaJassore,Bengali,16:40,Prime,290₹,11,4
+Kolkata,PvrDiamondPlazaJassore,Bengali,16:40,Recliner,460₹,12,3
+Kolkata,InoxSouthCityMall,Bengali,16:45,Premier,270₹,34,0
+Kolkata,InoxSouthCityMall,Bengali,16:45,Silver,290₹,156,11
+Kolkata,InoxSouthCityMall,Bengali,19:10,Premier,250₹,32,32
+Kolkata,InoxSouthCityMall,Bengali,19:10,Rr,250₹,16,16
+Kolkata,InoxSouthCityMall,Bengali,19:10,Silver,250₹,151,151
