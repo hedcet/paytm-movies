@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,10:20,NormalOffline,100₹,17,10
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,10:20,ExecutiveOffline,180₹,102,34
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,10:20,PremiumOffline,300₹,50,13
+Thalassery,CarnivalDowntownThalassery,Malayalam,10:30,ExecutiveOffline,140₹,131,33
+Thalayolaparambu,CarnivalThalayolaparambu,Malayalam,14:30,Gold,110₹,144,21
+Karunagappally,CarnivalHJComplexLalajiJunction,Malayalam,16:45,ClassicOffline,150₹,118,17
