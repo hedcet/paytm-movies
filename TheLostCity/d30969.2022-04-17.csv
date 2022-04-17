@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Surat,TimeCinemaSuratGalaxyCircle,English,08:50,Infinity250,250₹,22,0
+Mumbai,InoxRCityGhatkoparW,English,08:55,Insignia,300₹,42,0
+Ahmedabad,TimeCinemaCgRoad,English,08:55,Standard180,180₹,108,8
+NewDelhi,PvrPromenadeVasantKunj,English,10:00,Classic,390₹,50,0
+NewDelhi,PvrPromenadeVasantKunj,English,10:00,Prime,420₹,44,12
+Chandigarh,Pvr4DxElanteChandigarh,English,11:05,Classic,400₹,92,24
+Gurgaon,PvrAmbienceGoldGurgaon,English,11:05,Platinum,600₹,28,14
+Gurgaon,PvrAmbienceGoldGurgaon,English,11:05,PlatinumSuperior,600₹,16,9
+Mumbai,InoxMegaplexInorbitMall,English,13:20,Club,350₹,16,8
+Mumbai,InoxMegaplexInorbitMall,English,13:20,Royal,350₹,59,56
+NewDelhi,PvrDirectorsCutDelhiAmbienceMall,English,14:05,Platinum,"1,200₹",19,19
+NewDelhi,PvrDirectorsCutDelhiAmbienceMall,English,14:05,PlatinumSuperior,"1,400₹",6,6
+Hyderabad,Pvr4DxIrrumManzilKhairatabad,English,14:15,4Dx,350₹,96,51
+Hyderabad,Pvr4DxKukatpallyHyderabad,English,16:20,4DxClassic,350₹,108,58
+Noida,PvrLogixCityCentre4DxNoida,English,16:40,Classic,550₹,92,31
+Surat,TimeCinemaSuratGalaxyCircle,English,23:15,Sofa350,350₹,34,0
