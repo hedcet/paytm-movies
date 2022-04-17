@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bellary,RrCinemasBellary,Telugu,11:00,Gold,150₹,173,102
+Bellary,RrCinemasBellary,Telugu,11:00,Silver,100₹,132,60
+Guntur,SreeGaneshMahalKothapet,Telugu,11:15,FristClass,40₹,202,142
+Guntur,SreeGaneshMahalKothapet,Telugu,11:15,SecondClass,25₹,209,209
+Bellary,RrCinemasBellary,Telugu,14:00,Gold,150₹,173,102
+Bellary,RrCinemasBellary,Telugu,14:00,Silver,100₹,132,60
+Guntur,SreeGaneshMahalKothapet,Telugu,14:30,FristClass,40₹,202,142
+Guntur,SreeGaneshMahalKothapet,Telugu,14:30,SecondClass,25₹,209,209
+Bellary,RrCinemasBellary,Telugu,17:00,Gold,150₹,173,103
+Bellary,RrCinemasBellary,Telugu,17:00,Silver,100₹,132,60
+Guntur,SreeGaneshMahalKothapet,Telugu,18:15,FristClass,40₹,202,142
+Guntur,SreeGaneshMahalKothapet,Telugu,18:15,SecondClass,25₹,209,209
+Bellary,RrCinemasBellary,Telugu,20:00,Gold,150₹,173,102
+Bellary,RrCinemasBellary,Telugu,20:00,Silver,100₹,132,60
+Guntur,SreeGaneshMahalKothapet,Telugu,21:30,FristClass,40₹,202,142
+Guntur,SreeGaneshMahalKothapet,Telugu,21:30,SecondClass,25₹,209,209
