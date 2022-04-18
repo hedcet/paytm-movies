@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,MirajCityPulseManiNagar,Gujarati,11:00,Gold,140₹,66,0
+Ahmedabad,PvrArvedTranscube,Gujarati,20:45,Classic,150₹,39,5
+Ahmedabad,PvrArvedTranscube,Gujarati,20:45,Prime,150₹,96,66
+Vadodara,PvrTransCubeVadodara,Gujarati,20:45,Classic,150₹,39,0
+Vadodara,PvrTransCubeVadodara,Gujarati,20:45,Prime,150₹,90,36
+Vadodara,PvrTransCubeVadodara,Gujarati,20:45,Recliner,300₹,8,7
