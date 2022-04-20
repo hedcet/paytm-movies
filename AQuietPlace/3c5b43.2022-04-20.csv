@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Waterland,PvrTestingCinema,English,17:50,Prime,185₹,97,0
+Waterland,PvrTestingCinema,English,17:50,Classic,160₹,226,6
+Waterland,PvrTestingCinema,English,20:15,Prime,200₹,14,0
+Waterland,PvrTestingCinema,English,20:15,Classic,175₹,36,0
+Waterland,PvrTestingCinema,English,20:50,Prime,100₹,22,4
+Waterland,PvrTestingCinema,English,20:50,Classic,40₹,72,0
