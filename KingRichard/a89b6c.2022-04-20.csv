@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Gurgaon,PvrAmbienceGurgaon,English,10:30,ClassicNormal,175₹,84,0
+Gurgaon,PvrAmbienceGurgaon,English,10:30,Prime,200₹,38,2
+Mumbai,PvrIconLuxeInfinitiAndheriWMumbai,English,15:30,Luxe,500₹,51,5
+Mumbai,PvrIconLuxeInfinitiAndheriWMumbai,English,15:30,LuxeSuperior,600₹,33,7
+Mumbai,InoxLaserplexCr2NarimanPoint,English,16:00,Club,270₹,150,9
+Mumbai,InoxLaserplexCr2NarimanPoint,English,16:00,Royale,320₹,103,0
+Mumbai,MetroInoxCinemaMGRoad,English,18:00,Insignia,700₹,42,2
+Mumbai,InoxLaserplexCr2NarimanPoint,English,19:00,Insignia,700₹,70,6
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,English,19:30,PrimePlus,"1,000₹",30,14
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,English,19:30,Prime,"1,000₹",11,0
+NewDelhi,PvrPromenadeVasantKunj,English,19:35,Classic,380₹,50,2
+NewDelhi,PvrPromenadeVasantKunj,English,19:35,Prime,400₹,34,18
+Mumbai,InoxMegaplexInorbitMall,English,19:45,Kiddles,220₹,53,14
+Mumbai,InoxLaserplexCr2NarimanPoint,English,22:30,Insignia,700₹,70,0
+NewDelhi,PvrSelectCityWalkGoldDelhi,English,22:45,Platinum,400₹,24,0
+NewDelhi,PvrSelectCityWalkGoldDelhi,English,22:45,PlatinumSuperior,400₹,8,0
