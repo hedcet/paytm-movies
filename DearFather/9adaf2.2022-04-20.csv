@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,MirajCityPulseManiNagar,Gujarati,11:00,Gold,140₹,66,0
+Mumbai,MetroInoxCinemaMGRoad,Gujarati,19:15,Club,300₹,129,0
+Mumbai,MetroInoxCinemaMGRoad,Gujarati,19:15,Executive,280₹,30,4
+Mumbai,MetroInoxCinemaMGRoad,Gujarati,19:15,Royale,300₹,81,14
+Ahmedabad,PvrArvedTranscube,Gujarati,20:45,Classic,150₹,39,10
+Ahmedabad,PvrArvedTranscube,Gujarati,20:45,Prime,150₹,96,65
+Vadodara,PvrTransCubeVadodara,Gujarati,20:45,Classic,150₹,39,0
+Vadodara,PvrTransCubeVadodara,Gujarati,20:45,Prime,150₹,90,20
+Vadodara,PvrTransCubeVadodara,Gujarati,20:45,Recliner,300₹,8,2
