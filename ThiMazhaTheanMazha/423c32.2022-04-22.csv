@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,Malayalam,10:20,ExecutiveOffline,140₹,145,15
+Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,10:30,ExecutiveOffline,100₹,13,0
+Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,10:30,SilverOffline,180₹,167,17
+Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,10:30,GoldOffline,350₹,13,0
