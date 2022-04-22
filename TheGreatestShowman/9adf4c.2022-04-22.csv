@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Malda,TpmcOms,English,15:00,Executive3DChargesInclusive,2₹,222,143
+Malda,TpmcOms,English,15:00,Corporate3DChargesInclusive,2₹,538,100
+Malda,TpmcOms,English,15:00,Budget3DChargesInclusive,2₹,95,32
+Malda,TpmcOms,English,18:30,Executive3DChargesInclusive,101₹,222,143
+Malda,TpmcOms,English,18:30,Corporate3DChargesInclusive,101₹,538,100
+Malda,TpmcOms,English,18:30,Budget3DChargesInclusive,101₹,95,32
+Malda,TpmcOms,English,18:30,Corporate3DChargesInclusive,21₹,307,69
+Malda,TpmcOms,English,18:30,Executive3DChargesInclusive,101₹,222,143
+Malda,TpmcOms,English,18:30,Corporate3DChargesInclusive,101₹,538,100
+Malda,TpmcOms,English,18:30,Budget3DChargesInclusive,101₹,95,32
+Malda,TpmcOms,English,22:00,Executive3DChargesInclusive,101₹,222,143
+Malda,TpmcOms,English,22:00,Corporate3DChargesInclusive,101₹,538,100
+Malda,TpmcOms,English,22:00,Budget3DChargesInclusive,101₹,95,32
+Malda,TpmcOms,English,22:00,Corporate3DChargesInclusive,21₹,307,69
