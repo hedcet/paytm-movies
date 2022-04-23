@@ -1,0 +1,12 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NewDelhi,PvrVegasDwarka,Hindi,17:00,Classic,350₹,89,49
+Mumbai,InoxRCityGhatkoparW,Hindi,17:30,Insignia,730₹,42,26
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Hindi,19:45,Recliner,850₹,13,9
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Hindi,19:45,Prime,390₹,68,50
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Hindi,19:45,Classic,300₹,42,10
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Hindi,19:45,Lounger,320₹,10,0
+Ahmedabad,CineworldVishalaEmpireNaroda,Hindi,22:00,Platinum,200₹,110,0
+Ahmedabad,CineworldVishalaEmpireNaroda,Hindi,22:00,Gold,140₹,110,0
+Ahmedabad,CineworldVishalaEmpireNaroda,Hindi,22:00,Silver,140₹,110,0
+Noida,PvrLogixCityCentreNoida,Hindi,22:20,Classic,345₹,76,27
+Mumbai,InoxMegaplexInorbitMall,Hindi,22:55,Kiddles,300₹,53,23
