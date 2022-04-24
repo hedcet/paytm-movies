@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kottarakara,MinervaEmpireCinemazChandamukku,Malayalam,10:00,Executive,200₹,13,0
+Kottarakara,MinervaEmpireCinemazChandamukku,Malayalam,10:00,Diamond,140₹,210,0
+Payyanur,AradhanaArchanaMovieHousePayyanur,Malayalam,10:30,Balcony,110₹,144,0
+Kochi,PvrLuluKochi,Malayalam,11:05,Classic,110₹,39,10
+Kochi,PvrLuluKochi,Malayalam,11:05,ClassicPlus,140₹,91,8
+Kochi,PvrLuluKochi,Malayalam,11:05,Prime,160₹,68,1
+Kochi,PvrLuluKochi,Malayalam,11:05,Recliner,290₹,10,0
+Payyanur,AradhanaArchanaMovieHousePayyanur,Malayalam,13:30,Balcony,110₹,144,0
