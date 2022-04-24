@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,InoxMetropolisMallHilandPark,Bengali,15:10,Premier,200₹,29,1
+Kolkata,InoxMetropolisMallHilandPark,Bengali,15:10,Royal,400₹,18,4
+Kolkata,InoxMetropolisMallHilandPark,Bengali,15:10,Silver,220₹,147,53
+Kolkata,CarnivalSaltLake,Bengali,15:30,Silver,150₹,190,76
+Kolkata,CinepolisLakeMallRashbehari,Bengali,16:10,Normal,200₹,22,19
+Kolkata,CinepolisLakeMallRashbehari,Bengali,16:10,Executive,220₹,54,54
+Kolkata,CinepolisLakeMallRashbehari,Bengali,16:10,Premium,240₹,22,22
+Kolkata,CinepolisAcropolisMallRajdangaRoad,Bengali,16:10,Executive,220₹,59,53
+Kolkata,CinepolisAcropolisMallRajdangaRoad,Bengali,16:10,Premium,240₹,34,31
+Kolkata,InoxCityCentreIiRajarhat,Bengali,16:10,Club,220₹,229,107
+Kolkata,InoxCityCentreIiRajarhat,Bengali,16:10,Executive,200₹,42,2
+Kolkata,InoxSouthCityMall,Bengali,18:55,Premier,270₹,34,6
+Kolkata,InoxSouthCityMall,Bengali,18:55,Silver,290₹,156,127
+Kolkata,PvrDiamondPlazaJassore,Bengali,19:05,Classic,250₹,80,55
+Kolkata,PvrDiamondPlazaJassore,Bengali,19:05,Prime,300₹,11,10
+Kolkata,PvrDiamondPlazaJassore,Bengali,19:05,Recliner,470₹,12,7
