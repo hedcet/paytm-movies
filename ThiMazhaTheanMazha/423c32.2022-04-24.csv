@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,11:00,ExecutiveOffline,100₹,13,0
+Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,11:00,SilverOffline,180₹,167,16
+Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,11:00,GoldOffline,350₹,13,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,18:15,NormalOffline,100₹,18,10
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,18:15,ExecutiveOffline,180₹,72,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,18:15,Silver,210₹,103,6
