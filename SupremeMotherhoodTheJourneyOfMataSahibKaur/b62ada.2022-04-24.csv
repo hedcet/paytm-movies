@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MovieMaxMiraRoadMumbai,Punjabi,14:10,Recliner,200₹,16,13
+Mumbai,MovieMaxMiraRoadMumbai,Punjabi,14:10,PrimePlus,190₹,10,3
+Mumbai,MovieMaxMiraRoadMumbai,Punjabi,14:10,Classic,140₹,40,0
+Mumbai,MovieMaxMiraRoadMumbai,Punjabi,14:10,Prime,150₹,233,97
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,17:45,PrimePlus,160₹,81,64
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,17:45,Prime,140₹,100,74
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,17:45,Classic,120₹,70,14
