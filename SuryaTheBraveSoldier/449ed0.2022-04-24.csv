@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mahishadal,GitaCinema,Hindi,11:30,AcSuper,100₹,60,0
+Mahishadal,GitaCinema,Hindi,11:30,Special,70₹,96,0
+Mahishadal,GitaCinema,Hindi,11:30,DressCircle,40₹,40,0
+Mahishadal,GitaCinema,Hindi,11:30,Balcony,30₹,141,0
+Mahishadal,GitaCinema,Hindi,11:30,RearStall,25₹,600,0
+Mahishadal,GitaCinema,Hindi,14:20,AcSuper,100₹,60,0
+Mahishadal,GitaCinema,Hindi,14:20,Special,70₹,96,0
+Mahishadal,GitaCinema,Hindi,14:20,DressCircle,40₹,40,0
+Mahishadal,GitaCinema,Hindi,14:20,Balcony,30₹,141,0
+Mahishadal,GitaCinema,Hindi,14:20,RearStall,25₹,600,0
+Mahishadal,GitaCinema,Hindi,17:15,AcSuper,100₹,60,2
+Mahishadal,GitaCinema,Hindi,17:15,Special,70₹,96,0
+Mahishadal,GitaCinema,Hindi,17:15,DressCircle,40₹,40,0
+Mahishadal,GitaCinema,Hindi,17:15,Balcony,30₹,141,0
+Mahishadal,GitaCinema,Hindi,17:15,RearStall,25₹,600,0
