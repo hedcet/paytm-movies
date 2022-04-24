@@ -1,0 +1,12 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Banga,RitzMultiplexBanga,Hindi,11:00,GoldC,130₹,14,0
+Banga,RitzMultiplexBanga,Hindi,11:00,SilverC,90₹,150,50
+Nakodar,KcAnandMiniplexNakodar,Hindi,15:00,Gold,150₹,100,0
+Nakodar,KcAnandMiniplexNakodar,Hindi,15:00,Silver,150₹,100,0
+Jalandhar,PvrFriendsJalandhar,Hindi,16:15,Classic,250₹,48,48
+Jalandhar,PvrFriendsJalandhar,Hindi,16:15,Prime,330₹,73,19
+Batala,SolitaireCinemasBatala,Hindi,16:35,SolitaireClassic,180₹,49,49
+Batala,SolitaireCinemasBatala,Hindi,16:35,Gold,180₹,48,6
+Batala,SolitaireCinemasBatala,Hindi,16:35,Silver,180₹,20,0
+Malout,CcpCineplexMalout,Hindi,17:35,RoyalClass,300₹,100,0
+Malout,CcpCineplexMalout,Hindi,17:35,GoldClass,100₹,100,0
