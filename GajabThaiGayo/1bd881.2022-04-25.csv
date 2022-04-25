@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,MirajCityPulseManiNagar,Gujarati,13:30,Gold,160₹,24,5
+Surat,PvrRahulRajMallDumasRoad,Gujarati,16:30,Recliner,340₹,24,5
+Surat,PvrRahulRajMallDumasRoad,Gujarati,16:30,Prime,160₹,72,11
+Surat,PvrRahulRajMallDumasRoad,Gujarati,16:30,ClassicPlus,150₹,30,0
+Surat,PvrRahulRajMallDumasRoad,Gujarati,16:30,Classic,130₹,30,0
+Vadodara,PvrTransCubeVadodara,Gujarati,20:10,Classic,150₹,42,0
+Vadodara,PvrTransCubeVadodara,Gujarati,20:10,Prime,150₹,99,37
+Vadodara,PvrTransCubeVadodara,Gujarati,20:10,Recliner,300₹,8,4
+Ahmedabad,PvrArvedTranscube,Gujarati,20:15,Classic,150₹,39,0
+Ahmedabad,PvrArvedTranscube,Gujarati,20:15,Prime,150₹,96,22
+Ahmedabad,CinepolisAlphaOneMall,Gujarati,22:15,Executive,180₹,58,0
+Ahmedabad,CinepolisAlphaOneMall,Gujarati,22:15,Premium,220₹,48,10
+Ahmedabad,CinepolisAlphaOneMall,Gujarati,22:15,Normal,150₹,29,3
+Vadodara,CinepolisInorbitMallGorwa,Gujarati,23:00,Premium,150₹,38,12
+Vadodara,CinepolisInorbitMallGorwa,Gujarati,23:00,Executive,150₹,93,3
+Vadodara,CinepolisInorbitMallGorwa,Gujarati,23:00,Normal,150₹,24,0
