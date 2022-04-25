@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Nashik,CinemaxRegimentalPlazaNasik,Hindi,09:30,Prime,150₹,93,93
+Nashik,CinemaxRegimentalPlazaNasik,Hindi,09:30,PrimePlus,150₹,23,23
+Nashik,CinemaxRegimentalPlazaNasik,Gujarati,10:00,Classic,150₹,75,75
+Nashik,CinemaxRegimentalPlazaNasik,Gujarati,10:00,Prime,150₹,190,190
+Nashik,CinemaxRegimentalPlazaNasik,Gujarati,10:00,PrimePlus,150₹,50,50
