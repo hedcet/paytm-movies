@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Vizag,SukanyaComplex,Telugu,10:30,Balcony,145₹,259,0
+Vizag,SukanyaComplex,Telugu,10:30,1stClass,100₹,220,1
+Berhampur,SivaMaxBerhampur,Hindi,11:15,Balcony,100₹,240,222
+Berhampur,SivaMaxBerhampur,Hindi,11:15,RearStall,70₹,300,260
+Vizag,SukanyaComplex,Telugu,13:45,Balcony,145₹,259,4
+Vizag,SukanyaComplex,Telugu,13:45,1stClass,100₹,220,0
+Vizag,SukanyaComplex,Telugu,17:45,Balcony,145₹,259,2
+Vizag,SukanyaComplex,Telugu,17:45,1stClass,100₹,220,0
+Vizag,SukanyaComplex,Telugu,20:20,Balcony,145₹,259,0
+Vizag,SukanyaComplex,Telugu,20:20,1stClass,100₹,220,0
