@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NewDelhi,PvrPromenadeVasantKunj,English,09:45,Classic,320₹,96,1
+NewDelhi,PvrPromenadeVasantKunj,English,09:45,Prime,350₹,33,1
+Bengaluru,Pvr4DxForumMallKoramangala,English,10:00,4DxClassic,250₹,84,3
+Mumbai,PaytmImaxInoxRCityGhatkoparW,English,11:05,RoyalRecliner,230₹,13,0
+Mumbai,PaytmImaxInoxRCityGhatkoparW,English,11:05,Royal,112₹,37,1
+Mumbai,PaytmImaxInoxRCityGhatkoparW,English,11:05,Club,112₹,63,2
+Mumbai,PaytmImaxInoxRCityGhatkoparW,English,11:05,Executive,90₹,36,0
+Gurgaon,PvrAmbienceGoldGurgaon,English,13:05,Platinum,500₹,28,0
+Gurgaon,PvrAmbienceGoldGurgaon,English,13:05,PlatinumSuperior,500₹,8,0
+Noida,PvrLogixCityCentreNoida,English,13:20,Classic,215₹,89,14
+Mumbai,InoxMegaplexInorbitMall,English,15:55,Kiddles,220₹,53,4
+Bengaluru,PvrPhoenixMarketcityMall4DxWhitefieldRoad,English,18:20,Classic,330₹,100,16
+Hyderabad,PvrPlayHouseNextGalleriaMallPanjagutta,English,21:45,Classic,200₹,54,17
+Bengaluru,PvrVegaPlayHouseBannerghattaRoad,English,21:50,Classic,170₹,70,23
+Chandigarh,Pvr4DxElanteChandigarh,English,23:00,Classic,400₹,92,6
+Gurgaon,PvrMgfMall4DxGurgaon,English,23:05,Classic,500₹,84,0
