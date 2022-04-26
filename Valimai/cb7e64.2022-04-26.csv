@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Vizag,SriKanthiTheatreDtsVisakhapatnam,Telugu,11:00,Premium,60₹,362,0
+Vizag,SriKanthiTheatreDtsVisakhapatnam,Telugu,11:00,NonPremium,40₹,247,247
+Vizag,SriKanthiTheatreDtsVisakhapatnam,Telugu,14:30,Premium,60₹,362,0
+Vizag,SriKanthiTheatreDtsVisakhapatnam,Telugu,14:30,NonPremium,40₹,247,247
+Vizag,SriKanthiTheatreDtsVisakhapatnam,Telugu,18:30,Premium,60₹,362,0
+Vizag,SriKanthiTheatreDtsVisakhapatnam,Telugu,18:30,NonPremium,40₹,247,247
+Vizag,SriKanthiTheatreDtsVisakhapatnam,Telugu,21:30,Premium,60₹,362,0
+Vizag,SriKanthiTheatreDtsVisakhapatnam,Telugu,21:30,NonPremium,40₹,247,247
