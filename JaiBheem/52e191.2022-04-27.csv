@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Nakodar,KcAnandMiniplexNakodar,Hindi,09:00,Gold,150₹,100,0
+Nakodar,KcAnandMiniplexNakodar,Hindi,09:00,Silver,150₹,100,0
+Nakodar,KcAnandMiniplexNakodar,Hindi,15:00,Gold,150₹,100,0
+Nakodar,KcAnandMiniplexNakodar,Hindi,15:00,Silver,150₹,100,0
+Dasuya,PresidentCinemasAdarshNagar,Hindi,15:30,Diamond,200₹,100,0
+Dasuya,PresidentCinemasAdarshNagar,Hindi,15:30,Economy,150₹,100,0
+Jalandhar,PvrFriendsJalandhar,Hindi,16:15,Classic,220₹,48,48
+Jalandhar,PvrFriendsJalandhar,Hindi,16:15,Prime,250₹,73,73
+Malout,CcpCineplexMalout,Hindi,17:30,RoyalClass,300₹,100,0
+Malout,CcpCineplexMalout,Hindi,17:30,GoldClass,90₹,100,0
