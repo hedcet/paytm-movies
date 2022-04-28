@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NewDelhi,PvrPromenadeVasantKunj,,English,09:45,Classic,300₹,84,0
+NewDelhi,PvrPromenadeVasantKunj,,English,09:45,Prime,350₹,21,0
+Bengaluru,Pvr4DxForumMallKoramangala,,English,10:00,4DxClassic,250₹,84,17
+Pune,CinepolisWestendMallAundh,,English,11:45,Normal,200₹,21,0
+Pune,CinepolisWestendMallAundh,,English,11:45,Executive,200₹,48,0
+Pune,CinepolisWestendMallAundh,,English,11:45,Premium,200₹,44,9
+Gurgaon,PvrAmbienceGoldGurgaon,,English,13:05,Platinum,500₹,28,0
+Gurgaon,PvrAmbienceGoldGurgaon,,English,13:05,PlatinumSuperior,500₹,8,0
+Noida,PvrLogixCityCentreNoida,,English,13:20,Classic,215₹,78,14
+Bengaluru,PvrPhoenixMarketcityMall4DxWhitefieldRoad,,English,18:20,Classic,330₹,100,20
+Hyderabad,PvrPlayHouseNextGalleriaMallPanjagutta,,English,21:45,Classic,200₹,54,17
+Bengaluru,PvrVegaPlayHouseBannerghattaRoad,,English,21:50,Classic,170₹,62,33
+Mumbai,PvrMarketCityKurlaW,,English,22:45,Classic,170₹,90,0
+Mumbai,PvrMarketCityKurlaW,,English,22:45,Prime,190₹,117,25
+Chandigarh,Pvr4DxElanteChandigarh,,English,23:00,Classic,400₹,92,18
+Gurgaon,PvrMgfMall4DxGurgaon,,English,23:05,Classic,500₹,84,2
