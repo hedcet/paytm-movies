@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nakodar,KcAnandMiniplexNakodar,,Hindi,15:00,Gold,150₹,100,0
+Nakodar,KcAnandMiniplexNakodar,,Hindi,15:00,Silver,150₹,100,0
+Nawanshahr,SutlejCinemaBarnalaKalanRoad,,Hindi,15:30,Gold,170₹,100,0
+Nawanshahr,SutlejCinemaBarnalaKalanRoad,,Hindi,15:30,Silver,140₹,100,0
+Nawanshahr,SutlejCinemaBarnalaKalanRoad,,Hindi,15:30,Seasonal,100₹,100,0
+Dasuya,PresidentCinemasAdarshNagar,,Hindi,15:30,Diamond,200₹,100,0
+Dasuya,PresidentCinemasAdarshNagar,,Hindi,15:30,Economy,150₹,100,0
+Jalandhar,PvrFriendsJalandhar,,Hindi,16:15,Classic,220₹,48,44
+Jalandhar,PvrFriendsJalandhar,,Hindi,16:15,Prime,250₹,73,53
+Ludhiana,SolitaireCinemasJmdGovardhanCityCenter,,Hindi,16:30,VipClass,130₹,23,0
+Ludhiana,SolitaireCinemasJmdGovardhanCityCenter,,Hindi,16:30,GoldClass,130₹,224,0
+Ludhiana,SolitaireCinemasJmdGovardhanCityCenter,,Hindi,16:30,SilverClass,130₹,54,27
+Malout,CcpCineplexMalout,,Hindi,17:30,RoyalClass,300₹,100,0
+Malout,CcpCineplexMalout,,Hindi,17:30,GoldClass,100₹,100,0
