@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,PvrLuluKochi,,Malayalam,22:20,Classic,140₹,39,0
+Kochi,PvrLuluKochi,,Malayalam,22:20,ClassicPlus,160₹,91,7
+Kochi,PvrLuluKochi,,Malayalam,22:20,Prime,190₹,68,30
+Kochi,PvrLuluKochi,,Malayalam,22:20,Recliner,350₹,10,3
