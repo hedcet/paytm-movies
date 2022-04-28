@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Noida,PvrLogixCityCentrePlayHouseNoida,,English,09:40,3DClassic,240₹,49,2
+Hyderabad,PvrPlayHouseNextGalleriaMallPanjagutta,,English,13:05,Classic,200₹,54,22
+Noida,PvrLogixCityCentrePlayHouseNoida,,English,15:35,3DClassic,315₹,49,6
+NewDelhi,PvrVegasPlayHouseDwarka,,Hindi,17:15,3DRecliner,490₹,8,0
+NewDelhi,PvrVegasPlayHouseDwarka,,Hindi,17:15,3DPrime,405₹,14,5
+NewDelhi,PvrVegasPlayHouseDwarka,,Hindi,17:15,3DClassic,355₹,36,1
