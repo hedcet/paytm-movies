@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Karunagappally,CarnivalHJComplexLalajiJunction,,Malayalam,13:30,ClassicOffline,100₹,118,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,,Malayalam,21:50,NormalOffline,100₹,18,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,,Malayalam,21:50,ExecutiveOffline,160₹,72,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,,Malayalam,21:50,Silver,190₹,103,7
