@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Markapuram,RadhakrishnaTheatreMarkapuram,,Telugu,11:00,FirstClass,50₹,152,0
+Markapuram,RadhakrishnaTheatreMarkapuram,,Telugu,11:00,SecondClass,50₹,170,0
+Markapuram,RadhakrishnaTheatreMarkapuram,,Telugu,11:00,ThirdClass,50₹,72,0
+Gajendragarh,AlankarTheatre,,Telugu,12:00,FirstClass,81₹,407,307
+Markapuram,RadhakrishnaTheatreMarkapuram,,Telugu,14:30,FirstClass,50₹,152,0
+Markapuram,RadhakrishnaTheatreMarkapuram,,Telugu,14:30,SecondClass,50₹,170,0
+Markapuram,RadhakrishnaTheatreMarkapuram,,Telugu,14:30,ThirdClass,50₹,72,0
+Gajendragarh,AlankarTheatre,,Telugu,15:00,FirstClass,81₹,407,307
+Gajendragarh,AlankarTheatre,,Telugu,18:00,FirstClass,81₹,407,307
+Markapuram,RadhakrishnaTheatreMarkapuram,,Telugu,18:30,FirstClass,50₹,152,0
+Markapuram,RadhakrishnaTheatreMarkapuram,,Telugu,18:30,SecondClass,50₹,170,0
+Markapuram,RadhakrishnaTheatreMarkapuram,,Telugu,18:30,ThirdClass,50₹,72,0
+Gajendragarh,AlankarTheatre,,Telugu,21:00,FirstClass,81₹,407,307
+Markapuram,RadhakrishnaTheatreMarkapuram,,Telugu,21:30,FirstClass,50₹,152,0
+Markapuram,RadhakrishnaTheatreMarkapuram,,Telugu,21:30,SecondClass,50₹,170,0
+Markapuram,RadhakrishnaTheatreMarkapuram,,Telugu,21:30,ThirdClass,50₹,72,0
