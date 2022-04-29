@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrForumMallKoramangala,,Hindi,12:20,Classic,193₹,147,25
+Bengaluru,PvrForumMallKoramangala,,Hindi,12:20,Recliner,323₹,12,10
+Gurgaon,PvrAmbienceGoldGurgaon,122001,Hindi,13:10,Platinum,554₹,28,0
+Gurgaon,PvrAmbienceGoldGurgaon,122001,Hindi,13:10,PlatinumSuperior,554₹,16,8
+Noida,PvrLogixCityCentreNoida,201301,Hindi,13:15,Classic,265₹,84,10
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,226010,Hindi,14:50,Club,210₹,47,0
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,226010,Hindi,14:50,Executive,200₹,24,0
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,226010,Hindi,14:50,Royale,230₹,53,12
+Gurgaon,DhishoomCinemasMallFiftyOneSector51Gurgaon,122018,Hindi,21:30,Platinum,460₹,42,0
+Gurgaon,DhishoomCinemasMallFiftyOneSector51Gurgaon,122018,Hindi,21:30,PlatinumSuperior,460₹,15,0
+Mumbai,MetroInoxCinemaMGRoad,400020,Hindi,21:45,Insignia,870₹,42,15
+NewDelhi,PvrVegasDwarka,110078,Hindi,22:40,Classic,400₹,76,16
