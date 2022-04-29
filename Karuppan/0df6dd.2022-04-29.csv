@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Madurai,CentralCinema,625001,Tamil,10:30,FirstClass,40₹,175,0
+Madurai,CentralCinema,625001,Tamil,14:00,FirstClass,40₹,175,2
+Madurai,CentralCinema,625001,Tamil,18:00,FirstClass,40₹,175,0
+Madurai,CentralCinema,625001,Tamil,22:00,FirstClass,40₹,175,0
