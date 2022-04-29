@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,12:20,Classic,60₹,11,2
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,12:20,Prime,190₹,98,13
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,14:45,Normal,60₹,17,15
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,14:45,Executive,190₹,152,6
+Chennai,AgsCinemasVillivakkam,600049,Tamil,22:00,Diamond,150₹,113,4
+Chennai,PvrSklsGalaxyMallRedHillsChennai,600052,Tamil,22:10,Classic,60₹,16,16
+Chennai,PvrSklsGalaxyMallRedHillsChennai,600052,Tamil,22:10,Prime,190₹,81,21
+Hyderabad,CinepolisDslVirtueMallUppal,500013,Telugu,22:40,Normal,200₹,25,0
+Hyderabad,CinepolisDslVirtueMallUppal,500013,Telugu,22:40,Executive,200₹,116,30
+Hyderabad,CinepolisDslVirtueMallUppal,500013,Telugu,22:40,Vip,350₹,10,10
