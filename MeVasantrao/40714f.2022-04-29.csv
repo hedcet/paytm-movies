@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,PvrIconPavillionMallShivajinagar,411016,Marathi,16:15,Classic,350₹,28,0
+Pune,PvrIconPavillionMallShivajinagar,411016,Marathi,16:15,Prime,350₹,148,31
+Pune,PvrIconPavillionMallShivajinagar,411016,Marathi,16:15,Recliner,650₹,8,2
+Mumbai,CinepolisSeawoodsGrandCentralMall,400706,Marathi,16:35,Normal,200₹,17,0
+Mumbai,CinepolisSeawoodsGrandCentralMall,400706,Marathi,16:35,Executive,220₹,57,0
+Mumbai,CinepolisSeawoodsGrandCentralMall,400706,Marathi,16:35,Premium,240₹,40,0
+Mumbai,CinepolisSeawoodsGrandCentralMall,400706,Marathi,16:35,Vip,440₹,14,0
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,19:55,Normal,210₹,27,0
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,19:55,Executive,230₹,104,10
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,19:55,Premium,250₹,46,29
