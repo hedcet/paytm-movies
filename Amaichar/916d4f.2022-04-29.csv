@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,UdhayamComplexJafferkhanpet,600096,Tamil,11:45,FirstClass,112₹,430,104
+Chennai,UdhayamComplexJafferkhanpet,600096,Tamil,11:45,SecondClass,105₹,86,0
+Chennai,UdhayamComplexJafferkhanpet,600096,Tamil,11:45,ThirdClass,50₹,65,0
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,12:00,Classic,60₹,17,7
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,12:00,Prime,190₹,130,2
+Chennai,PvrSklsGalaxyMallRedHillsChennai,600052,Tamil,12:40,Classic,60₹,16,13
+Chennai,PvrSklsGalaxyMallRedHillsChennai,600052,Tamil,12:40,Prime,190₹,81,0
+Chennai,InoxTheMarinaMallOmrEgatoor,603103,Tamil,12:45,Club,190₹,126,0
+Chennai,InoxTheMarinaMallOmrEgatoor,603103,Tamil,12:45,Executive,60₹,16,16
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,13:00,Quartz,152₹,242,3
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,13:00,Zircon,60₹,27,27
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,13:10,Normal,60₹,16,0
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,13:10,Executive,152₹,118,0
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,22:20,Classic,60₹,11,5
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,22:20,Prime,190₹,98,13
