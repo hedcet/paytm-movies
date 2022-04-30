@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,InoxBundGarden,411001,Gujarati,14:50,Royale,400₹,34,34
+Pune,InoxBundGarden,411001,Gujarati,14:55,Royale,400₹,32,32
+Vadodara,PvrTransCubeVadodara,390005,Gujarati,15:10,Classic,150₹,34,0
+Vadodara,PvrTransCubeVadodara,390005,Gujarati,15:10,Prime,150₹,100,23
+Vadodara,PvrTransCubeVadodara,390005,Gujarati,15:10,Recliner,300₹,8,6
+Ahmedabad,MirajCityPulseManiNagar,380001,Gujarati,15:25,Gold,160₹,56,10
+Vadodara,CinepolisInorbitMallGorwa,390023,Gujarati,19:25,Premium,180₹,38,23
+Vadodara,CinepolisInorbitMallGorwa,390023,Gujarati,19:25,Executive,180₹,112,34
+Vadodara,CinepolisInorbitMallGorwa,390023,Gujarati,19:25,Normal,180₹,24,0
+Surat,CinepolisImperialSquareMallAdajan,395009,Gujarati,19:45,Normal,170₹,32,0
+Surat,CinepolisImperialSquareMallAdajan,395009,Gujarati,19:45,Executive,170₹,105,18
+Surat,CinepolisImperialSquareMallAdajan,395009,Gujarati,19:45,Premium,190₹,43,5
+Ahmedabad,CinepolisAlphaOneMall,380015,Gujarati,22:25,Executive,150₹,58,39
+Ahmedabad,CinepolisAlphaOneMall,380015,Gujarati,22:25,Premium,170₹,38,29
+Ahmedabad,CinepolisAlphaOneMall,380015,Gujarati,22:25,Normal,150₹,29,0
