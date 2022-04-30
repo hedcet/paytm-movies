@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,16:35,NormalOffline,100₹,18,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,16:35,ExecutiveOffline,180₹,72,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,16:35,Silver,210₹,103,8
