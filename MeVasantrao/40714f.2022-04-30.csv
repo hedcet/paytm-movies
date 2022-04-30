@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,CinepolisSeawoodsGrandCentralMall,400706,Marathi,16:35,Normal,200₹,49,33
+Mumbai,CinepolisSeawoodsGrandCentralMall,400706,Marathi,16:35,Executive,220₹,94,43
+Mumbai,CinepolisSeawoodsGrandCentralMall,400706,Marathi,16:35,Premium,240₹,80,61
+Mumbai,CinepolisSeawoodsGrandCentralMall,400706,Marathi,16:35,Vip,440₹,14,4
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,18:20,Normal,210₹,25,0
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,18:20,Executive,230₹,97,81
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,18:20,Premium,250₹,43,42
