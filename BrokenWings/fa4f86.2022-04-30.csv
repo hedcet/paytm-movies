@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Darjeeling,InoxRinkMallLadenLaRoad,734101,Nepali,17:50,Economy,140₹,82,24
+Darjeeling,InoxRinkMallLadenLaRoad,734101,Nepali,17:50,Executive,150₹,16,15
+Kalimpong,DreamTheatreKalimpong,734301,Nepali,18:30,Platinum,200₹,65,44
+Kalimpong,DreamTheatreKalimpong,734301,Nepali,18:30,Gold,200₹,52,52
+Kalimpong,DreamTheatreKalimpong,734301,Nepali,18:30,Silver,200₹,39,39
+Kalimpong,DreamTheatreKalimpong,734301,Nepali,20:30,Platinum,200₹,65,42
+Kalimpong,DreamTheatreKalimpong,734301,Nepali,20:30,Gold,200₹,52,52
+Kalimpong,DreamTheatreKalimpong,734301,Nepali,20:30,Silver,200₹,39,39
