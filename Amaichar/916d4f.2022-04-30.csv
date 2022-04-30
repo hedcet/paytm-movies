@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Coimbatore,FunCinemaRepublicMallPeelamedu,641004,Tamil,10:00,Executive,190₹,162,23
+Coimbatore,FunCinemaRepublicMallPeelamedu,641004,Tamil,10:00,Normal,60₹,19,19
+Chennai,UdhayamComplexJafferkhanpet,600096,Tamil,11:45,FirstClass,112₹,430,103
+Chennai,UdhayamComplexJafferkhanpet,600096,Tamil,11:45,SecondClass,105₹,86,0
+Chennai,UdhayamComplexJafferkhanpet,600096,Tamil,11:45,ThirdClass,50₹,65,0
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,12:00,Classic,60₹,17,0
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,12:00,Prime,190₹,118,4
+Chennai,PvrSklsGalaxyMallRedHillsChennai,600052,Tamil,12:40,Classic,60₹,16,13
+Chennai,PvrSklsGalaxyMallRedHillsChennai,600052,Tamil,12:40,Prime,190₹,81,10
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,13:00,Quartz,152₹,242,0
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,13:00,Zircon,60₹,27,27
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,22:20,Classic,60₹,11,0
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,22:20,Prime,190₹,98,13
