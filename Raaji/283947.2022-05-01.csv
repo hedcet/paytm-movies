@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,560023,Kannada,10:00,Recliner,300₹,6,0
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,560023,Kannada,10:00,Classic,170₹,210,0
+Bengaluru,VinayakaTheatreChamarajpet,560018,Kannada,10:30,Gold,100₹,410,244
+Bengaluru,VinayakaTheatreChamarajpet,560018,Kannada,13:30,Gold,100₹,410,243
