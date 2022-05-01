@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,UdhayamComplexJafferkhanpet,600096,Tamil,11:45,FirstClass,112₹,430,109
+Chennai,UdhayamComplexJafferkhanpet,600096,Tamil,11:45,SecondClass,105₹,86,0
+Chennai,UdhayamComplexJafferkhanpet,600096,Tamil,11:45,ThirdClass,50₹,65,0
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,12:00,Classic,60₹,17,4
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,12:00,Prime,190₹,118,3
+Chennai,PvrSklsGalaxyMallRedHillsChennai,600052,Tamil,12:40,Classic,60₹,16,13
+Chennai,PvrSklsGalaxyMallRedHillsChennai,600052,Tamil,12:40,Prime,190₹,81,12
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,22:20,Classic,60₹,11,0
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,22:20,Prime,190₹,98,13
