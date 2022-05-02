@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,12:00,Classic,60₹,17,13
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,12:00,Prime,190₹,118,0
+Chennai,PvrSklsGalaxyMallRedHillsChennai,600052,Tamil,12:40,Classic,60₹,16,16
+Chennai,PvrSklsGalaxyMallRedHillsChennai,600052,Tamil,12:40,Prime,165₹,81,10
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,13:00,Quartz,152₹,242,0
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,13:00,Zircon,60₹,27,27
