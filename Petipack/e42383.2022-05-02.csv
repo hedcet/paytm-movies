@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,AppleMultiplexAhmedabad,380028,Gujarati,15:00,Sofa,130₹,11,4
+Ahmedabad,AppleMultiplexAhmedabad,380028,Gujarati,15:00,Platinum,100₹,100,60
+Ahmedabad,AppleMultiplexAhmedabad,380028,Gujarati,15:00,Recliner,130₹,10,10
+Ahmedabad,RajhansCinemasSatadhar,380061,Gujarati,15:15,Marvel,125₹,30,0
+Ahmedabad,RajhansCinemasSatadhar,380061,Gujarati,15:15,Royal,125₹,105,60
+Ahmedabad,RajhansCinemasSatadhar,380061,Gujarati,15:15,Executive,125₹,175,175
+Ahmedabad,RajhansCinemasSatadhar,380061,Gujarati,15:15,Box,125₹,4,4
+Ahmedabad,CinepolisAlphaOneMall,380015,Gujarati,19:30,Executive,150₹,58,30
+Ahmedabad,CinepolisAlphaOneMall,380015,Gujarati,19:30,Premium,170₹,38,27
+Ahmedabad,CinepolisAlphaOneMall,380015,Gujarati,19:30,Normal,150₹,29,0
+Ahmedabad,AppleMultiplexAhmedabad,380028,Gujarati,21:00,Sofa,130₹,11,2
+Ahmedabad,AppleMultiplexAhmedabad,380028,Gujarati,21:00,Platinum,100₹,100,60
+Ahmedabad,AppleMultiplexAhmedabad,380028,Gujarati,21:00,Recliner,130₹,10,10
