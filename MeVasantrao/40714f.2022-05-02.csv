@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,CinepolisWestendMallAundh,411007,Marathi,12:40,Executive,300₹,64,9
+Pune,CinepolisWestendMallAundh,411007,Marathi,12:40,Premium,320₹,49,15
+Pune,CinepolisWestendMallAundh,411007,Marathi,12:40,Normal,280₹,23,0
+Pune,PvrIconPavillionMallShivajinagar,411016,Marathi,16:15,Classic,300₹,28,0
+Pune,PvrIconPavillionMallShivajinagar,411016,Marathi,16:15,Prime,300₹,148,50
+Pune,PvrIconPavillionMallShivajinagar,411016,Marathi,16:15,Recliner,550₹,8,7
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,18:20,Normal,210₹,25,0
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,18:20,Executive,230₹,97,32
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,18:20,Premium,250₹,43,30
+Mumbai,CinepolisSeawoodsGrandCentralMall,400706,Marathi,19:30,Normal,160₹,17,0
+Mumbai,CinepolisSeawoodsGrandCentralMall,400706,Marathi,19:30,Executive,180₹,57,0
+Mumbai,CinepolisSeawoodsGrandCentralMall,400706,Marathi,19:30,Premium,200₹,20,2
+Mumbai,CinepolisSeawoodsGrandCentralMall,400706,Marathi,19:30,Vip,300₹,14,0
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,22:00,Normal,210₹,25,0
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,22:00,Executive,230₹,97,15
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,22:00,Premium,250₹,43,16
