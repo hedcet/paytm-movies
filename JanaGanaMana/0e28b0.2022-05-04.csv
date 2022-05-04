@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,12:30,Classic,60₹,11,11
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,12:30,Prime,190₹,98,29
+Hyderabad,InoxGsmMallMadinaguda,500049,Telugu,14:20,Executive,250₹,136,7
+Hyderabad,InoxGsmMallMadinaguda,500049,Telugu,14:20,Royal,350₹,8,4
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,18:40,Normal,60₹,16,10
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,18:40,Executive,190₹,118,34
+Chennai,AgsCinemasVillivakkam,600049,Tamil,22:00,Pearl,60₹,17,0
+Chennai,AgsCinemasVillivakkam,600049,Tamil,22:00,Diamond,150₹,147,9
+Chennai,PvrSklsGalaxyMallRedHillsChennai,600052,Tamil,22:10,Classic,60₹,16,16
+Chennai,PvrSklsGalaxyMallRedHillsChennai,600052,Tamil,22:10,Prime,190₹,81,10
+Hyderabad,CinepolisDslVirtueMallUppal,500013,Telugu,22:25,Normal,200₹,25,0
+Hyderabad,CinepolisDslVirtueMallUppal,500013,Telugu,22:25,Executive,200₹,116,11
+Hyderabad,CinepolisDslVirtueMallUppal,500013,Telugu,22:25,Vip,350₹,10,2
+Hyderabad,PvrKukatpally,500072,Telugu,23:00,Classic,200₹,232,20
+Hyderabad,PvrKukatpally,500072,Telugu,23:00,Recliner,350₹,12,12
