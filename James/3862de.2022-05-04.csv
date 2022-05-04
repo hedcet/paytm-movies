@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hubli,ShringarCinemaHubli,580020,Kannada,12:00,Balcony,150₹,190,84
+Hubli,ShringarCinemaHubli,580020,Kannada,12:00,DressCircle,100₹,504,112
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,12:30,Classic,150₹,108,2
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,12:30,Prime,170₹,90,5
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,12:30,Recliner,250₹,16,2
+Hubli,SujathaTheatreNearOldBustand,580029,Kannada,14:30,Balcony,120₹,289,90
+Hubli,SujathaTheatreNearOldBustand,580029,Kannada,14:30,DCircle,100₹,558,138
+Hubli,SujathaTheatreNearOldBustand,580029,Kannada,17:30,Balcony,120₹,289,90
+Hubli,SujathaTheatreNearOldBustand,580029,Kannada,17:30,DCircle,100₹,558,138
+Hubli,SujathaTheatreNearOldBustand,580029,Kannada,20:30,Balcony,120₹,289,90
+Hubli,SujathaTheatreNearOldBustand,580029,Kannada,20:30,DCircle,100₹,558,138
