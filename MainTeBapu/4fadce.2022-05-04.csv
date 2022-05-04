@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mohali,PvrVrPunjabMallMohali,140301,Punjabi,10:30,Classic,170₹,168,0
+Mohali,PvrVrPunjabMallMohali,140301,Punjabi,10:30,Prime,200₹,106,0
+Jalandhar,PvrMbdNeopolisMallJalandhar,144001,Punjabi,14:30,Recliner,415₹,8,0
+Jalandhar,PvrMbdNeopolisMallJalandhar,144001,Punjabi,14:30,Prime,295₹,10,0
+Jalandhar,PvrMbdNeopolisMallJalandhar,144001,Punjabi,14:30,Classic,175₹,95,0
+Jalandhar,PvrMbdNeopolisMallJalandhar,144001,Punjabi,14:30,ClassicPlus,205₹,146,0
+Hoshiarpur,MirajCinemasJsEminentMallHoshiarpur,146001,Punjabi,15:05,Special,130₹,34,0
+Hoshiarpur,MirajCinemasJsEminentMallHoshiarpur,146001,Punjabi,15:05,Executive,130₹,101,0
+Chandigarh,PvrElanteMallChandigarh,178178,Punjabi,15:45,Classic,180₹,138,10
+Chandigarh,PvrElanteMallChandigarh,178178,Punjabi,15:45,Recliner,550₹,13,0
+Mohali,PvrVrPunjabMallMohali,140301,Punjabi,16:45,Classic,190₹,84,0
+Mohali,PvrVrPunjabMallMohali,140301,Punjabi,16:45,Prime,220₹,38,0
+Una,RajhansCinemasMrcMagnumMallIsbtUna,174303,Punjabi,20:15,Marvel,100₹,32,0
+Una,RajhansCinemasMrcMagnumMallIsbtUna,174303,Punjabi,20:15,Royal,130₹,48,0
+Una,RajhansCinemasMrcMagnumMallIsbtUna,174303,Punjabi,20:15,Executive,150₹,164,0
