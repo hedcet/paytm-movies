@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Srikakulam,KinneraCinemaxSrikakulam,532001,Telugu,11:00,Premium,147₹,159,34
+Srikakulam,KinneraCinemaxSrikakulam,532001,Telugu,11:00,NonPremium,100₹,100,4
+Srikakulam,KinneraCinemaxSrikakulam,532001,Telugu,14:30,Premium,147₹,159,32
+Srikakulam,KinneraCinemaxSrikakulam,532001,Telugu,14:30,NonPremium,100₹,100,0
+Srikakulam,KinneraCinemaxSrikakulam,532001,Telugu,18:30,Premium,147₹,159,32
+Srikakulam,KinneraCinemaxSrikakulam,532001,Telugu,18:30,NonPremium,100₹,100,0
+Srikakulam,KinneraCinemaxSrikakulam,532001,Telugu,21:45,Premium,147₹,159,32
+Srikakulam,KinneraCinemaxSrikakulam,532001,Telugu,21:45,NonPremium,100₹,100,0
