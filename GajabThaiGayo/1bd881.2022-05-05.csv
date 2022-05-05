@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vadodara,PvrTransCubeVadodara,390005,Gujarati,15:10,Classic,150₹,34,0
+Vadodara,PvrTransCubeVadodara,390005,Gujarati,15:10,Prime,150₹,100,0
+Vadodara,PvrTransCubeVadodara,390005,Gujarati,15:10,Recliner,300₹,8,0
+Ahmedabad,MirajCityPulseManiNagar,380001,Gujarati,15:25,Gold,160₹,56,0
+Ahmedabad,PvrArvedTranscube,382480,Gujarati,18:30,Classic,150₹,33,0
+Ahmedabad,PvrArvedTranscube,382480,Gujarati,18:30,Prime,150₹,100,32
+Surat,CinepolisImperialSquareMallAdajan,395009,Gujarati,19:40,Normal,150₹,32,0
+Surat,CinepolisImperialSquareMallAdajan,395009,Gujarati,19:40,Executive,150₹,103,19
+Surat,CinepolisImperialSquareMallAdajan,395009,Gujarati,19:40,Premium,170₹,42,2
+Ahmedabad,CinepolisAlphaOneMall,380015,Gujarati,22:25,Executive,150₹,58,7
+Ahmedabad,CinepolisAlphaOneMall,380015,Gujarati,22:25,Premium,170₹,38,3
+Ahmedabad,CinepolisAlphaOneMall,380015,Gujarati,22:25,Normal,150₹,29,0
