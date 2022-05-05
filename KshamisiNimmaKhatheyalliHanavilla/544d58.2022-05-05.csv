@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,10:20,Classic,112₹,128,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,10:20,Prime,150₹,80,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,10:20,Recliner,220₹,13,1
+Hubli,SujathaTheatreNearOldBustand,580029,Kannada,11:30,Balcony,120₹,289,90
+Hubli,SujathaTheatreNearOldBustand,580029,Kannada,11:30,DCircle,100₹,558,138
+Mangalore,PvrForumFizaMallPandeshwar,575001,Kannada,13:10,Classic,150₹,71,0
+Mysuru,PvrForumCentreCityMallMysuru,570010,Kannada,15:55,Classic,150₹,134,3
+Bengaluru,InoxMantriSquareMalleshwaram,560003,Kannada,16:00,Club,160₹,260,1
+Bengaluru,InoxMantriSquareMalleshwaram,560003,Kannada,16:00,Royal,250₹,10,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,19:15,Classic,170₹,128,7
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,19:15,Prime,190₹,80,5
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,19:15,Recliner,300₹,13,0
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,19:45,Platinum,200₹,16,14
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,19:45,Gold,180₹,180,79
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,19:45,Silver,150₹,135,73
