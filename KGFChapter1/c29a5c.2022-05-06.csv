@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thanjavur,GvComplexThanjavur,613001,Tamil,18:15,BoxA,150₹,11,11
+Thanjavur,GvComplexThanjavur,613001,Tamil,18:15,BoxB,150₹,11,11
+Thanjavur,GvComplexThanjavur,613001,Tamil,18:15,I,150₹,156,30
+Thanjavur,GvComplexThanjavur,613001,Tamil,18:15,Ii,150₹,60,0
+Mumbai,CinepolisAndheriW,400053,Hindi,20:35,Premium,250₹,33,7
+Mumbai,CinepolisAndheriW,400053,Hindi,20:35,Platinum,350₹,22,0
+Mumbai,CinepolisAndheriW,400053,Hindi,20:35,Normal,210₹,32,0
+Mumbai,CinepolisAndheriW,400053,Hindi,20:35,Executive,230₹,95,12
