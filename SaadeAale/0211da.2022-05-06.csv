@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Sardulgarh,GoldenCinemasRoriRoad,125201,Punjabi,15:50,Platinum,300₹,14,9
+Sardulgarh,GoldenCinemasRoriRoad,125201,Punjabi,15:50,Royal,250₹,8,4
+Sardulgarh,GoldenCinemasRoriRoad,125201,Punjabi,15:50,Gold,200₹,16,11
+Sardulgarh,GoldenCinemasRoriRoad,125201,Punjabi,15:50,Silver,170₹,33,22
+Sardulgarh,GoldenCinemasRoriRoad,125201,Punjabi,15:50,NormalClass,150₹,11,11
+Sardulgarh,GoldenCinemasRoriRoad,125201,Punjabi,19:00,Platinum,300₹,13,7
+Sardulgarh,GoldenCinemasRoriRoad,125201,Punjabi,19:00,Royal,250₹,16,9
+Sardulgarh,GoldenCinemasRoriRoad,125201,Punjabi,19:00,Gold,200₹,56,42
+Sardulgarh,GoldenCinemasRoriRoad,125201,Punjabi,19:00,Silver,170₹,64,48
+Sardulgarh,GoldenCinemasRoriRoad,125201,Punjabi,19:00,NormalClass,150₹,32,16
