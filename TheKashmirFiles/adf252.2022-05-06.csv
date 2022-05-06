@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MetroInoxCinemaMGRoad,400020,Hindi,09:45,Insignia,240₹,42,2
+Agra,RajeevCinemaBhogipura,282010,Hindi,12:00,Balcony,40₹,280,224
+Agra,RajeevCinemaBhogipura,282010,Hindi,12:00,DressCircle,20₹,660,600
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,226010,Hindi,12:30,Club,210₹,54,0
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,226010,Hindi,12:30,Executive,200₹,20,0
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,226010,Hindi,12:30,Royale,230₹,49,3
+Agra,RajeevCinemaBhogipura,282010,Hindi,15:00,Balcony,40₹,280,224
+Agra,RajeevCinemaBhogipura,282010,Hindi,15:00,DressCircle,20₹,660,601
+Gurgaon,DhishoomCinemasMallFiftyOneSector51Gurgaon,122018,Hindi,16:00,Platinum,499₹,42,0
+Gurgaon,DhishoomCinemasMallFiftyOneSector51Gurgaon,122018,Hindi,16:00,PlatinumSuperior,499₹,15,0
+Gurgaon,DhishoomCinemasEntertainlandSector83Gurgaon,122004,Hindi,16:20,Silver,183₹,19,0
+Gurgaon,DhishoomCinemasEntertainlandSector83Gurgaon,122004,Hindi,16:20,Gold,183₹,49,14
+Gurgaon,DhishoomCinemasEntertainlandSector83Gurgaon,122004,Hindi,16:20,Platinum,183₹,20,7
+Agra,RajeevCinemaBhogipura,282010,Hindi,18:00,Balcony,40₹,280,225
+Agra,RajeevCinemaBhogipura,282010,Hindi,18:00,DressCircle,20₹,660,600
