@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,AgsCinemasMaduravoyal,600095,Tamil,09:55,Diamond,150₹,205,25
+Chennai,AgsCinemasVillivakkam,600049,Tamil,10:10,Pearl,60₹,17,1
+Chennai,AgsCinemasVillivakkam,600049,Tamil,10:10,Diamond,150₹,137,7
+Tuticorin,SathyaTheatre,628001,Tamil,14:30,FirstClass,40₹,100,0
+Tuticorin,SathyaTheatre,628001,Tamil,18:30,FirstClass,40₹,100,0
+Tuticorin,SathyaTheatre,628001,Tamil,22:00,FirstClass,40₹,100,0
