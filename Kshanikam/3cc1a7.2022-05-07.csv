@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,10:00,NormalOffline,100₹,17,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,10:00,ExecutiveOffline,180₹,102,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,10:00,PremiumOffline,300₹,50,11
+Manjeri,LadderCinemasIndianMall,676121,Malayalam,10:45,Executive,150₹,74,0
+Malappuram,MallikaPlexMattilMall,676505,Malayalam,11:00,Executive,140₹,50,0
