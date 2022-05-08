@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,AppleMultiplexAhmedabad,380028,Gujarati,18:15,Sofa,150₹,7,2
+Ahmedabad,AppleMultiplexAhmedabad,380028,Gujarati,18:15,Platinum,130₹,104,69
+Ahmedabad,AppleMultiplexAhmedabad,380028,Gujarati,18:15,Sofa,150₹,9,9
+Ahmedabad,CinepolisAlphaOneMall,380015,Gujarati,19:15,Normal,200₹,37,15
+Ahmedabad,CinepolisAlphaOneMall,380015,Gujarati,19:15,Executive,230₹,45,24
+Ahmedabad,CinepolisAlphaOneMall,380015,Gujarati,19:15,Premium,250₹,53,47
