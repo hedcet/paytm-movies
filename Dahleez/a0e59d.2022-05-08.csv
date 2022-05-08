@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ranchi,PopkornCinemasGalaxiaMallRatuRoad,834001,Nagpuri,08:45,Recliner,250₹,100,0
+Ranchi,PopkornCinemasGalaxiaMallRatuRoad,834001,Nagpuri,08:45,Greeco,200₹,100,0
+Ranchi,PopkornCinemasGalaxiaMallRatuRoad,834001,Nagpuri,08:45,Premium,170₹,100,0
+Ranchi,PopkornCinemasGalaxiaMallRatuRoad,834001,Nagpuri,08:45,Gold,170₹,100,0
+Ranchi,PopkornCinemasGalaxiaMallRatuRoad,834001,Nagpuri,08:45,Silver,170₹,100,0
+Ranchi,CarnivalJdHighStreetMallGelChurchComplex,834001,Nagpuri,11:40,ClubOffline,170₹,65,63
+Ranchi,CarnivalJdHighStreetMallGelChurchComplex,834001,Nagpuri,11:40,PremiumOffline,150₹,65,64
+Ranchi,CarnivalJdHighStreetMallGelChurchComplex,834001,Nagpuri,11:40,SilverOffline,110₹,13,12
+Ranchi,EylexHinooRanchi,834002,Nagpuri,12:15,Cl,150₹,21,18
+Ranchi,EylexHinooRanchi,834002,Nagpuri,12:15,Gl,150₹,44,30
+Ranchi,EylexHinooRanchi,834002,Nagpuri,12:15,Pl,150₹,88,79
