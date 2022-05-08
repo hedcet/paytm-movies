@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MetroInoxCinemaMGRoad,400020,Hindi,09:45,Insignia,340₹,42,39
+Agra,RajeevCinemaBhogipura,282010,Hindi,12:00,Balcony,40₹,280,224
+Agra,RajeevCinemaBhogipura,282010,Hindi,12:00,DressCircle,20₹,660,600
+Agra,RajeevCinemaBhogipura,282010,Hindi,15:00,Balcony,40₹,280,224
+Agra,RajeevCinemaBhogipura,282010,Hindi,15:00,DressCircle,20₹,660,600
+Gurgaon,DhishoomCinemasMallFiftyOneSector51Gurgaon,122018,Hindi,16:00,Platinum,499₹,42,2
+Gurgaon,DhishoomCinemasMallFiftyOneSector51Gurgaon,122018,Hindi,16:00,PlatinumSuperior,499₹,15,14
+Agra,RajeevCinemaBhogipura,282010,Hindi,18:00,Balcony,40₹,280,224
+Agra,RajeevCinemaBhogipura,282010,Hindi,18:00,DressCircle,20₹,660,600
