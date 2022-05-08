@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,09:25,Club,190₹,135,13
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,09:25,Executive,60₹,19,19
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,12:50,Club,190₹,135,92
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,12:50,Executive,60₹,19,19
+Hyderabad,CinepolisDslVirtueMallUppal,500013,Telugu,16:30,Normal,200₹,25,0
+Hyderabad,CinepolisDslVirtueMallUppal,500013,Telugu,16:30,Executive,200₹,116,28
+Hyderabad,CinepolisDslVirtueMallUppal,500013,Telugu,16:30,Vip,350₹,10,10
+Hyderabad,PvrKukatpally,500072,Telugu,23:00,Classic,200₹,232,40
+Hyderabad,PvrKukatpally,500072,Telugu,23:00,Recliner,350₹,12,11
