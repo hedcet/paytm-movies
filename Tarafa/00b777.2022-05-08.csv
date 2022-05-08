@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Junnar,ShevantaCinemaJunnar,410502,Marathi,10:55,Gold,89₹,100,0
+Mumbai,MaxusCinemasKurla,400070,Marathi,11:15,Royal,250₹,100,0
+Ahmednagar,AshaSquareMultiplexAhmednagar,414001,Marathi,12:00,GoldenClass,150₹,100,0
+Khopoli,GoldCinemaKhopoli,410203,Marathi,12:30,Gold,130₹,100,0
+Vasai,CarnivalKtVasaiW,401202,Marathi,14:15,Platinum,110₹,60,0
+Vasai,CarnivalKtVasaiW,401202,Marathi,14:15,Royal,130₹,12,1
+Ichalkaranji,PanchavatiChitraMandir,416115,Marathi,15:00,Royal,70₹,100,0
+Ichalkaranji,PanchavatiChitraMandir,416115,Marathi,15:00,Balcony,60₹,100,0
+Ichalkaranji,PanchavatiChitraMandir,416115,Marathi,15:00,Stall,50₹,100,0
+NaviMumbai,FunSquareCinemaNaviMumbai,400705,Marathi,15:00,Gold,130₹,58,18
+Niphad,RavirajCinemaNiphad,422303,Marathi,18:20,Balcony,80₹,142,98
+Niphad,RavirajCinemaNiphad,422303,Marathi,18:20,Stall,60₹,160,160
