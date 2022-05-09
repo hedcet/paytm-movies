@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Abohar,MirajCinemasKundanPalaceAbohar,152116,Hindi,17:05,Gold,200₹,29,5
+Abohar,MirajCinemasKundanPalaceAbohar,152116,Hindi,17:05,Executive,130₹,150,3
+Abohar,MirajCinemasKundanPalaceAbohar,152116,Hindi,17:05,Special,130₹,142,0
+Kotkapura,OrbitCinemaKotkapura,151204,Hindi,18:00,Box1,250₹,12,0
+Kotkapura,OrbitCinemaKotkapura,151204,Hindi,18:00,Box2,250₹,5,0
+Kotkapura,OrbitCinemaKotkapura,151204,Hindi,18:00,GoldClass,100₹,145,116
+Kotkapura,OrbitCinemaKotkapura,151204,Hindi,18:00,SilverClass,100₹,72,0
