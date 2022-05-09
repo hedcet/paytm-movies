@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Amritsar,CinepolisMallOfAmritsarAmritsar,143001,Punjabi,11:15,Vip,130₹,11,11
+Amritsar,CinepolisMallOfAmritsarAmritsar,143001,Punjabi,11:15,Executive,130₹,52,52
+Amritsar,CinepolisMallOfAmritsarAmritsar,143001,Punjabi,11:15,Normal,130₹,39,39
+Sardulgarh,GoldenCinemasRoriRoad,125201,Punjabi,13:50,Platinum,300₹,13,7
+Sardulgarh,GoldenCinemasRoriRoad,125201,Punjabi,13:50,Royal,250₹,16,9
+Sardulgarh,GoldenCinemasRoriRoad,125201,Punjabi,13:50,Gold,200₹,56,42
+Sardulgarh,GoldenCinemasRoriRoad,125201,Punjabi,13:50,Silver,170₹,64,48
+Sardulgarh,GoldenCinemasRoriRoad,125201,Punjabi,13:50,NormalClass,150₹,32,16
