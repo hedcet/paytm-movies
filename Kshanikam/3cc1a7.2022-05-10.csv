@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,18:00,BlueCircle,150₹,227,218
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,22:15,NormalOffline,100₹,17,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,22:15,ExecutiveOffline,160₹,102,15
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,22:15,PremiumOffline,250₹,50,8
