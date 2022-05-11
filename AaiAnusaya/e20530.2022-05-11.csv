@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Sangamner,ChhotuMaharajCineCafeGunjalwadiRoad,422605,Marathi,09:30,Cl,150₹,79,0
+Sangamner,ChhotuMaharajCineCafeGunjalwadiRoad,422605,Marathi,09:30,Pr,112₹,11,0
+Akola,ChhotuMaharajAkola,444001,Marathi,12:30,Cl,112₹,60,0
+Akola,ChhotuMaharajAkola,444001,Marathi,12:30,Pr,112₹,20,0
+Ambajogai,ChhotuMaharajAmbajogai,431517,Marathi,15:00,Cl,112₹,18,0
+Ambajogai,ChhotuMaharajAmbajogai,431517,Marathi,15:00,Pr,112₹,4,0
+Ambajogai,ChhotuMaharajAmbajogai,431517,Marathi,15:00,Gl,150₹,32,0
+Ambajogai,ChhotuMaharajAmbajogai,431517,Marathi,15:00,Pl,150₹,32,0
+Chhindwara,ShreyanshTalkiesChhotaTalab,480001,Marathi,15:00,Diamond,130₹,147,111
+Chhindwara,ShreyanshTalkiesChhotaTalab,480001,Marathi,15:00,Gold,100₹,54,36
