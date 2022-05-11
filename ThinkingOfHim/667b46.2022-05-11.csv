@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PvrUniworldDowntownMallNewTown,700160,English,11:30,Classic,99₹,48,0
+Kolkata,PvrUniworldDowntownMallNewTown,700160,English,11:30,Recliner,310₹,6,0
+Kolkata,PvrUniworldDowntownMallNewTown,700160,English,11:30,Prime,140₹,156,2
+NewDelhi,PvrVegasDwarka,110078,English,16:30,Prime,320₹,38,0
+NewDelhi,PvrVegasDwarka,110078,English,16:30,Classic,260₹,112,0
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,18:20,Classic,190₹,120,5
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,18:20,Prime,210₹,10,0
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,18:20,Recliner,290₹,14,0
+NewDelhi,PvrPromenadeVasantKunj,110070,English,19:15,Classic,275₹,130,2
+NewDelhi,PvrPromenadeVasantKunj,110070,English,19:15,Prime,275₹,22,7
