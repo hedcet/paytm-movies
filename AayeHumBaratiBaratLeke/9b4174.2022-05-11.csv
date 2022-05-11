@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mirzapur,RajMandir,231001,Bhojpuri,12:15,Balcony,70₹,240,60
+Mirzapur,RajMandir,231001,Bhojpuri,12:15,SpecialClass,50₹,480,0
+Mirzapur,RajMandir,231001,Bhojpuri,15:30,Balcony,70₹,240,64
+Mirzapur,RajMandir,231001,Bhojpuri,15:30,SpecialClass,50₹,480,1
+Mirzapur,RajMandir,231001,Bhojpuri,18:45,Balcony,70₹,240,60
+Mirzapur,RajMandir,231001,Bhojpuri,18:45,SpecialClass,50₹,480,0
