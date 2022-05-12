@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pen,CarnivalMoreshwarChinchpada,402107,Marathi,12:15,Platinum,110₹,96,0
+Pen,CarnivalMoreshwarChinchpada,402107,Marathi,12:15,Gold,100₹,42,0
+NaviMumbai,PvrOrionPanvel,410206,Marathi,13:20,Classic,110₹,28,0
+NaviMumbai,PvrOrionPanvel,410206,Marathi,13:20,Prime,140₹,115,17
+NaviMumbai,PvrOrionPanvel,410206,Marathi,13:20,PrimePlus,170₹,34,8
