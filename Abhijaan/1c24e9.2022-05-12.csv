@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,CinepolisLakeMallRashbehari,700026,Bengali,12:55,Normal,150₹,22,3
+Kolkata,CinepolisLakeMallRashbehari,700026,Bengali,12:55,Executive,170₹,54,7
+Kolkata,CinepolisLakeMallRashbehari,700026,Bengali,12:55,Premium,190₹,22,6
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,15:00,Classic,130₹,189,2
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,15:00,Prime,180₹,11,5
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,15:00,Recliner,350₹,12,2
