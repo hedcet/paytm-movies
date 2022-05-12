@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nanded,PvrTreasureBazaarMallNanded,431606,Marathi,09:15,PrimePlus,140₹,63,14
+Nanded,PvrTreasureBazaarMallNanded,431606,Marathi,09:15,Prime,120₹,100,2
+Nanded,PvrTreasureBazaarMallNanded,431606,Marathi,09:15,Classic,100₹,70,0
+Nagpur,PvrEmpressCityMallNagpur,440017,Marathi,12:45,Classic,120₹,26,0
+Nagpur,PvrEmpressCityMallNagpur,440017,Marathi,12:45,Prime,140₹,95,51
+Yavatmal,FunCinemasSarojTalkiesPangari,445001,Marathi,21:00,Balcony,100₹,100,0
+Yavatmal,FunCinemasSarojTalkiesPangari,445001,Marathi,21:00,UpperClass,70₹,100,0
+Yavatmal,FunCinemasSarojTalkiesPangari,445001,Marathi,21:00,LowerClass,70₹,100,0
