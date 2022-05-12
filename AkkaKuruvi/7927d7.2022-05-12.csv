@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,15:55,Classic,60₹,11,1
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,15:55,Prime,190₹,102,15
+Madurai,InoxVishaalDeMallMadurai,625002,Tamil,19:10,Club,178₹,124,9
+Madurai,InoxVishaalDeMallMadurai,625002,Tamil,19:10,Executive,60₹,12,0
