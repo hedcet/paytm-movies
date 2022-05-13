@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NaviMumbai,FunSquareCinemaNaviMumbai,400705,Marathi,14:45,Gold,150₹,58,18
+Nagpur,AMCinema,440034,Marathi,16:25,Royal,180₹,100,0
+Nagpur,AMCinema,440034,Marathi,16:25,Prime,150₹,100,0
