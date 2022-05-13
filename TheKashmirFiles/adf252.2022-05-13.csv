@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MetroInoxCinemaMGRoad,400020,Hindi,09:40,Insignia,300₹,42,2
+Dhanbad,DesbandhuCinemaJharia,828111,Hindi,11:15,UpperClass,90₹,142,107
+Pali,VSquareMultiplexPali,306401,Hindi,11:30,Gold,250₹,70,0
+Pali,VSquareMultiplexPali,306401,Hindi,11:30,Silver,200₹,20,0
+Titagarh,LaxmiCinemaTitagarh,700119,Hindi,14:00,Balcony,60₹,31,0
+Titagarh,LaxmiCinemaTitagarh,700119,Hindi,14:00,Firstclass,40₹,48,0
+Dhanbad,DesbandhuCinemaJharia,828111,Hindi,14:15,UpperClass,90₹,142,107
+Gurgaon,DhishoomCinemasEntertainlandSector83Gurgaon,122004,Hindi,16:10,Platinum,183₹,18,18
+Gurgaon,DhishoomCinemasEntertainlandSector83Gurgaon,122004,Hindi,16:10,Gold,183₹,40,40
+Gurgaon,DhishoomCinemasEntertainlandSector83Gurgaon,122004,Hindi,16:10,Silver,183₹,18,18
+Gurgaon,DhishoomCinemasMallFiftyOneSector51Gurgaon,122018,Hindi,16:30,Platinum,460₹,35,0
+Gurgaon,DhishoomCinemasMallFiftyOneSector51Gurgaon,122018,Hindi,16:30,PlatinumSuperior,460₹,15,0
+Dhanbad,DesbandhuCinemaJharia,828111,Hindi,17:15,UpperClass,90₹,142,107
+Dhanbad,DesbandhuCinemaJharia,828111,Hindi,20:15,UpperClass,90₹,142,107
