@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,InoxMantriSquareMalleshwaram,560003,Kannada,12:30,Club,190₹,268,51
+Bengaluru,InoxMantriSquareMalleshwaram,560003,Kannada,12:30,Royal,320₹,8,0
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,560023,Kannada,21:50,Recliner,350₹,10,2
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,560023,Kannada,21:50,Classic,200₹,164,71
