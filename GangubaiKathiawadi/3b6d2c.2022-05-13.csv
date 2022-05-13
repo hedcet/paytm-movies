@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kunkuri,ShivgangaTalkiesJashpur,496225,Hindi,12:00,Balcony,150₹,50,25
+Kunkuri,ShivgangaTalkiesJashpur,496225,Hindi,12:00,RareStall,150₹,288,288
+Agra,ChitraCinemaBaghMuzaffarKhanRoad,282002,Hindi,12:00,Balcony,50₹,110,93
+Agra,ChitraCinemaBaghMuzaffarKhanRoad,282002,Hindi,12:00,SpecialClass,35₹,380,380
+Kunkuri,ShivgangaTalkiesJashpur,496225,Hindi,15:00,Balcony,150₹,50,25
+Kunkuri,ShivgangaTalkiesJashpur,496225,Hindi,15:00,RareStall,150₹,288,288
+Agra,ChitraCinemaBaghMuzaffarKhanRoad,282002,Hindi,15:00,Balcony,50₹,110,92
+Agra,ChitraCinemaBaghMuzaffarKhanRoad,282002,Hindi,15:00,SpecialClass,35₹,380,380
+Agra,ChitraCinemaBaghMuzaffarKhanRoad,282002,Hindi,18:00,Balcony,50₹,110,92
+Agra,ChitraCinemaBaghMuzaffarKhanRoad,282002,Hindi,18:00,SpecialClass,35₹,380,380
+Kunkuri,ShivgangaTalkiesJashpur,496225,Hindi,21:00,Balcony,150₹,50,25
+Kunkuri,ShivgangaTalkiesJashpur,496225,Hindi,21:00,RareStall,150₹,288,288
+Agra,ChitraCinemaBaghMuzaffarKhanRoad,282002,Hindi,21:00,Balcony,50₹,110,92
+Agra,ChitraCinemaBaghMuzaffarKhanRoad,282002,Hindi,21:00,SpecialClass,35₹,380,380
