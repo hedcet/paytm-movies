@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Jetpur,FunGlobeCinemaetGlobeComplex,360370,Gujarati,12:00,Platinum,150₹,6,0
+Jetpur,FunGlobeCinemaetGlobeComplex,360370,Gujarati,12:00,Gold,100₹,43,0
+Jetpur,FunGlobeCinemaetGlobeComplex,360370,Gujarati,12:00,Silver,80₹,70,0
+Junagadh,SurajCineplexJunagadh,362001,Gujarati,12:30,Sofa,180₹,100,0
+Junagadh,SurajCineplexJunagadh,362001,Gujarati,12:30,Executive,160₹,100,0
+Jetpur,FunGlobeCinemaetGlobeComplex,360370,Gujarati,18:30,Platinum,150₹,6,0
+Jetpur,FunGlobeCinemaetGlobeComplex,360370,Gujarati,18:30,Gold,100₹,43,20
+Jetpur,FunGlobeCinemaetGlobeComplex,360370,Gujarati,18:30,Silver,80₹,70,0
