@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MetroInoxCinemaMGRoad,400020,English,08:50,Kiddles,190₹,36,2
+Mumbai,InoxLaserplexCr2NarimanPoint,400021,English,09:50,Club,140₹,128,3
+Mumbai,InoxLaserplexCr2NarimanPoint,400021,English,09:50,Royale,160₹,100,6
+Mumbai,PvrDynamicJuhu,400049,English,10:00,Prime,160₹,72,57
+Mumbai,PvrDynamicJuhu,400049,English,10:00,Classic,160₹,40,0
+Mumbai,InoxMegaplexInorbitMall,400064,English,12:35,Insignia,450₹,34,23
+Gurgaon,InoxWorldMarkGurugram,122001,English,14:35,Club,280₹,65,18
+Gurgaon,InoxWorldMarkGurugram,122001,English,14:35,Executive,260₹,26,0
+Gurgaon,InoxWorldMarkGurugram,122001,English,14:35,RoyalRecliner,550₹,8,6
+Gurgaon,InoxWorldMarkGurugram,122001,English,14:35,Royal,300₹,35,32
+Gurgaon,PvrAmbienceGoldGurgaon,122001,English,19:20,Platinum,700₹,28,4
+Gurgaon,PvrAmbienceGoldGurgaon,122001,English,19:20,PlatinumSuperior,700₹,8,6
+Noida,PvrLogixCityCentreNoida,201301,English,23:00,Classic,350₹,87,27
