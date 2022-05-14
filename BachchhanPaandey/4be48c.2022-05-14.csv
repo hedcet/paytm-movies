@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ratlam,ShreeLokendraCinema,457001,Hindi,12:00,Balcony,100₹,244,212
+Ratlam,ShreeLokendraCinema,457001,Hindi,15:00,Balcony,100₹,244,212
+Ratlam,ShreeLokendraCinema,457001,Hindi,18:00,Balcony,100₹,244,212
+Ratlam,ShreeLokendraCinema,457001,Hindi,21:00,Balcony,100₹,244,212
