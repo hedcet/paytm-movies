@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Singrauli,McmCineplexWaidhan,486886,Bagheli,11:30,Vip,280₹,33,8
+Singrauli,McmCineplexWaidhan,486886,Bagheli,11:30,Platinum,220₹,90,12
+Singrauli,McmCineplexWaidhan,486886,Bagheli,11:30,Gold,170₹,148,33
+Singrauli,McmCineplexWaidhan,486886,Bagheli,11:30,Silver,110₹,45,0
+Bhopal,DdxCinemaDrishtiPlazaKolar,462042,Bagheli,11:55,Box,160₹,100,0
+Bhopal,DdxCinemaDrishtiPlazaKolar,462042,Bagheli,11:55,Gold,120₹,100,0
+Rewa,SamdareeyaCinemaRewa,486001,Bagheli,15:45,Platinum,150₹,100,0
+Rewa,SamdareeyaCinemaRewa,486001,Bagheli,15:45,Gold,120₹,100,0
+Rewa,SamdareeyaCinemaRewa,486001,Bagheli,15:45,Silver,100₹,100,0
