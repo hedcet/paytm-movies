@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Junagadh,SurajCineplexJunagadh,362001,Hindi,09:00,Gold,150₹,100,0
+Junagadh,SurajCineplexJunagadh,362001,Hindi,09:00,Silver,150₹,100,0
+Junagadh,SurajCineplexJunagadh,362001,Hindi,09:00,Gold,150₹,100,0
+Junagadh,SurajCineplexJunagadh,362001,Hindi,09:00,Silver,150₹,100,0
+Ujjain,PvrTreasureBazaarMallUjjain,456010,Hindi,09:00,Prime,150₹,194,194
+Ujjain,PvrTreasureBazaarMallUjjain,456010,Hindi,09:00,ClassicPlus,150₹,80,80
+Ujjain,PvrTreasureBazaarMallUjjain,456010,Hindi,09:00,Classic,150₹,48,48
+Ujjain,PvrTreasureBazaarMallUjjain,456010,Hindi,09:00,Prime,150₹,177,177
+Ujjain,PvrTreasureBazaarMallUjjain,456010,Hindi,09:00,ClassicPlus,150₹,83,83
+Ujjain,PvrTreasureBazaarMallUjjain,456010,Hindi,09:00,Classic,150₹,51,51
+Mumbai,PaytmImaxInoxRCityGhatkoparW,400086,Gujarati,09:15,Club,150₹,63,63
+Mumbai,PaytmImaxInoxRCityGhatkoparW,400086,Gujarati,09:15,Executive,150₹,36,36
+Mumbai,PaytmImaxInoxRCityGhatkoparW,400086,Gujarati,09:15,RoyalRecliner,150₹,12,12
+Mumbai,PaytmImaxInoxRCityGhatkoparW,400086,Gujarati,09:15,Royal,150₹,37,37
