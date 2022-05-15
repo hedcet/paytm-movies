@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Hindi,09:45,Crew,220₹,10,0
+Gurgaon,RrCinemaOmaxeGurgaonMall,122018,English,10:00,3DPlatinum,180₹,101,25
+Gurgaon,RrCinemaOmaxeGurgaonMall,122018,English,10:00,3DGold,180₹,153,1
+Kolkata,PvrManiSquareMallEmBypassRoad,700054,Hindi,10:05,3DClassic,180₹,45,7
+Kolkata,PvrManiSquareMallEmBypassRoad,700054,Hindi,10:05,3DPrime,220₹,97,25
+Kolkata,PvrManiSquareMallEmBypassRoad,700054,Hindi,10:05,3DRecliner,490₹,21,0
+Surat,CityPlusMultiplexDumasRoad,395007,Hindi,11:00,GoldStar,140₹,10,0
+Surat,CityPlusMultiplexDumasRoad,395007,Hindi,11:00,Gold,140₹,10,0
+Surat,CityPlusMultiplexDumasRoad,395007,Hindi,11:00,Executive,300₹,10,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Hindi,12:15,Crew,220₹,10,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Hindi,14:45,Crew,240₹,10,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Hindi,17:15,Crew,240₹,10,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,English,19:45,Crew,250₹,10,0
+Pathankot,MirajCinemasPathankot,145001,Hindi,20:35,3DSilver,110₹,64,0
+Pathankot,MirajCinemasPathankot,145001,Hindi,20:35,3DGold,230₹,12,1
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Hindi,22:30,Crew,260₹,10,0
