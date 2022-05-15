@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Daryapur,DreamCinemasAkotRoad,444803,Marathi,12:15,Vip,160₹,44,0
+Daryapur,DreamCinemasAkotRoad,444803,Marathi,12:15,Gold,130₹,75,0
+Daryapur,DreamCinemasAkotRoad,444803,Marathi,12:15,Silver,90₹,60,0
+NaviMumbai,FunSquareCinemaNaviMumbai,400705,Marathi,14:45,Gold,150₹,58,18
+Yavatmal,FunCinemasSarojTalkiesPangari,445001,Marathi,15:15,Balcony,100₹,100,0
+Yavatmal,FunCinemasSarojTalkiesPangari,445001,Marathi,15:15,UpperClass,70₹,100,0
+Yavatmal,FunCinemasSarojTalkiesPangari,445001,Marathi,15:15,LowerClass,70₹,100,0
+Nagpur,AMCinema,440034,Marathi,16:25,Royal,180₹,100,0
+Nagpur,AMCinema,440034,Marathi,16:25,Prime,150₹,100,0
+Loni,ChitralayCinemaLoni,413773,Marathi,18:00,Gold,100₹,100,0
+Loni,ChitralayCinemaLoni,413773,Marathi,18:00,Silver,80₹,100,0
