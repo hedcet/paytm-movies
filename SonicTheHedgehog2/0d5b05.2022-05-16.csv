@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,PvrArvedTranscube,382480,English,09:30,Classic,140₹,39,0
+Ahmedabad,PvrArvedTranscube,382480,English,09:30,Prime,140₹,96,15
+Vadodara,PvrTransCubeVadodara,390005,English,09:45,Classic,100₹,39,0
+Vadodara,PvrTransCubeVadodara,390005,English,09:45,Prime,100₹,90,18
+Vadodara,PvrTransCubeVadodara,390005,English,09:45,Recliner,250₹,8,0
+Jaipur,InoxGtCentralMallMalviyaNagar,302017,English,12:00,Kiddles,190₹,34,0
+Jaipur,InoxGtCentralMallMalviyaNagar,302017,English,14:30,Kiddles,220₹,34,34
+Mumbai,MetroInoxCinemaMGRoad,400020,English,14:50,Kiddles,250₹,36,16
+Hyderabad,PvrPlayHouseNextGalleriaMallPanjagutta,500082,English,16:25,Classic,200₹,54,52
+Gurgaon,PvrAmbienceGoldGurgaon,122001,English,16:40,Platinum,500₹,28,28
+Gurgaon,PvrAmbienceGoldGurgaon,122001,English,16:40,PlatinumSuperior,500₹,8,8
