@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Surat,CityPlusMultiplexDumasRoad,395007,Hindi,10:00,GoldStar,140₹,10,0
+Surat,CityPlusMultiplexDumasRoad,395007,Hindi,10:00,Gold,140₹,10,0
+Surat,CityPlusMultiplexDumasRoad,395007,Hindi,10:00,Executive,300₹,10,0
+Surat,CityPlusMultiplexDumasRoad,395007,Hindi,12:30,GoldStar,140₹,10,0
+Surat,CityPlusMultiplexDumasRoad,395007,Hindi,12:30,Gold,140₹,10,0
+Surat,CityPlusMultiplexDumasRoad,395007,Hindi,12:30,Executive,300₹,10,0
+Pathankot,MirajCinemasPathankot,145001,Hindi,20:25,3DSilver,110₹,64,4
+Pathankot,MirajCinemasPathankot,145001,Hindi,20:25,3DGold,230₹,12,0
