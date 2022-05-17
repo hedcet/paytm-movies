@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Guwahati,GoldCinemaPaltanbazar,781001,Assamese,14:00,Gold,150₹,100,0
+Guwahati,GoldCinemaPaltanbazar,781001,Assamese,14:00,Silver,120₹,100,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,14:10,Classic,220₹,40,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,14:10,Prime,240₹,82,22
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,14:10,PrimePlus,260₹,13,10
+Guwahati,MatrixCinemasMatrixMallBeltola,781028,Assamese,15:45,Gold,350₹,100,0
+Guwahati,MatrixCinemasMatrixMallBeltola,781028,Assamese,15:45,Club,200₹,100,0
+Guwahati,MatrixCinemasMatrixMallBeltola,781028,Assamese,15:45,Executive,150₹,100,0
+Golaghat,GoldCinemaGolaghat,785621,Assamese,20:15,Platinum,150₹,100,0
+Golaghat,GoldCinemaGolaghat,785621,Assamese,20:15,Gold,130₹,100,0
+Golaghat,GoldCinemaGolaghat,785621,Assamese,20:15,Silver,100₹,100,0
