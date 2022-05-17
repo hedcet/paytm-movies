@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,CinepolisAlphaOneMall,380015,Gujarati,18:50,Normal,200₹,37,6
+Ahmedabad,CinepolisAlphaOneMall,380015,Gujarati,18:50,Executive,220₹,45,0
+Ahmedabad,CinepolisAlphaOneMall,380015,Gujarati,18:50,Premium,240₹,53,0
