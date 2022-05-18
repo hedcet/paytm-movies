@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,LaliCinemaBarasat,700130,Hindi,11:30,DressCircle,100₹,22,16
+Kolkata,LaliCinemaBarasat,700130,Hindi,11:30,Balcony,70₹,169,142
+Kolkata,LaliCinemaBarasat,700130,Hindi,11:30,RearStall,50₹,270,216
