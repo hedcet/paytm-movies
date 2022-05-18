@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Tirupur,ManisCinemasTirupur,641652,Tamil,10:45,Balcony,100₹,91,0
+Tirupur,ManisCinemasTirupur,641652,Tamil,10:45,Firstclass,80₹,322,0
+Chennai,SpiEscapeCinemasRoyapettah,600014,Tamil,12:30,Elite,190₹,99,0
+Chennai,SpiEscapeCinemasRoyapettah,600014,Tamil,12:30,Budget,60₹,11,9
+Tirupur,ManisCinemasTirupur,641652,Tamil,14:30,Balcony,100₹,91,0
+Tirupur,ManisCinemasTirupur,641652,Tamil,14:30,Firstclass,80₹,322,0
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,15:45,Budget,60₹,28,28
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,15:45,Elite,190₹,170,0
+Tirupur,ManisCinemasTirupur,641652,Tamil,18:30,Balcony,100₹,91,0
+Tirupur,ManisCinemasTirupur,641652,Tamil,18:30,Firstclass,80₹,322,0
+Tirupur,ManisCinemasTirupur,641652,Tamil,22:15,Balcony,100₹,91,0
+Tirupur,ManisCinemasTirupur,641652,Tamil,22:15,Firstclass,80₹,322,0
