@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Fazilka,OhmOrbitNovaCinemaSanjeevChowk,125055,Hindi,17:00,Box1,200₹,8,0
+Fazilka,OhmOrbitNovaCinemaSanjeevChowk,125055,Hindi,17:00,Box2,200₹,10,0
+Fazilka,OhmOrbitNovaCinemaSanjeevChowk,125055,Hindi,17:00,Gold,80₹,138,50
+Fazilka,OhmOrbitNovaCinemaSanjeevChowk,125055,Hindi,17:00,Silver,80₹,26,0
