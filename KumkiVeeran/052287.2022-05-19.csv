@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thiruvarur,NateshCinemasAC4KDolbyAtmos,610001,Tamil,11:00,Balcony,130₹,146,36
+Thiruvarur,NateshCinemasAC4KDolbyAtmos,610001,Tamil,11:00,FirstClass,110₹,166,30
+Thiruvarur,NateshCinemasAC4KDolbyAtmos,610001,Tamil,11:00,SecondClass,110₹,66,66
+Thiruvarur,NateshCinemasAC4KDolbyAtmos,610001,Tamil,14:00,Balcony,130₹,146,36
+Thiruvarur,NateshCinemasAC4KDolbyAtmos,610001,Tamil,14:00,FirstClass,110₹,166,30
+Thiruvarur,NateshCinemasAC4KDolbyAtmos,610001,Tamil,14:00,SecondClass,110₹,66,66
+Thiruvarur,NateshCinemasAC4KDolbyAtmos,610001,Tamil,18:00,Balcony,130₹,146,36
+Thiruvarur,NateshCinemasAC4KDolbyAtmos,610001,Tamil,18:00,FirstClass,110₹,166,30
+Thiruvarur,NateshCinemasAC4KDolbyAtmos,610001,Tamil,18:00,SecondClass,110₹,66,66
+Thiruvarur,NateshCinemasAC4KDolbyAtmos,610001,Tamil,22:00,Balcony,130₹,146,36
+Thiruvarur,NateshCinemasAC4KDolbyAtmos,610001,Tamil,22:00,FirstClass,110₹,166,30
+Thiruvarur,NateshCinemasAC4KDolbyAtmos,610001,Tamil,22:00,SecondClass,110₹,66,66
