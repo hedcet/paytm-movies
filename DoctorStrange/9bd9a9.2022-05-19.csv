@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Hindi,09:45,Crew,150₹,10,0
+Surat,CityPlusMultiplexDumasRoad,395007,Hindi,10:00,GoldStar,140₹,10,0
+Surat,CityPlusMultiplexDumasRoad,395007,Hindi,10:00,Gold,140₹,10,0
+Surat,CityPlusMultiplexDumasRoad,395007,Hindi,10:00,Executive,300₹,10,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Hindi,12:15,Crew,150₹,10,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Hindi,14:45,Crew,170₹,10,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Hindi,17:15,Crew,170₹,10,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,English,19:45,Crew,180₹,10,0
+Pathankot,MirajCinemasPathankot,145001,Hindi,20:25,3DSilver,110₹,64,4
+Pathankot,MirajCinemasPathankot,145001,Hindi,20:25,3DGold,230₹,12,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Hindi,22:30,Crew,200₹,10,0
