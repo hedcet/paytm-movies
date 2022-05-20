@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mysuru,PadmaTalkiesMysore,570004,Kannada,10:30,Balcony,120₹,151,106
+Mysuru,PadmaTalkiesMysore,570004,Kannada,10:30,Second,100₹,506,353
+Tumakuru,InoxSMallTumakuru,572106,Kannada,11:00,Club,160₹,56,0
+Tumakuru,InoxSMallTumakuru,572106,Kannada,11:00,Executive,140₹,76,0
+Bengaluru,InoxShreeGarudaSwagathMallJayanagar,560041,Kannada,13:25,Club,190₹,44,0
+Bengaluru,InoxShreeGarudaSwagathMallJayanagar,560041,Kannada,13:25,Executive,180₹,134,0
+Mysuru,PvrForumCentreCityMallMysuru,570010,Kannada,13:55,Classic,150₹,133,13
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,18:35,Executive,180₹,65,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,18:35,Premium,180₹,29,13
