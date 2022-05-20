@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Jodhpur,CarnivalNasraniSardarpura,342003,Rajasthani,12:15,LoungeOffline,400₹,13,0
+Jodhpur,CarnivalNasraniSardarpura,342003,Rajasthani,12:15,PlatinumOffline,300₹,14,0
+Jodhpur,CarnivalNasraniSardarpura,342003,Rajasthani,12:15,GoldOffline,180₹,137,26
