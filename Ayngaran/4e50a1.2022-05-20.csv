@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,SpiEscapeCinemasRoyapettah,600014,Tamil,11:55,Elite,190₹,99,0
+Chennai,SpiEscapeCinemasRoyapettah,600014,Tamil,11:55,Budget,60₹,11,11
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,12:35,Budget,60₹,26,20
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,12:35,Elite,190₹,182,8
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,13:00,Classic,60₹,16,16
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,13:00,Prime,190₹,110,29
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,13:05,Club,190₹,134,1
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,13:05,Executive,60₹,22,0
+Thanjavur,GvComplexThanjavur,613001,Tamil,18:15,I,120₹,138,12
+Thanjavur,GvComplexThanjavur,613001,Tamil,22:00,I,120₹,138,12
