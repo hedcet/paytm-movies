@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vasai,MirajDattaniCinemasVasai,401202,English,10:00,3DSilver,160₹,191,4
+Vasai,MirajDattaniCinemasVasai,401202,English,10:00,3DBronze,160₹,32,0
+Vasai,MirajDattaniCinemasVasai,401202,English,10:00,3DGold,160₹,16,0
+Vasai,MirajDattaniCinemasVasai,401202,English,10:00,3DPlatinum,240₹,11,0
+Lucknow,PvrSaharaGanjMallHazratganj,226001,Hindi,10:00,3DClassic,200₹,171,16
+Lucknow,PvrSaharaGanjMallHazratganj,226001,Hindi,10:00,3DRecliner,320₹,12,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Hindi,15:45,Crew,220₹,10,0
+Lucknow,PvrSaharaGanjMallHazratganj,226001,Hindi,20:05,3DClassic,260₹,171,11
+Lucknow,PvrSaharaGanjMallHazratganj,226001,Hindi,20:05,3DRecliner,370₹,12,2
