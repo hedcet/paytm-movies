@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Cheruvathur,PakkanarCinemasCheruvathur,671313,Malayalam,13:30,Executive,100₹,322,0
+Kochi,PvrLuluKochi,682025,Malayalam,16:10,Classic,140₹,39,0
+Kochi,PvrLuluKochi,682025,Malayalam,16:10,ClassicPlus,160₹,91,14
+Kochi,PvrLuluKochi,682025,Malayalam,16:10,Prime,190₹,64,12
+Kochi,PvrLuluKochi,682025,Malayalam,16:10,Recliner,350₹,9,5
+Cheruvathur,PakkanarCinemasCheruvathur,671313,Malayalam,16:30,Executive,100₹,322,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,19:25,Club,190₹,66,9
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,19:25,Executive,130₹,22,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,19:25,RoyalRecliner,350₹,10,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,19:25,Royal,190₹,13,4
