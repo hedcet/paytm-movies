@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,PvrPlayHouseNextGalleriaMallPanjagutta,500082,English,13:25,Classic,200₹,54,40
+NewDelhi,PvrVegasPlayHouseDwarka,110078,Hindi,21:35,3DRecliner,490₹,8,0
+NewDelhi,PvrVegasPlayHouseDwarka,110078,Hindi,21:35,3DPrime,440₹,14,5
+NewDelhi,PvrVegasPlayHouseDwarka,110078,Hindi,21:35,3DClassic,390₹,36,4
