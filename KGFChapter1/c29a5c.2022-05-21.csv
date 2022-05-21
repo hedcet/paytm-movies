@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vadodara,CinepolisInorbitMallGorwa,390023,Hindi,19:05,Normal,180₹,24,0
+Vadodara,CinepolisInorbitMallGorwa,390023,Hindi,19:05,Premium,180₹,32,3
+Vadodara,CinepolisInorbitMallGorwa,390023,Hindi,19:05,Executive,180₹,96,0
