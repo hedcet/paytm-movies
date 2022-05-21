@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,17:15,Classic,110₹,52,52
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,17:15,Prime,130₹,156,156
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,17:15,PrimePlus,160₹,39,13
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,17:15,Recliner,250₹,12,2
+Gandhidham,VinayCinemasAdipur,370205,Hindi,17:46,Diamond,130₹,100,0
+Gandhidham,VinayCinemasAdipur,370205,Hindi,17:46,Gold,100₹,77,0
+Gandhidham,VinayCinemasAdipur,370205,Hindi,17:46,Platinum,150₹,33,0
+Gandhidham,VinayCinemasAdipur,370205,Hindi,17:46,Silver,100₹,41,0
+Anand,RajshivalayCinemasAnand,388001,Hindi,19:00,Platinum,110₹,163,0
+Anand,RajshivalayCinemasAnand,388001,Hindi,19:00,Gold,110₹,80,0
+Anand,InfinityCinemas,388001,Hindi,19:30,Recliner,250₹,19,0
+Anand,InfinityCinemas,388001,Hindi,19:30,Platinum,150₹,50,0
+Anand,InfinityCinemas,388001,Hindi,19:30,Gold,110₹,60,0
