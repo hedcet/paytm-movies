@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,12:00,Box,100₹,8,0
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,12:00,Balcony,80₹,20,0
+Chhindwara,ShreyanshTalkiesChhotaTalab,480001,Hindi,12:30,Diamond,130₹,147,111
+Chhindwara,ShreyanshTalkiesChhotaTalab,480001,Hindi,12:30,Gold,100₹,54,36
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,15:00,Box,100₹,8,0
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,15:00,Balcony,80₹,20,0
+Chhindwara,ShreyanshTalkiesChhotaTalab,480001,Hindi,15:30,Diamond,130₹,147,111
+Chhindwara,ShreyanshTalkiesChhotaTalab,480001,Hindi,15:30,Gold,100₹,54,36
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,18:00,Box,100₹,8,0
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,18:00,Balcony,80₹,20,0
+Chhindwara,ShreyanshTalkiesChhotaTalab,480001,Hindi,18:30,Diamond,130₹,147,111
+Chhindwara,ShreyanshTalkiesChhotaTalab,480001,Hindi,18:30,Gold,100₹,54,36
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,21:00,Box,100₹,8,0
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,21:00,Balcony,80₹,20,0
+Chhindwara,ShreyanshTalkiesChhotaTalab,480001,Hindi,21:30,Diamond,130₹,147,111
+Chhindwara,ShreyanshTalkiesChhotaTalab,480001,Hindi,21:30,Gold,100₹,54,36
