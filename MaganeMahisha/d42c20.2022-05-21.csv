@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mangalore,CinepolisCityCentreMallMangaluru,575001,Tulu,09:55,Normal,140₹,28,0
+Mangalore,CinepolisCityCentreMallMangaluru,575001,Tulu,09:55,Executive,160₹,133,0
+Mangalore,CinepolisCityCentreMallMangaluru,575001,Tulu,09:55,Premium,180₹,58,5
+Mangalore,PvrForumFizaMallPandeshwar,575001,Tulu,13:30,Classic,150₹,96,2
+Mangalore,PvrForumFizaMallPandeshwar,575001,Tulu,13:30,Prime,180₹,49,3
+Mangalore,PvrForumFizaMallPandeshwar,575001,Tulu,13:30,Recliner,350₹,11,0
+Moodabidri,AmarshreeTheatreVijayaNagar,574227,Tulu,15:30,Balcony,120₹,192,114
+Moodabidri,AmarshreeTheatreVijayaNagar,574227,Tulu,15:30,SecondClass,100₹,368,368
+Mangalore,PvrForumFizaMallPandeshwar,575001,Tulu,18:55,Classic,150₹,71,16
+Mangalore,PvrForumFizaMallPandeshwar,575001,Tulu,21:45,Classic,150₹,133,0
+Mangalore,PvrForumFizaMallPandeshwar,575001,Tulu,21:45,Prime,180₹,69,0
+Mangalore,PvrForumFizaMallPandeshwar,575001,Tulu,21:45,Recliner,350₹,13,0
+Mangalore,CinepolisCityCentreMallMangaluru,575001,Tulu,22:00,Normal,140₹,28,0
+Mangalore,CinepolisCityCentreMallMangaluru,575001,Tulu,22:00,Executive,160₹,133,2
+Mangalore,CinepolisCityCentreMallMangaluru,575001,Tulu,22:00,Premium,180₹,58,2
