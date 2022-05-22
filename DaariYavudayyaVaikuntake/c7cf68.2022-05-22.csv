@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,InoxMantriSquareMalleshwaram,560003,Kannada,10:45,Club,170₹,209,2
+Hubli,SujathaTheatreNearOldBustand,580029,Kannada,11:30,Balcony,120₹,289,90
+Hubli,SujathaTheatreNearOldBustand,580029,Kannada,11:30,DCircle,100₹,558,138
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,16:15,Platinum,180₹,16,14
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,16:15,Gold,130₹,180,112
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,16:15,Silver,100₹,135,86
+Tumakuru,InoxSMallTumakuru,572106,Kannada,19:10,Club,210₹,108,0
+Tumakuru,InoxSMallTumakuru,572106,Kannada,19:10,Executive,190₹,136,0
+Tumakuru,InoxSMallTumakuru,572106,Kannada,19:10,Royal,300₹,10,0
+Bengaluru,InoxCentralMantriJunctionJpNagar,560069,Kannada,19:15,Club,250₹,219,0
+Bengaluru,InoxCentralMantriJunctionJpNagar,560069,Kannada,19:15,Royal,400₹,10,0
