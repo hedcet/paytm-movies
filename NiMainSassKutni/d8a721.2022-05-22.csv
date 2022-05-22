@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chandigarh,PvrElanteMallChandigarh,178178,Punjabi,10:50,Classic,180₹,138,10
+Chandigarh,PvrElanteMallChandigarh,178178,Punjabi,10:50,Recliner,450₹,13,0
+Mohali,PvrVrPunjabMallMohali,140301,Punjabi,11:35,Classic,210₹,84,7
+Mohali,PvrVrPunjabMallMohali,140301,Punjabi,11:35,Prime,250₹,38,0
+Ludhiana,PvrSilverArcMallGurdevNagar,141001,Punjabi,14:35,Prime,300₹,18,17
+Ludhiana,PvrSilverArcMallGurdevNagar,141001,Punjabi,14:35,Classic,260₹,119,116
+Chandigarh,PvrElanteMallChandigarh,178178,Punjabi,20:50,Classic,230₹,138,64
+Chandigarh,PvrElanteMallChandigarh,178178,Punjabi,20:50,Recliner,650₹,13,2
