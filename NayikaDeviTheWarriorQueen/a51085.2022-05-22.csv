@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Surat,PvrRahulRajMallDumasRoad,395007,Gujarati,09:45,Recliner,280₹,24,5
+Surat,PvrRahulRajMallDumasRoad,395007,Gujarati,09:45,ClassicPlus,130₹,38,0
+Surat,PvrRahulRajMallDumasRoad,395007,Gujarati,09:45,Prime,140₹,76,18
+Surat,PvrRahulRajMallDumasRoad,395007,Gujarati,09:45,Classic,120₹,38,0
+Ahmedabad,MirajCityPulseManiNagar,380001,Gujarati,14:15,Gold,180₹,24,0
+Patan,VijayCinema,384265,Gujarati,18:00,Gold,200₹,182,0
+Patan,VijayCinema,384265,Gujarati,18:00,Silver,150₹,70,0
+Deesa,ShreeRamMultiplexDeesa,385535,Gujarati,18:00,Gold,100₹,169,0
+Deesa,ShreeRamMultiplexDeesa,385535,Gujarati,18:00,Gold,100₹,38,0
+Deesa,ShreeRamMultiplexDeesa,385535,Gujarati,21:00,Gold,100₹,169,0
+Deesa,ShreeRamMultiplexDeesa,385535,Gujarati,21:00,Gold,100₹,38,0
+Ahmedabad,CinepolisAlphaOneMall,380015,Gujarati,22:05,Normal,220₹,36,22
+Ahmedabad,CinepolisAlphaOneMall,380015,Gujarati,22:05,Executive,250₹,78,18
+Ahmedabad,CinepolisAlphaOneMall,380015,Gujarati,22:05,Premium,300₹,50,11
