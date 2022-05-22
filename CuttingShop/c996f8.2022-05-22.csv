@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Karkala,PlanetTheatreMarketRoad,574104,Kannada,09:30,FirstClass,120₹,98,70
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,560023,Kannada,11:00,Recliner,300₹,5,3
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,560023,Kannada,11:00,Classic,170₹,210,20
+Bengaluru,RocklineCinemasJalahalliCross,560057,Kannada,11:00,Gold,200₹,163,23
+Bengaluru,InoxMantriSquareMalleshwaram,560003,Kannada,11:40,Club,170₹,268,48
+Bengaluru,InoxMantriSquareMalleshwaram,560003,Kannada,11:40,Royal,320₹,8,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,12:50,Classic,240₹,128,6
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,12:50,Prime,260₹,80,14
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,12:50,Recliner,420₹,17,4
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,13:10,Executive,150₹,65,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,13:10,Premium,150₹,29,2
+Tumakuru,InoxSMallTumakuru,572106,Kannada,18:50,Club,210₹,56,6
+Tumakuru,InoxSMallTumakuru,572106,Kannada,18:50,Executive,190₹,76,0
+Bengaluru,InoxGalleriaMallYelahanka,560064,Kannada,19:20,Club,250₹,70,20
+Bengaluru,InoxGalleriaMallYelahanka,560064,Kannada,19:20,Executive,240₹,128,2
+Bengaluru,InoxGalleriaMallYelahanka,560064,Kannada,19:20,Royale,400₹,9,2
