@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,InoxAmanoraTownCentreHadapsar,412028,Hindi,09:00,Club,150₹,231,7
+Pune,InoxAmanoraTownCentreHadapsar,412028,Hindi,09:00,Executive,150₹,32,0
+Pune,InoxAmanoraTownCentreHadapsar,412028,Hindi,09:00,Royale,240₹,6,0
+Mumbai,InoxMegaplexInorbitMall,400064,Hindi,10:00,Insignia,300₹,34,8
+NewDelhi,PvrPromenadeVasantKunj,110070,Hindi,11:05,Classic,250₹,50,0
+NewDelhi,PvrPromenadeVasantKunj,110070,Hindi,11:05,Prime,300₹,34,10
+Pune,InoxBundGarden,411001,Hindi,11:15,Royale,250₹,34,13
+Mumbai,InoxLaserplexCr2NarimanPoint,400021,Hindi,11:15,Club,150₹,160,5
+Mumbai,InoxLaserplexCr2NarimanPoint,400021,Hindi,11:15,Royale,170₹,82,9
+Indore,InoxTreasureIslandNextMallRegalSquare,452001,Hindi,11:35,Club,130₹,184,7
+Indore,InoxTreasureIslandNextMallRegalSquare,452001,Hindi,11:35,Executive,112₹,42,0
+Noida,PvrLogixCityCentreNoida,201301,Hindi,12:15,Classic,350₹,78,12
+Gurgaon,PvrAmbienceGurgaon,122001,Hindi,16:45,ClassicNormal,300₹,84,13
+Gurgaon,PvrAmbienceGurgaon,122001,Hindi,16:45,Prime,400₹,68,20
+GreaterNoida,PvrGaurCityGreaterNoida,201301,Hindi,21:45,Classic,215₹,92,2
+GreaterNoida,PvrGaurCityGreaterNoida,201301,Hindi,21:45,Prime,240₹,13,2
