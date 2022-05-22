@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,16:20,Normal,200₹,27,0
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,16:20,Executive,220₹,104,20
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,16:20,Premium,240₹,46,37
+Pune,CinepolisSeasonsMallHadapsar,411028,Marathi,16:30,Normal,220₹,27,0
+Pune,CinepolisSeasonsMallHadapsar,411028,Marathi,16:30,Executive,220₹,74,3
+Pune,CinepolisSeasonsMallHadapsar,411028,Marathi,16:30,Premium,240₹,33,6
+Pune,CinepolisWestendMallAundh,411007,Marathi,16:35,Normal,250₹,25,4
+Pune,CinepolisWestendMallAundh,411007,Marathi,16:35,Executive,250₹,42,38
+Pune,CinepolisWestendMallAundh,411007,Marathi,16:35,Premium,250₹,48,47
