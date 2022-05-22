@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Giridih,SwarnCinemasGiridih,815311,Hindi,14:00,Diamond,200₹,36,4
+Giridih,SwarnCinemasGiridih,815311,Hindi,14:00,Platinum,150₹,60,0
+Giridih,SwarnCinemasGiridih,815311,Hindi,14:00,Gold,125₹,24,0
+Giridih,SwarnCinemasGiridih,815311,Hindi,14:00,Silver,100₹,24,0
