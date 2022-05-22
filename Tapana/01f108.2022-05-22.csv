@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Narasannapeta,SreedeviPicturePalace,532421,Telugu,18:00,Premium,100₹,392,0
+Narasannapeta,SreedeviPicturePalace,532421,Telugu,18:00,NonPremium2Cl,80₹,130,130
+Narasannapeta,SreedeviPicturePalace,532421,Telugu,21:30,Premium,100₹,392,0
+Narasannapeta,SreedeviPicturePalace,532421,Telugu,21:30,NonPremium2Cl,80₹,130,130
