@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+GreaterNoida,InoxOmaxeConnaughtPlaceMallGreaterNoida,201308,Hindi,16:20,Club,140₹,98,0
+GreaterNoida,InoxOmaxeConnaughtPlaceMallGreaterNoida,201308,Hindi,16:20,RoyaleRecliners,230₹,15,0
+GreaterNoida,InoxOmaxeConnaughtPlaceMallGreaterNoida,201308,Hindi,16:20,Royale,160₹,149,2
+GreaterNoida,InoxOmaxeConnaughtPlaceMallGreaterNoida,201308,Hindi,22:00,Club,160₹,98,0
+GreaterNoida,InoxOmaxeConnaughtPlaceMallGreaterNoida,201308,Hindi,22:00,RoyaleRecliners,280₹,15,0
+GreaterNoida,InoxOmaxeConnaughtPlaceMallGreaterNoida,201308,Hindi,22:00,Royale,180₹,149,0
