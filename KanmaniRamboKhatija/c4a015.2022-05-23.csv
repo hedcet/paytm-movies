@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vizag,JotheeTheatreACDtsSuryabagh,530020,Telugu,11:00,ClasicCircle,145₹,586,4
+Vizag,JotheeTheatreACDtsSuryabagh,530020,Telugu,11:00,JanathaCircle,100₹,197,0
+Vizag,RamachandraMaxLakshmikanthComplexDolbyAtmosGajuwaka,530026,Telugu,11:30,Premium,145₹,229,51
+Vizag,RamachandraMaxLakshmikanthComplexDolbyAtmosGajuwaka,530026,Telugu,11:30,NonPremium,100₹,106,1
+Vizag,JotheeTheatreACDtsSuryabagh,530020,Telugu,14:30,ClasicCircle,145₹,586,20
+Vizag,JotheeTheatreACDtsSuryabagh,530020,Telugu,14:30,JanathaCircle,100₹,197,3
+Vizag,RamachandraMaxLakshmikanthComplexDolbyAtmosGajuwaka,530026,Telugu,14:30,Premium,145₹,229,51
+Vizag,RamachandraMaxLakshmikanthComplexDolbyAtmosGajuwaka,530026,Telugu,14:30,NonPremium,100₹,106,0
+Vizag,JotheeTheatreACDtsSuryabagh,530020,Telugu,18:15,ClasicCircle,145₹,586,14
+Vizag,JotheeTheatreACDtsSuryabagh,530020,Telugu,18:15,JanathaCircle,100₹,197,0
+Vizag,RamachandraMaxLakshmikanthComplexDolbyAtmosGajuwaka,530026,Telugu,18:30,Premium,145₹,229,229
+Vizag,RamachandraMaxLakshmikanthComplexDolbyAtmosGajuwaka,530026,Telugu,18:30,NonPremium,100₹,106,106
+Vizag,RamachandraMaxLakshmikanthComplexDolbyAtmosGajuwaka,530026,Telugu,21:30,Premium,145₹,229,51
+Vizag,RamachandraMaxLakshmikanthComplexDolbyAtmosGajuwaka,530026,Telugu,21:30,NonPremium,100₹,106,1
+Vizag,JotheeTheatreACDtsSuryabagh,530020,Telugu,21:45,ClasicCircle,145₹,586,16
+Vizag,JotheeTheatreACDtsSuryabagh,530020,Telugu,21:45,JanathaCircle,100₹,197,0
