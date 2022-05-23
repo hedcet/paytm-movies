@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Perinthalmanna,PlazaCinemasPerinthalmanna,679322,Malayalam,10:00,Platinum,120₹,151,0
+Malappuram,MallikaPlexMattilMall,676505,Malayalam,10:15,Executive,140₹,50,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,10:20,PremiumLounge,250₹,65,6
+Payyanur,AradhanaArchanaMovieHousePayyanur,670307,Malayalam,10:30,Balcony,110₹,144,0
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,11:15,ExecutiveOffline,100₹,132,14
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,12:00,Deluxe,150₹,555,531
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,12:00,RoseCircle,150₹,115,115
+Ashtamichira,MahalakshmiCinemasAshtamichira,680731,Malayalam,12:00,GreenCircle,120₹,106,106
+Payyanur,AradhanaArchanaMovieHousePayyanur,670307,Malayalam,13:30,Balcony,110₹,144,0
+Thalayolaparambu,CarnivalThalayolaparambu,686605,Malayalam,16:00,Gold,110₹,204,18
+Malappuram,MallikaPlexMattilMall,676505,Malayalam,16:30,Executive,140₹,50,3
