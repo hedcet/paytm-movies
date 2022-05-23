@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Lucknow,PvrSaharaGanjMallHazratganj,226001,Hindi,10:00,3DClassic,159₹,171,4
+Lucknow,PvrSaharaGanjMallHazratganj,226001,Hindi,10:00,3DRecliner,250₹,12,2
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Hindi,15:45,Crew,180₹,10,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Hindi,15:45,Captain,200₹,10,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Hindi,15:45,Club,230₹,10,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Hindi,15:45,Crew,220₹,10,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Hindi,16:45,Crew,180₹,10,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Hindi,16:45,Captain,200₹,10,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Hindi,16:45,Club,230₹,10,0
