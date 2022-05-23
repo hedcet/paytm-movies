@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mysuru,InoxMallOfMysoreMgRoad,570010,Kannada,10:45,Club,130₹,223,2
+Bengaluru,CinepolisRoyalMeenakshiMallBannerghattaRoad,560076,Kannada,13:45,Normal,150₹,26,0
+Bengaluru,CinepolisRoyalMeenakshiMallBannerghattaRoad,560076,Kannada,13:45,Executive,150₹,65,15
+Bengaluru,CinepolisRoyalMeenakshiMallBannerghattaRoad,560076,Kannada,13:45,Premium,150₹,30,30
+Bengaluru,CinepolisSjrSpectrumCentralMallBannerghattaRoad,560076,Kannada,15:40,Normal,150₹,30,0
+Bengaluru,CinepolisSjrSpectrumCentralMallBannerghattaRoad,560076,Kannada,15:40,Executive,150₹,63,0
+Bengaluru,CinepolisSjrSpectrumCentralMallBannerghattaRoad,560076,Kannada,15:40,Premium,150₹,44,17
+Bengaluru,CinepolisSjrSpectrumCentralMallBannerghattaRoad,560076,Kannada,15:40,Vip,300₹,12,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,15:45,Executive,150₹,65,7
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,15:45,Premium,150₹,29,8
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,15:50,Classic,150₹,140,4
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,15:50,Prime,170₹,96,16
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,15:50,Recliner,250₹,24,7
+Bengaluru,PvrVegaBannerghattaRoad,560076,Kannada,18:45,Classic,170₹,73,3
+Bengaluru,PvrVegaBannerghattaRoad,560076,Kannada,18:45,Recliner,300₹,9,0
+Bengaluru,InoxMantriSquareMalleshwaram,560003,Kannada,19:00,Club,160₹,209,18
