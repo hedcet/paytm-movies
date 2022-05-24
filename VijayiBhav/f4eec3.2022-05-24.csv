@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Shirpur,AlankarChitraMandirKrantinagar,425405,Marathi,11:00,DiamondClass,120₹,52,0
+Latur,RegalCinemaSaweWadi,413512,Marathi,11:00,Balcony,80₹,150,0
+Latur,RegalCinemaSaweWadi,413512,Marathi,11:00,FirstClass,70₹,322,0
+Mumbai,GoldCinemaDadarE,400014,Marathi,13:00,Balcony,110₹,15,0
+Mumbai,GoldCinemaDadarE,400014,Marathi,13:00,Gold,110₹,178,0
+Mumbai,GoldCinemaDadarE,400014,Marathi,13:00,Executive,110₹,52,0
+Mumbai,MovieTimeHubMallGoregaonE,400063,Marathi,15:10,Mhraja,130₹,44,8
+Nagpur,AMCinema,440034,Marathi,16:15,Royal,180₹,9,0
+Nagpur,AMCinema,440034,Marathi,16:15,Prime,150₹,66,0
+Surat,WonderPrimeCinemaSurat,394210,Marathi,18:30,RoyalClass,130₹,73,0
+Nandurbar,MirajCinemasNandurbar,425412,Marathi,19:00,Special,130₹,24,0
+Nandurbar,MirajCinemasNandurbar,425412,Marathi,19:00,Executive,150₹,72,50
+Nandurbar,MirajCinemasNandurbar,425412,Marathi,19:00,Gold,270₹,9,0
