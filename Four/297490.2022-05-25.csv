@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,10:05,NormalOffline,100₹,17,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,10:05,ExecutiveOffline,160₹,102,20
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,10:05,PremiumOffline,250₹,50,50
+Kollengode,ThankarajThankamTheatre,678506,Malayalam,10:45,FirstClass,100₹,142,72
+Alappuzha,RaibanCineHouseAC2K71Dolby,688001,Malayalam,11:30,Balcony,125₹,206,100
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,12:00,BlueCircle,150₹,227,218
+Kollengode,ThankarajThankamTheatre,678506,Malayalam,13:45,FirstClass,100₹,142,112
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,16:15,ExecutiveOffline,160₹,145,15
