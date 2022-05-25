@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,560023,Kannada,09:35,Recliner,200₹,16,0
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,560023,Kannada,09:35,Classic,112₹,179,2
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,10:25,Classic,112₹,180,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,10:25,Prime,150₹,96,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,10:25,Recliner,220₹,27,0
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,11:00,Platinum,150₹,16,14
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,11:00,Gold,100₹,180,112
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,11:00,Silver,80₹,135,86
+Bengaluru,InoxCentralMantriJunctionJpNagar,560069,Kannada,12:20,Club,140₹,234,0
+Bengaluru,InoxCentralMantriJunctionJpNagar,560069,Kannada,12:20,Royal,220₹,4,0
