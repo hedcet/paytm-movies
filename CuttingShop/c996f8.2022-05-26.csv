@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Karkala,PlanetTheatreMarketRoad,574104,Kannada,09:30,FirstClass,120₹,98,70
+Bengaluru,InoxGalleriaMallYelahanka,560064,Kannada,12:45,Club,140₹,70,2
+Bengaluru,InoxGalleriaMallYelahanka,560064,Kannada,12:45,Executive,130₹,128,4
+Bengaluru,InoxGalleriaMallYelahanka,560064,Kannada,12:45,Royale,220₹,9,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,13:05,Executive,150₹,65,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,13:05,Premium,150₹,29,0
+Bengaluru,InoxMantriSquareMalleshwaram,560003,Kannada,19:40,Club,210₹,268,17
+Bengaluru,InoxMantriSquareMalleshwaram,560003,Kannada,19:40,Royal,350₹,8,5
