@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,MirajCityPulseManiNagar,380001,Gujarati,14:15,Gold,100₹,24,0
+Ahmedabad,RajhansCinemaVastral,382418,Gujarati,17:00,Marvel,130₹,26,0
+Ahmedabad,RajhansCinemaVastral,382418,Gujarati,17:00,Royal,150₹,52,0
+Ahmedabad,RajhansCinemaVastral,382418,Gujarati,17:00,Executive,170₹,140,14
+Patan,VijayCinema,384265,Gujarati,18:00,Gold,200₹,182,0
+Patan,VijayCinema,384265,Gujarati,18:00,Silver,150₹,70,0
+Deesa,ShreeRamMultiplexDeesa,385535,Gujarati,18:00,Gold,100₹,169,0
+Deesa,ShreeRamMultiplexDeesa,385535,Gujarati,18:00,Gold,100₹,38,0
+Deesa,ShreeRamMultiplexDeesa,385535,Gujarati,21:00,Gold,100₹,169,0
+Deesa,ShreeRamMultiplexDeesa,385535,Gujarati,21:00,Gold,100₹,38,0
