@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mangalore,PvrForumFizaMallPandeshwar,575001,Tulu,13:30,Classic,150₹,96,0
+Mangalore,PvrForumFizaMallPandeshwar,575001,Tulu,13:30,Prime,170₹,57,6
+Mangalore,PvrForumFizaMallPandeshwar,575001,Tulu,13:30,Recliner,300₹,11,0
+Moodabidri,AmarshreeTheatreVijayaNagar,574227,Tulu,15:30,Balcony,120₹,192,114
+Moodabidri,AmarshreeTheatreVijayaNagar,574227,Tulu,15:30,SecondClass,100₹,368,368
+Mangalore,CinepolisCityCentreMallMangaluru,575001,Tulu,15:45,Platinum,150₹,50,10
+Mangalore,CinepolisCityCentreMallMangaluru,575001,Tulu,15:45,Vip,200₹,17,2
+Mangalore,PvrForumFizaMallPandeshwar,575001,Tulu,17:55,Classic,150₹,71,3
+Mangalore,PvrForumFizaMallPandeshwar,575001,Tulu,21:00,Classic,150₹,71,0
