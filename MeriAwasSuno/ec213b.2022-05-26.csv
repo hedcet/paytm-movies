@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,10:50,ExecutiveOffline,100₹,132,14
+Thrissur,RamdasMGRoad,680001,Malayalam,12:00,PlatinumCircle,125₹,294,39
+Thrissur,RamdasMGRoad,680001,Malayalam,12:00,GoldenCircle,100₹,320,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,15:40,PremiumLounge,250₹,65,18
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,16:30,Club,170₹,155,5
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,16:30,Executive,130₹,26,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,16:30,RoyalRecliner,290₹,10,8
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,16:30,Royal,170₹,20,6
+Kochi,PvrLuluKochi,682025,Malayalam,22:00,Classic,140₹,39,5
+Kochi,PvrLuluKochi,682025,Malayalam,22:00,ClassicPlus,160₹,91,62
+Kochi,PvrLuluKochi,682025,Malayalam,22:00,Prime,190₹,68,57
+Kochi,PvrLuluKochi,682025,Malayalam,22:00,Recliner,350₹,10,7
