@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vizag,JotheeTheatreACDtsSuryabagh,530020,Telugu,11:00,ClasicCircle,145₹,586,142
+Vizag,JotheeTheatreACDtsSuryabagh,530020,Telugu,11:00,JanathaCircle,100₹,197,65
+Kavali,VenkateswaraTheatreVaddiPalem,524201,Telugu,11:00,Platinum,110₹,314,46
+Kavali,VenkateswaraTheatreVaddiPalem,524201,Telugu,11:00,Gold,90₹,22,0
+Vizag,JotheeTheatreACDtsSuryabagh,530020,Telugu,14:30,ClasicCircle,145₹,586,3
+Vizag,JotheeTheatreACDtsSuryabagh,530020,Telugu,14:30,JanathaCircle,100₹,197,0
+Kavali,VenkateswaraTheatreVaddiPalem,524201,Telugu,14:30,Platinum,110₹,314,0
+Kavali,VenkateswaraTheatreVaddiPalem,524201,Telugu,14:30,Gold,90₹,22,0
+Vizag,JotheeTheatreACDtsSuryabagh,530020,Telugu,18:30,ClasicCircle,145₹,586,1
+Vizag,JotheeTheatreACDtsSuryabagh,530020,Telugu,18:30,JanathaCircle,100₹,197,0
+Kavali,VenkateswaraTheatreVaddiPalem,524201,Telugu,18:45,Platinum,110₹,314,2
+Kavali,VenkateswaraTheatreVaddiPalem,524201,Telugu,18:45,Gold,90₹,22,0
+Vizag,JotheeTheatreACDtsSuryabagh,530020,Telugu,21:45,ClasicCircle,145₹,586,3
+Vizag,JotheeTheatreACDtsSuryabagh,530020,Telugu,21:45,JanathaCircle,100₹,197,0
+Kavali,VenkateswaraTheatreVaddiPalem,524201,Telugu,22:00,Platinum,110₹,314,0
+Kavali,VenkateswaraTheatreVaddiPalem,524201,Telugu,22:00,Gold,90₹,22,0
