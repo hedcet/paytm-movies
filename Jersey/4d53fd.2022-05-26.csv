@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,InoxBundGarden,411001,Hindi,10:55,Royale,200₹,34,2
+Noida,PvrLogixCityCentreNoida,201301,Hindi,12:15,Classic,215₹,78,4
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,226010,Hindi,12:25,Club,170₹,54,0
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,226010,Hindi,12:25,Executive,130₹,20,0
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,226010,Hindi,12:25,Royale,190₹,49,2
+Gurgaon,PvrAmbienceGurgaon,122001,Hindi,16:45,ClassicNormal,200₹,84,2
+Gurgaon,PvrAmbienceGurgaon,122001,Hindi,16:45,Prime,250₹,68,16
