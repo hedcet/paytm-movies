@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Malappuram,MallikaPlexMattilMall,676505,Malayalam,10:00,Executive,140₹,50,0
+Perinthalmanna,PlazaCinemasPerinthalmanna,679322,Malayalam,10:00,Platinum,120₹,151,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,10:10,PremiumLounge,250₹,65,0
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,12:00,Deluxe,150₹,555,531
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,12:00,RoseCircle,150₹,115,115
+Koothattukulam,VCinema,686662,Malayalam,15:00,Gold,290₹,6,0
+Koothattukulam,VCinema,686662,Malayalam,15:00,Silver,140₹,159,15
+Thalayolaparambu,CarnivalThalayolaparambu,686605,Malayalam,15:15,Gold,110₹,204,0
+Malappuram,MallikaPlexMattilMall,676505,Malayalam,18:30,Executive,140₹,50,0
+SultanBathery,AiswaryaAthulyaAiswaryaCineplexSulthanBathery,673592,Malayalam,19:00,SofaSeat,170₹,44,36
+SultanBathery,AiswaryaAthulyaAiswaryaCineplexSulthanBathery,673592,Malayalam,19:00,GoldClass,110₹,63,15
