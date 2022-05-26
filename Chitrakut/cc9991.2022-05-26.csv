@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NewDelhi,PvrVegasDwarka,110078,Hindi,14:30,Classic,295₹,76,3
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,226010,Hindi,18:10,Normal,150₹,25,0
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,226010,Hindi,18:10,Executive,160₹,69,2
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,226010,Hindi,18:10,Premium,170₹,38,0
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,226010,Hindi,18:10,Vip,450₹,10,0
+Gurgaon,CarnivalRahejaMallGurgaon,122001,Hindi,20:25,Classic,150₹,40,0
+Gurgaon,CarnivalRahejaMallGurgaon,122001,Hindi,20:25,PremiumOffline,150₹,16,5
+Gurgaon,CarnivalRahejaMallGurgaon,122001,Hindi,20:25,Standard,150₹,40,0
