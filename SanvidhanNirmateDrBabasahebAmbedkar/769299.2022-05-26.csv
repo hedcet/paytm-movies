@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Dongargarh,ShreeCinemaDongargarh,491445,Hindi,18:00,Platinum,150₹,36,24
+Dongargarh,ShreeCinemaDongargarh,491445,Hindi,18:00,Gold,120₹,64,52
+Dongargarh,ShreeCinemaDongargarh,491445,Hindi,18:00,Silver,70₹,36,36
