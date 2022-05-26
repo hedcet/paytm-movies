@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,CinepolisWestendMallAundh,411007,Marathi,19:35,Normal,250₹,21,0
+Pune,CinepolisWestendMallAundh,411007,Marathi,19:35,Executive,250₹,48,3
+Pune,CinepolisWestendMallAundh,411007,Marathi,19:35,Premium,250₹,43,18
