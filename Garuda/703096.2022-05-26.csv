@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kalaburagi,MirajCinemasShraddhaMallMadoopura,585104,Kannada,09:30,Special,110₹,80,2
+Kalaburagi,MirajCinemasShraddhaMallMadoopura,585104,Kannada,09:30,Executive,110₹,192,8
+Kalaburagi,MirajCinemasShraddhaMallMadoopura,585104,Kannada,09:30,Gold,200₹,10,1
+Bengaluru,SriVinayakaChitraMandiraHarinagar,560062,Kannada,10:30,FirstClass,100₹,450,358
+Bengaluru,SriVinayakaChitraMandiraHarinagar,560062,Kannada,13:30,FirstClass,100₹,450,358
+Hubli,SujathaTheatreNearOldBustand,580029,Kannada,14:30,Balcony,120₹,289,90
+Hubli,SujathaTheatreNearOldBustand,580029,Kannada,14:30,DCircle,100₹,558,138
+Hubli,SujathaTheatreNearOldBustand,580029,Kannada,17:30,Balcony,120₹,289,90
+Hubli,SujathaTheatreNearOldBustand,580029,Kannada,17:30,DCircle,100₹,558,138
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,19:15,Platinum,150₹,16,14
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,19:15,Gold,100₹,180,115
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,19:15,Silver,80₹,135,83
+Bengaluru,SriVinayakaCinemasACDts4KVarthur,560037,Kannada,19:15,Gold,130₹,390,294
+Bengaluru,SriVinayakaCinemasACDts4KVarthur,560037,Kannada,19:15,Silver,120₹,185,125
+Hubli,SujathaTheatreNearOldBustand,580029,Kannada,20:30,Balcony,120₹,289,90
+Hubli,SujathaTheatreNearOldBustand,580029,Kannada,20:30,DCircle,100₹,558,138
