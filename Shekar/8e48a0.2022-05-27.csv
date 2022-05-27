@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Adoni,RajshriCineComplexAdhoni,518301,Telugu,11:30,Balcony,100₹,56,0
+Adoni,RajshriCineComplexAdhoni,518301,Telugu,11:30,FirstClass,100₹,194,0
+Adoni,RajshriCineComplexAdhoni,518301,Telugu,11:30,SecondClass,70₹,69,0
+Kurnool,VenkateshCineComplexParkRoad,518001,Telugu,12:00,FirstClass,110₹,100,10
+Adoni,RajshriCineComplexAdhoni,518301,Telugu,14:30,Balcony,100₹,56,0
+Adoni,RajshriCineComplexAdhoni,518301,Telugu,14:30,FirstClass,100₹,194,0
+Adoni,RajshriCineComplexAdhoni,518301,Telugu,14:30,SecondClass,70₹,69,0
+Kurnool,VenkateshCineComplexParkRoad,518001,Telugu,15:10,FirstClass,110₹,100,10
+Kurnool,VenkateshCineComplexParkRoad,518001,Telugu,18:30,FirstClass,110₹,100,10
+Adoni,RajshriCineComplexAdhoni,518301,Telugu,18:30,Balcony,100₹,56,0
+Adoni,RajshriCineComplexAdhoni,518301,Telugu,18:30,FirstClass,100₹,194,0
+Adoni,RajshriCineComplexAdhoni,518301,Telugu,18:30,SecondClass,70₹,69,0
+Kurnool,VenkateshCineComplexParkRoad,518001,Telugu,21:30,FirstClass,110₹,100,10
+Adoni,RajshriCineComplexAdhoni,518301,Telugu,21:30,Balcony,100₹,56,0
+Adoni,RajshriCineComplexAdhoni,518301,Telugu,21:30,FirstClass,100₹,194,0
+Adoni,RajshriCineComplexAdhoni,518301,Telugu,21:30,SecondClass,70₹,69,0
