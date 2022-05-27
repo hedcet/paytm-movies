@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,TimeCinemaCgRoad,380006,Hindi,10:30,Infinity1000,"1,000₹",12,0
+Surat,TimeCinemaSuratGalaxyCircle,394510,Hindi,10:30,Sofa180,180₹,34,0
+Surat,TimeCinemaSuratGalaxyCircle,394510,Hindi,12:35,Standard150,150₹,96,0
+Ahmedabad,TimeCinemaCgRoad,380006,Hindi,16:00,Standard220,220₹,108,8
+Surat,TimeCinemaSuratGalaxyCircle,394510,Hindi,16:00,Sofa250,250₹,34,0
+Mumbai,MovieTimeHubMallGoregaonE,400063,Hindi,17:05,Mhraja,200₹,44,26
+Surat,TimeCinemaSuratGalaxyCircle,394510,Hindi,18:15,Standard190,190₹,96,0
+Chennai,SpiEscapeCinemasRoyapettah,600014,Hindi,18:50,Elite,202₹,99,59
+Chennai,SpiEscapeCinemasRoyapettah,600014,Hindi,18:50,Budget,63₹,11,11
+Mumbai,InoxMegaplexInorbitMall,400064,Hindi,20:05,Insignia,750₹,34,4
+Ahmedabad,TimeCinemaCgRoad,380006,Hindi,20:30,Standard280,280₹,108,8
+Surat,TimeCinemaSuratGalaxyCircle,394510,Hindi,23:20,Standard240,240₹,96,0
