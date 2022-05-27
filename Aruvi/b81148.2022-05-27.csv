@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Waterland,TpmcOms,732101,Tamil,01:00,Corporate,1₹,156,26
+Waterland,TpmcOms,732101,Tamil,01:00,DriveInCircle,1₹,600,0
+Waterland,TpmcOms,732101,Tamil,04:30,Corporate,1₹,156,26
+Waterland,TpmcOms,732101,Tamil,04:30,DriveInCircle,1₹,600,0
+Waterland,TpmcOms,732101,Tamil,15:00,Corporate,1₹,156,27
+Waterland,TpmcOms,732101,Tamil,15:00,DriveInCircle,1₹,600,0
+Waterland,TpmcOms,732101,Tamil,18:30,Corporate,200₹,156,32
+Waterland,TpmcOms,732101,Tamil,18:30,DriveInCircle,150₹,600,2
