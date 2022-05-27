@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Amritsar,PvrSctPlayHouseCityCentre,143001,Punjabi,10:05,Classic,140₹,12,12
+Amritsar,PvrSctPlayHouseCityCentre,143001,Punjabi,10:05,Prime,140₹,40,40
+Doraha,CineSquareCinemasRoyaltonCity,141421,Punjabi,16:30,Royal,190₹,89,42
+Chandigarh,PvrElanteMallChandigarh,178178,Punjabi,17:45,Classic,230₹,138,9
+Chandigarh,PvrElanteMallChandigarh,178178,Punjabi,17:45,Recliner,650₹,13,0
