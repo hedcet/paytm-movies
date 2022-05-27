@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ghaziabad,ApsaraCinemaDilshadGardenBorder,201006,Hindi,09:00,Gold,110₹,340,146
+GreaterNoida,PvrGaurCityGreaterNoida,201301,Hindi,10:05,Classic,190₹,87,0
+GreaterNoida,PvrGaurCityGreaterNoida,201301,Hindi,10:05,Prime,215₹,13,0
+Dumka,MiniAmar,814101,Hindi,11:30,Dc,100₹,130,94
+NewDelhi,PvrSapphirePacificD21Dwarka,110077,Hindi,15:20,Classic,270₹,33,5
+NewDelhi,PvrSapphirePacificD21Dwarka,110077,Hindi,15:20,Prime,350₹,18,0
+Ghaziabad,ApsaraCinemaDilshadGardenBorder,201006,Hindi,17:05,Gold,110₹,340,147
