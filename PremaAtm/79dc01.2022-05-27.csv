@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Athagarh,GaneshTalkiesAthagarh,754029,Odia,12:00,Gold,100₹,99,0
+Bhubaneswar,CinepolisEsplanadeRasulgarhIndustrialEstate,751007,Odia,13:35,Vip,350₹,9,0
+Bhubaneswar,CinepolisEsplanadeRasulgarhIndustrialEstate,751007,Odia,13:35,Premium,150₹,44,4
+Bhubaneswar,CinepolisEsplanadeRasulgarhIndustrialEstate,751007,Odia,13:35,Executive,150₹,52,0
+Bhubaneswar,CinepolisEsplanadeRasulgarhIndustrialEstate,751007,Odia,13:35,Normal,150₹,23,0
+Sundargarh,EosSundargarh,770020,Odia,15:00,Gold,160₹,50,0
+Sundargarh,EosSundargarh,770020,Odia,15:00,Platinum,220₹,14,0
+Sundargarh,EosSundargarh,770020,Odia,15:00,Silver,100₹,22,0
