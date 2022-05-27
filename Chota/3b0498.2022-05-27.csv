@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kanchipuram,KarthikeyanCinemasACPillaiyarpalayam,631501,Tamil,14:30,Elite,120₹,156,11
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,16:00,Quartz,152₹,242,6
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,16:00,Zircon,60₹,27,27
+Chennai,MuruganCinemas4KAmbattur,600053,Tamil,22:05,Diamond,110₹,80,0
