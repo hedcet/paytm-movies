@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PvrManiSquareMallEmBypassRoad,700054,English,09:30,Classic,120₹,45,45
+Kolkata,PvrManiSquareMallEmBypassRoad,700054,English,09:30,Prime,120₹,97,97
+Kolkata,PvrManiSquareMallEmBypassRoad,700054,English,09:30,Recliner,350₹,21,21
+Noida,PvrLogixCityCentrePlayHouseNoida,201301,English,11:00,Classic,220₹,38,0
+Mumbai,MetroInoxCinemaMGRoad,400020,English,11:10,Kiddles,190₹,36,5
+Mumbai,InoxMegaplexInorbitMall,400064,English,13:55,Kiddles,220₹,53,0
+Hyderabad,PvrPlayHouseNextGalleriaMallPanjagutta,500082,English,16:30,Classic,200₹,54,54
