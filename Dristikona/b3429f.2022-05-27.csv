@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Rourkela,PvrForumRourkela,769004,Odia,14:10,Classic,150₹,28,0
+Rourkela,PvrForumRourkela,769004,Odia,14:10,Prime,210₹,98,0
+Rourkela,PvrForumRourkela,769004,Odia,14:10,PrimePlus,260₹,13,0
+Bhubaneswar,InoxDnRegaliaMallPatrapada,751019,Odia,17:35,Club,240₹,50,0
+Bhubaneswar,InoxDnRegaliaMallPatrapada,751019,Odia,17:35,Executive,220₹,20,0
+Bhubaneswar,InoxDnRegaliaMallPatrapada,751019,Odia,17:35,Royal,270₹,59,0
+Bhubaneswar,CinepolisEsplanadeRasulgarhIndustrialEstate,751007,Odia,18:40,Vip,150₹,11,11
+Bhubaneswar,CinepolisEsplanadeRasulgarhIndustrialEstate,751007,Odia,18:40,Premium,150₹,51,51
+Bhubaneswar,CinepolisEsplanadeRasulgarhIndustrialEstate,751007,Odia,18:40,Executive,150₹,42,42
+Bhubaneswar,CinepolisEsplanadeRasulgarhIndustrialEstate,751007,Odia,18:40,Normal,150₹,28,28
