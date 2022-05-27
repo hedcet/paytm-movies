@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,PvrLuluKochi,682025,Malayalam,16:05,Classic,140₹,39,0
+Kochi,PvrLuluKochi,682025,Malayalam,16:05,ClassicPlus,160₹,91,19
+Kochi,PvrLuluKochi,682025,Malayalam,16:05,Prime,190₹,68,47
+Kochi,PvrLuluKochi,682025,Malayalam,16:05,Recliner,350₹,10,6
+Chennai,PvrVrMallAnnaNagar,600040,Malayalam,22:10,Classic,63₹,24,24
+Chennai,PvrVrMallAnnaNagar,600040,Malayalam,22:10,Prime,202₹,112,17
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,22:10,Club,190₹,66,12
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,22:10,Executive,130₹,22,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,22:10,RoyalRecliner,350₹,10,3
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,22:10,Royal,190₹,13,12
