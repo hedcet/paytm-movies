@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Malappuram,MallikaPlexMattilMall,676505,Malayalam,10:00,Sofa,200₹,11,11
+Malappuram,MallikaPlexMattilMall,676505,Malayalam,10:00,Executive,140₹,176,176
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,10:15,ExecutiveOffline,140₹,145,15
+Kozhinjampara,GeethaCinemax,678555,Malayalam,11:00,Golden,110₹,231,0
+SultanBathery,AiswaryaAthulyaAiswaryaCineplexSulthanBathery,673592,Malayalam,11:00,SofaSeat,170₹,44,0
+SultanBathery,AiswaryaAthulyaAiswaryaCineplexSulthanBathery,673592,Malayalam,11:00,GoldClass,110₹,63,0
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,12:00,BlueCircle,150₹,227,218
+Manjeri,LadderCinemasIndianMall,676121,Malayalam,15:00,Executive,150₹,74,0
+Kariyad,CarnivalCinemasKariyad,683589,Malayalam,15:30,ExecutiveOffline,140₹,96,0
+Kariyad,CarnivalCinemasKariyad,683589,Malayalam,15:30,GoldLounge,270₹,32,0
+Manjeri,LadderCinemasIndianMall,676121,Malayalam,16:45,Executive,150₹,74,0
+Malappuram,MallikaPlexMattilMall,676505,Malayalam,17:00,Sofa,200₹,11,11
+Malappuram,MallikaPlexMattilMall,676505,Malayalam,17:00,Executive,140₹,176,176
+Kozhinjampara,GeethaCinemax,678555,Malayalam,18:00,Golden,110₹,231,0
