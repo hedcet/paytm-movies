@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,560077,Kannada,09:40,Classic,150₹,96,0
+Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,560077,Kannada,09:40,Prime,190₹,19,0
+Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,560077,Kannada,09:40,Recliner,350₹,11,0
+Mysuru,PvrGarudaMallAlbertVictorRoad,570001,Kannada,10:05,Classic,130₹,102,0
+Mysuru,InoxMallOfMysoreMgRoad,570010,Kannada,11:00,Club,130₹,200,2
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,16:15,Classic,210₹,108,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,16:15,Prime,230₹,90,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,16:15,Recliner,400₹,16,0
+Bengaluru,InoxGarudaYelahanka,560064,Kannada,16:30,Club,250₹,111,0
+Bengaluru,InoxGarudaYelahanka,560064,Kannada,16:30,Executive,240₹,60,0
+Bengaluru,InoxMantriSquareMalleshwaram,560003,Kannada,16:40,Club,250₹,209,0
+Bengaluru,VinayakaTheatreChamarajpet,560018,Kannada,16:45,Gold,100₹,410,243
+Bengaluru,VinayakaTheatreChamarajpet,560018,Kannada,19:45,Gold,100₹,410,243
