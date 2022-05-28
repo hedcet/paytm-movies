@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,InoxBundGarden,411001,Hindi,17:30,DressCircle,390₹,167,167
+Pune,InoxBundGarden,411001,Hindi,17:30,Galleria,390₹,60,60
+Gorakhpur,InoxCityMallGorakhpur,273009,Hindi,18:30,Club,300₹,127,127
+Gorakhpur,InoxCityMallGorakhpur,273009,Hindi,18:30,Executive,300₹,52,52
+Gorakhpur,InoxCityMallGorakhpur,273009,Hindi,18:30,RoyalRecliner,300₹,7,7
