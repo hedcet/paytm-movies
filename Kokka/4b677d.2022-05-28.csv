@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mohali,PvrVrPunjabMallMohali,140301,Punjabi,09:35,Classic,200₹,84,0
+Mohali,PvrVrPunjabMallMohali,140301,Punjabi,09:35,Prime,230₹,38,2
+Ludhiana,PvrPavilionMallLudhiana,141002,Punjabi,12:00,Classic,240₹,64,26
+Chandigarh,PvrElanteMallChandigarh,178178,Punjabi,12:45,Classic,230₹,157,24
+Chandigarh,PvrElanteMallChandigarh,178178,Punjabi,12:45,Recliner,650₹,26,5
+NewDelhi,PvrVegasDwarka,110078,Punjabi,17:25,Classic,250₹,76,9
+NewDelhi,PvrPacificSubhashNagarDelhi,110018,Punjabi,18:10,Classic,340₹,52,5
+NewDelhi,PvrPacificSubhashNagarDelhi,110018,Punjabi,18:10,Prime,380₹,82,55
