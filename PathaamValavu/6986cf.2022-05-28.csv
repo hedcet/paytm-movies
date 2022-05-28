@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,11:10,Club,140₹,66,2
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,11:10,Executive,110₹,22,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,11:10,RoyalRecliner,270₹,10,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,11:10,Royal,170₹,13,5
+Trivandrum,KrishnaTheatreKazhakoottam,695582,Malayalam,18:15,Reserved,130₹,252,102
+Kochi,PvrLuluKochi,682025,Malayalam,22:15,Classic,140₹,39,2
+Kochi,PvrLuluKochi,682025,Malayalam,22:15,ClassicPlus,160₹,91,53
+Kochi,PvrLuluKochi,682025,Malayalam,22:15,Prime,190₹,68,46
+Kochi,PvrLuluKochi,682025,Malayalam,22:15,Recliner,350₹,10,8
