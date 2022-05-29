@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Forbesganj,PremTalkiesForbesganj,854318,Hindi,19:25,Platinum,200₹,42,16
+Forbesganj,PremTalkiesForbesganj,854318,Hindi,19:25,Gold,150₹,198,36
+Surat,AngelCinemaVarachha,395004,Hindi,19:30,Gold,120₹,60,0
+Surat,AngelCinemaVarachha,395004,Hindi,19:30,Silver,100₹,107,0
+Surat,AngelCinemaVarachha,395004,Hindi,19:30,Maharaja,140₹,16,0
+Surat,TriveniCinemaNavagam,394210,Hindi,19:30,Balcony,120₹,45,43
+Surat,TriveniCinemaNavagam,394210,Hindi,19:30,Upper,100₹,80,64
+Surat,AngelCinemaVarachha,395004,Hindi,20:00,Gold,120₹,60,58
+Surat,AngelCinemaVarachha,395004,Hindi,20:00,Silver,100₹,107,48
+Surat,AngelCinemaVarachha,395004,Hindi,20:00,Maharaja,140₹,16,2
+Surat,FilmCityCinePlusVarachhaBHGitanjaliPetrolPump,395006,Hindi,20:00,RoyalBalcony,150₹,54,42
+Surat,FilmCityCinePlusVarachhaBHGitanjaliPetrolPump,395006,Hindi,20:00,Delux,100₹,118,71
+Surat,SkyCinemaVarachhaRoad,395006,Hindi,20:00,Recliner,220₹,12,0
+Surat,SkyCinemaVarachhaRoad,395006,Hindi,20:00,RoyalSofa,180₹,26,26
+Surat,SkyCinemaVarachhaRoad,395006,Hindi,20:00,Executive,150₹,38,14
+Surat,SkyCinemaVarachhaRoad,395006,Hindi,20:00,Upper,120₹,65,10
