@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrVegaBannerghattaRoad,560076,Kannada,10:55,Classic,200₹,107,8
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,13:25,Normal,150₹,10,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,13:25,Executive,150₹,82,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,13:25,Premium,150₹,33,5
+Bengaluru,SriSrinivasaTheatreAC2KPadmanabhanagar,560061,Kannada,14:00,DiamondClass,130₹,98,88
+Bengaluru,SriSrinivasaTheatreAC2KPadmanabhanagar,560061,Kannada,14:00,GoldClass,100₹,532,512
+Bengaluru,InoxShreeGarudaSwagathMallJayanagar,560041,Kannada,16:40,Club,250₹,44,22
+Bengaluru,InoxShreeGarudaSwagathMallJayanagar,560041,Kannada,16:40,Executive,240₹,134,9
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,560022,Kannada,17:05,Classic,200₹,85,0
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,560022,Kannada,17:05,Prime,220₹,37,10
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,560022,Kannada,17:05,Recliner,350₹,9,0
