@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Moodabidri,AmarshreeTheatreVijayaNagar,574227,Tulu,15:30,Balcony,120₹,192,114
+Moodabidri,AmarshreeTheatreVijayaNagar,574227,Tulu,15:30,SecondClass,100₹,368,368
+Mangalore,PvrForumFizaMallPandeshwar,575001,Tulu,19:10,Classic,180₹,71,41
+Mangalore,CinepolisCityCentreMallMangaluru,575001,Tulu,22:00,Platinum,150₹,50,3
+Mangalore,CinepolisCityCentreMallMangaluru,575001,Tulu,22:00,Vip,200₹,17,0
