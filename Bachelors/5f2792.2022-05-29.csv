@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,10:15,ExecutiveOffline,140₹,145,15
+Kozhinjampara,GeethaCinemax,678555,Malayalam,11:00,Golden,110₹,231,0
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,12:00,BlueCircle,150₹,227,218
+Kariyad,CarnivalCinemasKariyad,683589,Malayalam,15:30,ExecutiveOffline,140₹,96,0
+Kariyad,CarnivalCinemasKariyad,683589,Malayalam,15:30,GoldLounge,270₹,32,0
+Kozhinjampara,GeethaCinemax,678555,Malayalam,18:00,Golden,110₹,231,0
