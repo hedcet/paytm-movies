@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Perinthalmanna,PlazaCinemasPerinthalmanna,679322,Malayalam,10:00,Platinum,120₹,151,0
+Manjeri,LadderCinemasIndianMall,676121,Malayalam,12:15,Executive,150₹,74,0
+Perinthalmanna,PlazaCinemasPerinthalmanna,679322,Malayalam,13:00,Platinum,120₹,151,6
