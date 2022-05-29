@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nadiad,InoxOpalOneMallNadiad,387001,Hindi,11:40,Club,60₹,51,51
+Nadiad,InoxOpalOneMallNadiad,387001,Hindi,11:40,Executive,60₹,34,34
+Nadiad,InoxOpalOneMallNadiad,387001,Hindi,11:40,RoyalRecliners,60₹,15,15
+Nadiad,InoxOpalOneMallNadiad,387001,Hindi,11:40,Royal,60₹,28,28
+Bhopal,DdxCinemaDrishtiPlazaKolar,462042,Hindi,11:55,Box,150₹,8,0
+Bhopal,DdxCinemaDrishtiPlazaKolar,462042,Hindi,11:55,Gold,110₹,89,0
+PortBlair,DiviyumTalkiesProthrapur,744103,Hindi,17:10,Gold,170₹,86,86
+PortBlair,DiviyumTalkiesProthrapur,744103,Hindi,17:10,Silver,170₹,22,11
+Ghaziabad,MirajCinemasWsmGhaziabad,201007,Hindi,17:15,Gold,230₹,9,9
+Ghaziabad,MirajCinemasWsmGhaziabad,201007,Hindi,17:15,Platinum,210₹,153,153
+Ghaziabad,MirajCinemasWsmGhaziabad,201007,Hindi,17:15,Executive,190₹,128,89
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,18:25,Classic,110₹,52,52
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,18:25,Prime,130₹,156,25
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,18:25,PrimePlus,160₹,39,21
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,18:25,Recliner,250₹,12,0
