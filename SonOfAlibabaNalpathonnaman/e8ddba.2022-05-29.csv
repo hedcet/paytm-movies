@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Guruvayur,AppasTheatreGuruvayur,680101,Malayalam,12:00,Gold,129₹,174,7
+Guruvayur,AppasTheatreGuruvayur,680101,Malayalam,12:00,Sliver,110₹,398,0
+Thalayolaparambu,CarnivalThalayolaparambu,686605,Malayalam,13:00,Gold,110₹,144,0
+Karunagappally,CarnivalHJComplexLalajiJunction,690518,Malayalam,17:30,ClassicOffline,170₹,194,15
+Kunnamkulam,BavanaMoviesHouseACKunnamkulam,680503,Malayalam,18:00,LuxuryClass,220₹,13,0
+Kunnamkulam,BavanaMoviesHouseACKunnamkulam,680503,Malayalam,18:00,PlatinumCircle,130₹,159,0
