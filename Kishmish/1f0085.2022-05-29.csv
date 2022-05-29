@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bakhrahat,UmaTalkiesBakhrahat,743377,Bengali,10:00,Box,220₹,46,24
+Bakhrahat,UmaTalkiesBakhrahat,743377,Bengali,10:00,Balcony,70₹,102,54
+Bakhrahat,UmaTalkiesBakhrahat,743377,Bengali,10:00,SpecialClass,70₹,80,80
+Bakhrahat,UmaTalkiesBakhrahat,743377,Bengali,12:35,Box,220₹,46,24
+Bakhrahat,UmaTalkiesBakhrahat,743377,Bengali,12:35,Balcony,70₹,102,54
+Bakhrahat,UmaTalkiesBakhrahat,743377,Bengali,12:35,SpecialClass,70₹,80,80
+Kolkata,AjantaCinemaBehala,700038,Bengali,13:15,Balcony,150₹,106,85
+Bakhrahat,UmaTalkiesBakhrahat,743377,Bengali,17:20,Box,220₹,46,24
+Bakhrahat,UmaTalkiesBakhrahat,743377,Bengali,17:20,Balcony,70₹,102,54
+Bakhrahat,UmaTalkiesBakhrahat,743377,Bengali,17:20,SpecialClass,70₹,80,80
