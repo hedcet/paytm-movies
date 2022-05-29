@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Koothattukulam,VCinema,686662,Malayalam,12:00,Gold,290₹,6,0
+Koothattukulam,VCinema,686662,Malayalam,12:00,Silver,140₹,159,0
+SultanBathery,AiswaryaAthulyaAiswaryaCineplexSulthanBathery,673592,Malayalam,19:00,SofaSeat,170₹,44,0
+SultanBathery,AiswaryaAthulyaAiswaryaCineplexSulthanBathery,673592,Malayalam,19:00,GoldClass,110₹,63,30
