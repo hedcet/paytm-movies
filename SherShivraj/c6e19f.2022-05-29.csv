@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MovieTimeHubMallGoregaonE,400063,Marathi,12:00,Gold,130₹,196,46
+Dhule,ManoharCinemaDhule,424001,Marathi,12:15,Balcony,150₹,85,10
+Dhule,ManoharCinemaDhule,424001,Marathi,12:15,Platinum,112₹,166,7
+Dhule,ManoharCinemaDhule,424001,Marathi,12:15,Gold,100₹,231,18
+Dhule,ManoharCinemaDhule,424001,Marathi,12:15,Silver,90₹,179,1
