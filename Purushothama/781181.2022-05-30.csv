@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,AbhinayTheatreGandhiNagar,560009,Kannada,19:00,Balcony,150₹,369,312
+Bengaluru,AbhinayTheatreGandhiNagar,560009,Kannada,19:00,MiniBalcony,120₹,146,146
+Bengaluru,AbhinayTheatreGandhiNagar,560009,Kannada,19:00,Second,100₹,480,424
