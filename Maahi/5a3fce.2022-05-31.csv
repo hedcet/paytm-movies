@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kollengode,GowriMovieHouse2KDolby71Kollengode,678506,Malayalam,10:50,FirstClass,100₹,129,0
+Thalassery,LibertyParadiseComplexThalassery,670101,Malayalam,11:30,Mini,125₹,250,152
+Kunnamkulam,BavanaMoviesHouseACKunnamkulam,680503,Malayalam,14:30,LuxuryClass,220₹,13,0
+Kunnamkulam,BavanaMoviesHouseACKunnamkulam,680503,Malayalam,14:30,PlatinumCircle,130₹,159,0
+Karunagappally,CarnivalHJComplexLalajiJunction,690518,Malayalam,15:55,ClassicOffline,100₹,118,0
+Thalassery,CarnivalDowntownThalassery,670101,Malayalam,16:00,ExecutiveOffline,140₹,135,16
+Thalassery,CarnivalDowntownThalassery,670101,Malayalam,16:00,GoldOffline,200₹,7,0
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,16:35,ExecutiveOffline,160₹,119,0
+Malappuram,MallikaPlexMattilMall,676505,Malayalam,17:45,Executive,140₹,50,0
+Thalassery,LibertyParadiseComplexThalassery,670101,Malayalam,18:00,Mini,125₹,250,155
