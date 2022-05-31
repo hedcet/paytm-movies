@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vizag,RamachandraMaxLakshmikanthComplexDolbyAtmosGajuwaka,530026,Telugu,11:30,Premium,145₹,291,1
+Vizag,RamachandraMaxLakshmikanthComplexDolbyAtmosGajuwaka,530026,Telugu,11:30,NonPremium,100₹,194,2
+Vizag,RamachandraMaxLakshmikanthComplexDolbyAtmosGajuwaka,530026,Telugu,14:30,Premium,145₹,291,0
+Vizag,RamachandraMaxLakshmikanthComplexDolbyAtmosGajuwaka,530026,Telugu,14:30,NonPremium,100₹,194,0
+Vizag,RamachandraMaxLakshmikanthComplexDolbyAtmosGajuwaka,530026,Telugu,18:30,Premium,145₹,291,0
+Vizag,RamachandraMaxLakshmikanthComplexDolbyAtmosGajuwaka,530026,Telugu,18:30,NonPremium,100₹,194,0
+Vizag,RamachandraMaxLakshmikanthComplexDolbyAtmosGajuwaka,530026,Telugu,21:30,Premium,145₹,291,0
+Vizag,RamachandraMaxLakshmikanthComplexDolbyAtmosGajuwaka,530026,Telugu,21:30,NonPremium,100₹,194,0
