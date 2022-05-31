@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Gingee,SaravanaCineplexGingee,604202,Tamil,11:30,FirstClass,100₹,72,0
+Gingee,SaravanaCineplexGingee,604202,Tamil,11:30,SecondClass,100₹,10,0
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,16:00,Quartz,152₹,242,0
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,16:00,Zircon,60₹,27,27
+Gingee,SaravanaCineplexGingee,604202,Tamil,18:00,FirstClass,100₹,72,0
+Gingee,SaravanaCineplexGingee,604202,Tamil,18:00,SecondClass,100₹,10,0
