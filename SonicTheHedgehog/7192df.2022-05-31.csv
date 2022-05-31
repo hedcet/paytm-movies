@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Waterland,PvrTestingCinema,796190,English,09:50,Prime,100₹,97,0
+Waterland,PvrTestingCinema,796190,English,09:50,Classic,40₹,227,5
+Waterland,PvrTestingCinema,796190,English,10:30,Prime,100₹,23,4
+Waterland,PvrTestingCinema,796190,English,10:30,Classic,40₹,72,0
+Waterland,PvrTestingCinema,796190,English,12:10,Prime,100₹,97,0
+Waterland,PvrTestingCinema,796190,English,12:10,Classic,40₹,228,0
+Waterland,PvrTestingCinema,796190,English,12:15,Prime,200₹,14,0
+Waterland,PvrTestingCinema,796190,English,12:15,Classic,175₹,36,0
+Waterland,PvrTestingCinema,796190,English,12:50,Prime,100₹,24,0
+Waterland,PvrTestingCinema,796190,English,12:50,Classic,40₹,72,0
+Waterland,PvrTestingCinema,796190,English,14:30,Prime,100₹,95,1
+Waterland,PvrTestingCinema,796190,English,14:30,Classic,40₹,228,0
+Waterland,PvrTestingCinema,796190,English,15:10,Prime,100₹,24,0
+Waterland,PvrTestingCinema,796190,English,15:10,Classic,40₹,72,0
+Waterland,PvrTestingCinema,796190,English,17:30,Prime,185₹,24,0
+Waterland,PvrTestingCinema,796190,English,17:30,Classic,160₹,72,0
