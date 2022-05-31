@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bhubaneswar,CinepolisEsplanadeRasulgarhIndustrialEstate,751007,Odia,11:20,Vip,350₹,9,0
+Bhubaneswar,CinepolisEsplanadeRasulgarhIndustrialEstate,751007,Odia,11:20,Premium,110₹,44,5
+Bhubaneswar,CinepolisEsplanadeRasulgarhIndustrialEstate,751007,Odia,11:20,Executive,110₹,52,0
+Bhubaneswar,CinepolisEsplanadeRasulgarhIndustrialEstate,751007,Odia,11:20,Normal,110₹,23,0
+Sundargarh,EosSundargarh,770020,Odia,15:00,Gold,160₹,50,0
+Sundargarh,EosSundargarh,770020,Odia,15:00,Platinum,220₹,14,0
+Sundargarh,EosSundargarh,770020,Odia,15:00,Silver,100₹,22,0
