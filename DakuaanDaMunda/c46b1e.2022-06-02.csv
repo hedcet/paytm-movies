@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Rohtak,InoxSkytechMallRohtak,124001,Punjabi,09:55,Club,140₹,72,0
+Rohtak,InoxSkytechMallRohtak,124001,Punjabi,09:55,Executive,110₹,51,0
+Rohtak,InoxSkytechMallRohtak,124001,Punjabi,09:55,Royale,160₹,39,0
+Karnal,MovieTimeSuperMallKarnal,132001,Punjabi,10:00,Gold,180₹,98,0
+Karnal,MovieTimeSuperMallKarnal,132001,Punjabi,10:00,Silver,180₹,44,0
+Karnal,MovieTimeSuperMallKarnal,132001,Punjabi,10:00,Normal,180₹,42,0
+Karnal,MovieTimeSuperMallKarnal,132001,Punjabi,13:30,Business,300₹,8,2
+Karnal,MovieTimeSuperMallKarnal,132001,Punjabi,13:30,Gold,200₹,58,14
+Karnal,MovieTimeSuperMallKarnal,132001,Punjabi,13:30,Silver,200₹,28,0
+Karnal,MovieTimeSuperMallKarnal,132001,Punjabi,13:30,Normal,200₹,28,0
+Karnal,MovieTimeSuperMallKarnal,132001,Punjabi,15:40,Gold,200₹,98,4
+Karnal,MovieTimeSuperMallKarnal,132001,Punjabi,15:40,Silver,200₹,44,0
+Karnal,MovieTimeSuperMallKarnal,132001,Punjabi,15:40,Normal,200₹,42,0
+Karnal,MovieTimeSuperMallKarnal,132001,Punjabi,22:05,Gold,200₹,98,0
+Karnal,MovieTimeSuperMallKarnal,132001,Punjabi,22:05,Silver,200₹,44,0
+Karnal,MovieTimeSuperMallKarnal,132001,Punjabi,22:05,Normal,200₹,42,0
