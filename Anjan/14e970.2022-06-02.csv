@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,BhumikaDigital2KCinemaGandhiNagar,560009,Kannada,10:30,Balcony,150₹,318,262
+Bengaluru,BhumikaDigital2KCinemaGandhiNagar,560009,Kannada,10:30,Middle,120₹,576,512
+Nargund,SriRenukaChitramandira,582207,Kannada,12:00,Balcony,100₹,110,0
+Nargund,SriRenukaChitramandira,582207,Kannada,12:00,FirstClass,80₹,371,0
+Vijayapura,AlankarTheatreVijayapura,586101,Kannada,15:00,Balcony,150₹,275,150
+Vijayapura,AlankarTheatreVijayapura,586101,Kannada,15:00,DressCircle,150₹,40,40
+Nargund,SriRenukaChitramandira,582207,Kannada,15:00,Balcony,100₹,110,0
+Nargund,SriRenukaChitramandira,582207,Kannada,15:00,FirstClass,80₹,371,0
+Vijayapura,AlankarTheatreVijayapura,586101,Kannada,18:00,Balcony,150₹,275,150
+Vijayapura,AlankarTheatreVijayapura,586101,Kannada,18:00,DressCircle,150₹,40,40
+Vijayapura,AlankarTheatreVijayapura,586101,Kannada,21:00,Balcony,150₹,275,150
+Vijayapura,AlankarTheatreVijayapura,586101,Kannada,21:00,DressCircle,150₹,40,40
