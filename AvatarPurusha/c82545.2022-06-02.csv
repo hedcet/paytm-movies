@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Sirsi,NatarajMovieHallCpBazaar,581401,Kannada,10:00,Balcony,150₹,123,79
+Sirsi,NatarajMovieHallCpBazaar,581401,Kannada,13:00,Balcony,150₹,123,79
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,16:40,Normal,150₹,9,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,16:40,Executive,150₹,81,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,16:40,Premium,150₹,35,2
