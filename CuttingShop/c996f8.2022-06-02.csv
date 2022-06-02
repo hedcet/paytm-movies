@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Karkala,PlanetTheatreMarketRoad,574104,Kannada,10:00,FirstClass,120₹,98,70
+Bengaluru,InoxMantriSquareMalleshwaram,560003,Kannada,10:40,Club,140₹,259,18
+Bengaluru,InoxMantriSquareMalleshwaram,560003,Kannada,10:40,Royal,220₹,9,4
