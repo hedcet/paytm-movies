@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ghaziabad,ApsaraCinemaDilshadGardenBorder,201006,Hindi,09:00,Gold,110₹,340,146
+GreaterNoida,PvrGaurCityGreaterNoida,201301,Hindi,10:05,Classic,160₹,87,0
+GreaterNoida,PvrGaurCityGreaterNoida,201301,Hindi,10:05,Prime,190₹,13,0
+Noida,PvrLogixCityCentreNoida,201301,Hindi,10:15,Classic,190₹,76,0
+Dumka,MiniAmar,814101,Hindi,11:30,Dc,100₹,130,94
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,226010,Hindi,12:20,Normal,150₹,25,0
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,226010,Hindi,12:20,Executive,160₹,68,0
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,226010,Hindi,12:20,Premium,170₹,35,0
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,226010,Hindi,12:20,Vip,450₹,10,0
+NewDelhi,PvrSapphirePacificD21Dwarka,110077,Hindi,15:20,Classic,260₹,33,0
+NewDelhi,PvrSapphirePacificD21Dwarka,110077,Hindi,15:20,Prime,300₹,18,0
+Ghaziabad,ApsaraCinemaDilshadGardenBorder,201006,Hindi,17:05,Gold,110₹,340,146
