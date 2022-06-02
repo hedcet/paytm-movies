@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bhopal,DdxCinemaDrishtiPlazaKolar,462042,Hindi,11:30,Box,150₹,8,0
+Bhopal,DdxCinemaDrishtiPlazaKolar,462042,Hindi,11:30,Gold,100₹,89,88
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,16:20,Classic,110₹,46,1
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,16:20,Prime,130₹,195,58
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,16:20,PrimePlus,160₹,48,25
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,16:20,Recliner,250₹,10,10
+PortBlair,DiviyumTalkiesProthrapur,744103,Hindi,17:10,Gold,170₹,86,68
+PortBlair,DiviyumTalkiesProthrapur,744103,Hindi,17:10,Silver,170₹,22,0
+Ghaziabad,MirajCinemasWsmGhaziabad,201007,Hindi,17:15,Gold,170₹,9,0
+Ghaziabad,MirajCinemasWsmGhaziabad,201007,Hindi,17:15,Platinum,150₹,153,0
+Ghaziabad,MirajCinemasWsmGhaziabad,201007,Hindi,17:15,Executive,130₹,128,0
+PortBlair,DiviyumTalkiesProthrapur,744103,Hindi,19:45,Gold,170₹,88,59
+PortBlair,DiviyumTalkiesProthrapur,744103,Hindi,19:45,Silver,170₹,22,0
