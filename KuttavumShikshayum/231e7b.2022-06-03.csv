@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,CarnivalArtechMallVanchyoor,695035,Malayalam,13:10,ExecutiveOffline,100₹,13,0
+Trivandrum,CarnivalArtechMallVanchyoor,695035,Malayalam,13:10,SilverOffline,180₹,167,16
+Trivandrum,CarnivalArtechMallVanchyoor,695035,Malayalam,13:10,GoldOffline,350₹,13,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,16:10,NormalOffline,100₹,17,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,16:10,ExecutiveOffline,180₹,193,1
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,16:10,Silver,210₹,97,10
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,16:25,ExecutiveOffline,180₹,145,15
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,16:30,NormalOffline,100₹,17,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,16:30,ExecutiveOffline,180₹,102,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,16:30,PremiumOffline,300₹,50,8
