@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NewDelhi,PvrVegasPlayHouseDwarka,110078,Hindi,18:20,Recliner,490₹,8,0
+NewDelhi,PvrVegasPlayHouseDwarka,110078,Hindi,18:20,Prime,440₹,14,2
+NewDelhi,PvrVegasPlayHouseDwarka,110078,Hindi,18:20,Classic,390₹,36,0
+Hyderabad,PvrPlayHouseNextGalleriaMallPanjagutta,500082,English,22:05,Classic,200₹,54,22
+Noida,PvrLogixCityCentrePlayHouseNoida,201301,English,22:40,Classic,330₹,49,6
