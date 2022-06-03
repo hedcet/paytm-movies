@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrIconOberoiPlayHouseGoregaonE,400063,English,09:30,Classic,120₹,22,0
+Mumbai,PvrIconOberoiPlayHouseGoregaonE,400063,English,09:30,Prime,140₹,96,15
+Mumbai,PvrIconOberoiPlayHouseGoregaonE,400063,English,09:30,Recliner,430₹,26,0
+Noida,PvrLogixCityCentrePlayHouseNoida,201301,English,12:45,Classic,330₹,49,0
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,15:30,Recliner,490₹,8,0
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,15:30,Prime,440₹,14,0
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,15:30,Classic,390₹,36,0
+Bengaluru,PvrPlayHouseForumMallKoramangala,560095,English,19:25,3DClassic,270₹,103,13
