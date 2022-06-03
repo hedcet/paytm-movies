@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,226010,Hindi,19:00,Normal,200₹,31,31
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,226010,Hindi,19:00,Executive,200₹,83,83
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,226010,Hindi,19:00,Premium,200₹,57,57
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,226010,Hindi,19:00,Vip,200₹,17,17
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,226010,Hindi,19:30,Normal,280₹,29,29
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,226010,Hindi,19:30,Executive,280₹,96,96
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,226010,Hindi,19:30,Premium,280₹,54,54
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,226010,Hindi,19:30,Vip,280₹,14,14
