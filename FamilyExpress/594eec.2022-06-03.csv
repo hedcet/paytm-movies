@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nabadwip,AlochayaCinemaBanerjeeParaRoad,741302,Bengali,13:30,Special,50₹,107,65
+Nabadwip,AlochayaCinemaBanerjeeParaRoad,741302,Bengali,13:30,RearStall,40₹,252,68
+Nabadwip,AlochayaCinemaBanerjeeParaRoad,741302,Bengali,13:30,FrontStall,40₹,196,196
+Nabadwip,AlochayaCinemaBanerjeeParaRoad,741302,Bengali,16:30,Special,50₹,107,65
+Nabadwip,AlochayaCinemaBanerjeeParaRoad,741302,Bengali,16:30,RearStall,40₹,252,68
+Nabadwip,AlochayaCinemaBanerjeeParaRoad,741302,Bengali,16:30,FrontStall,40₹,196,196
+Nabadwip,AlochayaCinemaBanerjeeParaRoad,741302,Bengali,19:30,Special,50₹,107,65
+Nabadwip,AlochayaCinemaBanerjeeParaRoad,741302,Bengali,19:30,RearStall,40₹,252,68
+Nabadwip,AlochayaCinemaBanerjeeParaRoad,741302,Bengali,19:30,FrontStall,40₹,196,196
