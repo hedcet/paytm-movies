@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PvrAvaniRiverSideMall,711102,Bengali,11:35,Classic,170₹,200,4
+Kolkata,PvrAvaniRiverSideMall,711102,Bengali,11:35,Prime,250₹,11,0
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,12:00,Classic,210₹,80,0
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,12:00,Prime,260₹,11,0
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,12:00,Recliner,440₹,12,0
