@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,SapnaCinema35MmAbids,500001,Hindi,11:30,Gold,150₹,324,216
+Hyderabad,SapnaCinema35MmAbids,500001,Hindi,11:30,Silver,100₹,228,132
+Hyderabad,SapnaCinema35MmAbids,500001,Hindi,11:30,Bronze,50₹,144,144
+Hyderabad,YakuthMahalYakutpura,500023,Hindi,12:30,Balcony,110₹,196,24
+Hyderabad,YakuthMahalYakutpura,500023,Hindi,12:30,DressCircle,80₹,192,24
+Hyderabad,YakuthMahalYakutpura,500023,Hindi,15:30,Balcony,110₹,196,24
+Hyderabad,YakuthMahalYakutpura,500023,Hindi,15:30,DressCircle,80₹,192,24
+Hyderabad,YakuthMahalYakutpura,500023,Hindi,18:30,Balcony,110₹,196,24
+Hyderabad,YakuthMahalYakutpura,500023,Hindi,18:30,DressCircle,80₹,192,24
+Hyderabad,YakuthMahalYakutpura,500023,Hindi,21:30,Balcony,110₹,196,24
+Hyderabad,YakuthMahalYakutpura,500023,Hindi,21:30,DressCircle,80₹,192,24
