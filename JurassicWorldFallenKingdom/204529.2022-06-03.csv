@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Indore,PvrPlayHouseTreasureIslandIndore,452001,English,18:15,Prime,200₹,46,0
+Indore,PvrPlayHouseTreasureIslandIndore,452001,English,18:15,Classic,200₹,26,0
+Indore,PvrPlayHouseTreasureIslandIndore,452001,English,18:15,Recliner,200₹,8,0
+Noida,PvrLogixCityCentrePlayHouseNoida,201301,English,19:55,Classic,330₹,38,0
+Bengaluru,PvrPlayHousePhoenixMarketcityMallBengaluruWhitefieldRoad,560048,English,21:00,3DClassic,190₹,120,0
+Bengaluru,PvrPlayHousePhoenixMarketcityMallBengaluruWhitefieldRoad,560048,English,21:00,3DRecliner,190₹,8,0
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,21:35,Recliner,490₹,8,3
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,21:35,Prime,440₹,14,0
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,21:35,Classic,390₹,36,0
