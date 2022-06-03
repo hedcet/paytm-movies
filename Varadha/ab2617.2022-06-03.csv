@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Honnali,ShanthaChitramandira,577217,Kannada,10:30,Balcony,121₹,172,48
+Honnali,ShanthaChitramandira,577217,Kannada,10:30,FirstClass,101₹,532,482
+Channagiri,SriVenkateshwaraChitramandira,577213,Kannada,11:00,FirstClass,100₹,404,304
+Honnali,ShanthaChitramandira,577217,Kannada,13:30,Balcony,121₹,172,48
+Honnali,ShanthaChitramandira,577217,Kannada,13:30,FirstClass,101₹,532,482
+Channagiri,SriVenkateshwaraChitramandira,577213,Kannada,14:00,FirstClass,100₹,404,304
+Honnali,ShanthaChitramandira,577217,Kannada,17:30,Balcony,121₹,172,48
+Honnali,ShanthaChitramandira,577217,Kannada,17:30,FirstClass,101₹,532,482
+Channagiri,SriVenkateshwaraChitramandira,577213,Kannada,18:00,FirstClass,100₹,404,304
+Honnali,ShanthaChitramandira,577217,Kannada,20:30,Balcony,121₹,172,48
+Honnali,ShanthaChitramandira,577217,Kannada,20:30,FirstClass,101₹,532,482
+Channagiri,SriVenkateshwaraChitramandira,577213,Kannada,21:00,FirstClass,100₹,404,304
