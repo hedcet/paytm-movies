@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bhubaneswar,CinepolisEsplanadeRasulgarhIndustrialEstate,751007,Bengali,17:10,Vip,350₹,10,2
+Bhubaneswar,CinepolisEsplanadeRasulgarhIndustrialEstate,751007,Bengali,17:10,Premium,150₹,48,4
+Bhubaneswar,CinepolisEsplanadeRasulgarhIndustrialEstate,751007,Bengali,17:10,Executive,150₹,52,1
+Bhubaneswar,CinepolisEsplanadeRasulgarhIndustrialEstate,751007,Bengali,17:10,Normal,150₹,23,0
