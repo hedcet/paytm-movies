@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,SriVenkateswaraTalkiesACDolby71Thiruvallur,602002,Tamil,10:15,First,50₹,172,42
+Kulittalai,PalaceTheatreMaduraiRoad,620008,Tamil,11:15,FirstClass,60₹,249,0
+Chennai,SriVenkateswaraTalkiesACDolby71Thiruvallur,602002,Tamil,14:00,First,50₹,172,97
+Kulittalai,PalaceTheatreMaduraiRoad,620008,Tamil,14:15,FirstClass,60₹,249,2
+Kulittalai,PalaceTheatreMaduraiRoad,620008,Tamil,18:15,FirstClass,60₹,249,0
+Chennai,SriVenkateswaraTalkiesACDolby71Thiruvallur,602002,Tamil,18:15,First,50₹,172,138
+Chennai,SriVenkateswaraTalkiesACDolby71Thiruvallur,602002,Tamil,21:30,First,50₹,172,64
+Kulittalai,PalaceTheatreMaduraiRoad,620008,Tamil,22:00,FirstClass,60₹,249,0
