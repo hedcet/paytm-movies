@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mahabubabad,SvcSuryaKalamandir4KACDtsYellunduRoad,506101,Telugu,11:00,FirstClass,110₹,398,29
+Mahabubabad,SvcSuryaKalamandir4KACDtsYellunduRoad,506101,Telugu,11:00,SecondClass,80₹,138,31
+Mahabubabad,SvcSuryaKalamandir4KACDtsYellunduRoad,506101,Telugu,14:00,FirstClass,110₹,398,23
+Mahabubabad,SvcSuryaKalamandir4KACDtsYellunduRoad,506101,Telugu,14:00,SecondClass,80₹,138,29
+Mahabubabad,SvcSuryaKalamandir4KACDtsYellunduRoad,506101,Telugu,18:00,FirstClass,110₹,398,23
+Mahabubabad,SvcSuryaKalamandir4KACDtsYellunduRoad,506101,Telugu,18:00,SecondClass,80₹,138,29
+Mahabubabad,SvcSuryaKalamandir4KACDtsYellunduRoad,506101,Telugu,21:00,FirstClass,110₹,398,23
+Mahabubabad,SvcSuryaKalamandir4KACDtsYellunduRoad,506101,Telugu,21:00,SecondClass,80₹,138,29
