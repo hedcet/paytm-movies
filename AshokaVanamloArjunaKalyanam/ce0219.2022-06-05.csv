@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Eluru,AmbicaComplexEluru,534001,Telugu,11:00,Sofa,150₹,53,17
+Eluru,AmbicaComplexEluru,534001,Telugu,11:00,FirstClass,150₹,133,76
+Eluru,AmbicaComplexEluru,534001,Telugu,11:00,SecondClass,100₹,40,40
+Eluru,AmbicaComplexEluru,534001,Telugu,11:00,ThirdClass,100₹,60,60
+Eluru,AmbicaComplexEluru,534001,Telugu,14:30,Sofa,150₹,53,17
+Eluru,AmbicaComplexEluru,534001,Telugu,14:30,FirstClass,150₹,133,76
+Eluru,AmbicaComplexEluru,534001,Telugu,14:30,SecondClass,100₹,40,40
+Eluru,AmbicaComplexEluru,534001,Telugu,14:30,ThirdClass,100₹,60,60
+Eluru,AmbicaComplexEluru,534001,Telugu,18:30,Sofa,150₹,53,17
+Eluru,AmbicaComplexEluru,534001,Telugu,18:30,FirstClass,150₹,133,76
+Eluru,AmbicaComplexEluru,534001,Telugu,18:30,SecondClass,100₹,40,40
+Eluru,AmbicaComplexEluru,534001,Telugu,18:30,ThirdClass,100₹,60,60
+Eluru,AmbicaComplexEluru,534001,Telugu,21:30,Sofa,150₹,53,17
+Eluru,AmbicaComplexEluru,534001,Telugu,21:30,FirstClass,150₹,133,76
+Eluru,AmbicaComplexEluru,534001,Telugu,21:30,SecondClass,100₹,40,40
+Eluru,AmbicaComplexEluru,534001,Telugu,21:30,ThirdClass,100₹,60,60
