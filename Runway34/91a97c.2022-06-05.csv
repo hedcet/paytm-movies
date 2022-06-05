@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,InoxRCityGhatkoparW,400086,Hindi,11:10,RoyalRecliner,280₹,14,5
+Mumbai,InoxRCityGhatkoparW,400086,Hindi,11:10,Royal,140₹,40,14
+Mumbai,InoxRCityGhatkoparW,400086,Hindi,11:10,Club,140₹,65,0
+Mumbai,InoxRCityGhatkoparW,400086,Hindi,11:10,Executive,112₹,35,2
+Gurgaon,PvrDirectorsCutGurugramAmbienceMall,122001,Hindi,12:50,Platinum,"1,300₹",38,7
+Gurgaon,PvrDirectorsCutGurugramAmbienceMall,122001,Hindi,12:50,PlatinumSuperior,"1,500₹",16,4
+Mumbai,InoxMegaplexInorbitMall,400064,Hindi,13:20,Insignia,450₹,33,13
+Noida,PvrLogixCityCentreNoida,201301,Hindi,14:05,Classic,350₹,106,30
