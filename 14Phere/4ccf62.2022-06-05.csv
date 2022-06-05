@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bhopal,AlpanaCineplexHamidiaRoad,462001,Hindi,15:00,BoxA,150₹,12,12
+Bhopal,AlpanaCineplexHamidiaRoad,462001,Hindi,15:00,BoxB,150₹,12,0
+Bhopal,AlpanaCineplexHamidiaRoad,462001,Hindi,15:00,BalconyGold,110₹,203,123
+Bhopal,AlpanaCineplexHamidiaRoad,462001,Hindi,15:00,Deluxe,80₹,198,198
+Bhopal,AlpanaCineplexHamidiaRoad,462001,Hindi,15:00,Silver,80₹,110,110
