@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,10:00,Classic,112₹,108,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,10:00,Prime,150₹,90,9
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,10:00,Recliner,280₹,16,9
+Shikarpur,MalateshaTalkies,577427,Kannada,14:00,Balcony,101₹,15,15
+Shikarpur,MalateshaTalkies,577427,Kannada,14:00,FirstClass,101₹,411,311
+Shikarpur,MalateshaTalkies,577427,Kannada,18:00,Balcony,101₹,15,15
+Shikarpur,MalateshaTalkies,577427,Kannada,18:00,FirstClass,101₹,411,311
+Shikarpur,MalateshaTalkies,577427,Kannada,21:00,Balcony,101₹,15,15
+Shikarpur,MalateshaTalkies,577427,Kannada,21:00,FirstClass,101₹,411,311
