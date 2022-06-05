@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Surat,TimeCinemaSuratGalaxyCircle,394510,Gujarati,10:45,Standard150,150₹,96,0
+Surat,TimeCinemaSuratGalaxyCircle,394510,Gujarati,16:40,Sofa260,260₹,34,17
+Ahmedabad,TimeCinemaCgRoad,380006,Gujarati,18:45,Standard260,260₹,84,0
