@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,15:55,Classic,110₹,52,1
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,15:55,Prime,130₹,156,5
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,15:55,PrimePlus,160₹,52,15
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,15:55,Recliner,250₹,27,27
