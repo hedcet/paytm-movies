@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Malappuram,MallikaPlexMattilMall,676505,Malayalam,10:00,Executive,140₹,50,0
+Perinthalmanna,VismayaCinemasPerinthalmanna,679322,Malayalam,10:00,Platinum,100₹,198,0
+SultanBathery,AiswaryaAthulyaAiswaryaCineplexSulthanBathery,673592,Malayalam,11:15,SofaSeat,170₹,16,0
+SultanBathery,AiswaryaAthulyaAiswaryaCineplexSulthanBathery,673592,Malayalam,11:15,GoldClass,110₹,147,0
+Manjeri,LadderCinemasIndianMall,676121,Malayalam,11:30,Executive,150₹,74,0
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,12:00,BlueCircle,150₹,227,218
+SultanBathery,AiswaryaAthulyaAiswaryaCineplexSulthanBathery,673592,Malayalam,14:00,SofaSeat,170₹,16,0
+SultanBathery,AiswaryaAthulyaAiswaryaCineplexSulthanBathery,673592,Malayalam,14:00,GoldClass,110₹,147,0
+Ponnani,AiswaryaMoviesAC4KDolby3DPonnani,679586,Malayalam,14:45,Platinum,110₹,158,28
+Karunagappally,CarnivalHJComplexLalajiJunction,690518,Malayalam,15:00,ClassicOffline,100₹,118,20
+Thalayolaparambu,CarnivalThalayolaparambu,686605,Malayalam,16:15,Gold,110₹,144,0
+SultanBathery,AiswaryaAthulyaAiswaryaCineplexSulthanBathery,673592,Malayalam,17:00,SofaSeat,170₹,16,0
+SultanBathery,AiswaryaAthulyaAiswaryaCineplexSulthanBathery,673592,Malayalam,17:00,GoldClass,110₹,147,0
+Ponnani,AiswaryaMoviesAC4KDolby3DPonnani,679586,Malayalam,18:30,Platinum,110₹,158,28
+Thalayolaparambu,CarnivalThalayolaparambu,686605,Malayalam,21:15,Gold,110₹,144,0
+Ponnani,AiswaryaMoviesAC4KDolby3DPonnani,679586,Malayalam,21:30,Platinum,110₹,158,28
