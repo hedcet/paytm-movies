@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrIconOberoiPlayHouseGoregaonE,400063,English,09:30,Classic,100₹,22,0
+Mumbai,PvrIconOberoiPlayHouseGoregaonE,400063,English,09:30,Prime,110₹,96,16
+Mumbai,PvrIconOberoiPlayHouseGoregaonE,400063,English,09:30,Recliner,190₹,26,0
+Surat,PvrRahulRajPlayHouseDumasRoad,395007,English,12:30,Recliner,300₹,20,5
+Surat,PvrRahulRajPlayHouseDumasRoad,395007,English,12:30,ClassicPlus,180₹,12,0
+Surat,PvrRahulRajPlayHouseDumasRoad,395007,English,12:30,Prime,180₹,111,11
+Surat,PvrRahulRajPlayHouseDumasRoad,395007,English,12:30,Classic,180₹,26,0
+Indore,PvrPlayHouseTreasureIslandIndore,452001,English,13:00,Prime,180₹,46,16
+Indore,PvrPlayHouseTreasureIslandIndore,452001,English,13:00,Classic,180₹,26,0
+Indore,PvrPlayHouseTreasureIslandIndore,452001,English,13:00,Recliner,280₹,8,4
+Noida,PvrLogixCityCentrePlayHouseNoida,201301,English,15:10,Classic,315₹,49,0
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,15:30,Recliner,350₹,8,0
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,15:30,Prime,300₹,14,0
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,15:30,Classic,250₹,36,0
+Bengaluru,PvrPlayHouseForumMallKoramangala,560095,English,19:25,3DClassic,220₹,103,4
