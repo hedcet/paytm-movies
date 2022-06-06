@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trichy,SriRengarajTalkiesSrirangam,620006,Tamil,14:15,FirstClass,50₹,200,1
+Trichy,SriRengarajTalkiesSrirangam,620006,Tamil,18:15,FirstClass,50₹,200,0
+Trichy,SriRengarajTalkiesSrirangam,620006,Tamil,22:15,FirstClass,50₹,200,0
