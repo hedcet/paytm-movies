@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chandrapur,NovaCinemaChandrapur,442401,Marathi,11:00,Balcony,150₹,283,0
+Chandrapur,NovaCinemaChandrapur,442401,Marathi,11:00,Gold,130₹,250,0
+Chandrapur,NovaCinemaChandrapur,442401,Marathi,11:00,Silver,130₹,166,0
+Chandrapur,MirajCinemaChandrapur,442401,Marathi,12:30,Special,130₹,70,0
+Chandrapur,MirajCinemaChandrapur,442401,Marathi,12:30,Executive,130₹,105,0
+Chandrapur,MirajCinemaChandrapur,442401,Marathi,12:30,Gold,130₹,30,15
+Mumbai,MovieTimeHubMallGoregaonE,400063,Marathi,12:35,Mhraja,110₹,44,6
+Vasai,CarnivalKtVasaiW,401202,Marathi,14:55,Platinum,100₹,60,0
+Vasai,CarnivalKtVasaiW,401202,Marathi,14:55,Royal,110₹,12,0
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,20:25,Normal,180₹,24,0
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,20:25,Executive,200₹,72,3
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,20:25,Premium,220₹,12,0
+Wani,DeeptiSkyCinexWani,445304,Marathi,23:00,Balcony,100₹,20,10
