@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bhubaneswar,CinepolisEsplanadeRasulgarhIndustrialEstate,751007,Odia,10:45,Vip,400₹,10,0
+Bhubaneswar,CinepolisEsplanadeRasulgarhIndustrialEstate,751007,Odia,10:45,Premium,150₹,48,22
+Bhubaneswar,CinepolisEsplanadeRasulgarhIndustrialEstate,751007,Odia,10:45,Executive,140₹,52,0
+Bhubaneswar,CinepolisEsplanadeRasulgarhIndustrialEstate,751007,Odia,10:45,Normal,130₹,23,6
+Athagarh,GaneshTalkiesAthagarh,754029,Odia,12:00,Gold,100₹,99,0
+JajpurRoad,SaraswatiMultiplexJajpurRoad,755019,Odia,12:15,Box,200₹,21,15
+JajpurRoad,SaraswatiMultiplexJajpurRoad,755019,Odia,12:15,Platinum,150₹,160,112
+JajpurRoad,SaraswatiMultiplexJajpurRoad,755019,Odia,12:15,Sapphire,120₹,40,40
+Athagarh,GaneshTalkiesAthagarh,754029,Odia,18:00,Gold,100₹,99,0
+Bhubaneswar,InoxDnRegaliaMallPatrapada,751019,Odia,18:35,Club,150₹,40,1
+Bhubaneswar,InoxDnRegaliaMallPatrapada,751019,Odia,18:35,Executive,150₹,20,1
+Bhubaneswar,InoxDnRegaliaMallPatrapada,751019,Odia,18:35,Royal,150₹,73,27
+Cuttack,InoxSgblSquareMallCuttack,753009,Odia,18:55,RoyalRecliner,260₹,6,0
+Cuttack,InoxSgblSquareMallCuttack,753009,Odia,18:55,Royal,160₹,70,6
+Cuttack,InoxSgblSquareMallCuttack,753009,Odia,18:55,Club,160₹,100,0
+Cuttack,InoxSgblSquareMallCuttack,753009,Odia,18:55,Executive,160₹,12,0
