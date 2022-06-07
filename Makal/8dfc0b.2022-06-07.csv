@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Payyanur,SumangaliCinemasAnnurRoad,670307,Malayalam,10:30,DiamondCircle,130₹,141,0
+Payyanur,SumangaliCinemasAnnurRoad,670307,Malayalam,13:30,DiamondCircle,130₹,141,0
+Payyanur,SumangaliCinemasAnnurRoad,670307,Malayalam,16:30,DiamondCircle,130₹,141,0
+Payyanur,SumangaliCinemasAnnurRoad,670307,Malayalam,19:30,DiamondCircle,130₹,141,5
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,19:45,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,19:45,Royal,170₹,16,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,19:45,Club,170₹,63,5
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,19:45,Executive,130₹,22,0
