@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,CinepolisSjrSpectrumCentralMallBannerghattaRoad,560076,Kannada,15:50,Normal,150₹,30,0
+Bengaluru,CinepolisSjrSpectrumCentralMallBannerghattaRoad,560076,Kannada,15:50,Executive,150₹,63,0
+Bengaluru,CinepolisSjrSpectrumCentralMallBannerghattaRoad,560076,Kannada,15:50,Premium,150₹,44,5
+Bengaluru,CinepolisSjrSpectrumCentralMallBannerghattaRoad,560076,Kannada,15:50,Vip,300₹,12,2
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,15:55,Classic,150₹,128,2
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,15:55,Prime,170₹,80,9
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,15:55,Recliner,250₹,14,4
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,16:05,Normal,150₹,10,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,16:05,Executive,150₹,82,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,16:05,Premium,150₹,34,2
+Bengaluru,InoxMantriSquareMalleshwaram,560003,Kannada,19:50,Club,160₹,295,0
+Bengaluru,InoxMantriSquareMalleshwaram,560003,Kannada,19:50,Royal,250₹,9,0
