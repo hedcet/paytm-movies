@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,InoxGalleriaMallYelahanka,560064,Kannada,12:30,Club,140₹,70,0
+Bengaluru,InoxGalleriaMallYelahanka,560064,Kannada,12:30,Executive,130₹,128,0
+Bengaluru,InoxGalleriaMallYelahanka,560064,Kannada,12:30,Royale,220₹,9,0
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,560022,Kannada,13:10,Classic,112₹,85,0
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,560022,Kannada,13:10,Prime,140₹,20,0
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,560022,Kannada,13:10,Recliner,230₹,9,1
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,15:30,Executive,150₹,69,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,15:30,Premium,150₹,29,0
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,16:45,Platinum,150₹,16,14
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,16:45,Gold,100₹,180,112
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,16:45,Silver,80₹,135,86
