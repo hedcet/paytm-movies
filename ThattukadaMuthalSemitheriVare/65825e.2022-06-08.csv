@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Malappuram,MallikaPlexMattilMall,676505,Malayalam,10:00,Executive,140₹,50,0
+Thalayolaparambu,CarnivalThalayolaparambu,686605,Malayalam,10:30,Gold,110₹,144,6
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,12:00,BlueCircle,150₹,227,218
+Ponnani,AiswaryaMoviesAC4KDolby3DPonnani,679586,Malayalam,14:45,Platinum,110₹,158,28
+Karunagappally,CarnivalHJComplexLalajiJunction,690518,Malayalam,14:50,ClassicOffline,100₹,118,0
+Thalayolaparambu,CarnivalThalayolaparambu,686605,Malayalam,16:00,Gold,110₹,144,6
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,16:15,NormalOffline,100₹,18,15
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,16:15,ExecutiveOffline,160₹,72,10
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,16:15,Silver,190₹,103,6
+Ponnani,AiswaryaMoviesAC4KDolby3DPonnani,679586,Malayalam,18:30,Platinum,110₹,158,28
+Ponnani,AiswaryaMoviesAC4KDolby3DPonnani,679586,Malayalam,21:30,Platinum,110₹,158,28
