@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,PvrLuluKochi,682025,Malayalam,12:25,Classic,140₹,54,0
+Kochi,PvrLuluKochi,682025,Malayalam,12:25,ClassicPlus,160₹,108,0
+Kochi,PvrLuluKochi,682025,Malayalam,12:25,Prime,190₹,125,27
+Kochi,PvrLuluKochi,682025,Malayalam,12:25,Recliner,350₹,14,2
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,13:20,ExecutiveOffline,140₹,119,25
+Thalassery,CarnivalDowntownThalassery,670101,Malayalam,15:45,ExecutiveOffline,140₹,131,17
+Kochi,PvrOberonMallErnakulam,682024,Malayalam,15:45,Classic,129₹,36,1
+Kochi,PvrOberonMallErnakulam,682024,Malayalam,15:45,ClassicPlus,160₹,81,27
+Karunagappally,CarnivalHJComplexLalajiJunction,690518,Malayalam,16:30,ClassicOffline,110₹,118,1
+Thalayolaparambu,CarnivalThalayolaparambu,686605,Malayalam,18:15,Gold,110₹,144,6
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,18:45,Club,170₹,155,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,18:45,Executive,130₹,26,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,18:45,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,18:45,Royal,170₹,20,5
