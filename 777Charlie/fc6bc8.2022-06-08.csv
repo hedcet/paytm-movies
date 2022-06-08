@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Madurai,InoxVishaalDeMallMadurai,625002,Tamil,18:30,Club,190₹,124,124
+Madurai,InoxVishaalDeMallMadurai,625002,Tamil,18:30,Executive,60₹,12,12
+Vizag,InoxVarunBeachMaharanipet,530003,Telugu,18:30,Excutive,177₹,130,130
+Vizag,InoxVarunBeachMaharanipet,530003,Telugu,18:35,Excutive,177₹,130,0
+Vadodara,CinepolisInorbitMallGorwa,390023,Hindi,18:40,Premium,150₹,28,0
+Vadodara,CinepolisInorbitMallGorwa,390023,Hindi,18:40,Executive,150₹,116,0
+Vadodara,CinepolisInorbitMallGorwa,390023,Hindi,18:40,Normal,150₹,26,0
+Goa,InoxOldGmcDbRoad,403001,Hindi,19:25,Club,100₹,90,90
+Goa,InoxOldGmcDbRoad,403001,Hindi,19:25,Executive,100₹,36,36
+Goa,InoxOldGmcDbRoad,403001,Hindi,19:25,Royal,100₹,75,75
