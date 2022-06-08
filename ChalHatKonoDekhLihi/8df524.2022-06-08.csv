@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Dhamtari,VimalDevshriCineplex,493773,Chhattisgarhi,12:00,Balcony,90₹,136,111
+Raipur,ShyamTalkiesRaipur,492001,Chhattisgarhi,12:00,Balcony,100₹,140,100
+Raipur,InoxAmbujaCityCentreMowa,492007,Chhattisgarhi,12:25,Club,90₹,188,4
+Raipur,InoxAmbujaCityCentreMowa,492007,Chhattisgarhi,12:25,Executive,90₹,36,0
+Raipur,InoxAmbujaCityCentreMowa,492007,Chhattisgarhi,12:25,RoyalRecliner,170₹,16,5
+Raipur,InoxAmbujaCityCentreMowa,492007,Chhattisgarhi,12:25,Royal,90₹,34,4
+Durg,FunCinemasApsaraTalkiesAryaNagar,491001,Chhattisgarhi,15:00,Balcony,80₹,100,0
+Durg,FunCinemasApsaraTalkiesAryaNagar,491001,Chhattisgarhi,15:00,Reserve,50₹,100,0
+Dhamtari,VimalDevshriCineplex,493773,Chhattisgarhi,15:00,Balcony,90₹,136,111
+Raipur,ShyamTalkiesRaipur,492001,Chhattisgarhi,15:00,Balcony,100₹,140,100
+Durg,FunCinemasApsaraTalkiesAryaNagar,491001,Chhattisgarhi,18:00,Balcony,80₹,165,0
+Durg,FunCinemasApsaraTalkiesAryaNagar,491001,Chhattisgarhi,18:00,Reserve,50₹,580,0
+Raipur,ShyamTalkiesRaipur,492001,Chhattisgarhi,18:00,Balcony,100₹,140,108
+Durg,FunCinemasApsaraTalkiesAryaNagar,491001,Chhattisgarhi,21:00,Balcony,80₹,165,0
+Durg,FunCinemasApsaraTalkiesAryaNagar,491001,Chhattisgarhi,21:00,Reserve,50₹,580,0
+Raipur,ShyamTalkiesRaipur,492001,Chhattisgarhi,21:00,Balcony,100₹,140,100
