@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Surat,CinepolisImperialSquareMallAdajan,395009,Hindi,15:15,Premium,80₹,42,42
+Surat,CinepolisImperialSquareMallAdajan,395009,Hindi,15:15,Normal,80₹,29,6
+Surat,CinepolisImperialSquareMallAdajan,395009,Hindi,15:15,Executive,80₹,102,92
+Vadodara,CinepolisInorbitMallGorwa,390023,Hindi,15:15,Normal,100₹,24,0
+Vadodara,CinepolisInorbitMallGorwa,390023,Hindi,15:15,Premium,100₹,26,0
+Vadodara,CinepolisInorbitMallGorwa,390023,Hindi,15:15,Executive,100₹,96,0
+Kanpur,InoxZSquareMallBadaChauraha,208001,Hindi,15:50,Club,190₹,178,178
+Kanpur,InoxZSquareMallBadaChauraha,208001,Hindi,15:50,Executive,190₹,34,34
+Kanpur,InoxZSquareMallBadaChauraha,208001,Hindi,15:50,Royal,190₹,63,63
+Pune,InoxAmanoraTownCentreHadapsar,412028,Hindi,16:15,Club,140₹,325,325
+Pune,InoxAmanoraTownCentreHadapsar,412028,Hindi,16:15,Executive,140₹,46,46
+Pune,InoxAmanoraTownCentreHadapsar,412028,Hindi,16:15,Royale,140₹,20,20
