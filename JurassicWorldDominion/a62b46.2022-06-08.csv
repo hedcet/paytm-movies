@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NewDelhi,InoxNehruPlace,110019,English,20:10,Club,150₹,120,120
+NewDelhi,InoxNehruPlace,110019,English,20:10,Executive,150₹,105,105
+NewDelhi,InoxNehruPlace,110019,English,20:10,Royal,150₹,35,35
+Mumbai,InoxMegaplexInorbitMall,400064,English,20:30,Executive,50₹,80,80
+Mumbai,InoxMegaplexInorbitMall,400064,English,20:30,Premiere,50₹,120,120
+Mumbai,InoxMegaplexInorbitMall,400064,English,20:30,Silver,50₹,79,79
+Mumbai,InoxMegaplexInorbitMall,400064,English,20:35,Insignia,50₹,42,42
+Mumbai,InoxMegaplexInorbitMall,400064,English,20:55,Insignia,50₹,34,34
