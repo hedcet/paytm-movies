@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,531001,Telugu,11:00,Premium,147₹,344,84
+Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,531001,Telugu,11:00,NonPemium,100₹,128,128
+Kakinada,SriTirumalaTheatre2KACDtsKakinada,533001,Telugu,11:30,FirstClass,112₹,404,162
+Kakinada,SriTirumalaTheatre2KACDtsKakinada,533001,Telugu,11:30,SecondClass,75₹,108,0
+Kakinada,SriTirumalaTheatre2KACDtsKakinada,533001,Telugu,11:30,Reclinear,295₹,23,23
+Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,531001,Telugu,14:30,Premium,147₹,344,84
+Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,531001,Telugu,14:30,NonPemium,100₹,128,128
+Kakinada,SriTirumalaTheatre2KACDtsKakinada,533001,Telugu,14:30,FirstClass,112₹,404,27
+Kakinada,SriTirumalaTheatre2KACDtsKakinada,533001,Telugu,14:30,SecondClass,75₹,108,0
+Kakinada,SriTirumalaTheatre2KACDtsKakinada,533001,Telugu,14:30,Reclinear,295₹,23,23
+Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,531001,Telugu,18:30,Premium,147₹,344,84
+Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,531001,Telugu,18:30,NonPemium,100₹,128,128
+Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,531001,Telugu,21:30,Premium,147₹,344,84
+Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,531001,Telugu,21:30,NonPemium,100₹,128,128
