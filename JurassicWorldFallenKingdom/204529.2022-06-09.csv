@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Surat,PvrRahulRajPlayHouseDumasRoad,395007,English,15:30,Recliner,300₹,20,5
+Surat,PvrRahulRajPlayHouseDumasRoad,395007,English,15:30,ClassicPlus,180₹,12,0
+Surat,PvrRahulRajPlayHouseDumasRoad,395007,English,15:30,Prime,180₹,111,11
+Surat,PvrRahulRajPlayHouseDumasRoad,395007,English,15:30,Classic,180₹,26,0
+Amritsar,PvrSctPlayHouseCityCentre,143001,English,15:50,Classic,160₹,12,12
+Amritsar,PvrSctPlayHouseCityCentre,143001,English,15:50,Prime,160₹,40,40
+Bengaluru,PvrVegaPlayHouseBannerghattaRoad,560076,English,16:35,3DClassic,152₹,62,6
+Noida,PvrLogixCityCentrePlayHouseNoida,201301,English,20:20,Classic,315₹,38,7
+Bengaluru,PvrPlayHousePhoenixMarketcityMallBengaluruWhitefieldRoad,560048,English,21:00,3DClassic,190₹,120,0
+Bengaluru,PvrPlayHousePhoenixMarketcityMallBengaluruWhitefieldRoad,560048,English,21:00,3DRecliner,190₹,8,4
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,21:35,Recliner,300₹,8,8
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,21:35,Prime,250₹,21,21
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,21:35,Classic,200₹,36,36
