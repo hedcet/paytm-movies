@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Noida,PvrLogixCityCentrePlayHouseNoida,201301,English,09:30,Classic,200₹,49,0
+Mumbai,InoxMegaplexInorbitMall,400064,English,09:45,Kiddles,130₹,53,8
+Mumbai,MetroInoxCinemaMGRoad,400020,English,10:40,Kiddles,140₹,36,7
+Hyderabad,PvrPlayHouseNextGalleriaMallPanjagutta,500082,English,11:20,Classic,200₹,54,31
