@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nagpur,AlankarCinemaGorepeth,440002,Marathi,12:30,Balcony,120₹,188,9
+Nagpur,AlankarCinemaGorepeth,440002,Marathi,12:30,FirstBalcony,80₹,311,26
+Mumbai,MovieTimeHubMallGoregaonE,400063,Marathi,12:35,Mhraja,110₹,44,12
+Nagpur,AlankarCinemaGorepeth,440002,Marathi,15:30,Balcony,120₹,188,9
+Nagpur,AlankarCinemaGorepeth,440002,Marathi,15:30,FirstBalcony,80₹,311,26
