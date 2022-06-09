@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,InoxAmanoraTownCentreHadapsar,412028,Marathi,13:05,Club,112₹,109,4
+Pune,InoxAmanoraTownCentreHadapsar,412028,Marathi,13:05,Executive,112₹,21,0
+Pune,InoxAmanoraTownCentreHadapsar,412028,Marathi,13:05,Royale,190₹,2,2
+Mumbai,MovieTimeChembur,400074,Marathi,14:30,Silver,150₹,75,8
+Mumbai,CinepolisSeawoodsGrandCentralMall,400706,Marathi,14:30,Normal,150₹,32,0
+Mumbai,CinepolisSeawoodsGrandCentralMall,400706,Marathi,14:30,Executive,170₹,70,4
+Mumbai,CinepolisSeawoodsGrandCentralMall,400706,Marathi,14:30,Premium,190₹,38,8
+Mumbai,CinepolisSeawoodsGrandCentralMall,400706,Marathi,14:30,Vip,300₹,14,4
+Mumbai,MovieTimeHubMallGoregaonE,400063,Marathi,19:00,Gold,130₹,196,29
+Pune,PvrMarketCityVimanNagar,411014,Marathi,22:45,PrimePlus,290₹,10,8
+Pune,PvrMarketCityVimanNagar,411014,Marathi,22:45,Prime,250₹,118,39
+Pune,PvrMarketCityVimanNagar,411014,Marathi,22:45,Classic,200₹,51,0
