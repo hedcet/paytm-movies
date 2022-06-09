@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Karnal,MovieTimeSuperMallKarnal,132001,Punjabi,17:45,Business,300₹,8,4
+Karnal,MovieTimeSuperMallKarnal,132001,Punjabi,17:45,Gold,200₹,58,0
+Karnal,MovieTimeSuperMallKarnal,132001,Punjabi,17:45,Silver,200₹,28,0
+Karnal,MovieTimeSuperMallKarnal,132001,Punjabi,17:45,Normal,200₹,28,0
