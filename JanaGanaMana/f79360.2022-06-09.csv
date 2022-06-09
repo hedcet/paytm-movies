@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,13:30,ExecutiveOffline,140₹,119,28
+Thalassery,CarnivalDowntownThalassery,670101,Malayalam,15:45,ExecutiveOffline,140₹,131,15
+Karunagappally,CarnivalHJComplexLalajiJunction,690518,Malayalam,16:30,ClassicOffline,110₹,118,0
+Thalayolaparambu,CarnivalThalayolaparambu,686605,Malayalam,18:15,Gold,110₹,144,6
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,22:10,Club,170₹,63,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,22:10,Executive,130₹,22,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,22:10,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,22:10,Royal,170₹,16,0
