@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Surat,CinepolisImperialSquareMallAdajan,395009,Gujarati,20:45,Normal,65₹,31,31
+Surat,CinepolisImperialSquareMallAdajan,395009,Gujarati,20:45,Executive,65₹,217,217
+Surat,CinepolisImperialSquareMallAdajan,395009,Gujarati,20:45,Premium,65₹,41,41
+Surat,CinepolisImperialSquareMallAdajan,395009,Gujarati,21:30,Premium,65₹,42,42
+Surat,CinepolisImperialSquareMallAdajan,395009,Gujarati,21:30,Normal,65₹,29,29
+Surat,CinepolisImperialSquareMallAdajan,395009,Gujarati,21:30,Executive,65₹,102,102
+Surat,CinepolisImperialSquareMallAdajan,395009,Gujarati,22:00,Normal,65₹,22,22
+Surat,CinepolisImperialSquareMallAdajan,395009,Gujarati,22:00,Premium,65₹,33,33
+Surat,CinepolisImperialSquareMallAdajan,395009,Gujarati,22:00,Executive,65₹,89,89
+Surat,CinepolisImperialSquareMallAdajan,395009,Gujarati,22:15,Normal,65₹,32,32
+Surat,CinepolisImperialSquareMallAdajan,395009,Gujarati,22:15,Executive,65₹,103,103
+Surat,CinepolisImperialSquareMallAdajan,395009,Gujarati,22:15,Premium,65₹,42,42
+Surat,CinepolisImperialSquareMallAdajan,395009,Gujarati,22:25,Normal,65₹,22,22
+Surat,CinepolisImperialSquareMallAdajan,395009,Gujarati,22:25,Premium,65₹,33,33
+Surat,CinepolisImperialSquareMallAdajan,395009,Gujarati,22:25,Executive,65₹,75,75
