@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,CinepolisAndheriW,400053,Hindi,16:00,Premium,250₹,49,49
+Mumbai,CinepolisAndheriW,400053,Hindi,16:00,Platinum,250₹,22,22
+Mumbai,CinepolisAndheriW,400053,Hindi,16:00,Normal,250₹,32,9
+Mumbai,CinepolisAndheriW,400053,Hindi,16:00,Executive,250₹,95,95
+Lucknow,PvrSaharaGanjMallHazratganj,226001,Hindi,16:10,Classic,210₹,190,80
+Lucknow,PvrSaharaGanjMallHazratganj,226001,Hindi,16:10,Recliner,340₹,12,2
+Pune,CinepolisSeasonsMallHadapsar,411028,Hindi,16:30,Normal,230₹,17,0
+Pune,CinepolisSeasonsMallHadapsar,411028,Hindi,16:30,Executive,230₹,49,2
+Pune,CinepolisSeasonsMallHadapsar,411028,Hindi,16:30,Premium,250₹,22,4
+Mumbai,MovieMaxSionMumbai,400022,Hindi,17:15,PrimePlus,250₹,6,6
+Mumbai,MovieMaxSionMumbai,400022,Hindi,17:15,Prime,200₹,93,86
+Mumbai,MovieMaxSionMumbai,400022,Hindi,17:15,Classic,180₹,45,0
+NewDelhi,PvrPromenadeVasantKunj,110070,Hindi,17:40,Classic,450₹,50,50
+NewDelhi,PvrPromenadeVasantKunj,110070,Hindi,17:40,Prime,450₹,44,44
