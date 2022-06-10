@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,560023,Kannada,09:50,Classic,112₹,164,0
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,560023,Kannada,09:50,Recliner,250₹,10,0
+Bengaluru,CinepolisRoyalMeenakshiMallBannerghattaRoad,560076,Kannada,16:25,Normal,200₹,26,0
+Bengaluru,CinepolisRoyalMeenakshiMallBannerghattaRoad,560076,Kannada,16:25,Executive,220₹,69,4
+Bengaluru,CinepolisRoyalMeenakshiMallBannerghattaRoad,560076,Kannada,16:25,Premium,236₹,17,0
