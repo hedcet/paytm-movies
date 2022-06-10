@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,15:55,Classic,170₹,128,128
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,15:55,Prime,190₹,100,100
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,15:55,Recliner,350₹,17,17
+Tumakuru,InoxSMallTumakuru,572106,Kannada,16:15,Club,190₹,56,0
+Tumakuru,InoxSMallTumakuru,572106,Kannada,16:15,Executive,170₹,76,0
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,18:00,Platinum,150₹,16,14
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,18:00,Gold,100₹,180,115
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,18:00,Silver,80₹,135,83
