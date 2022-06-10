@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrPlayHouseForumMallKoramangala,560095,English,11:45,3DClassic,220₹,103,6
+Mumbai,InoxMegaplexInorbitMall,400064,English,12:15,Kiddles,220₹,53,3
+Mumbai,MetroInoxCinemaMGRoad,400020,English,12:35,Kiddles,280₹,36,2
+Hyderabad,PvrPlayHouseNextGalleriaMallPanjagutta,500082,English,19:45,Classic,200₹,54,28
+Noida,PvrLogixCityCentreNoida,201301,English,19:55,Classic,330₹,43,11
