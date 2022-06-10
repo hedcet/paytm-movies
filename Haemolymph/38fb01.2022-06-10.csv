@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,YakuthMahalYakutpura,500023,Hindi,12:30,Balcony,110₹,196,24
+Hyderabad,YakuthMahalYakutpura,500023,Hindi,12:30,DressCircle,80₹,192,24
+Aurangabad,MohanNovaCinemazSarafaRoad,431001,Hindi,14:00,Platinum,150₹,58,0
+Aurangabad,MohanNovaCinemazSarafaRoad,431001,Hindi,14:00,Gold,150₹,57,0
+Aurangabad,MohanNovaCinemazSarafaRoad,431001,Hindi,14:00,Silver,150₹,57,1
+Hyderabad,YakuthMahalYakutpura,500023,Hindi,15:30,Balcony,110₹,196,24
+Hyderabad,YakuthMahalYakutpura,500023,Hindi,15:30,DressCircle,80₹,192,24
+Hyderabad,YakuthMahalYakutpura,500023,Hindi,18:30,Balcony,110₹,196,24
+Hyderabad,YakuthMahalYakutpura,500023,Hindi,18:30,DressCircle,80₹,192,24
+Hyderabad,YakuthMahalYakutpura,500023,Hindi,21:30,Balcony,110₹,196,24
+Hyderabad,YakuthMahalYakutpura,500023,Hindi,21:30,DressCircle,80₹,192,24
+Mumbai,MovieTimeHubMallGoregaonE,400063,Hindi,23:00,Mhraja,200₹,44,6
