@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Firozepur,SilverBirdCinemasFerozepurMogaRoad,152002,Punjabi,13:25,Box,300₹,10,0
+Firozepur,SilverBirdCinemasFerozepurMogaRoad,152002,Punjabi,13:25,Gold,100₹,139,78
+Nawanshahr,SutlejCinemaBarnalaKalanRoad,144514,Punjabi,15:30,Gold,170₹,36,0
+Nawanshahr,SutlejCinemaBarnalaKalanRoad,144514,Punjabi,15:30,Silver,140₹,85,1
+Nawanshahr,SutlejCinemaBarnalaKalanRoad,144514,Punjabi,15:30,Seasonal,100₹,17,0
+Nawanshahr,SutlejCinemaBarnalaKalanRoad,144514,Punjabi,18:30,Gold,170₹,36,0
+Nawanshahr,SutlejCinemaBarnalaKalanRoad,144514,Punjabi,18:30,Silver,140₹,85,1
+Nawanshahr,SutlejCinemaBarnalaKalanRoad,144514,Punjabi,18:30,Seasonal,100₹,17,0
+Firozepur,SilverBirdCinemasFerozepurMogaRoad,152002,Punjabi,18:35,Box,300₹,10,0
+Firozepur,SilverBirdCinemasFerozepurMogaRoad,152002,Punjabi,18:35,Gold,100₹,139,62
