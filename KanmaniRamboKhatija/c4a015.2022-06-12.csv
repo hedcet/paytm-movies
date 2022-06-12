@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bellary,RrCinemasBellary,583101,Telugu,11:00,Gold,100₹,86,40
+Bellary,RrCinemasBellary,583101,Telugu,11:00,Silver,100₹,86,0
+Bellary,RrCinemasBellary,583101,Telugu,14:00,Gold,100₹,86,40
+Bellary,RrCinemasBellary,583101,Telugu,14:00,Silver,100₹,86,0
+Bellary,RrCinemasBellary,583101,Telugu,17:00,Gold,100₹,86,40
+Bellary,RrCinemasBellary,583101,Telugu,17:00,Silver,100₹,242,132
+Bellary,RrCinemasBellary,583101,Telugu,20:00,Gold,100₹,86,40
+Bellary,RrCinemasBellary,583101,Telugu,20:00,Silver,100₹,86,0
