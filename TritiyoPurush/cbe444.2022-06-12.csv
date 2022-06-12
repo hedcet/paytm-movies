@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,AjantaCinemaBehala,700038,Bengali,13:00,Balcony,150₹,106,82
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Bengali,13:30,Balcony,50₹,264,33
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Bengali,13:30,FirstClass,30₹,513,30
