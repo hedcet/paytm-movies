@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+SeoniMalwa,GeetaCineplexSeoniMalwa,461223,Hindi,12:00,Balcony,90₹,40,20
+SeoniMalwa,GeetaCineplexSeoniMalwa,461223,Hindi,12:00,Deluxe,70₹,30,0
+SeoniMalwa,GeetaCineplexSeoniMalwa,461223,Hindi,15:00,Balcony,90₹,40,20
+SeoniMalwa,GeetaCineplexSeoniMalwa,461223,Hindi,15:00,Deluxe,70₹,30,0
+SeoniMalwa,GeetaCineplexSeoniMalwa,461223,Hindi,18:00,Balcony,90₹,40,20
+SeoniMalwa,GeetaCineplexSeoniMalwa,461223,Hindi,18:00,Deluxe,70₹,30,0
+SeoniMalwa,GeetaCineplexSeoniMalwa,461223,Hindi,21:00,Balcony,90₹,40,20
+SeoniMalwa,GeetaCineplexSeoniMalwa,461223,Hindi,21:00,Deluxe,70₹,30,0
