@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Gokak,BasaveshwaraTheatre,591136,Kannada,11:30,Balcony,61₹,130,110
+Gokak,BasaveshwaraTheatre,591136,Kannada,11:30,DressCircle,61₹,470,270
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,11:40,Classic,60₹,34,17
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,11:40,Prime,190₹,142,105
+Gokak,BasaveshwaraTheatre,591136,Kannada,14:40,Balcony,61₹,130,110
+Gokak,BasaveshwaraTheatre,591136,Kannada,14:40,DressCircle,61₹,470,270
+Jaipur,GolchaCinemaNewGate,302004,Hindi,15:15,Excutive,150₹,126,0
+Jaipur,GolchaCinemaNewGate,302004,Hindi,15:15,RoyalBox,200₹,32,0
+Gokak,BasaveshwaraTheatre,591136,Kannada,17:50,Balcony,61₹,130,110
+Gokak,BasaveshwaraTheatre,591136,Kannada,17:50,DressCircle,61₹,470,270
+Gokak,BasaveshwaraTheatre,591136,Kannada,21:00,Balcony,61₹,130,110
+Gokak,BasaveshwaraTheatre,591136,Kannada,21:00,DressCircle,61₹,470,270
