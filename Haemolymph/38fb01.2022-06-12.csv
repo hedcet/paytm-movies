@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Angul,AshaTalkies,759128,Hindi,08:45,BoxA,130₹,27,20
+Angul,AshaTalkies,759128,Hindi,08:45,BoxB,130₹,26,12
+Angul,AshaTalkies,759128,Hindi,08:45,Balcony,100₹,216,187
+Aurangabad,MohanNovaCinemazSarafaRoad,431001,Hindi,14:00,Platinum,150₹,58,0
+Aurangabad,MohanNovaCinemazSarafaRoad,431001,Hindi,14:00,Gold,150₹,57,0
+Aurangabad,MohanNovaCinemazSarafaRoad,431001,Hindi,14:00,Silver,150₹,57,1
+Mumbai,MovieTimeHubMallGoregaonE,400063,Hindi,23:00,Mhraja,200₹,44,6
