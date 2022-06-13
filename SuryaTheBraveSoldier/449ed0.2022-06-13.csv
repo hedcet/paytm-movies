@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Jalgaon,AshokTalkiesPolanPeth,425001,Hindi,12:00,BoxA,100₹,16,16
+Jalgaon,AshokTalkiesPolanPeth,425001,Hindi,12:00,BoxB,100₹,15,15
+Jalgaon,AshokTalkiesPolanPeth,425001,Hindi,12:00,Balcony,100₹,158,143
+Jalgaon,AshokTalkiesPolanPeth,425001,Hindi,12:00,FirstClass,50₹,561,511
+Jalgaon,AshokTalkiesPolanPeth,425001,Hindi,15:00,BoxA,100₹,16,16
+Jalgaon,AshokTalkiesPolanPeth,425001,Hindi,15:00,BoxB,100₹,15,15
+Jalgaon,AshokTalkiesPolanPeth,425001,Hindi,15:00,Balcony,100₹,158,143
+Jalgaon,AshokTalkiesPolanPeth,425001,Hindi,15:00,FirstClass,50₹,561,511
+Jalgaon,AshokTalkiesPolanPeth,425001,Hindi,18:00,BoxA,100₹,16,16
+Jalgaon,AshokTalkiesPolanPeth,425001,Hindi,18:00,BoxB,100₹,15,15
+Jalgaon,AshokTalkiesPolanPeth,425001,Hindi,18:00,Balcony,100₹,158,143
+Jalgaon,AshokTalkiesPolanPeth,425001,Hindi,18:00,FirstClass,50₹,561,511
+Jalgaon,AshokTalkiesPolanPeth,425001,Hindi,21:00,BoxA,100₹,16,16
+Jalgaon,AshokTalkiesPolanPeth,425001,Hindi,21:00,BoxB,100₹,15,15
+Jalgaon,AshokTalkiesPolanPeth,425001,Hindi,21:00,Balcony,100₹,158,143
+Jalgaon,AshokTalkiesPolanPeth,425001,Hindi,21:00,FirstClass,50₹,561,511
