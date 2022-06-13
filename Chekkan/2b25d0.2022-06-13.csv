@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thalayolaparambu,CarnivalThalayolaparambu,686605,Malayalam,10:30,Gold,110₹,144,6
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmosThoongamparaKattakada,695572,Malayalam,11:00,PlatinumRecliner,300₹,17,0
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmosThoongamparaKattakada,695572,Malayalam,11:00,Gold,150₹,332,0
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,11:00,Balcony,250₹,15,8
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,11:00,FirstClass,110₹,215,88
+Trivandrum,KrishnaTheatreKazhakoottam,695582,Malayalam,11:15,Reserved,129₹,252,102
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,15:05,ExecutiveOffline,160₹,119,2
+Karunagappally,CarnivalHJComplexLalajiJunction,690518,Malayalam,15:10,ClassicOffline,100₹,118,0
+Trivandrum,CarnivalArtechMallVanchyoor,695035,Malayalam,16:10,ExecutiveOffline,100₹,26,0
+Trivandrum,CarnivalArtechMallVanchyoor,695035,Malayalam,16:10,SilverOffline,180₹,147,16
+Kozhikode,RegalCinema,673001,Malayalam,17:00,FirstClassSc3,200₹,158,9
