@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nagaon,DivyaJyotiCinemaNagaon,782002,Hindi,13:00,Box,200₹,10,0
+Nagaon,DivyaJyotiCinemaNagaon,782002,Hindi,13:00,Balcony,150₹,186,138
+Nagaon,DivyaJyotiCinemaNagaon,782002,Hindi,19:00,Box,200₹,10,0
+Nagaon,DivyaJyotiCinemaNagaon,782002,Hindi,19:00,Balcony,150₹,186,138
+NewDelhi,PvrVegasDwarka,110078,Hindi,22:05,Prime,390₹,38,2
+NewDelhi,PvrVegasDwarka,110078,Hindi,22:05,Classic,350₹,112,0
