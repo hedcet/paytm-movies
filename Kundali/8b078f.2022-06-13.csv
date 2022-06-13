@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vadodara,VasantCinemaAsodar,388307,Gujarati,12:29,Upper,50₹,512,0
+Vadodara,VasantCinemaAsodar,388307,Gujarati,12:29,Balcony,60₹,218,0
+Nadiad,GlobeCinemaNadiad,387001,Gujarati,12:29,Balcony,60₹,119,119
+Nadiad,GlobeCinemaNadiad,387001,Gujarati,12:29,Uper,50₹,555,555
+Nadiad,GlobeCinemaNadiad,387001,Gujarati,15:29,Balcony,60₹,119,119
+Nadiad,GlobeCinemaNadiad,387001,Gujarati,15:29,Uper,50₹,555,555
+Anand,InfinityCinemas,388001,Gujarati,18:15,Recliner,250₹,19,0
+Anand,InfinityCinemas,388001,Gujarati,18:15,Platinum,150₹,50,0
+Anand,InfinityCinemas,388001,Gujarati,18:15,Gold,110₹,60,0
+Himatnagar,McrCinemaDevdhanComplex,383001,Gujarati,18:30,FirstClass,120₹,85,67
+Himatnagar,McrCinemaDevdhanComplex,383001,Gujarati,21:30,FirstClass,120₹,85,67
