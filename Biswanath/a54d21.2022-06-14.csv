@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Athagarh,GaneshTalkiesAthagarh,754029,Odia,12:00,Balcony,70₹,113,0
+Bhubaneswar,InoxDnRegaliaMallPatrapada,751019,Odia,13:00,Club,180₹,40,1
+Bhubaneswar,InoxDnRegaliaMallPatrapada,751019,Odia,13:00,Executive,160₹,20,0
+Bhubaneswar,InoxDnRegaliaMallPatrapada,751019,Odia,13:00,Royal,200₹,73,1
+Sundargarh,EosSundargarh,770020,Odia,14:45,Gold,160₹,50,0
+Sundargarh,EosSundargarh,770020,Odia,14:45,Platinum,220₹,14,0
+Sundargarh,EosSundargarh,770020,Odia,14:45,Silver,100₹,22,0
+Athagarh,GaneshTalkiesAthagarh,754029,Odia,15:00,Balcony,70₹,113,0
+JajpurRoad,SaraswatiMultiplexJajpurRoad,755019,Odia,15:15,Vip,150₹,128,88
+JajpurRoad,SaraswatiMultiplexJajpurRoad,755019,Odia,15:15,Diamond,120₹,78,55
