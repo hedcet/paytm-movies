@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Gotegaon,AlkaTalkiesNarsinghpur,487118,Hindi,12:00,FamilyClass,70₹,15,8
+Gotegaon,AlkaTalkiesNarsinghpur,487118,Hindi,12:00,Balcony,70₹,20,10
+Gotegaon,AlkaTalkiesNarsinghpur,487118,Hindi,15:00,FamilyClass,70₹,15,8
+Gotegaon,AlkaTalkiesNarsinghpur,487118,Hindi,15:00,Balcony,70₹,20,10
+Gotegaon,AlkaTalkiesNarsinghpur,487118,Hindi,18:00,FamilyClass,70₹,15,8
+Gotegaon,AlkaTalkiesNarsinghpur,487118,Hindi,18:00,Balcony,70₹,20,10
+Gotegaon,AlkaTalkiesNarsinghpur,487118,Hindi,21:00,FamilyClass,70₹,15,8
+Gotegaon,AlkaTalkiesNarsinghpur,487118,Hindi,21:00,Balcony,70₹,20,10
