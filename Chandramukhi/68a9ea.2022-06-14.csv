@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,InoxAmanoraTownCentreHadapsar,412028,Marathi,10:30,Club,112₹,109,2
+Pune,InoxAmanoraTownCentreHadapsar,412028,Marathi,10:30,Executive,112₹,21,0
+Pune,InoxAmanoraTownCentreHadapsar,412028,Marathi,10:30,Royale,190₹,2,0
+Mumbai,MovieTimeHubMallGoregaonE,400063,Marathi,12:15,Mhraja,120₹,44,6
+Mumbai,CinepolisNexusSeawoodsNaviMumbai,400706,Marathi,12:30,Normal,180₹,30,0
+Mumbai,CinepolisNexusSeawoodsNaviMumbai,400706,Marathi,12:30,Executive,200₹,86,5
+Mumbai,CinepolisNexusSeawoodsNaviMumbai,400706,Marathi,12:30,Premium,220₹,76,7
+Mumbai,CinepolisNexusSeawoodsNaviMumbai,400706,Marathi,12:30,Vip,420₹,14,2
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,12:35,Normal,180₹,27,0
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,12:35,Executive,180₹,106,2
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,12:35,Premium,180₹,46,18
+Pune,CinepolisSeasonsMallHadapsar,411028,Marathi,13:40,Normal,150₹,27,0
+Pune,CinepolisSeasonsMallHadapsar,411028,Marathi,13:40,Executive,150₹,92,3
+Pune,CinepolisSeasonsMallHadapsar,411028,Marathi,13:40,Premium,150₹,33,18
