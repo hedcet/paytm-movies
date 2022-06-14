@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,CarnivalArtechMallVanchyoor,695035,Malayalam,10:45,ExecutiveOffline,100₹,26,0
+Trivandrum,CarnivalArtechMallVanchyoor,695035,Malayalam,10:45,SilverOffline,150₹,147,16
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,11:00,Balcony,250₹,15,8
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,11:00,FirstClass,110₹,215,88
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,12:00,Deluxe,150₹,555,531
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,12:00,RoseCircle,150₹,115,115
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,15:05,ExecutiveOffline,160₹,119,25
+Trivandrum,CarnivalArtechMallVanchyoor,695035,Malayalam,16:00,ExecutiveOffline,100₹,26,0
+Trivandrum,CarnivalArtechMallVanchyoor,695035,Malayalam,16:00,SilverOffline,150₹,147,16
+Karunagappally,CarnivalHJComplexLalajiJunction,690518,Malayalam,16:45,ClassicOffline,110₹,118,0
+Kozhikode,RegalCinema,673001,Malayalam,17:00,FirstClassSc3,200₹,158,1
