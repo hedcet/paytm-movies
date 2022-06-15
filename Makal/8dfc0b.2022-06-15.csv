@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thiruvalla,ChilankaTheatreACDts2KThiruvalla,689101,Malayalam,10:30,Balcony,130₹,277,50
+Thiruvalla,ChilankaTheatreACDts2KThiruvalla,689101,Malayalam,14:00,Balcony,130₹,277,50
+Thiruvalla,ChilankaTheatreACDts2KThiruvalla,689101,Malayalam,17:30,Balcony,130₹,277,50
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,19:40,Club,170₹,66,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,19:40,Executive,130₹,22,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,19:40,RoyalRecliner,290₹,10,1
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,19:40,Royal,170₹,13,0
+Thiruvalla,ChilankaTheatreACDts2KThiruvalla,689101,Malayalam,21:00,Balcony,130₹,277,50
