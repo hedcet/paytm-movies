@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Anand,ShaanCinemaAvFortuneMall,388120,Gujarati,21:00,Recliner,350₹,13,0
+Anand,ShaanCinemaAvFortuneMall,388120,Gujarati,21:00,Sofa,80₹,28,27
+Anand,ShaanCinemaAvFortuneMall,388120,Gujarati,21:00,Gold,80₹,45,8
+Anand,ShaanCinemaAvFortuneMall,388120,Gujarati,21:00,Platinum,70₹,66,65
+Ahmedabad,DeviMultiplexNaroda,382330,Gujarati,21:00,Platinum,110₹,42,32
+Ahmedabad,DeviMultiplexNaroda,382330,Gujarati,21:00,Gold,110₹,98,97
+Ahmedabad,RajhansCinemasNikol,382350,Gujarati,22:00,Marvel,140₹,26,26
+Ahmedabad,RajhansCinemasNikol,382350,Gujarati,22:00,Royal,140₹,73,73
+Ahmedabad,RajhansCinemasNikol,382350,Gujarati,22:00,Executive,140₹,140,140
+Ahmedabad,RajhansCinemasNikol,382350,Gujarati,22:00,Box,140₹,12,12
