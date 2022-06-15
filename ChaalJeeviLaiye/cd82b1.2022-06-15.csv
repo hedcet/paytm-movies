@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Surat,TimeCinemaSuratGalaxyCircle,394510,Gujarati,14:00,Standard160,160₹,96,0
+Ahmedabad,TimeCinemaCgRoad,380006,Gujarati,19:00,Standard240,240₹,108,8
+Ahmedabad,RevolutionMultiplexCtm,380026,Gujarati,21:20,PlatinumClass,180₹,15,0
+Ahmedabad,RevolutionMultiplexCtm,380026,Gujarati,21:20,GoldenClass,160₹,40,0
+Ahmedabad,RevolutionMultiplexCtm,380026,Gujarati,21:20,SilverClass,140₹,20,0
+Surat,TimeCinemaSuratGalaxyCircle,394510,Gujarati,22:45,Standard180,180₹,96,0
