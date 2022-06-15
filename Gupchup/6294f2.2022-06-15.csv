@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Balasore,MovieExOtRoad,756038,Odia,11:00,Executive,250₹,13,0
+Balasore,MovieExOtRoad,756038,Odia,11:00,Prime,160₹,109,0
+Balasore,MovieExOtRoad,756038,Odia,11:00,Standard,120₹,45,0
+Sundargarh,EosSundargarh,770020,Odia,11:45,Gold,160₹,50,0
+Sundargarh,EosSundargarh,770020,Odia,11:45,Platinum,220₹,14,0
+Sundargarh,EosSundargarh,770020,Odia,11:45,Silver,100₹,22,0
+Athagarh,GaneshTalkiesAthagarh,754029,Odia,12:15,Gold,100₹,99,0
+JajpurRoad,SaraswatiMultiplexJajpurRoad,755019,Odia,12:15,Vip,150₹,128,88
+JajpurRoad,SaraswatiMultiplexJajpurRoad,755019,Odia,12:15,Diamond,120₹,78,55
+Bhubaneswar,InoxDnRegaliaMallPatrapada,751019,Odia,16:20,Club,250₹,40,23
+Bhubaneswar,InoxDnRegaliaMallPatrapada,751019,Odia,16:20,Executive,220₹,20,5
+Bhubaneswar,InoxDnRegaliaMallPatrapada,751019,Odia,16:20,Royal,280₹,73,45
+Rourkela,PvrForumRourkela,769004,Odia,16:40,Classic,130₹,28,0
+Rourkela,PvrForumRourkela,769004,Odia,16:40,Prime,150₹,98,6
+Rourkela,PvrForumRourkela,769004,Odia,16:40,PrimePlus,200₹,13,0
