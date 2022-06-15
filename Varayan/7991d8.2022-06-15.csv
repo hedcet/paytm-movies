@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,PvrLuluKochi,682025,Malayalam,13:10,Classic,140₹,39,0
+Kochi,PvrLuluKochi,682025,Malayalam,13:10,ClassicPlus,180₹,91,5
+Kochi,PvrLuluKochi,682025,Malayalam,13:10,Prime,200₹,68,18
+Kochi,PvrLuluKochi,682025,Malayalam,13:10,Recliner,350₹,10,0
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,14:00,Balcony,250₹,15,8
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,14:00,FirstClass,110₹,215,88
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,18:00,Balcony,250₹,15,8
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,18:00,FirstClass,110₹,215,88
+Kurumassery,KripaMoviesAC71PxdKurumassery,683579,Malayalam,18:15,GoldCircle,110₹,250,50
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,21:00,Balcony,250₹,15,8
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,21:00,FirstClass,110₹,215,88
+Kurumassery,KripaMoviesAC71PxdKurumassery,683579,Malayalam,21:30,GoldCircle,110₹,250,50
