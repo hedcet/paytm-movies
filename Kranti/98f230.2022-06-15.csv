@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Sivasagar,BhaskarjyotiCinemaBhatiapar,785640,Assamese,10:30,SilverClass,200₹,176,132
+Sivasagar,BhaskarjyotiCinemaBhatiapar,785640,Assamese,10:30,PremierCircle,150₹,315,273
+Golaghat,GoldCinemaGolaghat,785621,Assamese,11:00,Platinum,150₹,100,0
+Golaghat,GoldCinemaGolaghat,785621,Assamese,11:00,Gold,130₹,100,0
+Golaghat,GoldCinemaGolaghat,785621,Assamese,11:00,Silver,100₹,100,0
+Guwahati,GoldCinemaPaltanbazar,781001,Assamese,11:00,Gold,120₹,54,13
+Guwahati,GoldCinemaPaltanbazar,781001,Assamese,11:00,Silver,100₹,24,0
+Tezpur,GoldCinemaTezpur,784001,Assamese,13:00,Platinum,150₹,100,0
+Tezpur,GoldCinemaTezpur,784001,Assamese,13:00,Gold,120₹,100,0
+Tezpur,GoldCinemaTezpur,784001,Assamese,13:00,Silver,100₹,100,0
+Nagaon,DivyaJyotiCinemaNagaon,782002,Assamese,16:00,Box,200₹,10,0
+Nagaon,DivyaJyotiCinemaNagaon,782002,Assamese,16:00,Balcony,150₹,186,138
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,16:30,Classic,200₹,40,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,16:30,Prime,220₹,82,14
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,16:30,PrimePlus,240₹,13,0
