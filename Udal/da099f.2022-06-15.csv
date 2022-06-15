@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,PvrLuluKochi,682025,Malayalam,10:25,Classic,140₹,39,0
+Kochi,PvrLuluKochi,682025,Malayalam,10:25,ClassicPlus,160₹,91,4
+Kochi,PvrLuluKochi,682025,Malayalam,10:25,Prime,190₹,68,21
+Kochi,PvrLuluKochi,682025,Malayalam,10:25,Recliner,350₹,10,0
+Chennai,SpiEscapeCinemasRoyapettah,600014,Malayalam,13:15,Elite,202₹,99,36
+Chennai,SpiEscapeCinemasRoyapettah,600014,Malayalam,13:15,Budget,63₹,11,11
+Noida,PvrLogixCityCentreNoida,201301,Malayalam,16:50,Classic,250₹,87,0
+Hyderabad,PvrIrrumManzilKhairatabad,500082,Malayalam,16:55,Classic,200₹,94,1
+Hyderabad,PvrIrrumManzilKhairatabad,500082,Malayalam,16:55,Recliner,300₹,10,0
+Bengaluru,BalajiTheatreTavarekereNextToLakshmiTheatre,560029,Malayalam,19:00,Diamond,150₹,296,189
+Bengaluru,BalajiTheatreTavarekereNextToLakshmiTheatre,560029,Malayalam,19:00,Gold,120₹,442,314
+Mumbai,CinepolisNexusSeawoodsNaviMumbai,400706,Malayalam,19:25,Normal,200₹,32,0
+Mumbai,CinepolisNexusSeawoodsNaviMumbai,400706,Malayalam,19:25,Executive,220₹,91,5
+Mumbai,CinepolisNexusSeawoodsNaviMumbai,400706,Malayalam,19:25,Premium,240₹,80,6
+Mumbai,CinepolisNexusSeawoodsNaviMumbai,400706,Malayalam,19:25,Vip,440₹,14,0
+Bengaluru,InnovativeMultiplexMarathahalli,560037,Malayalam,22:00,Premium,150₹,36,0
