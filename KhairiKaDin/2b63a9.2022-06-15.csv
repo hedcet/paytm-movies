@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Dehradun,SilvercityDehradun,248001,Garhwali,10:30,Silver,100₹,68,0
+Dehradun,SilvercityDehradun,248001,Garhwali,10:30,Gold,150₹,141,24
+Dehradun,SilvercityDehradun,248001,Garhwali,10:30,Platinum,200₹,11,0
