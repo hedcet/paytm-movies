@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NewDelhi,PvrVegasPlayHouseDwarka,110078,Hindi,18:00,Recliner,400₹,8,0
+NewDelhi,PvrVegasPlayHouseDwarka,110078,Hindi,18:00,Prime,375₹,14,3
+NewDelhi,PvrVegasPlayHouseDwarka,110078,Hindi,18:00,Classic,350₹,36,0
