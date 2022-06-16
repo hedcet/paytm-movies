@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Eluru,AmbicaComplexEluru,534001,Telugu,11:00,Sofa,150₹,49,14
+Eluru,AmbicaComplexEluru,534001,Telugu,11:00,SecondClass,100₹,14,14
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,11:00,Premium,60₹,362,0
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,11:00,NonPremium,40₹,247,247
+Eluru,AmbicaComplexEluru,534001,Telugu,14:30,Sofa,150₹,49,14
+Eluru,AmbicaComplexEluru,534001,Telugu,14:30,SecondClass,100₹,14,14
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,14:30,Premium,60₹,362,0
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,14:30,NonPremium,40₹,247,247
+Eluru,AmbicaComplexEluru,534001,Telugu,18:30,Sofa,150₹,49,14
+Eluru,AmbicaComplexEluru,534001,Telugu,18:30,SecondClass,100₹,14,14
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,18:30,Premium,60₹,362,0
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,18:30,NonPremium,40₹,247,247
+Eluru,AmbicaComplexEluru,534001,Telugu,21:30,Sofa,150₹,49,14
+Eluru,AmbicaComplexEluru,534001,Telugu,21:30,SecondClass,100₹,14,14
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,21:30,Premium,60₹,362,0
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,21:30,NonPremium,40₹,247,247
