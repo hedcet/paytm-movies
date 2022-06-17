@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Athagarh,GaneshTalkiesAthagarh,754029,Odia,12:15,Gold,100₹,99,0
+JajpurRoad,SaraswatiMultiplexJajpurRoad,755019,Odia,15:00,Vip,150₹,128,88
+JajpurRoad,SaraswatiMultiplexJajpurRoad,755019,Odia,15:00,Diamond,120₹,78,55
