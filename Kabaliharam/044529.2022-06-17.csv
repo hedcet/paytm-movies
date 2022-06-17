@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kuzhithurai,LakshmiTheatreDolbyAtmosKuzhithurai,629163,Tamil,08:30,BoxA,150₹,25,0
+Kuzhithurai,LakshmiTheatreDolbyAtmosKuzhithurai,629163,Tamil,08:30,BoxB,150₹,25,0
+Kuzhithurai,LakshmiTheatreDolbyAtmosKuzhithurai,629163,Tamil,08:30,FirstClass,110₹,385,18
+Chennai,UdhayamComplexJafferkhanpet,600096,Tamil,12:00,FirstClass,112₹,213,11
+Chennai,UdhayamComplexJafferkhanpet,600096,Tamil,12:00,SecondClass,105₹,70,0
+Chennai,UdhayamComplexJafferkhanpet,600096,Tamil,12:00,ThirdClass,50₹,32,0
