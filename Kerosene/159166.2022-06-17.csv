@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Eluru,AmbicaComplexEluru,534001,Telugu,11:00,Sofa,150₹,49,14
+Eluru,AmbicaComplexEluru,534001,Telugu,11:00,SecondClass,100₹,14,14
+Hyderabad,MirajShaliniShivaniCinemasKothapet,500036,Telugu,11:10,Executive,200₹,94,17
+Kakinada,InoxSrmtMallRamanayyapeta,533005,Telugu,11:10,Executive,112₹,131,2
+Hyderabad,InoxGsmMallMadinaguda,500049,Telugu,13:30,Executive,200₹,136,6
+Hyderabad,InoxGsmMallMadinaguda,500049,Telugu,13:30,Royal,350₹,8,0
+Hyderabad,PvrKukatpally,500072,Telugu,13:55,Classic,200₹,135,40
+Hyderabad,PvrKukatpally,500072,Telugu,13:55,Recliner,350₹,9,9
+Eluru,AmbicaComplexEluru,534001,Telugu,14:30,Sofa,150₹,49,14
+Eluru,AmbicaComplexEluru,534001,Telugu,14:30,SecondClass,100₹,14,14
+Vizag,InoxChitralayaaMallChitralayaa,530020,Telugu,16:35,Executive,177₹,116,1
+Kakinada,InoxSrmtMallRamanayyapeta,533005,Telugu,16:45,Executive,112₹,131,0
+Eluru,AmbicaComplexEluru,534001,Telugu,18:30,Sofa,150₹,49,14
+Eluru,AmbicaComplexEluru,534001,Telugu,18:30,SecondClass,100₹,14,14
+Eluru,AmbicaComplexEluru,534001,Telugu,21:30,Sofa,150₹,49,14
+Eluru,AmbicaComplexEluru,534001,Telugu,21:30,SecondClass,100₹,14,14
