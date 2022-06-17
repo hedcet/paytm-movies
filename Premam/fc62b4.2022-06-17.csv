@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,751007,Odia,16:05,Vip,500₹,10,0
+Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,751007,Odia,16:05,Premium,240₹,48,24
+Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,751007,Odia,16:05,Executive,220₹,71,27
+Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,751007,Odia,16:05,Normal,200₹,26,0
