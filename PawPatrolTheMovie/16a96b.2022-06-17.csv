@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,400013,English,10:45,Prime,350₹,19,0
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,400013,English,10:45,PrimePlus,350₹,42,10
+Mumbai,InoxMegaplexInorbitMall,400064,English,13:10,Kiddles,220₹,53,0
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,17:20,Recliner,450₹,8,6
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,17:20,Prime,400₹,14,0
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,17:20,Classic,350₹,36,0
