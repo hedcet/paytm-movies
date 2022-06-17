@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NewDelhi,PvrVegasDwarka,110078,Hindi,10:00,Prime,350₹,38,0
+NewDelhi,PvrVegasDwarka,110078,Hindi,10:00,Classic,300₹,112,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,13:15,Classic,170₹,128,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,13:15,Prime,190₹,80,4
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,13:15,Recliner,350₹,14,2
+Ahmedabad,RevolutionMultiplexCtm,380026,Hindi,15:15,PlatinumClass,180₹,15,0
+Ahmedabad,RevolutionMultiplexCtm,380026,Hindi,15:15,GoldenClass,160₹,40,0
+Ahmedabad,RevolutionMultiplexCtm,380026,Hindi,15:15,SilverClass,140₹,20,0
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,15:20,Classic,60₹,16,15
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,15:20,Prime,190₹,110,49
