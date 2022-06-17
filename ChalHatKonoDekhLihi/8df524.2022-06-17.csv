@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kondagaon,KishoreCineplexRojgariPara,494226,Chhattisgarhi,12:00,Platinum,150₹,62,0
+Kondagaon,KishoreCineplexRojgariPara,494226,Chhattisgarhi,12:00,Gold,100₹,143,0
+Kondagaon,KishoreCineplexRojgariPara,494226,Chhattisgarhi,12:00,Silver,70₹,30,0
+Raipur,ShyamTalkiesRaipur,492001,Chhattisgarhi,12:00,Balcony,100₹,140,100
+Kondagaon,KishoreCineplexRojgariPara,494226,Chhattisgarhi,15:00,Platinum,150₹,62,0
+Kondagaon,KishoreCineplexRojgariPara,494226,Chhattisgarhi,15:00,Gold,100₹,143,0
+Kondagaon,KishoreCineplexRojgariPara,494226,Chhattisgarhi,15:00,Silver,70₹,30,0
+Raipur,ShyamTalkiesRaipur,492001,Chhattisgarhi,15:00,Balcony,100₹,140,100
+Kondagaon,KishoreCineplexRojgariPara,494226,Chhattisgarhi,18:00,Platinum,150₹,62,0
+Kondagaon,KishoreCineplexRojgariPara,494226,Chhattisgarhi,18:00,Gold,100₹,143,0
+Kondagaon,KishoreCineplexRojgariPara,494226,Chhattisgarhi,18:00,Silver,70₹,30,0
+Raipur,ShyamTalkiesRaipur,492001,Chhattisgarhi,18:00,Balcony,100₹,140,100
+Kondagaon,KishoreCineplexRojgariPara,494226,Chhattisgarhi,21:00,Platinum,150₹,62,0
+Kondagaon,KishoreCineplexRojgariPara,494226,Chhattisgarhi,21:00,Gold,100₹,143,0
+Kondagaon,KishoreCineplexRojgariPara,494226,Chhattisgarhi,21:00,Silver,70₹,30,0
+Raipur,ShyamTalkiesRaipur,492001,Chhattisgarhi,21:00,Balcony,100₹,140,100
