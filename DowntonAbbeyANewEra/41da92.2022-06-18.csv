@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrDynamicJuhu,400049,English,12:30,Prime,260₹,72,19
+Mumbai,PvrDynamicJuhu,400049,English,12:30,Classic,230₹,40,0
+Mumbai,InoxMegaplexInorbitMall,400064,English,14:00,Insignia,450₹,34,11
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,400013,English,14:30,PrimePlus,700₹,30,17
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,400013,English,14:30,Prime,700₹,11,0
+Mumbai,InoxLaserplexCr2NarimanPoint,400021,English,16:00,Insignia,950₹,70,8
+Gurgaon,PvrAmbienceGurgaon,122001,English,19:15,ClassicNormal,400₹,84,6
+Gurgaon,PvrAmbienceGurgaon,122001,English,19:15,Prime,500₹,68,17
+NewDelhi,PvrDirectorsCutDelhiAmbienceMall,110070,English,20:05,Platinum,"1,300₹",19,1
+NewDelhi,PvrDirectorsCutDelhiAmbienceMall,110070,English,20:05,PlatinumSuperior,"1,500₹",6,3
+NewDelhi,PvrSelectCityWalkGoldDelhi,110017,English,20:45,Platinum,500₹,24,9
+NewDelhi,PvrSelectCityWalkGoldDelhi,110017,English,20:45,PlatinumSuperior,500₹,16,15
