@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,13:00,Quartz,152₹,242,0
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,13:00,Zircon,60₹,27,27
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,15:25,Classic,60₹,34,34
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,15:25,Prime,190₹,142,58
