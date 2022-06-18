@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,400013,English,10:45,Prime,500₹,19,0
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,400013,English,10:45,PrimePlus,500₹,42,28
+Mumbai,InoxMegaplexInorbitMall,400064,English,12:45,Kiddles,250₹,53,45
+Mumbai,MetroInoxCinemaMGRoad,400020,English,14:00,Club,240₹,127,11
+Mumbai,MetroInoxCinemaMGRoad,400020,English,14:00,Executive,210₹,30,0
+Mumbai,MetroInoxCinemaMGRoad,400020,English,14:00,Royale,280₹,81,12
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,17:20,Recliner,450₹,8,8
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,17:20,Prime,400₹,14,7
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,17:20,Classic,350₹,36,4
