@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thanjavur,GvComplexThanjavur,613001,Tamil,11:15,I,120₹,138,12
+Chennai,C3LaurelMallRgbLaserChengalpattu,603111,Tamil,11:45,Platinum,150₹,169,23
+Chennai,C3LaurelMallRgbLaserChengalpattu,603111,Tamil,11:45,Silver,150₹,54,0
+Thanjavur,GvComplexThanjavur,613001,Tamil,14:15,I,120₹,138,12
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,16:15,Quartz,152₹,242,0
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,16:15,Zircon,60₹,27,27
+Thanjavur,GvComplexThanjavur,613001,Tamil,18:15,I,120₹,138,12
+Thanjavur,GvComplexThanjavur,613001,Tamil,22:00,I,120₹,138,12
