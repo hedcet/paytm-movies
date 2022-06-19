@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Athagarh,GaneshTalkiesAthagarh,754029,Odia,15:05,Gold,100₹,99,0
+Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,751007,Odia,15:40,Vip,500₹,10,0
+Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,751007,Odia,15:40,Premium,240₹,48,48
+Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,751007,Odia,15:40,Executive,220₹,52,49
+Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,751007,Odia,15:40,Normal,200₹,23,3
