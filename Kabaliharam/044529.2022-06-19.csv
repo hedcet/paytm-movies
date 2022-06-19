@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Panachamoodu,YamunaTheatrePanachamoodu,695001,Tamil,11:00,FirstClass,100₹,287,0
+Panachamoodu,YamunaTheatrePanachamoodu,695001,Tamil,14:00,FirstClass,100₹,287,0
+Panachamoodu,YamunaTheatrePanachamoodu,695001,Tamil,18:00,FirstClass,100₹,287,0
+Panachamoodu,YamunaTheatrePanachamoodu,695001,Tamil,21:00,FirstClass,100₹,287,0
+Chennai,UdhayamComplexJafferkhanpet,600096,Tamil,22:30,FirstClass,112₹,213,17
+Chennai,UdhayamComplexJafferkhanpet,600096,Tamil,22:30,SecondClass,105₹,70,0
+Chennai,UdhayamComplexJafferkhanpet,600096,Tamil,22:30,ThirdClass,50₹,32,0
