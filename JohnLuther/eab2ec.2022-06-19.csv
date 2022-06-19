@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,13:10,Club,190₹,155,9
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,13:10,Executive,130₹,26,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,13:10,RoyalRecliner,350₹,10,10
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,13:10,Royal,190₹,20,6
+Payyanur,AradhanaArchanaMovieHousePayyanur,670307,Malayalam,16:30,Balcony,110₹,144,1
+Payyanur,AradhanaArchanaMovieHousePayyanur,670307,Malayalam,19:30,Balcony,110₹,144,0
+SultanBathery,AiswaryaAthulyaAiswaryaCineplexSulthanBathery,673592,Malayalam,20:30,SofaSeat,170₹,16,6
+SultanBathery,AiswaryaAthulyaAiswaryaCineplexSulthanBathery,673592,Malayalam,20:30,GoldClass,110₹,147,9
+Kochi,PvrLuluKochi,682025,Malayalam,22:10,Classic,140₹,39,0
+Kochi,PvrLuluKochi,682025,Malayalam,22:10,ClassicPlus,180₹,91,10
+Kochi,PvrLuluKochi,682025,Malayalam,22:10,Prime,200₹,68,18
+Kochi,PvrLuluKochi,682025,Malayalam,22:10,Recliner,350₹,10,5
