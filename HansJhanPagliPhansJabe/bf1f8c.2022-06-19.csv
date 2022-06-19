@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nagpur,JayshreeCineplexOldCottonMarket,440018,Chhattisgarhi,12:30,Balcony,100₹,168,3
+Nagpur,JayshreeCineplexOldCottonMarket,440018,Chhattisgarhi,12:30,Reserve,70₹,312,0
+Nagpur,JayshreeCineplexOldCottonMarket,440018,Chhattisgarhi,15:30,Balcony,100₹,168,0
+Nagpur,JayshreeCineplexOldCottonMarket,440018,Chhattisgarhi,15:30,Reserve,70₹,312,0
+Nagpur,JayshreeCineplexOldCottonMarket,440018,Chhattisgarhi,18:30,Balcony,100₹,168,0
+Nagpur,JayshreeCineplexOldCottonMarket,440018,Chhattisgarhi,18:30,Reserve,70₹,312,0
+Nagpur,JayshreeCineplexOldCottonMarket,440018,Chhattisgarhi,21:30,Balcony,100₹,168,0
+Nagpur,JayshreeCineplexOldCottonMarket,440018,Chhattisgarhi,21:30,Reserve,70₹,312,0
