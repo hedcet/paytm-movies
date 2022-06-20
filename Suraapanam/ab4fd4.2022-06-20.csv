@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Suryapet,NavyaTheatreSuryapet,508213,Telugu,11:00,UpperBalcony,100₹,225,159
+Suryapet,NavyaTheatreSuryapet,508213,Telugu,11:00,LowerBalcony,100₹,183,183
+Suryapet,NavyaTheatreSuryapet,508213,Telugu,11:00,SecondClass,70₹,130,104
+Suryapet,NavyaTheatreSuryapet,508213,Telugu,14:00,UpperBalcony,100₹,225,159
+Suryapet,NavyaTheatreSuryapet,508213,Telugu,14:00,LowerBalcony,100₹,183,183
+Suryapet,NavyaTheatreSuryapet,508213,Telugu,14:00,SecondClass,70₹,130,104
+Suryapet,NavyaTheatreSuryapet,508213,Telugu,18:00,UpperBalcony,100₹,225,159
+Suryapet,NavyaTheatreSuryapet,508213,Telugu,18:00,LowerBalcony,100₹,183,183
+Suryapet,NavyaTheatreSuryapet,508213,Telugu,18:00,SecondClass,70₹,130,104
+Suryapet,NavyaTheatreSuryapet,508213,Telugu,21:00,UpperBalcony,100₹,225,159
+Suryapet,NavyaTheatreSuryapet,508213,Telugu,21:00,LowerBalcony,100₹,183,182
+Suryapet,NavyaTheatreSuryapet,508213,Telugu,21:00,SecondClass,70₹,130,104
