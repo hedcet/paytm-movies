@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,RevolutionMultiplexCtm,380026,Gujarati,21:00,PlatinumClass,112₹,15,0
+Ahmedabad,RevolutionMultiplexCtm,380026,Gujarati,21:00,GoldenClass,112₹,40,39
+Ahmedabad,RevolutionMultiplexCtm,380026,Gujarati,21:00,SilverClass,112₹,20,19
+Gandhinagar,InoxR21Gandhinagar,382021,Gujarati,21:30,Ebony,200₹,35,35
