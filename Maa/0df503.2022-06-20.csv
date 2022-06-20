@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Firozepur,SilverBirdCinemasFerozepurMogaRoad,152002,Punjabi,12:10,Box,300₹,10,0
+Firozepur,SilverBirdCinemasFerozepurMogaRoad,152002,Punjabi,12:10,Gold,100₹,139,64
+Firozepur,SilverBirdCinemasFerozepurMogaRoad,152002,Punjabi,20:45,Box,300₹,10,0
+Firozepur,SilverBirdCinemasFerozepurMogaRoad,152002,Punjabi,20:45,Gold,100₹,139,57
