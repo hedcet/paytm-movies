@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Madurai,CentralCinema,625001,Tamil,10:30,FirstClass,40₹,175,0
+Madurai,CentralCinema,625001,Tamil,14:00,FirstClass,40₹,175,0
+Madurai,CentralCinema,625001,Tamil,18:00,FirstClass,40₹,175,2
+Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,632006,Tamil,18:30,Box,130₹,11,11
+Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,632006,Tamil,18:30,Couple,130₹,20,0
+Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,632006,Tamil,18:30,Premium,130₹,130,27
+Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,632006,Tamil,18:30,Elite1,100₹,220,127
+Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,632006,Tamil,18:30,Elite2,100₹,110,16
+Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,632006,Tamil,18:30,Economy1,100₹,66,7
+Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,632006,Tamil,18:30,Economy2,100₹,66,0
+Madurai,CentralCinema,625001,Tamil,22:00,FirstClass,40₹,175,0
