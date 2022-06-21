@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chikhli,CinemagicCinemaChikhli,443201,Hindi,12:00,Gold,150₹,181,90
+Chikhli,CinemagicCinemaChikhli,443201,Hindi,12:00,Silver,150₹,27,14
+Chikhli,CinemagicCinemaChikhli,443201,Hindi,15:00,Gold,150₹,181,90
+Chikhli,CinemagicCinemaChikhli,443201,Hindi,15:00,Silver,150₹,27,14
+Chikhli,CinemagicCinemaChikhli,443201,Hindi,18:00,Gold,150₹,181,90
+Chikhli,CinemagicCinemaChikhli,443201,Hindi,18:00,Silver,150₹,27,14
+Chikhli,CinemagicCinemaChikhli,443201,Hindi,21:00,Gold,150₹,181,90
+Chikhli,CinemagicCinemaChikhli,443201,Hindi,21:00,Silver,150₹,27,14
+NewDelhi,PvrVegasPlayHouseDwarka,110078,Hindi,21:50,Recliner,350₹,8,5
+NewDelhi,PvrVegasPlayHouseDwarka,110078,Hindi,21:50,Prime,300₹,14,0
+NewDelhi,PvrVegasPlayHouseDwarka,110078,Hindi,21:50,Classic,250₹,36,3
