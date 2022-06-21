@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Anand,InfinityCinemas,388001,Gujarati,09:30,Recliner,250₹,19,0
+Anand,InfinityCinemas,388001,Gujarati,09:30,Platinum,150₹,50,0
+Anand,InfinityCinemas,388001,Gujarati,09:30,Gold,110₹,60,0
+Ahmedabad,RevolutionMultiplexMahemdavad,387130,Gujarati,12:30,Royal,200₹,20,0
+Ahmedabad,RevolutionMultiplexMahemdavad,387130,Gujarati,12:30,Platinum,160₹,36,0
+Ahmedabad,RevolutionMultiplexMahemdavad,387130,Gujarati,12:30,Golden,140₹,36,0
+Ahmedabad,RevolutionMultiplexMahemdavad,387130,Gujarati,12:30,Silver,120₹,33,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,16:15,Gold,120₹,230,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,16:15,Silver,100₹,270,0
+Anand,InfinityCinemas,388001,Gujarati,19:00,Recliner,250₹,19,0
+Anand,InfinityCinemas,388001,Gujarati,19:00,Platinum,150₹,50,0
+Anand,InfinityCinemas,388001,Gujarati,19:00,Gold,110₹,60,0
+Rajkot,InoxRelianceMegaMallRajkot,360005,Gujarati,19:15,Club,140₹,55,10
+Rajkot,InoxRelianceMegaMallRajkot,360005,Gujarati,19:15,Executive,140₹,22,0
+Rajkot,InoxRelianceMegaMallRajkot,360005,Gujarati,19:15,RoyalRecliners,140₹,6,6
+Rajkot,InoxRelianceMegaMallRajkot,360005,Gujarati,19:15,Royal,140₹,29,29
