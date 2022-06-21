@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Veraval,SachiMultiplex,362266,Gujarati,15:00,Captain,120₹,68,20
+Veraval,SachiMultiplex,362266,Gujarati,15:00,Crew,120₹,60,0
+Rajkot,InoxRWorldRajkot,360001,Gujarati,16:20,Gold,180₹,133,0
+Rajkot,InoxRWorldRajkot,360001,Gujarati,16:20,Silver,160₹,41,0
+Surat,TimeCinemaSuratGalaxyCircle,394510,Gujarati,17:45,Standard150,150₹,96,0
+Junagadh,SurajCineplexJunagadh,362001,Gujarati,18:30,Sofa,180₹,100,0
+Junagadh,SurajCineplexJunagadh,362001,Gujarati,18:30,Executive,160₹,100,0
+Surat,TimeCinemaSuratGalaxyCircle,394510,Gujarati,20:40,Standard180,180₹,96,0
