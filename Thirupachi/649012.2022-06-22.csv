@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Tittagudi,PeriyasamyACTittagudi,606106,Tamil,08:30,BoxA,70₹,9,9
+Tittagudi,PeriyasamyACTittagudi,606106,Tamil,08:30,BoxB,70₹,9,9
+Tittagudi,PeriyasamyACTittagudi,606106,Tamil,08:30,Balcony,70₹,58,58
+Tittagudi,PeriyasamyACTittagudi,606106,Tamil,08:30,FirstClass,70₹,418,18
+Tindivanam,KannaiyaTheatreAC4KTindivanam,604001,Tamil,08:30,Balcony,70₹,117,117
+Tindivanam,KannaiyaTheatreAC4KTindivanam,604001,Tamil,08:30,FirstClass,70₹,403,12
+Madurai,CentralCinema,625001,Tamil,10:30,FirstClass,40₹,175,0
+Madurai,CentralCinema,625001,Tamil,14:00,FirstClass,40₹,175,0
+Madurai,CentralCinema,625001,Tamil,18:00,FirstClass,40₹,175,0
+Chennai,VettriTheatresRgbLaserChrompet,600044,Tamil,18:20,BoxA,110₹,13,12
+Chennai,VettriTheatresRgbLaserChrompet,600044,Tamil,18:20,BoxB,110₹,13,12
+Chennai,VettriTheatresRgbLaserChrompet,600044,Tamil,18:20,Balcony,110₹,125,124
+Chennai,VettriTheatresRgbLaserChrompet,600044,Tamil,18:20,Gold,110₹,344,343
+Chennai,VettriTheatresRgbLaserChrompet,600044,Tamil,18:20,Silver,110₹,208,163
+Madurai,CentralCinema,625001,Tamil,22:00,FirstClass,40₹,175,0
