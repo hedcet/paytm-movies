@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kuzhithurai,LakshmiTheatreDolbyAtmosKuzhithurai,629163,Tamil,18:30,BoxA,100₹,25,4
+Kuzhithurai,LakshmiTheatreDolbyAtmosKuzhithurai,629163,Tamil,18:30,BoxB,100₹,25,1
+Kuzhithurai,LakshmiTheatreDolbyAtmosKuzhithurai,629163,Tamil,18:30,FirstClass,70₹,385,139
