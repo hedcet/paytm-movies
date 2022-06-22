@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Gobichettipalayam,ZeonCinemasModachurRoad,638476,Tamil,10:45,Platinum,150₹,10,0
+Gobichettipalayam,ZeonCinemasModachurRoad,638476,Tamil,10:45,Gold,110₹,140,16
+Gobichettipalayam,ZeonCinemasModachurRoad,638476,Tamil,10:45,Silver,80₹,19,0
+Dharapuram,SriSakthiCinemasSvrDharapuram,638656,Tamil,14:35,Platinum,150₹,28,0
+Dharapuram,SriSakthiCinemasSvrDharapuram,638656,Tamil,14:35,Gold,110₹,104,19
+Dharapuram,SriSakthiCinemasSvrDharapuram,638656,Tamil,14:35,Silver,80₹,16,0
