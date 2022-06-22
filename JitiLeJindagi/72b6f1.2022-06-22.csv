@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,RevolutionMultiplexCtm,380026,Gujarati,21:00,PlatinumClass,112₹,15,0
+Ahmedabad,RevolutionMultiplexCtm,380026,Gujarati,21:00,GoldenClass,112₹,40,39
+Ahmedabad,RevolutionMultiplexCtm,380026,Gujarati,21:00,SilverClass,112₹,20,19
+Ahmedabad,RajhansCinemasSatadhar,380061,Gujarati,22:30,Marvel,130₹,30,20
+Ahmedabad,RajhansCinemasSatadhar,380061,Gujarati,22:30,Royal,130₹,105,105
+Ahmedabad,RajhansCinemasSatadhar,380061,Gujarati,22:30,Executive,130₹,175,175
+Ahmedabad,RajhansCinemasSatadhar,380061,Gujarati,22:30,Box,130₹,4,4
+Ahmedabad,RajhansCinemasNikol,382350,Gujarati,22:30,Marvel,130₹,26,26
+Ahmedabad,RajhansCinemasNikol,382350,Gujarati,22:30,Royal,130₹,73,73
+Ahmedabad,RajhansCinemasNikol,382350,Gujarati,22:30,Executive,130₹,140,140
+Ahmedabad,RajhansCinemasNikol,382350,Gujarati,22:30,Box,130₹,12,11
