@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Cuddalore,KamalamCinemas2KACCuddalore,607002,Tamil,11:00,FirstClass,130₹,287,4
+Cuddalore,KamalamCinemas2KACCuddalore,607002,Tamil,11:00,SecondClass,100₹,150,0
+Cuddalore,KamalamCinemas2KACCuddalore,607002,Tamil,14:30,FirstClass,130₹,287,0
+Cuddalore,KamalamCinemas2KACCuddalore,607002,Tamil,14:30,SecondClass,100₹,150,0
+Cuddalore,KamalamCinemas2KACCuddalore,607002,Tamil,18:30,FirstClass,130₹,287,0
+Cuddalore,KamalamCinemas2KACCuddalore,607002,Tamil,18:30,SecondClass,100₹,150,0
+Cuddalore,KamalamCinemas2KACCuddalore,607002,Tamil,22:00,FirstClass,130₹,287,0
+Cuddalore,KamalamCinemas2KACCuddalore,607002,Tamil,22:00,SecondClass,100₹,150,0
