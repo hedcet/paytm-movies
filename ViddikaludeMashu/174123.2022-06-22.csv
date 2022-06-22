@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Payyanur,AradhanaArchanaMovieHousePayyanur,670307,Malayalam,10:30,Royal,100₹,532,0
+Kollengode,GowriMovieHouse2KDolby71Kollengode,678506,Malayalam,11:00,FirstClass,100₹,129,0
+Payyanur,AradhanaArchanaMovieHousePayyanur,670307,Malayalam,13:30,Royal,100₹,532,0
+Karunagappally,CarnivalHJComplexLalajiJunction,690518,Malayalam,15:00,ClassicOffline,100₹,194,15
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,15:00,BlueCircle,150₹,227,218
+Kunnamkulam,BavanaMoviesHouseACKunnamkulam,680503,Malayalam,15:00,LuxuryClass,220₹,13,0
+Kunnamkulam,BavanaMoviesHouseACKunnamkulam,680503,Malayalam,15:00,PlatinumCircle,130₹,159,0
+Kollengode,GowriMovieHouse2KDolby71Kollengode,678506,Malayalam,16:00,FirstClass,100₹,129,0
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,16:10,ExecutiveOffline,160₹,132,14
+Kodungallur,CarnivalMughalMallStarNagar,680664,Malayalam,16:15,ExecutiveOffline,140₹,166,3
+Payyanur,AradhanaArchanaMovieHousePayyanur,670307,Malayalam,16:30,Royal,100₹,532,0
+Kunnamkulam,BavanaMoviesHouseACKunnamkulam,680503,Malayalam,17:30,LuxuryClass,220₹,13,0
+Kunnamkulam,BavanaMoviesHouseACKunnamkulam,680503,Malayalam,17:30,PlatinumCircle,130₹,159,0
+Payyanur,AradhanaArchanaMovieHousePayyanur,670307,Malayalam,19:30,Royal,100₹,532,0
