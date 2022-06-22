@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Payyanur,AradhanaArchanaMovieHousePayyanur,670307,Malayalam,10:30,Balcony,110₹,144,0
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,12:00,BlueCircle,150₹,227,218
+Kakkattil,AjanthaCinemasKakkattil,673507,Malayalam,13:30,Executive,110₹,199,0
+Payyanur,AradhanaArchanaMovieHousePayyanur,670307,Malayalam,13:30,Balcony,110₹,144,0
+Kakkattil,AjanthaCinemasKakkattil,673507,Malayalam,16:30,Executive,110₹,199,0
+Kakkattil,AjanthaCinemasKakkattil,673507,Malayalam,19:30,Executive,110₹,199,7
