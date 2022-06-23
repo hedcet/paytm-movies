@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,Santosh70MmCinemaAbids,500001,Telugu,11:30,Balcony,150₹,318,232
+Hyderabad,Santosh70MmCinemaAbids,500001,Telugu,11:30,Silver,100₹,342,228
+Hyderabad,Santosh70MmCinemaAbids,500001,Telugu,11:30,Bronze,70₹,152,152
+Hyderabad,YakuthMahalYakutpura,500023,Telugu,12:30,Balcony,110₹,196,24
+Hyderabad,YakuthMahalYakutpura,500023,Telugu,12:30,DressCircle,80₹,192,24
+Hyderabad,Santosh70MmCinemaAbids,500001,Telugu,14:30,Balcony,150₹,318,232
+Hyderabad,Santosh70MmCinemaAbids,500001,Telugu,14:30,Silver,100₹,342,228
+Hyderabad,Santosh70MmCinemaAbids,500001,Telugu,14:30,Bronze,70₹,152,152
+Hyderabad,YakuthMahalYakutpura,500023,Telugu,15:30,Balcony,110₹,196,24
+Hyderabad,YakuthMahalYakutpura,500023,Telugu,15:30,DressCircle,80₹,192,24
+Hyderabad,YakuthMahalYakutpura,500023,Telugu,18:30,Balcony,110₹,196,24
+Hyderabad,YakuthMahalYakutpura,500023,Telugu,18:30,DressCircle,80₹,192,24
+Hyderabad,YakuthMahalYakutpura,500023,Telugu,21:30,Balcony,110₹,196,24
+Hyderabad,YakuthMahalYakutpura,500023,Telugu,21:30,DressCircle,80₹,192,24
