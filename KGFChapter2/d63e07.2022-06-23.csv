@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,12:00,Classic,150₹,128,5
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,12:00,Prime,170₹,80,10
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,12:00,Recliner,250₹,14,4
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,14:30,Platinum,150₹,16,14
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,14:30,Gold,100₹,180,112
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,14:30,Silver,80₹,135,86
+Ahmedabad,RevolutionMultiplexCtm,380026,Hindi,15:15,PlatinumClass,180₹,15,0
+Ahmedabad,RevolutionMultiplexCtm,380026,Hindi,15:15,GoldenClass,160₹,40,0
+Ahmedabad,RevolutionMultiplexCtm,380026,Hindi,15:15,SilverClass,140₹,20,0
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,15:20,Classic,60₹,16,16
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,15:20,Prime,190₹,110,28
