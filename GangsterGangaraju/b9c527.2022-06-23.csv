@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,AnjaliTheatreSecunderabad,500003,Telugu,21:15,UpperBalcony,150₹,94,48
+Hyderabad,AnjaliTheatreSecunderabad,500003,Telugu,21:15,LowerBalcony,100₹,406,301
+Hyderabad,AnjaliTheatreSecunderabad,500003,Telugu,21:15,ThirdClass,40₹,164,164
