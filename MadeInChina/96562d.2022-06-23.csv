@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,RocklineCinemasJalahalliCross,560057,Kannada,10:30,Gold,150₹,213,17
+Bengaluru,RocklineCinemasJalahalliCross,560057,Kannada,16:10,Gold,150₹,193,19
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,18:00,Platinum,150₹,16,14
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,18:00,Gold,100₹,180,112
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,18:00,Silver,80₹,135,86
