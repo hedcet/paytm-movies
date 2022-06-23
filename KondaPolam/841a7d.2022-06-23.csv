@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,MovieTimePlatinumCinemasGachibowli,500032,Telugu,12:15,PlatinumRecliners,350₹,16,0
+Hyderabad,MovieTimePlatinumCinemasGachibowli,500032,Telugu,12:15,PlatinumPremiumRecliner,350₹,18,6
+Hyderabad,MovieTimePlatinumCinemasGachibowli,500032,Telugu,23:00,PlatinumRecliners,350₹,16,1
+Hyderabad,MovieTimePlatinumCinemasGachibowli,500032,Telugu,23:00,PlatinumPremiumRecliner,350₹,18,14
