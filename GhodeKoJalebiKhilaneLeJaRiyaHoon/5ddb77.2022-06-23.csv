@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrIconInfinitiAndheriW,400053,Hindi,13:00,Classic,120₹,45,0
+Mumbai,PvrIconInfinitiAndheriW,400053,Hindi,13:00,Prime,160₹,179,5
+Mumbai,PvrIconInfinitiAndheriW,400053,Hindi,13:00,Recliner,400₹,12,0
+Mumbai,MetroInoxCinemaMGRoad,400020,Hindi,14:10,Club,190₹,108,21
+Mumbai,MetroInoxCinemaMGRoad,400020,Hindi,14:10,Executive,160₹,36,0
+Mumbai,MetroInoxCinemaMGRoad,400020,Hindi,14:10,Royale,210₹,48,3
+Noida,PvrLogixCityCentreNoida,201301,Hindi,15:10,Classic,250₹,88,13
+Pune,CinepolisSeasonsMallHadapsar,411028,Hindi,16:10,Normal,150₹,29,0
+Pune,CinepolisSeasonsMallHadapsar,411028,Hindi,16:10,Executive,150₹,83,0
+Pune,CinepolisSeasonsMallHadapsar,411028,Hindi,16:10,Premium,170₹,35,1
+Bengaluru,PvrVegaBannerghattaRoad,560076,Hindi,16:20,Classic,150₹,73,7
+Bengaluru,PvrVegaBannerghattaRoad,560076,Hindi,16:20,Recliner,250₹,9,3
+NewDelhi,PvrPromenadeVasantKunj,110070,Hindi,16:45,Classic,149₹,50,4
+NewDelhi,PvrPromenadeVasantKunj,110070,Hindi,16:45,Prime,179₹,34,20
+Bengaluru,PvrVegaBannerghattaRoad,560076,Hindi,21:50,Classic,170₹,138,18
