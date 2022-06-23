@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MaisonPvrTheLoftLuxeJioWorldDriveBkc,400051,English,12:45,Platinum,500₹,33,5
+Mumbai,PvrDynamicJuhu,400049,English,12:55,Prime,160₹,72,21
+Mumbai,PvrDynamicJuhu,400049,English,12:55,Classic,140₹,40,0
+Mumbai,InoxMegaplexInorbitMall,400064,English,13:45,Insignia,400₹,34,3
+Mumbai,InoxLaserplexCr2NarimanPoint,400021,English,16:40,Insignia,600₹,70,8
+NewDelhi,PvrPromenadeVasantKunj,110070,English,17:15,Classic,149₹,150,7
+NewDelhi,PvrPromenadeVasantKunj,110070,English,17:15,Prime,179₹,44,9
+NewDelhi,PvrSelectCityWalkGoldDelhi,110017,English,20:45,Platinum,400₹,24,10
+NewDelhi,PvrSelectCityWalkGoldDelhi,110017,English,20:45,PlatinumSuperior,400₹,8,7
+NewDelhi,PvrDirectorsCutDelhiAmbienceMall,110070,English,20:45,Platinum,500₹,14,11
+NewDelhi,PvrDirectorsCutDelhiAmbienceMall,110070,English,20:45,PlatinumSuperior,500₹,6,6
