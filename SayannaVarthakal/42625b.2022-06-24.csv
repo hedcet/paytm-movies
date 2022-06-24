@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Puthoor,ChellamTheatrePuthoor,691507,Malayalam,11:00,Balcony,150₹,390,12
+Puthoor,ChellamTheatrePuthoor,691507,Malayalam,11:00,Reserved,125₹,610,340
+Puthoor,ChellamTheatrePuthoor,691507,Malayalam,14:00,Balcony,150₹,390,12
+Puthoor,ChellamTheatrePuthoor,691507,Malayalam,14:00,Reserved,125₹,610,340
+Puthoor,ChellamTheatrePuthoor,691507,Malayalam,18:00,Balcony,150₹,390,12
+Puthoor,ChellamTheatrePuthoor,691507,Malayalam,18:00,Reserved,125₹,610,340
+Puthoor,ChellamTheatrePuthoor,691507,Malayalam,21:30,Balcony,150₹,390,12
+Puthoor,ChellamTheatrePuthoor,691507,Malayalam,21:30,Reserved,125₹,610,340
