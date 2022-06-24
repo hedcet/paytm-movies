@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Raipur,ShyamTalkiesRaipur,492001,Chhattisgarhi,12:00,Balcony,100₹,140,100
+Raipur,PvrCityCenterRaipur,492001,Chhattisgarhi,13:05,Recliner,380₹,12,0
+Raipur,PvrCityCenterRaipur,492001,Chhattisgarhi,13:05,Prime,160₹,140,0
+Raipur,PvrCityCenterRaipur,492001,Chhattisgarhi,13:05,Classic,140₹,24,0
+Raipur,ShyamTalkiesRaipur,492001,Chhattisgarhi,18:00,Balcony,100₹,140,100
+Raipur,ShyamTalkiesRaipur,492001,Chhattisgarhi,21:00,Balcony,100₹,140,100
