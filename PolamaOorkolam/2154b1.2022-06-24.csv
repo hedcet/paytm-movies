@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,WoodlandsTheatreRoyapettah,600014,Tamil,12:00,FirstClass,100₹,408,374
+Chennai,WoodlandsTheatreRoyapettah,600014,Tamil,12:00,SecondClass,60₹,51,51
+Tuticorin,SathyaTheatre,628001,Tamil,14:30,FirstClass,50₹,100,0
+Chennai,AgsCinemasMaduravoyal,600095,Tamil,15:35,Diamond,150₹,205,43
+Chennai,AgsCinemasVillivakkam,600049,Tamil,15:45,Diamond,150₹,113,41
+Tuticorin,SathyaTheatre,628001,Tamil,18:30,FirstClass,50₹,100,0
+Tuticorin,SathyaTheatre,628001,Tamil,22:00,FirstClass,50₹,100,0
