@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,PvrMarketCityGoldPune,411014,English,10:30,GoldPrime,500₹,22,0
+Pune,PvrMarketCityGoldPune,411014,English,10:30,GoldClassic,450₹,24,8
+Mumbai,InoxMegaplexInorbitMall,400064,English,10:40,Insignia,370₹,40,1
+Indore,PvrPlayHouseTreasureIslandIndore,452001,Hindi,11:00,Prime,170₹,46,23
+Indore,PvrPlayHouseTreasureIslandIndore,452001,Hindi,11:00,Classic,170₹,26,0
+Indore,PvrPlayHouseTreasureIslandIndore,452001,Hindi,11:00,Recliner,250₹,8,4
+NewDelhi,PvrPromenadeVasantKunj,110070,English,11:10,Classic,410₹,84,2
+NewDelhi,PvrPromenadeVasantKunj,110070,English,11:10,Prime,430₹,21,0
+Bengaluru,PvrVegaPlayHouseBannerghattaRoad,560076,English,11:25,3DClassic,210₹,62,4
+NewDelhi,PvrVegas4DxDwarka,110078,English,15:00,Prime,550₹,24,8
+NewDelhi,PvrVegas4DxDwarka,110078,English,15:00,Classic,500₹,72,2
+Ahmedabad,TimeCinemaCgRoad,380006,English,16:15,Infinity1000,"1,000₹",12,0
+Noida,PvrLogixCityCentreNoida,201301,English,16:50,Classic,325₹,106,5
+Bengaluru,PvrPlayHouseForumMallKoramangala,560095,English,18:10,3DClassic,270₹,103,22
