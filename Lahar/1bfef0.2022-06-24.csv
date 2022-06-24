@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Sawantwadi,AryaNovaCinemaz,416510,Marathi,09:30,Vip,200₹,100,0
+Sawantwadi,AryaNovaCinemaz,416510,Marathi,09:30,Gold,170₹,100,0
+Sawantwadi,AryaNovaCinemaz,416510,Marathi,09:30,Silver,150₹,100,0
+Vita,SuriyaNovaCinemas,415311,Marathi,10:40,Gold,120₹,100,0
+Vita,SuriyaNovaCinemas,415311,Marathi,10:40,Silver,120₹,100,0
+Mumbai,PvrXperiaPalavaDombivaliE,421204,Marathi,12:40,Classic,130₹,36,0
+Mumbai,PvrXperiaPalavaDombivaliE,421204,Marathi,12:40,Prime,160₹,108,0
+Mumbai,PvrXperiaPalavaDombivaliE,421204,Marathi,12:40,Recliner,260₹,12,1
+Ulhasnagar,MirajCinemasFuncityUlhasnagar,421003,Marathi,12:45,Special,150₹,70,0
+Nagpur,PvrEmpressCityMallNagpur,440017,Marathi,14:10,Classic,250₹,56,0
+Nagpur,PvrEmpressCityMallNagpur,440017,Marathi,14:10,Prime,250₹,166,17
+Nanded,PvrTreasureBazaarMallNanded,431606,Marathi,16:25,PrimePlus,140₹,63,0
+Nanded,PvrTreasureBazaarMallNanded,431606,Marathi,16:25,Prime,120₹,100,0
+Nanded,PvrTreasureBazaarMallNanded,431606,Marathi,16:25,Classic,100₹,70,4
+Ahmednagar,AshaSquareMultiplexAhmednagar,414001,Marathi,18:00,GoldenClass,150₹,100,0
