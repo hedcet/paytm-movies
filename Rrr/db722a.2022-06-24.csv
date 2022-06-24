@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Jamkhambhaliya,VijayCinemaYogeshwarNagar,361305,Hindi,12:00,Balcony,80₹,100,19
+Jamkhambhaliya,VijayCinemaYogeshwarNagar,361305,Hindi,12:00,First,70₹,227,18
+Jamkhambhaliya,VijayCinemaYogeshwarNagar,361305,Hindi,15:00,Balcony,80₹,100,19
+Jamkhambhaliya,VijayCinemaYogeshwarNagar,361305,Hindi,15:00,First,70₹,227,18
+Jamkhambhaliya,VijayCinemaYogeshwarNagar,361305,Hindi,18:00,Balcony,80₹,100,19
+Jamkhambhaliya,VijayCinemaYogeshwarNagar,361305,Hindi,18:00,First,70₹,227,18
+Jaipur,GolchaCinemaNewGate,302004,Hindi,21:00,Excutive,150₹,136,0
+Jaipur,GolchaCinemaNewGate,302004,Hindi,21:00,RoyalBox,200₹,72,0
+Jamkhambhaliya,VijayCinemaYogeshwarNagar,361305,Hindi,21:30,Balcony,80₹,100,19
+Jamkhambhaliya,VijayCinemaYogeshwarNagar,361305,Hindi,21:30,First,70₹,227,18
