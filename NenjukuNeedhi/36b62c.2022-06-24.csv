@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,13:00,Quartz,152₹,242,5
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,13:00,Zircon,60₹,27,27
+Srivaikuntam,ChandraTheatreSrivaikuntam,628801,Tamil,14:30,FirstClass,40₹,86,0
+Srivaikuntam,ChandraTheatreSrivaikuntam,628801,Tamil,14:30,SecondClass,20₹,196,196
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,15:45,Classic,60₹,11,11
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,15:45,Prime,190₹,102,33
+Srivaikuntam,ChandraTheatreSrivaikuntam,628801,Tamil,18:30,FirstClass,40₹,86,0
+Srivaikuntam,ChandraTheatreSrivaikuntam,628801,Tamil,18:30,SecondClass,20₹,196,196
+Srivaikuntam,ChandraTheatreSrivaikuntam,628801,Tamil,22:00,FirstClass,40₹,86,0
+Srivaikuntam,ChandraTheatreSrivaikuntam,628801,Tamil,22:00,SecondClass,20₹,196,196
