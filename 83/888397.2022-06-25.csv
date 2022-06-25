@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MetroInoxCinemaMGRoad,400020,Hindi,13:05,Club,400₹,108,108
+Mumbai,MetroInoxCinemaMGRoad,400020,Hindi,13:05,Executive,400₹,36,36
+Mumbai,MetroInoxCinemaMGRoad,400020,Hindi,13:05,Royale,400₹,48,48
