@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Raipur,InoxCityMall36GERoad,492001,Chhattisgarhi,12:30,Club,85₹,36,0
+Raipur,InoxCityMall36GERoad,492001,Chhattisgarhi,12:30,Gold,104₹,216,2
+Raipur,InoxCityMall36GERoad,492001,Chhattisgarhi,12:30,Platinum,138₹,37,0
+Raipur,PvrMagnetoTheMallRaipur,492001,Chhattisgarhi,13:15,Prime,93₹,192,30
+Raipur,PvrMagnetoTheMallRaipur,492001,Chhattisgarhi,13:15,Recliner,137₹,22,7
+Raipur,PvrMagnetoTheMallRaipur,492001,Chhattisgarhi,13:15,Classic,93₹,38,0
+Bhilai,MirajCinemasBhilai,490006,Chhattisgarhi,18:15,Special,120₹,42,0
+Bhilai,MirajCinemasBhilai,490006,Chhattisgarhi,18:15,Executive,120₹,109,6
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chhattisgarhi,20:20,Club,246₹,4,0
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chhattisgarhi,20:20,Gold,346₹,4,0
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chhattisgarhi,20:20,Executive,137₹,81,6
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chhattisgarhi,20:20,Special,137₹,28,0
