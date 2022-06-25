@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MetroInoxCinemaMGRoad,400020,English,14:35,Kiddles,370₹,36,29
+Mumbai,InoxMegaplexInorbitMall,400064,English,18:00,Kiddles,330₹,53,46
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,18:15,Recliner,420₹,8,2
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,18:15,Prime,370₹,14,6
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,18:15,Classic,320₹,36,0
