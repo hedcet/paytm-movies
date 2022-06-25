@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Cheepurupalli,AnuragAndAmogTheatresCheepuripalli,535128,Telugu,10:30,Premium,150₹,318,72
+Cheepurupalli,AnuragAndAmogTheatresCheepuripalli,535128,Telugu,10:30,NonPremium,100₹,124,0
+Vizag,ArunaPicturePalaceACDtsPedagantyada,530044,Telugu,11:30,Premium,112₹,402,168
+Vizag,ArunaPicturePalaceACDtsPedagantyada,530044,Telugu,11:30,NonPremium,78₹,140,110
+Cheepurupalli,AnuragAndAmogTheatresCheepuripalli,535128,Telugu,14:30,Premium,150₹,318,74
+Cheepurupalli,AnuragAndAmogTheatresCheepuripalli,535128,Telugu,14:30,NonPremium,100₹,124,0
+Vizag,ArunaPicturePalaceACDtsPedagantyada,530044,Telugu,14:30,Premium,112₹,402,166
+Vizag,ArunaPicturePalaceACDtsPedagantyada,530044,Telugu,14:30,NonPremium,78₹,140,110
+Vizag,ArunaPicturePalaceACDtsPedagantyada,530044,Telugu,18:15,Premium,112₹,402,166
+Vizag,ArunaPicturePalaceACDtsPedagantyada,530044,Telugu,18:15,NonPremium,78₹,140,110
+Cheepurupalli,AnuragAndAmogTheatresCheepuripalli,535128,Telugu,18:30,Premium,150₹,318,72
+Cheepurupalli,AnuragAndAmogTheatresCheepuripalli,535128,Telugu,18:30,NonPremium,100₹,124,0
+Cheepurupalli,AnuragAndAmogTheatresCheepuripalli,535128,Telugu,21:30,Premium,150₹,318,72
+Cheepurupalli,AnuragAndAmogTheatresCheepuripalli,535128,Telugu,21:30,NonPremium,100₹,124,0
+Vizag,ArunaPicturePalaceACDtsPedagantyada,530044,Telugu,21:30,Premium,112₹,402,166
+Vizag,ArunaPicturePalaceACDtsPedagantyada,530044,Telugu,21:30,NonPremium,78₹,140,110
