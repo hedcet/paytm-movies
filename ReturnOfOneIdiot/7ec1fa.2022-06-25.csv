@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,InoxAmanoraTownCentreHadapsar,412028,Hindi,12:00,Club,270₹,109,109
+Pune,InoxAmanoraTownCentreHadapsar,412028,Hindi,12:00,Executive,270₹,21,21
+Pune,InoxAmanoraTownCentreHadapsar,412028,Hindi,12:00,Royale,270₹,2,2
+Kolkata,InoxForumMallElginRoad,700020,Hindi,14:10,DressCircle,300₹,100,100
+Kolkata,InoxForumMallElginRoad,700020,Hindi,14:10,Galleria,300₹,28,28
+Kolkata,InoxForumMallElginRoad,700020,Hindi,14:10,Royal,300₹,33,33
