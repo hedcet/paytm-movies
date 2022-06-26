@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Surat,TriveniCinemaNavagam,394210,Hindi,12:00,Balcony,70₹,45,35
+Surat,TriveniCinemaNavagam,394210,Hindi,12:00,Upper,60₹,80,60
+Surat,TriveniCinemaNavagam,394210,Hindi,15:00,Balcony,70₹,45,35
+Surat,TriveniCinemaNavagam,394210,Hindi,15:00,Upper,60₹,80,60
+Surat,TriveniCinemaNavagam,394210,Hindi,18:00,Balcony,70₹,45,35
+Surat,TriveniCinemaNavagam,394210,Hindi,18:00,Upper,60₹,80,60
+Surat,TriveniCinemaNavagam,394210,Hindi,21:00,Balcony,70₹,45,35
+Surat,TriveniCinemaNavagam,394210,Hindi,21:00,Upper,60₹,80,60
