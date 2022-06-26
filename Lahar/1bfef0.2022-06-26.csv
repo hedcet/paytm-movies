@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Shirur,DigiGoldNovaCinema,412210,Marathi,09:30,Gold,150₹,100,0
+Shirur,DigiGoldNovaCinema,412210,Marathi,09:30,Silver,130₹,100,0
+Sawantwadi,AryaNovaCinemaz,416510,Marathi,09:30,Vip,200₹,11,0
+Sawantwadi,AryaNovaCinemaz,416510,Marathi,09:30,Gold,170₹,72,0
+Sawantwadi,AryaNovaCinemaz,416510,Marathi,09:30,Silver,150₹,60,0
+Mumbai,PvrXperiaPalavaDombivaliE,421204,Marathi,12:40,Classic,190₹,36,0
+Mumbai,PvrXperiaPalavaDombivaliE,421204,Marathi,12:40,Prime,240₹,108,0
+Mumbai,PvrXperiaPalavaDombivaliE,421204,Marathi,12:40,Recliner,340₹,12,1
+Ambernath,StarMirajCinemasAmbernath,421505,Marathi,13:00,Platinum,160₹,70,0
+Nagpur,PvrEmpressCityMallNagpur,440017,Marathi,14:10,Classic,250₹,56,0
+Nagpur,PvrEmpressCityMallNagpur,440017,Marathi,14:10,Prime,250₹,166,17
+Ahmednagar,AshaSquareMultiplexAhmednagar,414001,Marathi,18:00,GoldenClass,150₹,100,0
