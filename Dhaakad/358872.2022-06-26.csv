@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Jamnagar,AmberCinemaJamnagar,361008,Hindi,12:30,Balcony,80₹,358,298
+Jamnagar,AmberCinemaJamnagar,361008,Hindi,12:30,StallClass,70₹,598,568
+Jamnagar,AmberCinemaJamnagar,361008,Hindi,15:30,Balcony,80₹,358,298
+Jamnagar,AmberCinemaJamnagar,361008,Hindi,15:30,StallClass,70₹,598,568
+Jamnagar,AmberCinemaJamnagar,361008,Hindi,18:30,Balcony,80₹,358,298
+Jamnagar,AmberCinemaJamnagar,361008,Hindi,18:30,StallClass,70₹,598,568
+Jamnagar,AmberCinemaJamnagar,361008,Hindi,21:30,Balcony,80₹,358,298
+Jamnagar,AmberCinemaJamnagar,361008,Hindi,21:30,StallClass,70₹,598,568
