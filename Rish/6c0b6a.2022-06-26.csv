@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PvrAvaniRiverSideMall,711102,Bengali,14:00,Classic,220₹,200,2
+Kolkata,PvrAvaniRiverSideMall,711102,Bengali,14:00,Prime,310₹,11,0
+Noida,PvrLogixCityCentreNoida,201301,Bengali,16:25,Classic,345₹,76,1
+Hyderabad,PvrNextGalleriaMallPanjagutta,500082,Bengali,16:30,Classic,200₹,144,30
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,17:25,Classic,250₹,100,4
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,17:25,Prime,300₹,11,4
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,17:25,Recliner,470₹,12,0
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,Bengali,21:15,Classic,220₹,136,0
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,Bengali,21:15,Recliner,400₹,12,0
