@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,08:30,Club,190₹,142,1
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,08:30,Executive,60₹,19,8
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,11:40,Club,190₹,135,81
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,11:40,Executive,60₹,19,19
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,15:25,Classic,60₹,24,22
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,15:25,Prime,190₹,112,111
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,18:45,Club,190₹,142,9
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,18:45,Executive,60₹,19,18
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,22:10,Club,190₹,159,26
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,22:10,Executive,60₹,21,14
