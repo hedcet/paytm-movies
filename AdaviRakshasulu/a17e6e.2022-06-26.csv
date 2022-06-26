@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Angara,SriVenkataManikyambaTheatre,533307,Telugu,11:15,FirstClass,100₹,236,170
+Angara,SriVenkataManikyambaTheatre,533307,Telugu,11:15,SecondClass,100₹,71,71
+Angara,SriVenkataManikyambaTheatre,533307,Telugu,14:15,FirstClass,100₹,236,170
+Angara,SriVenkataManikyambaTheatre,533307,Telugu,14:15,SecondClass,100₹,71,71
+Angara,SriVenkataManikyambaTheatre,533307,Telugu,18:15,FirstClass,100₹,236,170
+Angara,SriVenkataManikyambaTheatre,533307,Telugu,18:15,SecondClass,100₹,71,71
+Angara,SriVenkataManikyambaTheatre,533307,Telugu,21:15,FirstClass,100₹,236,170
+Angara,SriVenkataManikyambaTheatre,533307,Telugu,21:15,SecondClass,100₹,71,71
