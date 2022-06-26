@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,RajhansCinemasSatadhar,380061,Gujarati,09:00,Marvel,100₹,30,20
+Ahmedabad,RajhansCinemasSatadhar,380061,Gujarati,09:00,Royal,100₹,105,105
+Ahmedabad,RajhansCinemasSatadhar,380061,Gujarati,09:00,Executive,100₹,175,175
+Ahmedabad,RajhansCinemasSatadhar,380061,Gujarati,09:00,Box,100₹,4,4
+Ahmedabad,RajhansCinemasSatadhar,380061,Gujarati,09:00,Marvel,100₹,32,4
+Ahmedabad,RajhansCinemasSatadhar,380061,Gujarati,09:00,Royal,100₹,112,112
+Ahmedabad,RajhansCinemasSatadhar,380061,Gujarati,09:00,Executive,100₹,184,184
+Ahmedabad,RajhansCinemasSatadhar,380061,Gujarati,09:00,Box,100₹,6,6
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Gujarati,10:00,Classic,63₹,32,32
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Gujarati,10:00,Prime,202₹,219,173
