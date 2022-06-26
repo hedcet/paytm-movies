@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,SriVenkateswaraTalkiesACDolby71Thiruvallur,602002,Tamil,10:15,First,50₹,172,127
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,12:30,Normal,60₹,17,17
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,12:30,Executive,190₹,117,59
+Coimbatore,CinepolisFunCinemaRepublicMallPeelamedu,641004,Tamil,13:00,Executive,190₹,142,108
+Coimbatore,CinepolisFunCinemaRepublicMallPeelamedu,641004,Tamil,13:00,Normal,60₹,17,17
+Chennai,SpiEscapeCinemasRoyapettah,600014,Tamil,13:00,Elite,190₹,99,95
+Chennai,SpiEscapeCinemasRoyapettah,600014,Tamil,13:00,Budget,60₹,11,11
+Chennai,SriVenkateswaraTalkiesACDolby71Thiruvallur,602002,Tamil,14:00,First,50₹,172,172
+Chennai,SriVenkateswaraTalkiesACDolby71Thiruvallur,602002,Tamil,18:15,First,50₹,172,172
