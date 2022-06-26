@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bhopal,PvrAuraMallBhopal,462039,Hindi,16:30,Classic,130₹,63,0
+Bhopal,PvrAuraMallBhopal,462039,Hindi,16:30,Prime,130₹,228,30
+Bhopal,PvrAuraMallBhopal,462039,Hindi,16:30,Recliner,300₹,11,0
+Hyderabad,PvrNextGalleriaMallPanjagutta,500082,Hindi,16:40,Classic,200₹,152,105
