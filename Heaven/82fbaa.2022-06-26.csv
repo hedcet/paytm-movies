@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,10:30,PremiumLounge,250₹,65,9
+Perinthalmanna,PlazaCinemasPerinthalmanna,679322,Malayalam,13:00,Platinum,120₹,151,6
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,13:30,ExecutiveOffline,160₹,145,31
+Thalassery,CarnivalDowntownThalassery,670101,Malayalam,15:30,ExecutiveOffline,160₹,135,31
+Thalassery,CarnivalDowntownThalassery,670101,Malayalam,15:30,GoldOffline,250₹,7,1
+Kochi,PvrLuluKochi,682025,Malayalam,16:25,Classic,140₹,39,11
+Kochi,PvrLuluKochi,682025,Malayalam,16:25,ClassicPlus,180₹,91,56
+Kochi,PvrLuluKochi,682025,Malayalam,16:25,Prime,200₹,68,63
+Kochi,PvrLuluKochi,682025,Malayalam,16:25,Recliner,350₹,10,10
+Trivandrum,CarnivalArtechMallVanchyoor,695035,Malayalam,18:10,ExecutiveOffline,100₹,26,0
+Trivandrum,CarnivalArtechMallVanchyoor,695035,Malayalam,18:10,SilverOffline,180₹,147,76
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,19:10,ExecutiveOffline,180₹,119,38
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,19:20,PremiumLounge,300₹,65,18
+Karunagappally,CarnivalHJComplexLalajiJunction,690518,Malayalam,19:45,ClassicOffline,170₹,118,3
