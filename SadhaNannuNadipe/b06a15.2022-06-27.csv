@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vizag,InoxVarunBeachMaharanipet,530003,Telugu,11:35,Excutive,177₹,130,0
+Kurnool,VMegaAnandCineComplexKurnool,518004,Telugu,13:00,Platinum,148₹,10,0
+Kurnool,VMegaAnandCineComplexKurnool,518004,Telugu,13:00,Gold,148₹,152,16
+Kurnool,VMegaAnandCineComplexKurnool,518004,Telugu,13:00,Executive,112₹,48,0
+Hyderabad,PvrNextGalleriaMallPanjagutta,500082,Telugu,13:25,Classic,200₹,145,15
+Kakinada,InoxSrmtMallRamanayyapeta,533005,Telugu,13:55,Executive,112₹,131,8
+Vizag,InoxCmrCentralMaddilapalem,530013,Telugu,14:15,Executive,177₹,151,0
+Vijayawada,PvrRipplesMallVijaywada,520010,Telugu,14:15,Classic,177₹,167,20
+Vijayawada,PvrRipplesMallVijaywada,520010,Telugu,14:15,Recliner,295₹,13,0
+Hyderabad,PvrKukatpally,500072,Telugu,16:05,Classic,200₹,135,0
+Hyderabad,PvrKukatpally,500072,Telugu,16:05,Recliner,350₹,9,0
+Vizag,CinepolisSreekanyaCineglitzMadhurwada,530048,Telugu,16:50,Normal,177₹,20,0
+Vizag,CinepolisSreekanyaCineglitzMadhurwada,530048,Telugu,16:50,Executive,177₹,149,13
+Guntur,PvrTheCinemaGuntur,522001,Telugu,16:55,Premium,295₹,13,13
+Guntur,PvrTheCinemaGuntur,522001,Telugu,16:55,Deluxe,177₹,146,146
+Vijayawada,CinepolisPvpSquareVijayawada,520010,Telugu,17:10,Normal,177₹,224,5
