@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,13:30,Normal,150₹,24,1
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,13:30,Executive,170₹,72,4
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,13:30,Premium,190₹,12,12
+Pune,CinepolisNexusWestend,411007,Marathi,15:50,Normal,250₹,25,0
+Pune,CinepolisNexusWestend,411007,Marathi,15:50,Executive,250₹,42,0
+Pune,CinepolisNexusWestend,411007,Marathi,15:50,Premium,250₹,47,3
