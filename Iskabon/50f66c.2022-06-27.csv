@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,MirajCinemasNewtownKolkata,700156,Bengali,13:30,Special,130₹,51,0
+Kolkata,MirajCinemasNewtownKolkata,700156,Bengali,13:30,Executive,130₹,85,0
+Kolkata,MirajCinemasNewtownKolkata,700156,Bengali,13:30,Recliner,250₹,23,0
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,19:55,Classic,99₹,80,6
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,19:55,Prime,99₹,11,2
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,19:55,Recliner,149₹,12,2
