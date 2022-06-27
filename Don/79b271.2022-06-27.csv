@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Coimbatore,CinepolisFunCinemaRepublicMallPeelamedu,641004,Tamil,13:00,Executive,190₹,142,32
+Coimbatore,CinepolisFunCinemaRepublicMallPeelamedu,641004,Tamil,13:00,Normal,60₹,17,17
+Chennai,SpiEscapeCinemasRoyapettah,600014,Tamil,13:00,Elite,190₹,99,16
+Chennai,SpiEscapeCinemasRoyapettah,600014,Tamil,13:00,Budget,60₹,11,11
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,18:35,Normal,60₹,17,2
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,18:35,Executive,190₹,117,4
