@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,CinepolisNexusSeawoodsNaviMumbai,400706,English,19:20,Normal,200₹,49,0
+Mumbai,CinepolisNexusSeawoodsNaviMumbai,400706,English,19:20,Executive,220₹,74,5
+Mumbai,CinepolisNexusSeawoodsNaviMumbai,400706,English,19:20,Premium,240₹,60,5
+Mumbai,CinepolisNexusSeawoodsNaviMumbai,400706,English,19:20,Vip,440₹,14,0
+Goa,InoxOldGmcDbRoad,403001,English,20:45,Club,190₹,90,2
+Goa,InoxOldGmcDbRoad,403001,English,20:45,Executive,170₹,36,0
+Goa,InoxOldGmcDbRoad,403001,English,20:45,Royal,210₹,95,0
