@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kollengode,GowriMovieHouse2KDolby71Kollengode,678506,Malayalam,10:45,FirstClass,100₹,201,0
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,11:00,ExecutiveOffline,100₹,119,25
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmosThoongamparaKattakada,695572,Malayalam,11:00,DiamondSofa,200₹,4,0
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmosThoongamparaKattakada,695572,Malayalam,11:00,Gold,150₹,170,0
+Kattanam,GanamTheatreComplexACKattanam,690503,Malayalam,11:00,FirstClass,150₹,191,191
+Adoor,SmithaTheatreUfoDtsAdoor,691523,Malayalam,11:00,Reserved,90₹,399,355
+Cherthala,EvmGrandCinemasCherthala,688524,Malayalam,14:30,Gold,129₹,185,48
+Pandalam,ThrilokCinemas,689501,Malayalam,14:45,ExecutiveClass,160₹,10,10
+Pandalam,ThrilokCinemas,689501,Malayalam,14:45,ExecutiveClass1,150₹,84,40
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,21:00,BlueCircle,150₹,227,218
