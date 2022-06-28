@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vijayapura,AlankarTheatreVijayapura,586101,Kannada,12:00,Balcony,100₹,275,150
+Vijayapura,AlankarTheatreVijayapura,586101,Kannada,12:00,DressCircle,80₹,40,40
+Vijayapura,AlankarTheatreVijayapura,586101,Kannada,15:00,Balcony,100₹,275,150
+Vijayapura,AlankarTheatreVijayapura,586101,Kannada,15:00,DressCircle,80₹,40,40
+Vijayapura,AlankarTheatreVijayapura,586101,Kannada,18:00,Balcony,100₹,275,150
+Vijayapura,AlankarTheatreVijayapura,586101,Kannada,18:00,DressCircle,80₹,40,40
+Vijayapura,AlankarTheatreVijayapura,586101,Kannada,21:00,Balcony,100₹,275,150
+Vijayapura,AlankarTheatreVijayapura,586101,Kannada,21:00,DressCircle,80₹,40,40
