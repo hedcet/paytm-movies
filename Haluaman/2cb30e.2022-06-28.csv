@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,InoxMetropolisMallHilandPark,700094,Bengali,14:00,Premier,150₹,29,0
+Kolkata,InoxMetropolisMallHilandPark,700094,Bengali,14:00,Royal,300₹,17,0
+Kolkata,InoxMetropolisMallHilandPark,700094,Bengali,14:00,Silver,150₹,147,0
+Burdwan,InoxBurdwanArcadeBBGhoshRoad,713101,Bengali,14:10,Club,150₹,72,0
+Burdwan,InoxBurdwanArcadeBBGhoshRoad,713101,Bengali,14:10,Executive,140₹,36,0
+Burdwan,InoxBurdwanArcadeBBGhoshRoad,713101,Bengali,14:10,Royal,170₹,40,0
+Kolkata,CinepolisAcropolisMallRajdangaRoad,839200,Bengali,19:00,Normal,150₹,22,0
+Kolkata,CinepolisAcropolisMallRajdangaRoad,839200,Bengali,19:00,Executive,150₹,64,4
+Kolkata,CinepolisAcropolisMallRajdangaRoad,839200,Bengali,19:00,Premium,150₹,20,0
+Kolkata,InoxStarMallMadhyamgram,700129,Bengali,19:30,Club,140₹,90,0
+Kolkata,InoxStarMallMadhyamgram,700129,Bengali,19:30,Executive,140₹,30,0
+Kolkata,InoxStarMallMadhyamgram,700129,Bengali,19:30,Royal,180₹,63,0
