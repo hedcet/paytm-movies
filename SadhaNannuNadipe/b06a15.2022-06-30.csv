@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vizag,InoxVarunBeachMaharanipet,530003,Telugu,10:30,Excutive,177₹,130,0
+Vijayawada,SailajaTheater2KDolby71Vijayawada,520003,Telugu,11:30,Diamond,112₹,468,248
+Vijayawada,SailajaTheater2KDolby71Vijayawada,520003,Telugu,11:30,Gold,100₹,590,341
+Vijayawada,SailajaTheater2KDolby71Vijayawada,520003,Telugu,11:30,Silver,78₹,322,138
+Kurnool,VMegaAnandCineComplexKurnool,518004,Telugu,13:00,Platinum,148₹,10,0
+Kurnool,VMegaAnandCineComplexKurnool,518004,Telugu,13:00,Gold,148₹,152,16
+Kurnool,VMegaAnandCineComplexKurnool,518004,Telugu,13:00,Executive,112₹,48,0
+Vizag,CinepolisSreekanyaCineglitzMadhurwada,530048,Telugu,16:45,Normal,177₹,20,0
+Vizag,CinepolisSreekanyaCineglitzMadhurwada,530048,Telugu,16:45,Executive,177₹,149,13
+Vijayawada,SailajaTheater2KDolby71Vijayawada,520003,Telugu,18:30,Diamond,112₹,468,269
+Vijayawada,SailajaTheater2KDolby71Vijayawada,520003,Telugu,18:30,Gold,100₹,590,341
+Vijayawada,SailajaTheater2KDolby71Vijayawada,520003,Telugu,18:30,Silver,78₹,322,139
