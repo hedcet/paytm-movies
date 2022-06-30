@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Guwahati,CarnivalTimesSquareTimesSquareMall,781005,Assamese,11:35,Silver,89₹,54,0
+Guwahati,CarnivalTimesSquareTimesSquareMall,781005,Assamese,11:35,Gold,89₹,146,6
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,15:55,Classic,99₹,40,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,15:55,Prime,99₹,82,23
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,15:55,PrimePlus,99₹,13,13
