@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,CinepolisNexusWestend,411007,Marathi,15:50,Normal,250₹,25,0
+Pune,CinepolisNexusWestend,411007,Marathi,15:50,Executive,250₹,42,0
+Pune,CinepolisNexusWestend,411007,Marathi,15:50,Premium,250₹,47,4
