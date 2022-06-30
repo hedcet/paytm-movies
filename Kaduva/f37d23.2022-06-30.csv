@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kollengode,GowriMovieHouse2KDolby71Kollengode,678506,Malayalam,10:45,FirstClass,100₹,201,2
+Ponnani,AiswaryaMoviesAC4KDolby3DPonnani,679586,Malayalam,11:00,Platinum,110₹,344,68
+Ponnani,AiswaryaMoviesAC4KDolby3DPonnani,679586,Malayalam,11:15,Platinum,110₹,158,28
+Ponnani,AiswaryaMoviesAC4KDolby3DPonnani,679586,Malayalam,14:30,Platinum,110₹,344,68
+Ponnani,AiswaryaMoviesAC4KDolby3DPonnani,679586,Malayalam,14:45,Platinum,110₹,158,28
+Ponnani,AiswaryaMoviesAC4KDolby3DPonnani,679586,Malayalam,18:15,Platinum,110₹,344,68
+Ponnani,AiswaryaMoviesAC4KDolby3DPonnani,679586,Malayalam,18:30,Platinum,110₹,158,28
+Kollengode,GowriMovieHouse2KDolby71Kollengode,678506,Malayalam,20:40,FirstClass,100₹,201,0
+Ponnani,AiswaryaMoviesAC4KDolby3DPonnani,679586,Malayalam,21:15,Platinum,110₹,344,68
+Ponnani,AiswaryaMoviesAC4KDolby3DPonnani,679586,Malayalam,21:30,Platinum,110₹,158,28
