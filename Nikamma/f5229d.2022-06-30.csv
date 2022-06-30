@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ghazipur,AvStarworldCinemasBandhwaPull,233001,Hindi,10:00,Diamond,200₹,38,20
+Ghazipur,AvStarworldCinemasBandhwaPull,233001,Hindi,10:00,Gold,190₹,67,42
+Ghazipur,AvStarworldCinemasBandhwaPull,233001,Hindi,10:00,Silver,170₹,130,92
+Ahmedabad,TimeCinemaCgRoad,380006,Hindi,11:30,Infinity1000,"1,000₹",12,0
+Ghazipur,AvStarworldCinemasBandhwaPull,233001,Hindi,12:45,Diamond,200₹,38,20
+Ghazipur,AvStarworldCinemasBandhwaPull,233001,Hindi,12:45,Gold,190₹,67,42
+Ghazipur,AvStarworldCinemasBandhwaPull,233001,Hindi,12:45,Silver,170₹,130,92
+Anand,TimeCinemaAnandTheCityMall,388001,Hindi,14:00,AnandStandard100,100₹,131,31
+Rourkela,PvrForumRourkela,769004,Hindi,14:20,Classic,99₹,28,0
+Rourkela,PvrForumRourkela,769004,Hindi,14:20,Prime,99₹,98,17
+Rourkela,PvrForumRourkela,769004,Hindi,14:20,PrimePlus,99₹,13,0
+Anand,TimeCinemaAnandTheCityMall,388001,Hindi,17:00,AnandStandard100,100₹,131,31
+Ghazipur,AvStarworldCinemasBandhwaPull,233001,Hindi,18:15,Diamond,200₹,38,20
+Ghazipur,AvStarworldCinemasBandhwaPull,233001,Hindi,18:15,Gold,190₹,67,42
+Ghazipur,AvStarworldCinemasBandhwaPull,233001,Hindi,18:15,Silver,170₹,130,92
