@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,CarnivalArtiSuncityMallBarasat,700106,Bengali,10:30,Diamond,69₹,118,2
+Kolkata,CarnivalArtiSuncityMallBarasat,700106,Bengali,10:30,Gold,69₹,60,0
+Kolkata,CarnivalArtiSuncityMallBarasat,700106,Bengali,10:30,Silver,69₹,40,0
+Kolkata,MirajCinemasNewtownKolkata,700156,Bengali,13:45,Special,130₹,56,0
+Kolkata,MirajCinemasNewtownKolkata,700156,Bengali,13:45,Executive,130₹,78,0
+Kolkata,MirajCinemasNewtownKolkata,700156,Bengali,13:45,Recliner,250₹,22,0
+Asansol,CarnivalSentrumMallAsansol,713304,Bengali,14:20,Premium,110₹,63,0
+Asansol,CarnivalSentrumMallAsansol,713304,Bengali,14:20,Silver,110₹,150,0
+Asansol,CarnivalSentrumMallAsansol,713304,Bengali,14:20,Gold,110₹,43,2
