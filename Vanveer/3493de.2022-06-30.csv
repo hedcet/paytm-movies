@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Sanand,ArthMultiplexSanand,382110,Gujarati,12:00,Gold,100₹,100,0
+Sanand,ArthMultiplexSanand,382110,Gujarati,12:00,Silver,100₹,100,0
+Vadodara,VasantCinemaAsodar,388307,Gujarati,12:28,Upper,50₹,512,0
+Vadodara,VasantCinemaAsodar,388307,Gujarati,12:28,Balcony,60₹,218,0
+Nadiad,GlobeCinemaNadiad,387001,Gujarati,12:30,Balcony,60₹,119,119
+Nadiad,GlobeCinemaNadiad,387001,Gujarati,12:30,Uper,50₹,555,555
+Vadodara,VasantCinemaAsodar,388307,Gujarati,15:29,Upper,50₹,512,0
+Vadodara,VasantCinemaAsodar,388307,Gujarati,15:29,Balcony,60₹,218,0
+Nadiad,GlobeCinemaNadiad,387001,Gujarati,15:30,Balcony,60₹,119,119
+Nadiad,GlobeCinemaNadiad,387001,Gujarati,15:30,Uper,50₹,555,555
+Nadiad,GlobeCinemaNadiad,387001,Gujarati,18:30,Balcony,60₹,119,119
+Nadiad,GlobeCinemaNadiad,387001,Gujarati,18:30,Uper,50₹,555,555
+Vadodara,VasantCinemaAsodar,388307,Gujarati,21:29,Upper,50₹,512,0
+Vadodara,VasantCinemaAsodar,388307,Gujarati,21:29,Balcony,60₹,218,0
+Nadiad,GlobeCinemaNadiad,387001,Gujarati,21:30,Balcony,60₹,119,119
+Nadiad,GlobeCinemaNadiad,387001,Gujarati,21:30,Uper,50₹,555,555
