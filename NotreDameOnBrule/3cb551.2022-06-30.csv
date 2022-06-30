@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,PvrMarketCityVimanNagar,411014,French,17:15,PrimePlus,250₹,10,4
+Pune,PvrMarketCityVimanNagar,411014,French,17:15,Prime,150₹,119,16
+Pune,PvrMarketCityVimanNagar,411014,French,17:15,Classic,150₹,52,0
