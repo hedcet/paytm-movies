@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,226010,English,09:00,Royale,210₹,60,0
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,226010,English,09:00,Club,190₹,112,0
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,226010,English,09:00,Executive,170₹,26,0
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,226010,English,09:00,RoyaleRecliners,340₹,8,0
+Surat,TimeCinemaSuratGalaxyCircle,394510,English,10:15,Standard150,150₹,115,15
+Ahmedabad,TimeCinemaCgRoad,380006,English,11:45,Infinity1000,"1,000₹",12,0
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,226010,English,12:10,Normal,180₹,29,0
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,226010,English,12:10,Executive,180₹,78,0
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,226010,English,12:10,Premium,180₹,38,0
+Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,226010,English,12:10,Vip,450₹,10,0
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,12:45,Recliner,240₹,8,4
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,12:45,Prime,215₹,14,2
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,12:45,Classic,190₹,36,0
+Surat,TimeCinemaSuratGalaxyCircle,394510,English,20:30,Standard150,150₹,115,15
