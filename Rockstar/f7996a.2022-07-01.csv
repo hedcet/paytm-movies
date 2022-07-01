@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Surat,ValentineMultiplexPipload,395007,Hindi,11:50,Royal,120₹,105,0
+Surat,ValentineMultiplexPipload,395007,Hindi,11:50,Executive,140₹,130,18
+Surat,ValentineMultiplexPipload,395007,Hindi,19:00,Royal,140₹,105,0
+Surat,ValentineMultiplexPipload,395007,Hindi,19:00,Executive,160₹,136,19
