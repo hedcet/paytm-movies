@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,InoxSouthCityMall,700068,Bengali,14:05,Premier,270₹,34,0
+Kolkata,InoxSouthCityMall,700068,Bengali,14:05,Silver,290₹,156,7
+Kolkata,BijoliCinemaBhowanipore,700025,Bengali,14:45,Balcony,100₹,188,107
+Kolkata,BijoliCinemaBhowanipore,700025,Bengali,14:45,RearStall,80₹,614,112
+Kolkata,ChhabigharCinemaBaithakkhana,700009,Bengali,19:15,Balcony,100₹,144,80
+Kolkata,ChhabigharCinemaBaithakkhana,700009,Bengali,19:15,RearStall,80₹,502,148
+Kolkata,MinarCinemaACDolbyHatiBagan,700004,Bengali,19:15,Balcony,120₹,274,159
+Kolkata,MinarCinemaACDolbyHatiBagan,700004,Bengali,19:15,RearStall,100₹,575,405
