@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Saharanpur,CineluvCinemaSaharanpur,247001,Hindi,12:50,Platinum,200₹,66,56
+Saharanpur,CineluvCinemaSaharanpur,247001,Hindi,12:50,Gold,150₹,60,45
+Saharanpur,CineluvCinemaSaharanpur,247001,Hindi,12:50,Silver,150₹,114,91
+Mughalsarai,IpCinemasIpMughalMultiplexMughalsarai,232101,Hindi,13:45,Diamond,250₹,5,0
+Mughalsarai,IpCinemasIpMughalMultiplexMughalsarai,232101,Hindi,13:45,Gold,200₹,194,0
+Mughalsarai,IpCinemasIpMughalMultiplexMughalsarai,232101,Hindi,13:45,Silver,150₹,105,0
