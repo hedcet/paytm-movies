@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Payyanur,RajadhaniCinemas,670307,Malayalam,10:30,PlatinumCircle,130₹,88,0
+Kochi,PvrOberonMallErnakulam,682024,Malayalam,12:30,Classic,120₹,53,2
+Kochi,PvrOberonMallErnakulam,682024,Malayalam,12:30,ClassicPlus,150₹,115,26
+Kochi,PvrOberonMallErnakulam,682024,Malayalam,12:30,Recliner,260₹,14,2
+Payyanur,RajadhaniCinemas,670307,Malayalam,13:30,PlatinumCircle,130₹,88,0
+Perinthalmanna,VismayaCinemasPerinthalmanna,679322,Malayalam,16:00,Platinum,100₹,151,15
+Kochi,PvrLuluKochi,682025,Malayalam,16:20,Classic,140₹,39,0
+Kochi,PvrLuluKochi,682025,Malayalam,16:20,ClassicPlus,180₹,91,7
+Kochi,PvrLuluKochi,682025,Malayalam,16:20,Prime,200₹,68,25
+Kochi,PvrLuluKochi,682025,Malayalam,16:20,Recliner,350₹,10,5
+Payyanur,RajadhaniCinemas,670307,Malayalam,16:30,PlatinumCircle,130₹,88,2
+Payyanur,RajadhaniCinemas,670307,Malayalam,19:30,PlatinumCircle,130₹,88,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,19:30,Club,190₹,155,19
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,19:30,Executive,130₹,26,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,19:30,RoyalRecliner,350₹,10,10
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,19:30,Royal,190₹,20,18
