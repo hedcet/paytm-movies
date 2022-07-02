@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,InoxMegaplexInorbitMall,400064,English,09:30,Kiddles,140₹,53,0
+Mumbai,MetroInoxCinemaMGRoad,400020,English,12:10,Club,210₹,140,3
+Mumbai,MetroInoxCinemaMGRoad,400020,English,12:10,Executive,160₹,34,0
+Mumbai,MetroInoxCinemaMGRoad,400020,English,12:10,Royale,230₹,42,3
