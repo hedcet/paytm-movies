@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mukkam,RoseCinePalaceMukkam,673602,Malayalam,15:00,Executive,110₹,230,0
+Thrissur,SavithaMovieMagic,680501,Malayalam,16:00,FirstClass,100₹,313,0
+Mukkam,RoseCinePalaceMukkam,673602,Malayalam,18:00,Executive,110₹,230,20
+Thrissur,SavithaMovieMagic,680501,Malayalam,19:00,FirstClass,100₹,313,4
+Kochi,PvrLuluKochi,682025,Malayalam,19:20,Classic,140₹,39,5
+Kochi,PvrLuluKochi,682025,Malayalam,19:20,ClassicPlus,180₹,91,11
+Kochi,PvrLuluKochi,682025,Malayalam,19:20,Prime,200₹,68,48
+Kochi,PvrLuluKochi,682025,Malayalam,19:20,Recliner,350₹,10,3
+Mukkam,RoseCinePalaceMukkam,673602,Malayalam,21:00,Executive,110₹,230,0
+Thrissur,SavithaMovieMagic,680501,Malayalam,22:00,FirstClass,100₹,313,10
