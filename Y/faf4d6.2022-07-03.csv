@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Sawantwadi,AryaNovaCinemaz,416510,Marathi,15:30,Vip,200₹,100,0
+Sawantwadi,AryaNovaCinemaz,416510,Marathi,15:30,Gold,170₹,100,0
+Sawantwadi,AryaNovaCinemaz,416510,Marathi,15:30,Silver,150₹,100,0
+Mumbai,PlazaCinemaDadarW,400028,Marathi,15:30,Silver,130₹,184,6
+Mumbai,PlazaCinemaDadarW,400028,Marathi,15:30,Platinum,180₹,208,66
+Mumbai,PlazaCinemaDadarW,400028,Marathi,15:30,Sofa,350₹,54,19
+Mumbai,PlazaCinemaDadarW,400028,Marathi,15:30,BoxSofa,400₹,25,2
+Mumbai,PlazaCinemaDadarW,400028,Marathi,15:30,Gold,150₹,161,43
+Pune,CinepolisSeasonsMallHadapsar,411028,Marathi,18:40,Normal,200₹,23,0
+Pune,CinepolisSeasonsMallHadapsar,411028,Marathi,18:40,Executive,220₹,52,4
+Pune,CinepolisSeasonsMallHadapsar,411028,Marathi,18:40,Premium,220₹,40,3
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,19:05,Normal,220₹,27,0
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,19:05,Executive,240₹,104,10
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,19:05,Premium,260₹,46,26
