@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,InoxNakshatraMallDadarW,400028,Marathi,12:35,Executive,150₹,36,0
+Mumbai,InoxNakshatraMallDadarW,400028,Marathi,12:35,Premiere,150₹,140,2
+Mumbai,InoxNakshatraMallDadarW,400028,Marathi,12:35,Royal,200₹,8,0
+Mumbai,InoxNakshatraMallDadarW,400028,Marathi,12:35,Silver,150₹,85,0
+Kolhapur,InoxRelianceMegaMallLaxmipuri,416002,Marathi,13:50,Club,170₹,84,10
+Kolhapur,InoxRelianceMegaMallLaxmipuri,416002,Marathi,13:50,Executive,170₹,28,0
+Kolhapur,InoxRelianceMegaMallLaxmipuri,416002,Marathi,13:50,Royale,170₹,21,0
+Nagpur,CinepolisVrNagpurMall,440003,Marathi,16:10,Vip,400₹,5,0
+Nagpur,CinepolisVrNagpurMall,440003,Marathi,16:10,Premium,210₹,64,0
+Nagpur,CinepolisVrNagpurMall,440003,Marathi,16:10,Executive,190₹,73,0
+Nagpur,CinepolisVrNagpurMall,440003,Marathi,16:10,Normal,170₹,29,1
+Mumbai,PvrXperiaPalavaDombivaliE,421204,Marathi,17:30,Classic,240₹,38,16
+Mumbai,PvrXperiaPalavaDombivaliE,421204,Marathi,17:30,Prime,280₹,114,0
+Mumbai,PvrXperiaPalavaDombivaliE,421204,Marathi,17:30,Recliner,380₹,12,1
+Ahmednagar,AshaSquareMultiplexAhmednagar,414001,Marathi,18:00,GoldenClass,150₹,100,0
