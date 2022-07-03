@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Jaipur,GolchaCinemaNewGate,302004,Hindi,12:25,Excutive,150₹,135,0
+Jaipur,GolchaCinemaNewGate,302004,Hindi,12:25,RoyalBox,200₹,72,0
+Pune,ViluxTalkiesKhadkiBazar,411003,Hindi,12:30,Gold,100₹,224,0
+Pune,ViluxTalkiesKhadkiBazar,411003,Hindi,12:30,Silver,100₹,58,0
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,14:30,Premium,60₹,362,0
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,14:30,NonPremium,40₹,247,247
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,18:30,Premium,60₹,362,0
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,18:30,NonPremium,40₹,247,247
+Jaipur,GolchaCinemaNewGate,302004,Hindi,21:00,Excutive,150₹,136,0
+Jaipur,GolchaCinemaNewGate,302004,Hindi,21:00,RoyalBox,200₹,72,0
+Pune,ViluxTalkiesKhadkiBazar,411003,Hindi,21:30,Gold,100₹,224,0
+Pune,ViluxTalkiesKhadkiBazar,411003,Hindi,21:30,Silver,100₹,58,0
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,21:30,Premium,60₹,362,0
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,21:30,NonPremium,40₹,247,247
