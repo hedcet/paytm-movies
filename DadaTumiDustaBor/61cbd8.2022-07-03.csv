@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Guwahati,GoldCinemaPaltanbazar,781001,Assamese,14:15,Gold,120₹,100,0
+Guwahati,GoldCinemaPaltanbazar,781001,Assamese,14:15,Silver,100₹,100,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,20:15,Classic,99₹,44,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,20:15,Prime,99₹,107,15
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,20:15,PrimePlus,99₹,14,0
