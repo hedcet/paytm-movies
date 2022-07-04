@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Guntur,NaazCinemasGuntur,522001,Telugu,11:15,GoldClass,145₹,167,26
+Guntur,NaazCinemasGuntur,522001,Telugu,11:15,EliteClass,80₹,61,0
+Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,520003,Telugu,11:30,Balcony,100₹,264,4
+Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,520003,Telugu,11:30,Balcony,100₹,44,0
+Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,520003,Telugu,11:30,SecondClass,100₹,40,0
+Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,520003,Telugu,11:30,ThirdClass,78₹,103,1
+Guntur,NaazCinemasGuntur,522001,Telugu,14:30,GoldClass,145₹,167,28
+Guntur,NaazCinemasGuntur,522001,Telugu,14:30,EliteClass,80₹,61,1
+Guntur,NaazCinemasGuntur,522001,Telugu,18:15,GoldClass,145₹,167,24
+Guntur,NaazCinemasGuntur,522001,Telugu,18:15,EliteClass,80₹,61,0
+Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,520003,Telugu,18:30,Balcony,100₹,264,0
+Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,520003,Telugu,18:30,Balcony,100₹,44,0
+Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,520003,Telugu,18:30,SecondClass,100₹,40,0
+Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,520003,Telugu,18:30,ThirdClass,78₹,103,0
+Guntur,NaazCinemasGuntur,522001,Telugu,21:30,GoldClass,145₹,167,29
+Guntur,NaazCinemasGuntur,522001,Telugu,21:30,EliteClass,80₹,61,1
