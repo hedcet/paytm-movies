@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+BalodaBazar,ShivaBollywoodTheater,493332,Chhattisgarhi,12:00,GoldClass,90₹,132,104
+BalodaBazar,ShivaBollywoodTheater,493332,Chhattisgarhi,15:00,GoldClass,90₹,132,104
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chhattisgarhi,16:20,Club,209₹,4,0
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chhattisgarhi,16:20,Gold,300₹,4,0
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chhattisgarhi,16:20,Executive,118₹,81,0
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chhattisgarhi,16:20,Special,103₹,28,0
+BalodaBazar,ShivaBollywoodTheater,493332,Chhattisgarhi,18:00,GoldClass,90₹,132,104
+BalodaBazar,ShivaBollywoodTheater,493332,Chhattisgarhi,21:00,GoldClass,90₹,132,104
