@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Jorhat,InoxAbsMallJorhat,785001,Assamese,14:00,Club,210₹,55,0
+Jorhat,InoxAbsMallJorhat,785001,Assamese,14:00,Executive,150₹,32,5
+Jorhat,InoxAbsMallJorhat,785001,Assamese,14:00,Premier,100₹,32,0
+Jorhat,InoxAbsMallJorhat,785001,Assamese,14:00,Royal,300₹,14,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,15:45,Classic,99₹,44,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,15:45,Prime,99₹,107,21
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,15:45,PrimePlus,99₹,14,5
+Guwahati,CinepolisCentralMallGuwahati,781005,Assamese,17:55,Normal,160₹,24,0
+Guwahati,CinepolisCentralMallGuwahati,781005,Assamese,17:55,Executive,180₹,116,0
+Guwahati,CinepolisCentralMallGuwahati,781005,Assamese,17:55,Premium,200₹,42,3
+Guwahati,CinepolisCentralMallGuwahati,781005,Assamese,17:55,Vip,400₹,4,0
