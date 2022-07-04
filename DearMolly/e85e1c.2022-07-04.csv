@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,InoxAmanoraTownCentreHadapsar,412028,Hindi,14:15,Club,140₹,109,0
+Pune,InoxAmanoraTownCentreHadapsar,412028,Hindi,14:15,Executive,140₹,21,0
+Pune,InoxAmanoraTownCentreHadapsar,412028,Hindi,14:15,Royale,220₹,2,0
+Mumbai,InoxMegaplexInorbitMall,400064,English,14:55,Insignia,400₹,34,0
+Pune,CinepolisNexusWestend,411007,English,18:50,Normal,250₹,25,0
+Pune,CinepolisNexusWestend,411007,English,18:50,Executive,250₹,42,0
+Pune,CinepolisNexusWestend,411007,English,18:50,Premium,250₹,47,0
+Nagpur,PvrEmpressCityMallNagpur,440017,Hindi,19:45,Classic,90₹,26,0
+Nagpur,PvrEmpressCityMallNagpur,440017,Hindi,19:45,Prime,110₹,95,13
