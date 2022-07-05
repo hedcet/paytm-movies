@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Waterland,PvrTestingCinema,796190,Hindi,12:00,Prime,100₹,71,15
+Waterland,PvrTestingCinema,796190,Hindi,12:00,Passport,225₹,107,12
+Waterland,PvrTestingCinema,796190,Hindi,17:30,Prime,250₹,71,2
+Waterland,PvrTestingCinema,796190,Hindi,17:30,Classic,250₹,102,26
+Waterland,PvrTestingCinema,796190,Hindi,20:05,Prime,250₹,70,7
+Waterland,PvrTestingCinema,796190,Hindi,20:05,Classic,250₹,103,3
