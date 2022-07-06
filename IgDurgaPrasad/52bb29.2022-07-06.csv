@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Angara,SriBhimeswaraAcDts,533307,Telugu,11:30,FirstClass,100₹,272,200
+Angara,SriBhimeswaraAcDts,533307,Telugu,11:30,SecondClass,100₹,48,48
+Angara,SriBhimeswaraAcDts,533307,Telugu,11:30,ThirdClass,100₹,72,72
+Angara,SriBhimeswaraAcDts,533307,Telugu,14:30,FirstClass,100₹,272,200
+Angara,SriBhimeswaraAcDts,533307,Telugu,14:30,SecondClass,100₹,48,48
+Angara,SriBhimeswaraAcDts,533307,Telugu,14:30,ThirdClass,100₹,72,72
+Angara,SriBhimeswaraAcDts,533307,Telugu,18:30,FirstClass,100₹,272,200
+Angara,SriBhimeswaraAcDts,533307,Telugu,18:30,SecondClass,100₹,48,48
+Angara,SriBhimeswaraAcDts,533307,Telugu,18:30,ThirdClass,100₹,72,72
+Angara,SriBhimeswaraAcDts,533307,Telugu,21:30,FirstClass,100₹,272,200
+Angara,SriBhimeswaraAcDts,533307,Telugu,21:30,SecondClass,100₹,48,48
+Angara,SriBhimeswaraAcDts,533307,Telugu,21:30,ThirdClass,100₹,72,72
