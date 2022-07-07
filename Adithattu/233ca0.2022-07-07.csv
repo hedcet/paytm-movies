@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thalayolaparambu,CarnivalThalayolaparambu,686605,Malayalam,10:30,Gold,110₹,144,7
+Kottakkal,LeenaTheatre4KDolbyAtmosKottakkal,676503,Malayalam,11:00,Executive,110₹,186,4
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,14:00,PremiumLounge,250₹,65,6
+Kottakkal,LeenaTheatre4KDolbyAtmosKottakkal,676503,Malayalam,14:30,Executive,110₹,186,4
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,16:30,ExecutiveOffline,160₹,132,14
+Kollam,CarnivalRpMallKollam,691001,Malayalam,18:00,PremiumOffline,150₹,96,10
+Kottakkal,LeenaTheatre4KDolbyAtmosKottakkal,676503,Malayalam,18:00,Executive,110₹,186,4
+Kollam,CarnivalRpMallKollam,691001,Malayalam,19:45,PremiumOffline,150₹,96,26
+Thalayolaparambu,CarnivalThalayolaparambu,686605,Malayalam,21:15,Gold,110₹,144,6
+Mangalore,PvrForumFizaMallPandeshwar,575001,Malayalam,22:00,Classic,150₹,71,0
