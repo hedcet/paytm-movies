@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,11:45,Budget,60₹,27,0
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,11:45,Elite,190₹,210,45
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,18:10,Club,190₹,135,9
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,18:10,Executive,60₹,19,0
