@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,MirajCinemasNewtownKolkata,700156,Bengali,14:15,Special,130₹,56,0
+Kolkata,MirajCinemasNewtownKolkata,700156,Bengali,14:15,Executive,150₹,78,0
+Kolkata,MirajCinemasNewtownKolkata,700156,Bengali,14:15,Recliner,250₹,22,1
