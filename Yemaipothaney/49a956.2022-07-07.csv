@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vizag,InoxChitralayaaMallChitralayaa,530020,Telugu,13:25,Executive,177₹,116,2
+Kurnool,BharathComplexKurnool,518001,Telugu,18:30,Sofa,100₹,24,12
+Kurnool,BharathComplexKurnool,518001,Telugu,18:30,Premium,100₹,276,0
+Kurnool,BharathComplexKurnool,518001,Telugu,18:30,NonPremium,70₹,98,0
+Guntur,JleCinemasGuntur,522004,Telugu,18:30,Elite,295₹,17,0
+Guntur,JleCinemasGuntur,522004,Telugu,18:30,Gold,177₹,123,3
