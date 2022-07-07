@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Payyanur,SumangaliCinemasAnnurRoad,670307,Malayalam,10:30,PlatinumCircle,130₹,161,0
+Manjeri,LadderCinemasIndianMall,676121,Malayalam,12:15,Executive,150₹,114,0
+Kochi,PvrLuluKochi,682025,Malayalam,12:50,Classic,140₹,39,0
+Kochi,PvrLuluKochi,682025,Malayalam,12:50,ClassicPlus,160₹,91,0
+Kochi,PvrLuluKochi,682025,Malayalam,12:50,Prime,190₹,64,19
+Kochi,PvrLuluKochi,682025,Malayalam,12:50,Recliner,350₹,9,0
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,15:00,BlueCircle,150₹,227,218
+Manjeri,LadderCinemasIndianMall,676121,Malayalam,18:00,Executive,150₹,114,0
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,21:00,BlueCircle,150₹,227,218
