@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Krishnagiri,KTheatre70MmDtsKrishnagiri,635001,Tamil,10:30,Firstclass,80₹,98,0
+Kumbakonam,MsmCinemasRgbLaserPremierTowers,612001,Tamil,11:00,BalconyAC,120₹,118,0
+Kumbakonam,MsmCinemasRgbLaserPremierTowers,612001,Tamil,11:00,FirstClass,100₹,350,0
+Krishnagiri,KTheatre70MmDtsKrishnagiri,635001,Tamil,14:00,Firstclass,80₹,98,0
+Kumbakonam,MsmCinemasRgbLaserPremierTowers,612001,Tamil,14:00,BalconyAC,120₹,118,0
+Kumbakonam,MsmCinemasRgbLaserPremierTowers,612001,Tamil,14:00,FirstClass,100₹,350,0
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,16:15,Quartz,152₹,242,0
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,16:15,Zircon,60₹,27,27
+Krishnagiri,KTheatre70MmDtsKrishnagiri,635001,Tamil,18:00,Firstclass,80₹,98,0
+Kumbakonam,MsmCinemasRgbLaserPremierTowers,612001,Tamil,18:00,BalconyAC,120₹,118,0
+Kumbakonam,MsmCinemasRgbLaserPremierTowers,612001,Tamil,18:00,FirstClass,100₹,350,0
+Krishnagiri,KTheatre70MmDtsKrishnagiri,635001,Tamil,21:45,Firstclass,80₹,98,0
+Kumbakonam,MsmCinemasRgbLaserPremierTowers,612001,Tamil,22:00,BalconyAC,120₹,118,0
+Kumbakonam,MsmCinemasRgbLaserPremierTowers,612001,Tamil,22:00,FirstClass,100₹,350,0
