@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,C3LaurelMallRgbLaserChengalpattu,603111,Tamil,09:30,Platinum,150₹,169,23
+Chennai,C3LaurelMallRgbLaserChengalpattu,603111,Tamil,09:30,Silver,150₹,54,0
+Chennai,AgsCinemasVillivakkam,600049,Tamil,12:00,Diamond,150₹,113,15
+Chennai,AgsCinemasMaduravoyal,600095,Tamil,12:15,Diamond,150₹,205,16
+Tuticorin,SathyaTheatre,628001,Tamil,14:30,FirstClass,50₹,100,0
+Tuticorin,SathyaTheatre,628001,Tamil,18:30,FirstClass,50₹,100,0
+Tuticorin,SathyaTheatre,628001,Tamil,22:00,FirstClass,50₹,100,0
+Chennai,AgsCinemasOmrNavlur,603103,Tamil,22:30,Pearl,60₹,34,24
+Chennai,AgsCinemasOmrNavlur,603103,Tamil,22:30,Diamond,150₹,302,15
+Coimbatore,SrkMirajCinemasCoimbatore,641016,Tamil,22:35,Special,60₹,21,1
+Coimbatore,SrkMirajCinemasCoimbatore,641016,Tamil,22:35,Executive,190₹,190,7
