@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,KrishnaTheatreKrPuram,560036,Kannada,11:00,Balcony,120₹,271,243
+Bengaluru,KrishnaTheatreKrPuram,560036,Kannada,11:00,FirstClass,50₹,600,600
+Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,560023,Kannada,13:30,Gold,110₹,355,348
+Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,560023,Kannada,13:30,Silver,100₹,748,672
+Bengaluru,KrishnaTheatreKrPuram,560036,Kannada,14:30,Balcony,120₹,271,243
+Bengaluru,KrishnaTheatreKrPuram,560036,Kannada,14:30,FirstClass,50₹,600,600
+Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,560023,Kannada,16:30,Gold,110₹,355,345
+Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,560023,Kannada,16:30,Silver,100₹,748,672
