@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Sivakasi,SKCinemasLatchamTheatreFullACDtsLingapuramColony,626123,Tamil,10:30,FirstClass,100₹,192,0
+Sivakasi,SKCinemasLatchamTheatreFullACDtsLingapuramColony,626123,Tamil,10:30,SecondClass,80₹,214,214
+Dharmapuri,SriHariTheatreAC2K,636701,Tamil,11:00,Balcony,100₹,140,0
+Madurai,InoxVishaalDeMallMadurai,625002,Tamil,12:40,Club,178₹,124,87
+Madurai,InoxVishaalDeMallMadurai,625002,Tamil,12:40,Executive,60₹,12,12
+Dharmapuri,SriHariTheatreAC2K,636701,Tamil,14:15,Balcony,100₹,140,0
+Sivakasi,SKCinemasLatchamTheatreFullACDtsLingapuramColony,626123,Tamil,14:30,FirstClass,100₹,192,0
+Sivakasi,SKCinemasLatchamTheatreFullACDtsLingapuramColony,626123,Tamil,14:30,SecondClass,80₹,214,214
+Kaveripattinam,SarojiniTheatreKaveripattinam,635112,Tamil,18:15,Balcony,70₹,123,0
+Kaveripattinam,SarojiniTheatreKaveripattinam,635112,Tamil,18:15,FirstClass,70₹,259,0
+Kaveripattinam,SarojiniTheatreKaveripattinam,635112,Tamil,21:30,Balcony,70₹,123,0
+Kaveripattinam,SarojiniTheatreKaveripattinam,635112,Tamil,21:30,FirstClass,70₹,259,0
+Chennai,InoxTheMarinaMallOmrEgatoor,603103,Tamil,22:30,Club,190₹,126,28
+Chennai,InoxTheMarinaMallOmrEgatoor,603103,Tamil,22:30,Executive,60₹,16,0
