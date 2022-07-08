@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vasai,CarnivalKtVasaiW,401202,Gujarati,12:40,Platinum,110₹,60,0
+Vasai,CarnivalKtVasaiW,401202,Gujarati,12:40,Royal,130₹,12,0
+Sanand,ArthMultiplexSanand,382110,Gujarati,18:00,Gold,100₹,100,0
+Sanand,ArthMultiplexSanand,382110,Gujarati,18:00,Silver,100₹,100,0
+Bhavnagar,TheEntertainmentParkNawapara,364001,Gujarati,20:00,Silver,199₹,22,22
+Bhavnagar,TheEntertainmentParkNawapara,364001,Gujarati,20:00,Gold,199₹,142,142
+Bhavnagar,TheEntertainmentParkNawapara,364001,Gujarati,20:00,Platinum,199₹,29,29
