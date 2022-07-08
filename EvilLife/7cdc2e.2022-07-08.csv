@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Tekkali,BhavaniTheatreTekkali,532201,Telugu,10:30,FirstClass,100₹,146,0
+Tekkali,BhavaniTheatreTekkali,532201,Telugu,10:30,SecondClass,100₹,48,48
+Tekkali,BhavaniTheatreTekkali,532201,Telugu,14:30,FirstClass,100₹,146,0
+Tekkali,BhavaniTheatreTekkali,532201,Telugu,14:30,SecondClass,100₹,48,48
+Tekkali,BhavaniTheatreTekkali,532201,Telugu,18:30,FirstClass,100₹,146,0
+Tekkali,BhavaniTheatreTekkali,532201,Telugu,18:30,SecondClass,100₹,48,48
+Tekkali,BhavaniTheatreTekkali,532201,Telugu,21:30,FirstClass,100₹,146,0
+Tekkali,BhavaniTheatreTekkali,532201,Telugu,21:30,SecondClass,100₹,48,48
