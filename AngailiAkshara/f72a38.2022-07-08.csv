@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,10:00,Normal,150₹,9,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,10:00,Executive,150₹,78,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,10:00,Premium,150₹,33,0
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,560023,Kannada,10:05,Recliner,250₹,4,0
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,560023,Kannada,10:05,Classic,112₹,210,0
+Bengaluru,SoundaryaMahalPictureHouse,561203,Kannada,10:30,Balcony,80₹,127,67
+Bengaluru,SoundaryaMahalPictureHouse,561203,Kannada,10:30,Second,60₹,562,314
+Bengaluru,SoundaryaMahalPictureHouse,561203,Kannada,13:30,Balcony,80₹,127,67
+Bengaluru,SoundaryaMahalPictureHouse,561203,Kannada,13:30,Second,60₹,562,314
