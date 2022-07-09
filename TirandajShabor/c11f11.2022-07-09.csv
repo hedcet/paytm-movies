@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,BijoliCinemaBhowanipore,700025,Bengali,12:00,Balcony,100₹,188,107
+Kolkata,BijoliCinemaBhowanipore,700025,Bengali,12:00,RearStall,80₹,614,112
+Kolkata,MinarCinemaACDolbyHatiBagan,700004,Bengali,12:00,Balcony,120₹,274,159
+Kolkata,MinarCinemaACDolbyHatiBagan,700004,Bengali,12:00,RearStall,100₹,575,405
+Kolkata,ChhabigharCinemaBaithakkhana,700009,Bengali,12:00,Balcony,100₹,144,80
+Kolkata,ChhabigharCinemaBaithakkhana,700009,Bengali,12:00,RearStall,80₹,502,148
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,17:20,Classic,99₹,80,11
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,17:20,Prime,99₹,11,8
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,17:20,Recliner,149₹,12,7
