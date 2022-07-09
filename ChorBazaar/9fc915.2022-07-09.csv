@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chintamani,AdarshaTheatreChintamani,563125,Telugu,10:30,First,100₹,419,0
+Rapur,SriVenkateswaraMahalACDts,524408,Telugu,11:00,Gold,110₹,268,210
+Chintamani,AdarshaTheatreChintamani,563125,Telugu,14:00,First,100₹,419,0
+Rapur,SriVenkateswaraMahalACDts,524408,Telugu,14:00,Gold,110₹,268,210
+Chintamani,AdarshaTheatreChintamani,563125,Telugu,18:00,First,100₹,419,0
+Rapur,SriVenkateswaraMahalACDts,524408,Telugu,19:00,Gold,110₹,268,210
+Chintamani,AdarshaTheatreChintamani,563125,Telugu,21:00,First,100₹,419,0
+Rapur,SriVenkateswaraMahalACDts,524408,Telugu,22:00,Gold,110₹,268,210
