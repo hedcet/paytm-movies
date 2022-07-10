@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,UdhayamComplexJafferkhanpet,600096,Tamil,11:45,FirstClass,112₹,213,12
+Chennai,UdhayamComplexJafferkhanpet,600096,Tamil,11:45,SecondClass,105₹,70,1
+Chennai,UdhayamComplexJafferkhanpet,600096,Tamil,11:45,ThirdClass,50₹,32,0
