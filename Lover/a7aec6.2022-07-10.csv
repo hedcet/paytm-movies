@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Amritsar,PvrSctCityCentre,143001,Punjabi,13:15,Classic,170₹,105,0
+Amritsar,PvrSctCityCentre,143001,Punjabi,13:15,Prime,180₹,45,6
+Amritsar,PvrSctCityCentre,143001,Punjabi,13:15,Recliner,360₹,12,0
+Ludhiana,PvrPavilionMallLudhiana,141002,Punjabi,13:15,Classic,230₹,113,2
+Chandigarh,PvrElanteMallChandigarh,178178,Punjabi,13:45,Classic,230₹,138,30
+Chandigarh,PvrElanteMallChandigarh,178178,Punjabi,13:45,Recliner,650₹,13,0
+Ludhiana,PvrSilverArcMallGurdevNagar,141001,Punjabi,16:05,Prime,300₹,15,3
+Ludhiana,PvrSilverArcMallGurdevNagar,141001,Punjabi,16:05,Classic,240₹,106,0
