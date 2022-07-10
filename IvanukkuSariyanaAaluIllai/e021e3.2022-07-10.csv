@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Payyanur,AradhanaArchanaMovieHousePayyanur,670307,Tamil,10:30,FirstClass,110₹,230,0
+Payyanur,AradhanaArchanaMovieHousePayyanur,670307,Tamil,13:30,FirstClass,110₹,230,1
+Vadanapally,AsokaKingCinemasVadanapally,680614,Tamil,15:00,GoldCircle,130₹,163,0
+Payyanur,AradhanaArchanaMovieHousePayyanur,670307,Tamil,16:30,FirstClass,110₹,230,0
+Vadanapally,AsokaKingCinemasVadanapally,680614,Tamil,18:35,GoldCircle,130₹,163,0
+Payyanur,AradhanaArchanaMovieHousePayyanur,670307,Tamil,19:30,FirstClass,110₹,230,0
+Vadanapally,AsokaKingCinemasVadanapally,680614,Tamil,21:30,GoldCircle,130₹,163,0
