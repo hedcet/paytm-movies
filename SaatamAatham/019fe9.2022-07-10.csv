@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vasai,CarnivalKtVasaiW,401202,Gujarati,12:40,Platinum,110₹,60,0
+Vasai,CarnivalKtVasaiW,401202,Gujarati,12:40,Royal,130₹,12,3
+Mumbai,CarnivalMoviestarGoregaonW,400062,Gujarati,13:35,GoldOffline,130₹,46,0
+Mumbai,CarnivalMoviestarGoregaonW,400062,Gujarati,13:35,SilverOffline,100₹,24,0
+Sanand,ArthMultiplexSanand,382110,Gujarati,18:00,Gold,100₹,100,0
+Sanand,ArthMultiplexSanand,382110,Gujarati,18:00,Silver,100₹,100,0
