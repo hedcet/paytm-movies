@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Anakapalle,SriSatyanarayanaPicturePalaceAcDts,531001,Telugu,10:45,FirstClass,147₹,388,296
+Anakapalle,SriSatyanarayanaPicturePalaceAcDts,531001,Telugu,10:45,1stClass,147₹,32,32
+Anakapalle,SriSatyanarayanaPicturePalaceAcDts,531001,Telugu,10:45,2ndClass,100₹,119,119
+Chodavaram,LakshmiTheatreChodavaram,531036,Telugu,11:00,UpperClass,100₹,358,358
+Chodavaram,LakshmiTheatreChodavaram,531036,Telugu,11:00,MiddleClass,80₹,42,42
+Anakapalle,SriSatyanarayanaPicturePalaceAcDts,531001,Telugu,14:15,FirstClass,147₹,388,296
+Anakapalle,SriSatyanarayanaPicturePalaceAcDts,531001,Telugu,14:15,1stClass,147₹,32,32
+Anakapalle,SriSatyanarayanaPicturePalaceAcDts,531001,Telugu,14:15,2ndClass,100₹,119,119
+Anakapalle,SriSatyanarayanaPicturePalaceAcDts,531001,Telugu,18:30,FirstClass,147₹,388,296
+Anakapalle,SriSatyanarayanaPicturePalaceAcDts,531001,Telugu,18:30,1stClass,147₹,32,32
+Anakapalle,SriSatyanarayanaPicturePalaceAcDts,531001,Telugu,18:30,2ndClass,100₹,119,119
+Chodavaram,LakshmiTheatreChodavaram,531036,Telugu,18:30,UpperClass,100₹,358,358
+Chodavaram,LakshmiTheatreChodavaram,531036,Telugu,18:30,MiddleClass,80₹,42,42
+Anakapalle,SriSatyanarayanaPicturePalaceAcDts,531001,Telugu,21:30,FirstClass,147₹,388,296
+Anakapalle,SriSatyanarayanaPicturePalaceAcDts,531001,Telugu,21:30,1stClass,147₹,32,32
+Anakapalle,SriSatyanarayanaPicturePalaceAcDts,531001,Telugu,21:30,2ndClass,100₹,119,119
