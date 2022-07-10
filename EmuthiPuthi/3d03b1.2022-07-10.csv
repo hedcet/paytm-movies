@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,19:00,Classic,180₹,40,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,19:00,Prime,200₹,82,70
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,19:00,PrimePlus,220₹,13,11
