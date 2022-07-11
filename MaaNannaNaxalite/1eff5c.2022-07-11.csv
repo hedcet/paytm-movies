@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kodad,ConnplexSmartMiniplexKodad,508206,Telugu,11:00,Miller,150₹,100,0
+Kodad,ConnplexSmartMiniplexKodad,508206,Telugu,11:00,Lounger,175₹,100,0
+Hyderabad,PvrMusarambaghNewMalakpet,500036,Telugu,11:00,Classic,150₹,117,117
+Kodad,ConnplexSmartMiniplexKodad,508206,Telugu,14:15,Miller,150₹,100,0
+Kodad,ConnplexSmartMiniplexKodad,508206,Telugu,14:15,Lounger,175₹,100,0
+Anantapur,GowriComplexOldTown,515001,Telugu,14:30,Platinum,148₹,280,34
+Anantapur,GowriComplexOldTown,515001,Telugu,14:30,Gold,112₹,98,0
+Hyderabad,PvrKukatpally,500072,Telugu,16:25,Classic,150₹,135,2
+Hyderabad,PvrKukatpally,500072,Telugu,16:25,Recliner,250₹,9,0
+Kurnool,SvcCinemasCitySquareMall,518004,Telugu,16:30,Platinum,295₹,9,0
+Kurnool,SvcCinemasCitySquareMall,518004,Telugu,16:30,Sliders,177₹,77,0
+Anantapur,GowriComplexOldTown,515001,Telugu,21:30,Platinum,148₹,280,34
+Anantapur,GowriComplexOldTown,515001,Telugu,21:30,Gold,112₹,98,0
+Hyderabad,MirajCinemasBalanagar,500037,Telugu,22:45,Executive,150₹,262,0
+Hyderabad,MirajCinemasBalanagar,500037,Telugu,22:45,Gold,250₹,25,0
