@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Dhamtari,VimalDevshriCineplex,493773,Chhattisgarhi,12:00,Balcony,90₹,136,111
+Raipur,ShyamTalkiesRaipur,492001,Chhattisgarhi,12:00,Balcony,100₹,140,100
+Dhamtari,VimalDevshriCineplex,493773,Chhattisgarhi,15:00,Balcony,90₹,136,111
+Raipur,ShyamTalkiesRaipur,492001,Chhattisgarhi,15:00,Balcony,100₹,140,100
+Raigarh,GalaxyCinemasDolbyAtmos,496001,Chhattisgarhi,15:30,Recliner,400₹,14,0
+Raigarh,GalaxyCinemasDolbyAtmos,496001,Chhattisgarhi,15:30,Premium,200₹,81,0
+Raigarh,GalaxyCinemasDolbyAtmos,496001,Chhattisgarhi,15:30,Executive,150₹,39,0
+Dhamtari,VimalDevshriCineplex,493773,Chhattisgarhi,18:00,Balcony,90₹,136,111
+Raipur,ShyamTalkiesRaipur,492001,Chhattisgarhi,18:00,Balcony,100₹,140,100
+Dhamtari,VimalDevshriCineplex,493773,Chhattisgarhi,21:00,Balcony,90₹,136,111
+Raipur,ShyamTalkiesRaipur,492001,Chhattisgarhi,21:00,Balcony,100₹,140,100
