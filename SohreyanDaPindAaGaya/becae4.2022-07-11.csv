@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Rupnagar,RitzMultiplexRupnagar,140001,Punjabi,09:50,GoldClass,130₹,17,0
+Rupnagar,RitzMultiplexRupnagar,140001,Punjabi,09:50,SilverClass,90₹,80,0
+Rupnagar,RitzMultiplexRupnagar,140001,Punjabi,09:50,Silver1Class,90₹,40,0
+Rupnagar,RitzMultiplexRupnagar,140001,Punjabi,09:50,NormalC,90₹,32,0
+TalwandiBhai,FunCineplex,142050,Punjabi,10:00,Royal,90₹,91,78
+Una,RajhansCinemasMrcMagnumMallIsbtUna,174303,Punjabi,10:05,Executive,130₹,124,2
+Una,RajhansCinemasMrcMagnumMallIsbtUna,174303,Punjabi,10:05,Royal,110₹,32,0
+Una,RajhansCinemasMrcMagnumMallIsbtUna,174303,Punjabi,10:05,Marvel,110₹,16,0
+Gohana,CineTimeGohana,131302,Punjabi,10:30,GoldC,150₹,24,0
+Gohana,CineTimeGohana,131302,Punjabi,10:30,SilverC,150₹,96,0
+Dhuri,MirajCinemasDhuri,148024,Punjabi,11:00,Special,130₹,65,0
+Dhuri,MirajCinemasDhuri,148024,Punjabi,11:00,Executive,150₹,176,0
+Dhuri,MirajCinemasDhuri,148024,Punjabi,11:00,Gold,200₹,11,0
