@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,CinepolisNexusWestend,411007,Marathi,12:40,Premium,250₹,48,0
+Pune,CinepolisNexusWestend,411007,Marathi,12:40,Executive,230₹,51,0
+Pune,CinepolisNexusWestend,411007,Marathi,12:40,Normal,210₹,24,0
+Pune,InoxAmanoraTownCentreHadapsar,412028,Marathi,19:00,Club,150₹,224,24
+Pune,InoxAmanoraTownCentreHadapsar,412028,Marathi,19:00,Executive,150₹,36,0
+Pune,InoxAmanoraTownCentreHadapsar,412028,Marathi,19:00,Royale,230₹,8,0
