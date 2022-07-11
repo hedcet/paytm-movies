@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bhopal,RajBig2CinemaBhopal,462008,Hindi,12:00,Diamond,110₹,385,275
+Bhopal,RajBig2CinemaBhopal,462008,Hindi,12:00,Silver,100₹,160,160
+AurangabadWestBengal,ShyamalTalkies,742201,Hindi,14:00,AcRoom,100₹,22,22
+AurangabadWestBengal,ShyamalTalkies,742201,Hindi,14:00,Balcony,50₹,220,180
+AurangabadWestBengal,ShyamalTalkies,742201,Hindi,14:00,RearStall,30₹,460,420
