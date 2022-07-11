@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kangeyam,SwargamTheatreKangayam,638701,Tamil,10:15,Balcony,80₹,121,0
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,11:45,Classic,59₹,17,9
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,11:45,Prime,119₹,118,9
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,13:00,Classic,59₹,11,11
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,13:00,Prime,119₹,99,2
+Kangeyam,SwargamTheatreKangayam,638701,Tamil,14:15,Balcony,80₹,121,0
+Chennai,SriVenkateswaraTheatrePeriapalayam,601102,Tamil,14:30,Balcony,100₹,39,39
+Chennai,SriVenkateswaraTheatrePeriapalayam,601102,Tamil,14:30,Prime,100₹,340,340
+Kangeyam,SwargamTheatreKangayam,638701,Tamil,18:15,Balcony,80₹,121,0
+Chennai,SriVenkateswaraTheatrePeriapalayam,601102,Tamil,21:30,Balcony,100₹,39,39
+Chennai,SriVenkateswaraTheatrePeriapalayam,601102,Tamil,21:30,Prime,100₹,340,340
+Kangeyam,SwargamTheatreKangayam,638701,Tamil,21:45,Balcony,80₹,121,0
