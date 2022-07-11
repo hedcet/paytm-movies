@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Srivilliputhur,DeivamTheatre,626125,Tamil,10:30,FirstClass,70₹,254,0
+Srivilliputhur,DeivamTheatre,626125,Tamil,10:30,SecondClass,70₹,234,234
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,12:40,Budget,60₹,27,0
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,12:40,Elite,190₹,210,45
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,13:00,Classic,60₹,16,0
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,13:00,Prime,190₹,110,22
+Chennai,AgsCinemasMaduravoyal,600095,Tamil,15:25,Diamond,150₹,205,7
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,22:00,Classic,60₹,11,11
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,22:00,Prime,190₹,99,7
+Chennai,SpiS2CinemasPerambur,600011,Tamil,22:25,Elite,165₹,196,6
+Chennai,SpiS2CinemasPerambur,600011,Tamil,22:25,Budget,60₹,23,22
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,22:40,Classic,60₹,17,15
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,22:40,Prime,190₹,130,1
