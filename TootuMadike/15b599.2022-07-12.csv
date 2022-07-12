@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Davanagere,Vasantha2KAtmosCinemaDavangere,577001,Kannada,10:45,Balcony,150₹,441,361
+Davanagere,Vasantha2KAtmosCinemaDavangere,577001,Kannada,10:45,FirstClass,120₹,264,264
+Bengaluru,InoxBrookefieldMallKundalahalli,560037,Kannada,13:25,Club,180₹,20,0
+Bengaluru,InoxBrookefieldMallKundalahalli,560037,Kannada,13:25,Executive,160₹,85,0
+Davanagere,Vasantha2KAtmosCinemaDavangere,577001,Kannada,14:00,Balcony,150₹,441,361
+Davanagere,Vasantha2KAtmosCinemaDavangere,577001,Kannada,14:00,FirstClass,120₹,264,264
+Davanagere,Vasantha2KAtmosCinemaDavangere,577001,Kannada,17:45,Balcony,150₹,441,361
+Davanagere,Vasantha2KAtmosCinemaDavangere,577001,Kannada,17:45,FirstClass,120₹,264,264
+Mysuru,PvrForumCentreCityMallMysuru,570010,Kannada,18:55,Classic,140₹,119,0
+Davanagere,Vasantha2KAtmosCinemaDavangere,577001,Kannada,21:00,Balcony,150₹,441,361
+Davanagere,Vasantha2KAtmosCinemaDavangere,577001,Kannada,21:00,FirstClass,120₹,264,264
