@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NewDelhi,PvrPacificSubhashNagarDelhi,110018,Punjabi,14:50,Classic,250₹,36,0
+NewDelhi,PvrPacificSubhashNagarDelhi,110018,Punjabi,14:50,Prime,270₹,111,4
+NewDelhi,PvrPacificSubhashNagarDelhi,110018,Punjabi,14:50,PrimePlus,270₹,42,12
+NewDelhi,PvrPacificSubhashNagarDelhi,110018,Punjabi,14:50,Recliner,450₹,20,0
+Ludhiana,WaveOneMoviesLudhiana,141001,Punjabi,15:00,Classic,99₹,85,0
+Ludhiana,WaveOneMoviesLudhiana,141001,Punjabi,15:00,Premium,99₹,105,0
+Chandigarh,PvrElanteMallChandigarh,178178,Punjabi,16:45,Classic,180₹,138,23
+Chandigarh,PvrElanteMallChandigarh,178178,Punjabi,16:45,Recliner,550₹,13,0
+Bathinda,FunCinemaMittalCityMallVishalNagar,151001,Punjabi,19:05,Premium,170₹,70,4
+Bathinda,FunCinemaMittalCityMallVishalNagar,151001,Punjabi,19:05,Executive,160₹,39,4
+Bathinda,FunCinemaMittalCityMallVishalNagar,151001,Punjabi,19:05,Normal,150₹,39,0
+Amritsar,MovietimeOmaxeNoveltyMallLawrenceRoad,143001,Punjabi,19:30,Platinum,150₹,88,0
+Amritsar,MovietimeOmaxeNoveltyMallLawrenceRoad,143001,Punjabi,19:30,Gold,150₹,72,0
+Patiala,PvrVrcPatiala,147001,Punjabi,19:40,Classic,99₹,26,2
+Patiala,PvrVrcPatiala,147001,Punjabi,19:40,Prime,99₹,78,11
+Patiala,PvrVrcPatiala,147001,Punjabi,19:40,Recliner,149₹,9,9
