@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,PvrIrrumManzilKhairatabad,500082,Telugu,13:15,Classic,250₹,158,18
+Hyderabad,PvrIrrumManzilKhairatabad,500082,Telugu,13:15,Recliner,350₹,10,0
+Hyderabad,PvrKukatpally,500072,Telugu,16:30,Classic,250₹,244,4
+Hyderabad,PvrKukatpally,500072,Telugu,16:30,Recliner,350₹,13,6
