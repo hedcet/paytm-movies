@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ambajogai,ChhotuMaharajAmbajogai,431517,Marathi,12:00,Cl,112₹,18,0
+Ambajogai,ChhotuMaharajAmbajogai,431517,Marathi,12:00,Pr,112₹,4,0
+Ambajogai,ChhotuMaharajAmbajogai,431517,Marathi,12:00,Gl,112₹,32,0
+Ambajogai,ChhotuMaharajAmbajogai,431517,Marathi,12:00,Pl,112₹,32,0
+Ambajogai,ChhotuMaharajAmbajogai,431517,Marathi,15:00,Cl,112₹,18,0
+Ambajogai,ChhotuMaharajAmbajogai,431517,Marathi,15:00,Pr,112₹,4,0
+Ambajogai,ChhotuMaharajAmbajogai,431517,Marathi,15:00,Gl,112₹,32,4
+Ambajogai,ChhotuMaharajAmbajogai,431517,Marathi,15:00,Pl,112₹,32,0
+Ambajogai,ChhotuMaharajAmbajogai,431517,Marathi,18:00,Cl,112₹,18,0
+Ambajogai,ChhotuMaharajAmbajogai,431517,Marathi,18:00,Pr,112₹,4,0
+Ambajogai,ChhotuMaharajAmbajogai,431517,Marathi,18:00,Gl,112₹,32,0
+Ambajogai,ChhotuMaharajAmbajogai,431517,Marathi,18:00,Pl,112₹,32,0
+Ambajogai,ChhotuMaharajAmbajogai,431517,Marathi,21:00,Cl,112₹,18,0
+Ambajogai,ChhotuMaharajAmbajogai,431517,Marathi,21:00,Pr,112₹,4,0
+Ambajogai,ChhotuMaharajAmbajogai,431517,Marathi,21:00,Gl,112₹,32,0
+Ambajogai,ChhotuMaharajAmbajogai,431517,Marathi,21:00,Pl,112₹,32,0
