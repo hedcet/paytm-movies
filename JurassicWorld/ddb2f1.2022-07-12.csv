@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nagpur,CinepolisVrNagpurMall,440003,Hindi,19:25,Vip,300₹,4,2
+Nagpur,CinepolisVrNagpurMall,440003,Hindi,19:25,Premium,140₹,33,15
+Nagpur,CinepolisVrNagpurMall,440003,Hindi,19:25,Executive,130₹,40,0
+Nagpur,CinepolisVrNagpurMall,440003,Hindi,19:25,Normal,110₹,20,2
