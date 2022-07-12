@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bhatkal,PushpanjaliTheatreBhatkal,581320,Kannada,14:00,Balcony,100₹,182,94
+Bhatkal,PushpanjaliTheatreBhatkal,581320,Kannada,14:00,2ndClass,90₹,336,248
+Baindur,ShankarTheatreBaindur,576214,Kannada,14:00,Balcony,100₹,342,247
+Bhatkal,PushpanjaliTheatreBhatkal,581320,Kannada,17:30,Balcony,100₹,182,94
+Bhatkal,PushpanjaliTheatreBhatkal,581320,Kannada,17:30,2ndClass,90₹,336,248
+Baindur,ShankarTheatreBaindur,576214,Kannada,18:00,Balcony,100₹,342,247
+Bhatkal,PushpanjaliTheatreBhatkal,581320,Kannada,20:45,Balcony,100₹,182,94
+Bhatkal,PushpanjaliTheatreBhatkal,581320,Kannada,20:45,2ndClass,90₹,336,248
+Baindur,ShankarTheatreBaindur,576214,Kannada,21:00,Balcony,100₹,342,247
+Mysuru,PvrForumCentreCityMallMysuru,570010,Kannada,21:45,Classic,140₹,119,4
