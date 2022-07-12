@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Siliguri,InoxVegaCircleMallSevokeRoad,734001,Nepali,12:15,Club,250₹,68,0
+Siliguri,InoxVegaCircleMallSevokeRoad,734001,Nepali,12:15,Executive,250₹,34,0
+Siliguri,InoxVegaCircleMallSevokeRoad,734001,Nepali,12:15,Royal,280₹,148,7
+NewDelhi,PvrPromenadeVasantKunj,110070,Nepali,13:40,Classic,250₹,50,0
+NewDelhi,PvrPromenadeVasantKunj,110070,Nepali,13:40,Prime,250₹,44,17
+Siliguri,InoxVegaCircleMallSevokeRoad,734001,Nepali,18:05,Club,250₹,68,0
+Siliguri,InoxVegaCircleMallSevokeRoad,734001,Nepali,18:05,Executive,250₹,34,0
+Siliguri,InoxVegaCircleMallSevokeRoad,734001,Nepali,18:05,Royal,280₹,148,2
+Kalimpong,DreamTheatreKalimpong,734301,Nepali,19:15,Platinum,200₹,65,42
+Kalimpong,DreamTheatreKalimpong,734301,Nepali,19:15,Gold,200₹,52,52
+Kalimpong,DreamTheatreKalimpong,734301,Nepali,19:15,Silver,200₹,39,39
