@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,BijoliCinemaBhowanipore,700025,Bengali,12:00,Balcony,100₹,188,107
+Kolkata,BijoliCinemaBhowanipore,700025,Bengali,12:00,RearStall,80₹,614,112
+Kolkata,InoxSouthCityMall,700068,Bengali,19:25,Premier,180₹,34,0
+Kolkata,InoxSouthCityMall,700068,Bengali,19:25,Silver,200₹,157,15
