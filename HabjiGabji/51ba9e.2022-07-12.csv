@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,InoxStarMallMadhyamgram,700129,Bengali,13:00,Club,140₹,95,2
+Kolkata,InoxStarMallMadhyamgram,700129,Bengali,13:00,Executive,140₹,30,0
+Kolkata,InoxStarMallMadhyamgram,700129,Bengali,13:00,Royal,180₹,63,6
+CoochBehar,NewCinemaBangchatraRoad,736101,Bengali,13:00,Balcony,80₹,87,45
+Kolkata,InoxCityCentreIiRajarhat,700157,Bengali,13:10,Club,160₹,232,2
+Kolkata,InoxCityCentreIiRajarhat,700157,Bengali,13:10,Executive,140₹,51,0
+Kolkata,InoxCityCentreIiRajarhat,700157,Bengali,13:10,Royale,300₹,9,0
+Kolkata,InoxSouthCityMall,700068,Bengali,14:15,Premier,180₹,34,0
+Kolkata,InoxSouthCityMall,700068,Bengali,14:15,Silver,200₹,157,7
