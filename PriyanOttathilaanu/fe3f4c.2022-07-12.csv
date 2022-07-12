@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,13:30,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,13:30,Royal,170₹,20,10
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,13:30,Club,170₹,155,12
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,13:30,Executive,130₹,26,1
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,19:40,Club,170₹,155,13
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,19:40,Executive,130₹,26,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,19:40,RoyalRecliner,290₹,10,4
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,19:40,Royal,170₹,20,10
+Chennai,PvrHeritageRslEcrChennai,600119,Malayalam,22:00,Classic,63₹,16,16
+Chennai,PvrHeritageRslEcrChennai,600119,Malayalam,22:00,Prime,202₹,136,4
+Kochi,PvrOberonMallErnakulam,682024,Malayalam,22:00,Classic,129₹,54,0
+Kochi,PvrOberonMallErnakulam,682024,Malayalam,22:00,ClassicPlus,160₹,104,24
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,22:40,Club,170₹,155,19
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,22:40,Executive,130₹,26,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,22:40,RoyalRecliner,290₹,10,2
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,22:40,Royal,170₹,20,8
