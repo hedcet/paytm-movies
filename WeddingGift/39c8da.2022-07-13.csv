@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,12:00,Classic,150₹,108,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,12:00,Prime,170₹,99,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,12:00,Recliner,250₹,12,0
+Bengaluru,InoxSbrHorizonSeegehalliWhitefieldHoskoteRd,560067,Kannada,12:30,Club,160₹,54,0
+Bengaluru,InoxSbrHorizonSeegehalliWhitefieldHoskoteRd,560067,Kannada,12:30,Executive,140₹,50,0
+Bellary,RrCinemasBellary,583101,Kannada,14:00,Gold,150₹,124,83
+Bellary,RrCinemasBellary,583101,Kannada,14:00,Silver,100₹,242,132
+Bellary,RrCinemasBellary,583101,Kannada,17:00,Gold,150₹,124,83
+Bellary,RrCinemasBellary,583101,Kannada,17:00,Silver,100₹,242,132
+Bellary,RrCinemasBellary,583101,Kannada,20:00,Gold,150₹,124,83
+Bellary,RrCinemasBellary,583101,Kannada,20:00,Silver,100₹,242,132
+Mangalore,PvrForumFizaMallPandeshwar,575001,Kannada,21:40,Classic,150₹,71,0
