@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,14:30,NormalOffline,100₹,18,2
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,14:30,ExecutiveOffline,160₹,72,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,14:30,Silver,190₹,103,6
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,18:00,BlueCircle,150₹,227,218
