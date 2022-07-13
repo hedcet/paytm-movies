@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kattanam,GanamTheatreComplexACKattanam,690503,Malayalam,11:00,FirstClass,110₹,129,67
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,12:00,NormalOffline,100₹,18,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,12:00,ExecutiveOffline,160₹,72,2
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,12:00,Silver,190₹,103,6
+Kattanam,GanamTheatreComplexACKattanam,690503,Malayalam,14:30,FirstClass,110₹,129,67
+Valanchery,SreekumarAndPavithraTheatreAC2K,676552,Malayalam,14:30,FirstClass,110₹,161,0
+Kunnamkulam,BavanaMoviesHouseACKunnamkulam,680503,Malayalam,18:00,LuxuryClass,220₹,13,0
+Kunnamkulam,BavanaMoviesHouseACKunnamkulam,680503,Malayalam,18:00,PlatinumCircle,130₹,159,0
+Kattanam,GanamTheatreComplexACKattanam,690503,Malayalam,18:30,FirstClass,110₹,129,71
+Kattanam,GanamTheatreComplexACKattanam,690503,Malayalam,21:30,FirstClass,110₹,129,67
