@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Surandai,KavithaTheatreACDtsSurandai,627859,Tamil,11:15,BoxAc,100₹,22,0
+Surandai,KavithaTheatreACDtsSurandai,627859,Tamil,11:15,FirstClassNonAc,80₹,114,0
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,11:45,Classic,59₹,17,14
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,11:45,Prime,119₹,118,4
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,13:00,Classic,59₹,11,11
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,13:00,Prime,119₹,99,16
+Chennai,SriVenkateswaraTheatrePeriapalayam,601102,Tamil,14:30,Balcony,100₹,39,39
+Chennai,SriVenkateswaraTheatrePeriapalayam,601102,Tamil,14:30,Prime,100₹,340,340
+Surandai,KavithaTheatreACDtsSurandai,627859,Tamil,14:30,BoxAc,100₹,22,0
+Surandai,KavithaTheatreACDtsSurandai,627859,Tamil,14:30,FirstClassNonAc,80₹,114,0
+Surandai,KavithaTheatreACDtsSurandai,627859,Tamil,18:30,BoxAc,100₹,22,0
+Surandai,KavithaTheatreACDtsSurandai,627859,Tamil,18:30,FirstClassNonAc,80₹,114,0
+Chennai,SriVenkateswaraTheatrePeriapalayam,601102,Tamil,21:30,Balcony,100₹,39,39
+Chennai,SriVenkateswaraTheatrePeriapalayam,601102,Tamil,21:30,Prime,100₹,340,340
+Surandai,KavithaTheatreACDtsSurandai,627859,Tamil,22:15,BoxAc,100₹,22,0
+Surandai,KavithaTheatreACDtsSurandai,627859,Tamil,22:15,FirstClassNonAc,80₹,114,0
