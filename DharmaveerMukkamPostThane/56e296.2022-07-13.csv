@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,GunjanCinemaNhavare,412211,Marathi,12:30,Gold,100₹,40,8
+Pune,GunjanCinemaNhavare,412211,Marathi,12:30,Silver,100₹,36,0
+Pune,GunjanCinemaNhavare,412211,Marathi,18:30,Gold,100₹,40,8
+Pune,GunjanCinemaNhavare,412211,Marathi,18:30,Silver,100₹,36,0
