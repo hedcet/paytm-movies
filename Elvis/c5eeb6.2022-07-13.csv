@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrDynamicJuhu,400049,English,16:10,Prime,200₹,216,48
+Mumbai,PvrDynamicJuhu,400049,English,16:10,Classic,180₹,84,0
+Mumbai,InoxRCityGhatkoparW,400086,English,18:30,Insignia,450₹,40,4
+Mumbai,MaisonPvrTheLoftLuxeJioWorldDriveBkc,400051,English,19:15,Platinum,700₹,33,28
+Mumbai,InoxMegaplexInorbitMall,400064,English,22:15,Insignia,580₹,33,20
+Pune,CinepolisNexusWestend,411007,English,22:15,Premium,250₹,48,0
+Pune,CinepolisNexusWestend,411007,English,22:15,Executive,250₹,63,3
+Pune,CinepolisNexusWestend,411007,English,22:15,Normal,250₹,24,0
+Pune,PvrMarketCityGoldPune,411014,English,22:20,GoldPrime,500₹,22,22
+Pune,PvrMarketCityGoldPune,411014,English,22:20,GoldClassic,450₹,24,24
+NewDelhi,PvrPromenadeVasantKunj,110070,English,22:20,Classic,149₹,50,5
+NewDelhi,PvrPromenadeVasantKunj,110070,English,22:20,Prime,149₹,34,19
+Kolkata,InoxQuestMallBallygunge,700017,English,22:25,RoyalRecliner,470₹,63,9
