@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nandyal,RajPicturePalaceNandyal,518501,Telugu,11:30,Delux,70₹,252,60
+Nandyal,RajPicturePalaceNandyal,518501,Telugu,11:30,NonDelux,70₹,270,0
+Kurnool,BharathComplexKurnool,518001,Telugu,12:00,Premium,100₹,257,0
+Kurnool,BharathComplexKurnool,518001,Telugu,12:00,NonPremium,70₹,85,0
+Nandyal,RajPicturePalaceNandyal,518501,Telugu,14:30,Delux,70₹,252,60
+Nandyal,RajPicturePalaceNandyal,518501,Telugu,14:30,NonDelux,70₹,270,0
+Kurnool,BharathComplexKurnool,518001,Telugu,15:00,Premium,100₹,257,0
+Kurnool,BharathComplexKurnool,518001,Telugu,15:00,NonPremium,70₹,85,0
+Kurnool,BharathComplexKurnool,518001,Telugu,18:30,Premium,100₹,257,0
+Kurnool,BharathComplexKurnool,518001,Telugu,18:30,NonPremium,70₹,85,0
+Nandyal,RajPicturePalaceNandyal,518501,Telugu,18:30,Delux,70₹,252,60
+Nandyal,RajPicturePalaceNandyal,518501,Telugu,18:30,NonDelux,70₹,270,0
+Kurnool,BharathComplexKurnool,518001,Telugu,21:30,Premium,100₹,257,0
+Kurnool,BharathComplexKurnool,518001,Telugu,21:30,NonPremium,70₹,85,0
+Nandyal,RajPicturePalaceNandyal,518501,Telugu,21:30,Delux,70₹,252,60
+Nandyal,RajPicturePalaceNandyal,518501,Telugu,21:30,NonDelux,70₹,270,0
