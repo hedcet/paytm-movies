@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nagaon,DivyaJyotiCinemaNagaon,782002,Assamese,11:00,Box,200₹,10,0
+Nagaon,DivyaJyotiCinemaNagaon,782002,Assamese,11:00,Balcony,150₹,186,138
+LakhimpurAssam,GoldCinemaLakhimpur,787001,Assamese,14:00,Diamond,150₹,86,0
+LakhimpurAssam,GoldCinemaLakhimpur,787001,Assamese,14:00,Gold,120₹,48,0
+LakhimpurAssam,GoldCinemaLakhimpur,787001,Assamese,14:00,Silver,100₹,24,0
+Sivasagar,BhaskarjyotiCinemaBhatiapar,785640,Assamese,15:00,SilverClass,200₹,176,132
+Sivasagar,BhaskarjyotiCinemaBhatiapar,785640,Assamese,15:00,PremierCircle,150₹,315,273
+Guwahati,GoldCinemaNarengi,781026,Assamese,20:30,Diamond,180₹,94,0
+Guwahati,GoldCinemaNarengi,781026,Assamese,20:30,Gold,140₹,58,0
+Guwahati,GoldCinemaNarengi,781026,Assamese,20:30,Silver,120₹,66,0
