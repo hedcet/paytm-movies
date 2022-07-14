@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,CinepolisNexusWestend,411007,Marathi,12:40,Premium,250₹,48,0
+Pune,CinepolisNexusWestend,411007,Marathi,12:40,Executive,230₹,51,0
+Pune,CinepolisNexusWestend,411007,Marathi,12:40,Normal,210₹,24,0
+Pune,InoxElproCitySquareChinchwad,411033,Marathi,13:05,Club,150₹,90,8
+Pune,InoxElproCitySquareChinchwad,411033,Marathi,13:05,Executive,130₹,30,3
+Pune,InoxElproCitySquareChinchwad,411033,Marathi,13:05,RoyaleRecliners,280₹,26,3
+Pune,InoxElproCitySquareChinchwad,411033,Marathi,13:05,Royale,180₹,83,0
+Pune,InoxAmanoraTownCentreHadapsar,412028,Marathi,13:10,Club,180₹,224,0
+Pune,InoxAmanoraTownCentreHadapsar,412028,Marathi,13:10,Executive,180₹,36,0
+Pune,InoxAmanoraTownCentreHadapsar,412028,Marathi,13:10,Royale,280₹,8,0
+Pune,InoxAmanoraTownCentreHadapsar,412028,Marathi,13:10,Club,140₹,224,6
+Pune,InoxAmanoraTownCentreHadapsar,412028,Marathi,13:10,Executive,140₹,36,0
+Pune,InoxAmanoraTownCentreHadapsar,412028,Marathi,13:10,Royale,220₹,8,2
