@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,560023,Kannada,10:00,Recliner,200₹,11,0
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,560023,Kannada,10:00,Classic,112₹,228,0
+Bellary,RrCinemasBellary,583101,Kannada,11:00,Gold,150₹,124,83
+Bellary,RrCinemasBellary,583101,Kannada,11:00,Silver,100₹,242,132
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,12:15,Classic,150₹,108,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,12:15,Prime,170₹,99,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,12:15,Recliner,250₹,12,0
+Bellary,RrCinemasBellary,583101,Kannada,14:00,Gold,150₹,124,83
+Bellary,RrCinemasBellary,583101,Kannada,14:00,Silver,100₹,242,132
+Bellary,RrCinemasBellary,583101,Kannada,17:00,Gold,150₹,124,83
+Bellary,RrCinemasBellary,583101,Kannada,17:00,Silver,100₹,242,132
+Bellary,RrCinemasBellary,583101,Kannada,20:00,Gold,150₹,124,83
+Bellary,RrCinemasBellary,583101,Kannada,20:00,Silver,100₹,242,132
