@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,SriVajreshwariTheatreUllal,560056,Kannada,10:30,Balcony,120₹,200,172
+Bengaluru,SriVajreshwariTheatreUllal,560056,Kannada,10:30,Second,100₹,676,612
+Bellary,RrCinemasBellary,583101,Kannada,11:00,Gold,150₹,86,40
+Bellary,RrCinemasBellary,583101,Kannada,11:00,Silver,100₹,86,0
+Bengaluru,SriVajreshwariTheatreUllal,560056,Kannada,13:30,Balcony,120₹,200,172
+Bengaluru,SriVajreshwariTheatreUllal,560056,Kannada,13:30,Second,100₹,676,612
+Bellary,RrCinemasBellary,583101,Kannada,14:00,Gold,150₹,86,40
+Bellary,RrCinemasBellary,583101,Kannada,14:00,Silver,100₹,86,0
+Bellary,RrCinemasBellary,583101,Kannada,17:00,Gold,150₹,86,40
+Bellary,RrCinemasBellary,583101,Kannada,17:00,Silver,100₹,86,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,18:55,Executive,170₹,69,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,18:55,Premium,170₹,29,8
+Bellary,RrCinemasBellary,583101,Kannada,20:00,Gold,150₹,86,40
+Bellary,RrCinemasBellary,583101,Kannada,20:00,Silver,100₹,86,0
+Bengaluru,SriVajreshwariTheatreUllal,560056,Kannada,21:45,Balcony,120₹,200,172
+Bengaluru,SriVajreshwariTheatreUllal,560056,Kannada,21:45,Second,100₹,676,612
