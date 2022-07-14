@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,560023,Kannada,13:00,Classic,112₹,179,15
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,560023,Kannada,13:00,Recliner,230₹,16,6
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,22:15,Classic,180₹,128,2
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,22:15,Prime,200₹,80,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,22:15,Recliner,300₹,10,3
