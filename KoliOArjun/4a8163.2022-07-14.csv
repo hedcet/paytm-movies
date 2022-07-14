@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,LilaCinemaFultala,700144,Bengali,13:00,Balcony,60₹,28,0
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Bengali,13:00,Balcony,50₹,264,33
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Bengali,13:00,FirstClass,30₹,513,30
+Kolkata,BijoliCinemaBhowanipore,700025,Bengali,14:15,Balcony,100₹,188,107
+Kolkata,BijoliCinemaBhowanipore,700025,Bengali,14:15,RearStall,80₹,614,112
+Kolkata,LilaCinemaFultala,700144,Bengali,16:00,Balcony,60₹,28,0
+Kolkata,LilaCinemaFultala,700144,Bengali,18:45,Balcony,60₹,28,0
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Bengali,19:00,Balcony,50₹,264,33
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Bengali,19:00,FirstClass,30₹,513,30
