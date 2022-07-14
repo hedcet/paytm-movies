@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,LaliCinemaBarasat,700130,Bengali,11:30,DressCircle,100₹,22,16
+Kolkata,LaliCinemaBarasat,700130,Bengali,11:30,Balcony,70₹,169,142
+Kolkata,LaliCinemaBarasat,700130,Bengali,11:30,RearStall,50₹,270,216
+Kolkata,InoxCityCentreSaltlake,700064,Bengali,16:25,DressCircle,170₹,140,9
+Kolkata,InoxCityCentreSaltlake,700064,Bengali,16:25,Galleria,160₹,49,0
+Kolkata,InoxCityCentreSaltlake,700064,Bengali,16:25,Royale,180₹,30,11
+Kolkata,BijoliCinemaBhowanipore,700025,Bengali,16:45,Balcony,100₹,188,113
+Kolkata,BijoliCinemaBhowanipore,700025,Bengali,16:45,RearStall,80₹,614,112
+Kolkata,BijoliCinemaBhowanipore,700025,Bengali,19:15,Balcony,100₹,188,107
+Kolkata,BijoliCinemaBhowanipore,700025,Bengali,19:15,RearStall,80₹,614,112
