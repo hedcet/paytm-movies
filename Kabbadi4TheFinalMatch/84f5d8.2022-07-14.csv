@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kalimpong,DreamTheatreKalimpong,734301,Nepali,19:15,Platinum,200₹,65,42
+Kalimpong,DreamTheatreKalimpong,734301,Nepali,19:15,Gold,200₹,52,52
+Kalimpong,DreamTheatreKalimpong,734301,Nepali,19:15,Silver,200₹,39,39
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,Nepali,22:00,Classic,190₹,63,2
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,Nepali,22:00,Recliner,290₹,7,1
