@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Sethiyathope,SriVasaviTheatreSethiyathope,608702,Tamil,11:30,FirstClass,60₹,440,364
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,13:00,Quartz,152₹,277,0
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,13:00,Zircon,60₹,31,31
+Coimbatore,BabaCinemasDolbyAtmosRsPuram,641002,Tamil,14:15,Elite,150₹,134,0
+Coimbatore,BabaCinemasDolbyAtmosRsPuram,641002,Tamil,14:15,Gl,120₹,360,3
+Sethiyathope,SriVasaviTheatreSethiyathope,608702,Tamil,15:00,FirstClass,60₹,440,364
+Sethiyathope,SriVasaviTheatreSethiyathope,608702,Tamil,18:00,FirstClass,60₹,440,364
+Dharmapuri,SriHariTheatreAC2K,636701,Tamil,18:30,FirstClass,80₹,278,0
+Sethiyathope,SriVasaviTheatreSethiyathope,608702,Tamil,21:30,FirstClass,60₹,440,364
+Dharmapuri,SriHariTheatreAC2K,636701,Tamil,21:45,FirstClass,80₹,278,0
+Coimbatore,BabaCinemasDolbyAtmosRsPuram,641002,Tamil,22:00,Elite,150₹,134,0
+Coimbatore,BabaCinemasDolbyAtmosRsPuram,641002,Tamil,22:00,Gl,120₹,360,3
