@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Siliguri,NewCinemaPara,734004,Bengali,13:15,Sofa,100₹,96,24
+Siliguri,NewCinemaPara,734004,Bengali,13:15,Special,60₹,102,28
+Siliguri,NewCinemaPara,734004,Bengali,13:15,FirstClass,40₹,285,0
+Kolkata,AjantaCinemaBehala,700038,Bengali,13:15,Balcony,150₹,106,82
+Kolkata,LaliCinemaBarasat,700130,Bengali,14:00,DressCircle,100₹,22,18
+Kolkata,LaliCinemaBarasat,700130,Bengali,14:00,Balcony,70₹,169,142
+Kolkata,LaliCinemaBarasat,700130,Bengali,14:00,RearStall,50₹,270,216
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Bengali,16:00,Balcony,50₹,264,33
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Bengali,16:00,FirstClass,30₹,513,30
+Kolkata,BijoliCinemaBhowanipore,700025,Bengali,19:15,Balcony,100₹,188,107
+Kolkata,BijoliCinemaBhowanipore,700025,Bengali,19:15,RearStall,80₹,614,112
+Kolkata,RupMandirCinemaBelgharia,700056,Bengali,19:30,Platinum,100₹,48,0
+Kolkata,RupMandirCinemaBelgharia,700056,Bengali,19:30,Gold,80₹,102,32
