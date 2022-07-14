@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Belur,SriRenukaTalkies,573121,Kannada,10:00,Balcony,120₹,48,24
+Belur,SriRenukaTalkies,573121,Kannada,10:00,FirstClass,100₹,310,210
+Bengaluru,Vinayaka2KDolbyTheatreHarohalli,562112,Kannada,10:30,Gold,100₹,452,352
+Belur,SriRenukaTalkies,573121,Kannada,13:00,Balcony,120₹,48,24
+Belur,SriRenukaTalkies,573121,Kannada,13:00,FirstClass,100₹,310,210
+Bengaluru,Vinayaka2KDolbyTheatreHarohalli,562112,Kannada,13:30,Gold,100₹,452,352
+Belur,SriRenukaTalkies,573121,Kannada,16:00,Balcony,120₹,48,24
+Belur,SriRenukaTalkies,573121,Kannada,16:00,FirstClass,100₹,310,210
+Bengaluru,Vinayaka2KDolbyTheatreHarohalli,562112,Kannada,16:30,Gold,100₹,452,352
+Belur,SriRenukaTalkies,573121,Kannada,19:00,Balcony,120₹,48,24
+Belur,SriRenukaTalkies,573121,Kannada,19:00,FirstClass,100₹,310,210
+Bengaluru,Vinayaka2KDolbyTheatreHarohalli,562112,Kannada,19:30,Gold,100₹,452,352
