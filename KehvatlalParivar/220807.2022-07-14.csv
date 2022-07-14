@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,TimeCinemaCgRoad,380006,Gujarati,09:15,Infinity1000,"1,000₹",12,0
+Surat,InoxVrSuratDumasRoad,395007,Gujarati,12:45,Club,140₹,102,0
+Surat,InoxVrSuratDumasRoad,395007,Gujarati,12:45,Executive,112₹,34,0
+Surat,InoxVrSuratDumasRoad,395007,Gujarati,12:45,Royal,160₹,54,0
+Surat,InoxVrSuratDumasRoad,395007,Gujarati,12:45,RoyalRecliner,280₹,12,0
+Vadodara,BansalMovieplexGotri,390021,Gujarati,16:15,Recliner,200₹,13,4
+Vadodara,BansalMovieplexGotri,390021,Gujarati,16:15,Gold,90₹,110,14
+Vadodara,BansalMovieplexGotri,390021,Gujarati,16:15,Silver,90₹,17,0
+Surat,RajhansMultiplexAdajan,395009,Gujarati,16:30,Business,200₹,94,16
+Ahmedabad,PvrAcropolisMallThaltej,380059,Gujarati,19:30,PrimePlus,225₹,66,4
+Ahmedabad,PvrAcropolisMallThaltej,380059,Gujarati,19:30,Prime,175₹,65,5
+Ahmedabad,PvrAcropolisMallThaltej,380059,Gujarati,19:30,Classic,150₹,39,0
+Ahmedabad,PvrAcropolisMallThaltej,380059,Gujarati,19:30,Recliner,500₹,8,2
+Surat,TimeCinemaSuratGalaxyCircle,394510,Gujarati,19:30,Standard,170₹,96,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,19:30,Gold,100₹,68,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,19:30,Silver,80₹,56,0
