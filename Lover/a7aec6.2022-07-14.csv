@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Amritsar,PvrSctCityCentre,143001,Punjabi,13:05,Classic,160₹,103,0
+Amritsar,PvrSctCityCentre,143001,Punjabi,13:05,Prime,170₹,45,0
+Amritsar,PvrSctCityCentre,143001,Punjabi,13:05,Recliner,330₹,11,0
+Chandigarh,PvrElanteMallChandigarh,178178,Punjabi,13:50,Classic,180₹,138,16
+Chandigarh,PvrElanteMallChandigarh,178178,Punjabi,13:50,Recliner,550₹,13,0
