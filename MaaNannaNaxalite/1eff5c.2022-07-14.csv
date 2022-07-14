@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kodad,ConnplexSmartMiniplexKodad,508206,Telugu,11:00,Miller,150₹,100,0
+Kodad,ConnplexSmartMiniplexKodad,508206,Telugu,11:00,Lounger,175₹,100,0
+Kodad,ConnplexSmartMiniplexKodad,508206,Telugu,14:15,Miller,150₹,100,0
+Kodad,ConnplexSmartMiniplexKodad,508206,Telugu,14:15,Lounger,175₹,100,0
+Anantapur,GowriComplexOldTown,515001,Telugu,14:30,Platinum,148₹,280,34
+Anantapur,GowriComplexOldTown,515001,Telugu,14:30,Gold,112₹,98,0
+Anantapur,GowriComplexOldTown,515001,Telugu,21:30,Platinum,148₹,280,34
+Anantapur,GowriComplexOldTown,515001,Telugu,21:30,Gold,112₹,98,0
