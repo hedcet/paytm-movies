@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,WoodlandsTheatreRoyapettah,600014,Tamil,22:00,FirstClass,100₹,408,374
+Chennai,WoodlandsTheatreRoyapettah,600014,Tamil,22:00,SecondClass,60₹,51,51
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,22:45,Quartz,152₹,242,0
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,22:45,Zircon,60₹,27,27
