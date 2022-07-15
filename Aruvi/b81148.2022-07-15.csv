@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Waterland,TpmcDemo1Malda,732101,Tamil,02:00,Corporate,1₹,156,27
+Waterland,TpmcDemo1Malda,732101,Tamil,02:00,DriveInCircle,1₹,600,0
+Waterland,TpmcDemo1Malda,732101,Tamil,05:00,Corporate,1₹,156,26
+Waterland,TpmcDemo1Malda,732101,Tamil,05:00,DriveInCircle,1₹,600,0
+Waterland,TpmcOms,732101,Tamil,09:00,Corporate,600₹,307,69
+Waterland,TpmcDemo1Malda,732101,Tamil,11:00,Corporate,1₹,156,26
+Waterland,TpmcDemo1Malda,732101,Tamil,11:00,DriveInCircle,1₹,600,0
+Waterland,TpmcOms,732101,Tamil,11:30,Corporate,600₹,307,69
+Waterland,TpmcOms,732101,Tamil,15:00,Corporate,600₹,307,69
+Waterland,TpmcOms,732101,Tamil,18:30,Corporate,700₹,307,69
+Waterland,TpmcDemo1Malda,732101,Tamil,21:30,Corporate,1₹,156,27
+Waterland,TpmcDemo1Malda,732101,Tamil,21:30,DriveInCircle,1₹,600,0
+Waterland,TpmcOms,732101,Tamil,22:00,Corporate,700₹,307,69
+Waterland,TpmcDemo1Malda,732101,Tamil,23:30,Corporate,1₹,156,38
+Waterland,TpmcDemo1Malda,732101,Tamil,23:30,DriveInCircle,1₹,600,0
