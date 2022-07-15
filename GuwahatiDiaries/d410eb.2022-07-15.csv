@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+LakhimpurAssam,GoldCinemaLakhimpur,787001,Assamese,11:00,Diamond,150₹,100,0
+LakhimpurAssam,GoldCinemaLakhimpur,787001,Assamese,11:00,Gold,120₹,100,0
+LakhimpurAssam,GoldCinemaLakhimpur,787001,Assamese,11:00,Silver,100₹,100,0
+LakhimpurAssam,GoldCinemaLakhimpur,787001,Assamese,17:00,Diamond,150₹,86,2
+LakhimpurAssam,GoldCinemaLakhimpur,787001,Assamese,17:00,Gold,120₹,48,0
+LakhimpurAssam,GoldCinemaLakhimpur,787001,Assamese,17:00,Silver,100₹,24,0
