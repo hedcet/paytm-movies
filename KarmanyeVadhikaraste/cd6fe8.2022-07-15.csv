@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,13:10,Normal,150₹,9,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,13:10,Executive,150₹,81,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,13:10,Premium,150₹,33,2
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,13:15,Classic,170₹,108,49
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,13:15,Prime,190₹,108,6
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,13:15,Recliner,350₹,14,0
+Hubli,CinepolisUrbanOasisMallHubli,580030,Kannada,16:05,Normal,180₹,38,0
+Hubli,CinepolisUrbanOasisMallHubli,580030,Kannada,16:05,Executive,180₹,99,0
+Hubli,CinepolisUrbanOasisMallHubli,580030,Kannada,16:05,Premium,180₹,62,13
+Bengaluru,CinepolisRoyalMeenakshiMallBannerghattaRoad,560076,Kannada,19:15,Normal,236₹,24,0
+Bengaluru,CinepolisRoyalMeenakshiMallBannerghattaRoad,560076,Kannada,19:15,Executive,236₹,46,0
+Bengaluru,CinepolisRoyalMeenakshiMallBannerghattaRoad,560076,Kannada,19:15,Premium,236₹,40,2
