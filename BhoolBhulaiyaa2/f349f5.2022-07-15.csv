@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+GreaterNoida,PvrGaurCityGreaterNoida,201301,Hindi,12:00,Classic,99₹,106,0
+GreaterNoida,PvrGaurCityGreaterNoida,201301,Hindi,12:00,Prime,99₹,13,0
+Barwani,MahendraTalkiesBarwani,451551,Hindi,13:00,Balcony,90₹,50,20
+Nabadwip,AlochayaCinemaBanerjeeParaRoad,741302,Hindi,13:30,Special,50₹,107,65
+Nabadwip,AlochayaCinemaBanerjeeParaRoad,741302,Hindi,13:30,RearStall,40₹,252,68
+Nabadwip,AlochayaCinemaBanerjeeParaRoad,741302,Hindi,13:30,FrontStall,40₹,196,196
+Nabadwip,AlochayaCinemaBanerjeeParaRoad,741302,Hindi,16:30,Special,50₹,107,65
+Nabadwip,AlochayaCinemaBanerjeeParaRoad,741302,Hindi,16:30,RearStall,40₹,252,68
+Nabadwip,AlochayaCinemaBanerjeeParaRoad,741302,Hindi,16:30,FrontStall,40₹,196,196
+Barwani,MahendraTalkiesBarwani,451551,Hindi,18:00,Balcony,90₹,50,20
+Nabadwip,AlochayaCinemaBanerjeeParaRoad,741302,Hindi,19:30,Special,50₹,107,65
+Nabadwip,AlochayaCinemaBanerjeeParaRoad,741302,Hindi,19:30,RearStall,40₹,252,68
+Nabadwip,AlochayaCinemaBanerjeeParaRoad,741302,Hindi,19:30,FrontStall,40₹,196,196
+Barwani,MahendraTalkiesBarwani,451551,Hindi,21:00,Balcony,90₹,50,20
