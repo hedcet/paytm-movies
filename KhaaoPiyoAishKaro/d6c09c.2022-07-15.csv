@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Amritsar,PvrSctCityCentre,143001,Punjabi,16:30,Classic,99₹,105,2
+Amritsar,PvrSctCityCentre,143001,Punjabi,16:30,Prime,99₹,45,12
+Amritsar,PvrSctCityCentre,143001,Punjabi,16:30,Recliner,149₹,12,5
+Ludhiana,WaveOneMoviesLudhiana,141001,Punjabi,20:15,Classic,180₹,85,8
+Ludhiana,WaveOneMoviesLudhiana,141001,Punjabi,20:15,Premium,190₹,84,16
