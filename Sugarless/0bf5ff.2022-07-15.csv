@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Udupi,DianaTheatreChitpady,576101,Kannada,16:15,Balcony,80₹,112,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,19:00,Classic,190₹,128,32
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,19:00,Prime,210₹,80,13
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,19:00,Recliner,400₹,14,9
+Udupi,DianaTheatreChitpady,576101,Kannada,19:15,Balcony,80₹,112,0
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,560022,Kannada,22:30,Classic,200₹,125,2
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,560022,Kannada,22:30,Prime,220₹,40,5
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,560022,Kannada,22:30,Recliner,350₹,14,0
