@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vadodara,BansalMovieplexGotri,390021,Gujarati,19:00,Sofa,160₹,14,0
+Vadodara,BansalMovieplexGotri,390021,Gujarati,19:00,Platinium,110₹,124,18
+Vadodara,BansalMovieplexGotri,390021,Gujarati,19:00,Gold,110₹,51,0
+Vadodara,BansalMovieplexGotri,390021,Gujarati,19:00,Silver,110₹,3,0
+Ahmedabad,CinepolisNexusOneAhmedabad,380015,Gujarati,19:10,Normal,200₹,36,12
+Ahmedabad,CinepolisNexusOneAhmedabad,380015,Gujarati,19:10,Executive,220₹,78,0
+Ahmedabad,CinepolisNexusOneAhmedabad,380015,Gujarati,19:10,Premium,250₹,50,0
+Ahmedabad,RajhansCinemaVastral,382418,Gujarati,20:05,Recliner,400₹,20,6
+Ahmedabad,RajhansCinemaVastral,382418,Gujarati,20:05,Executive,200₹,125,6
+Ahmedabad,RajhansCinemaVastral,382418,Gujarati,20:05,Royal,180₹,49,0
+Ahmedabad,RajhansCinemaVastral,382418,Gujarati,20:05,Marvel,160₹,38,0
