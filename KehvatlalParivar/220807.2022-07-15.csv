@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,TimeCinemaCgRoad,380006,Gujarati,09:15,Infinity1000,"1,000₹",12,0
+Vadodara,BansalMovieplexGotri,390021,Gujarati,14:20,Recliner,200₹,13,0
+Vadodara,BansalMovieplexGotri,390021,Gujarati,14:20,Gold,100₹,110,20
+Vadodara,BansalMovieplexGotri,390021,Gujarati,14:20,Silver,100₹,17,0
+Vadodara,CinemarcVip,390022,Gujarati,19:50,Premium,110₹,13,0
+Vadodara,CinemarcVip,390022,Gujarati,19:50,Silver,130₹,87,31
+Vadodara,CinemarcVip,390022,Gujarati,19:50,Gold,130₹,20,13
+Vadodara,CinemarcVip,390022,Gujarati,19:50,Royal,140₹,19,12
