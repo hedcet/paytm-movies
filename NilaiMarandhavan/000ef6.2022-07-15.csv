@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ambasamudram,ThaiCinesACDtsAmbasamudram,627425,Tamil,11:30,BalconyNonAC,80₹,213,0
+Ambasamudram,ThaiCinesACDtsAmbasamudram,627425,Tamil,11:30,ACClass,100₹,136,0
+Ambasamudram,ThaiCinesACDtsAmbasamudram,627425,Tamil,14:30,BalconyNonAC,80₹,213,0
+Ambasamudram,ThaiCinesACDtsAmbasamudram,627425,Tamil,14:30,ACClass,100₹,136,0
+Ambasamudram,ThaiCinesACDtsAmbasamudram,627425,Tamil,18:30,BalconyNonAC,80₹,213,0
+Ambasamudram,ThaiCinesACDtsAmbasamudram,627425,Tamil,18:30,ACClass,100₹,136,0
+Ambasamudram,ThaiCinesACDtsAmbasamudram,627425,Tamil,22:30,BalconyNonAC,80₹,213,0
+Ambasamudram,ThaiCinesACDtsAmbasamudram,627425,Tamil,22:30,ACClass,100₹,136,0
+Chennai,EgaCinemasRgbLaserDolbyAudio,600010,Tamil,22:30,Platinum,175₹,38,2
+Chennai,EgaCinemasRgbLaserDolbyAudio,600010,Tamil,22:30,Gold,150₹,183,0
+Chennai,EgaCinemasRgbLaserDolbyAudio,600010,Tamil,22:30,Copper,60₹,25,25
