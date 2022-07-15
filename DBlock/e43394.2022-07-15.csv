@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,12:25,Club,190₹,159,8
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,12:25,Executive,60₹,21,18
+Tuticorin,SathyaTheatre,628001,Tamil,14:30,FirstClass,50₹,100,0
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,15:30,Club,190₹,159,21
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,15:30,Executive,60₹,21,11
+Coimbatore,CinepolisFunCinemaRepublicMallPeelamedu,641004,Tamil,16:05,Executive,152₹,190,34
+Coimbatore,CinepolisFunCinemaRepublicMallPeelamedu,641004,Tamil,16:05,Normal,60₹,22,22
+Tuticorin,SathyaTheatre,628001,Tamil,18:30,FirstClass,50₹,100,0
+Tuticorin,SathyaTheatre,628001,Tamil,22:00,FirstClass,50₹,100,0
+Chennai,PvrGrandMallVelachery,600042,Tamil,22:10,Classic,60₹,40,40
+Chennai,PvrGrandMallVelachery,600042,Tamil,22:10,Prime,190₹,167,58
