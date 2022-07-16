@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chhattisgarhi,16:25,Club,250₹,4,0
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chhattisgarhi,16:25,Gold,350₹,4,0
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chhattisgarhi,16:25,Executive,100₹,81,0
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chhattisgarhi,16:25,Special,100₹,28,0
+Raipur,InoxAmbujaCityCentreMowa,492007,Chhattisgarhi,19:25,Club,90₹,150,2
+Raipur,InoxAmbujaCityCentreMowa,492007,Chhattisgarhi,19:25,Executive,90₹,32,0
+Raipur,InoxAmbujaCityCentreMowa,492007,Chhattisgarhi,19:25,RoyalRecliner,170₹,15,3
+Raipur,InoxAmbujaCityCentreMowa,492007,Chhattisgarhi,19:25,Royal,90₹,32,2
