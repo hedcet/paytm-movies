@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,560022,Kannada,12:50,Classic,180₹,85,0
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,560022,Kannada,12:50,Prime,200₹,37,0
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,560022,Kannada,12:50,Recliner,320₹,13,0
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,560023,Kannada,15:45,Recliner,320₹,5,0
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,560023,Kannada,15:45,Classic,180₹,210,1
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,15:50,Classic,210₹,128,2
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,15:50,Prime,230₹,80,5
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,15:50,Recliner,400₹,10,2
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,22:15,Classic,240₹,128,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,22:15,Prime,260₹,80,12
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,22:15,Recliner,470₹,13,2
