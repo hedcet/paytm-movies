@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Guntur,PvrTheCinemaGuntur,522001,Telugu,13:20,Premium,295₹,12,0
+Guntur,PvrTheCinemaGuntur,522001,Telugu,13:20,Deluxe,177₹,150,0
+Hyderabad,PvrNexusMallKukatpallyHyderabad,500072,Telugu,16:20,Classic,175₹,135,17
+Hyderabad,PvrNexusMallKukatpallyHyderabad,500072,Telugu,16:20,Recliner,250₹,9,6
