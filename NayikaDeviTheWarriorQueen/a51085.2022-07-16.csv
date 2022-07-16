@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Godhra,SilverScreenMultiplexGodhra,389001,Gujarati,09:30,Platinum,100₹,21,21
+Godhra,SilverScreenMultiplexGodhra,389001,Gujarati,09:30,Gold,100₹,243,147
+Godhra,SilverScreenMultiplexGodhra,389001,Gujarati,09:30,Silver,100₹,36,0
+Godhra,SilverScreenMultiplexGodhra,389001,Gujarati,14:30,Platinum,100₹,21,21
+Godhra,SilverScreenMultiplexGodhra,389001,Gujarati,14:30,Gold,100₹,243,243
+Godhra,SilverScreenMultiplexGodhra,389001,Gujarati,14:30,Silver,100₹,36,36
+Godhra,SilverScreenMultiplexGodhra,389001,Gujarati,14:30,Platinum,100₹,21,8
+Godhra,SilverScreenMultiplexGodhra,389001,Gujarati,14:30,Gold,100₹,181,55
+Godhra,SilverScreenMultiplexGodhra,389001,Gujarati,14:30,Silver,100₹,40,0
