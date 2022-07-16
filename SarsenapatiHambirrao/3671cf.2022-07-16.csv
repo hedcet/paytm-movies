@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,InoxElproCitySquareChinchwad,411033,Marathi,13:20,Club,190₹,90,11
+Pune,InoxElproCitySquareChinchwad,411033,Marathi,13:20,Executive,170₹,30,0
+Pune,InoxElproCitySquareChinchwad,411033,Marathi,13:20,RoyaleRecliners,300₹,26,0
+Pune,InoxElproCitySquareChinchwad,411033,Marathi,13:20,Royale,210₹,83,13
+Pune,CarnivalCinemasSpineCityPuneSpineCityMall,412105,Marathi,13:40,PlatinumOffline,160₹,48,11
+Pune,CarnivalCinemasSpineCityPuneSpineCityMall,412105,Marathi,13:40,GoldOffline,140₹,65,0
+Pune,CarnivalCinemasSpineCityPuneSpineCityMall,412105,Marathi,13:40,SilverOffline,120₹,48,0
+Pune,CarnivalCinemasSpineCityPuneSpineCityMall,412105,Marathi,13:40,SofaOffline,180₹,18,0
