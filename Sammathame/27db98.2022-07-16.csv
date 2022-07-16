@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Palakonda,SunCinemaxAcDtsVenkataGouriPalakonda,532440,Telugu,10:30,Premium,100₹,122,34
+Vijayawada,CapitalCinemasTrendsetMallKalaNagar,520010,Telugu,11:00,Gold,295₹,27,2
+Vijayawada,CapitalCinemasTrendsetMallKalaNagar,520010,Telugu,11:00,Silver,177₹,21,2
+Palakonda,SunCinemaxAcDtsVenkataGouriPalakonda,532440,Telugu,14:30,Premium,100₹,122,34
+Palakonda,SunCinemaxAcDtsVenkataGouriPalakonda,532440,Telugu,18:30,Premium,100₹,122,34
+Palakonda,SunCinemaxAcDtsVenkataGouriPalakonda,532440,Telugu,21:30,Premium,100₹,122,34
