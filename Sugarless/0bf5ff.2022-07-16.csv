@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,560023,Kannada,09:50,Classic,160₹,228,18
+Bengaluru,PvrTheCinemaGtWorldMagadiRoad,560023,Kannada,09:50,Recliner,280₹,12,8
+Udupi,DianaTheatreChitpady,576101,Kannada,16:15,Balcony,80₹,112,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,19:00,Classic,220₹,128,13
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,19:00,Prime,240₹,80,18
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,19:00,Recliner,450₹,10,2
+Udupi,DianaTheatreChitpady,576101,Kannada,19:15,Balcony,80₹,112,0
+Bengaluru,InoxMantriSquareMalleshwaram,560003,Kannada,19:25,Club,290₹,260,190
+Bengaluru,InoxMantriSquareMalleshwaram,560003,Kannada,19:25,Royal,440₹,10,3
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,560022,Kannada,22:30,Classic,210₹,105,0
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,560022,Kannada,22:30,Prime,230₹,40,0
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,560022,Kannada,22:30,Recliner,370₹,14,1
