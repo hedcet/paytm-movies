@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,16:05,Classic,99₹,154,52
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,16:05,Prime,99₹,12,11
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,16:05,Recliner,149₹,14,14
+Kolkata,InoxSouthCityMall,700068,Bengali,17:20,Premier,230₹,34,0
+Kolkata,InoxSouthCityMall,700068,Bengali,17:20,Silver,250₹,157,55
