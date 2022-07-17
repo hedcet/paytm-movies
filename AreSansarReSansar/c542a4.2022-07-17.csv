@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Rahuri,DnyaneshwarChitraMandirRahuri,413705,Marathi,15:15,Balcony,90₹,100,0
+Rahuri,DnyaneshwarChitraMandirRahuri,413705,Marathi,15:15,DressCircule,60₹,100,0
+Satana,ChitraCinemaAmbedkarNagar,423301,Marathi,15:30,Balcony,70₹,107,0
+Satana,ChitraCinemaAmbedkarNagar,423301,Marathi,15:30,Stall,50₹,388,0
+Kopargaon,SudeshPicturePalaceKopargaon,423601,Marathi,18:15,Balcony,100₹,145,2
+Kopargaon,SudeshPicturePalaceKopargaon,423601,Marathi,18:15,SpecialA,80₹,100,6
+Kopargaon,SudeshPicturePalaceKopargaon,423601,Marathi,18:15,SpecialB,80₹,220,7
