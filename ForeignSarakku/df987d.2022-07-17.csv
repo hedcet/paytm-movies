@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Madurai,InoxVishaalDeMallMadurai,625002,Tamil,10:00,Club,178₹,124,53
+Madurai,InoxVishaalDeMallMadurai,625002,Tamil,10:00,Executive,60₹,12,2
+Alangudi,VcCinemasACDtsNavallarStreet,622301,Tamil,11:30,Platinum,100₹,158,42
+Alangudi,VcCinemasACDtsNavallarStreet,622301,Tamil,14:30,Platinum,100₹,158,42
+Alangudi,VcCinemasACDtsNavallarStreet,622301,Tamil,18:30,Platinum,100₹,158,42
+Alangudi,VcCinemasACDtsNavallarStreet,622301,Tamil,22:30,Platinum,100₹,158,42
