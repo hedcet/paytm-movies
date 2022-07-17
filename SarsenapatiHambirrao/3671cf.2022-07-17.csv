@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,CarnivalCinemasSpineCityPuneSpineCityMall,412105,Marathi,13:40,PlatinumOffline,160₹,48,22
+Pune,CarnivalCinemasSpineCityPuneSpineCityMall,412105,Marathi,13:40,GoldOffline,140₹,65,22
+Pune,CarnivalCinemasSpineCityPuneSpineCityMall,412105,Marathi,13:40,SilverOffline,120₹,48,0
+Pune,CarnivalCinemasSpineCityPuneSpineCityMall,412105,Marathi,13:40,SofaOffline,180₹,18,7
