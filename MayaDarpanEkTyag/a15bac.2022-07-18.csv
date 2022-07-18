@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+JajpurRoad,SaraswatiMultiplexJajpurRoad,755019,Hindi,12:00,Vip,150₹,128,88
+JajpurRoad,SaraswatiMultiplexJajpurRoad,755019,Hindi,12:00,Diamond,120₹,78,55
+Bhubaneswar,InoxBmcBhawaniMallShahidNagar,751007,Hindi,13:15,Club,150₹,126,0
+Bhubaneswar,InoxBmcBhawaniMallShahidNagar,751007,Hindi,13:15,Executive,150₹,42,0
+Bhubaneswar,InoxBmcBhawaniMallShahidNagar,751007,Hindi,13:15,Royale,150₹,36,2
