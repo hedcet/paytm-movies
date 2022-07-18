@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Siliguri,InoxCityCentreMatigara,734010,Nepali,10:25,Club,280₹,176,15
+Siliguri,InoxCityCentreMatigara,734010,Nepali,10:25,Executive,250₹,32,0
+Siliguri,InoxCityCentreMatigara,734010,Nepali,10:25,Royale,350₹,10,0
+Kalimpong,DreamTheatreKalimpong,734301,Nepali,17:00,Platinum,200₹,65,42
+Kalimpong,DreamTheatreKalimpong,734301,Nepali,17:00,Gold,200₹,52,52
+Kalimpong,DreamTheatreKalimpong,734301,Nepali,17:00,Silver,200₹,39,39
+Siliguri,InoxCityCentreMatigara,734010,Nepali,19:00,Club,280₹,176,15
+Siliguri,InoxCityCentreMatigara,734010,Nepali,19:00,Executive,250₹,32,0
+Siliguri,InoxCityCentreMatigara,734010,Nepali,19:00,Royale,350₹,10,0
