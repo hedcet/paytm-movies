@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Yelamanchili,SvcSitaChitramandirElamanchili,531055,Telugu,10:45,Premium,112₹,345,0
+Yelamanchili,SvcSitaChitramandirElamanchili,531055,Telugu,10:45,NonPremium,90₹,105,105
+Yelamanchili,SvcSitaChitramandirElamanchili,531055,Telugu,14:15,Premium,112₹,345,0
+Yelamanchili,SvcSitaChitramandirElamanchili,531055,Telugu,14:15,NonPremium,90₹,105,105
+Yelamanchili,SvcSitaChitramandirElamanchili,531055,Telugu,18:00,Premium,112₹,345,0
+Yelamanchili,SvcSitaChitramandirElamanchili,531055,Telugu,18:00,NonPremium,90₹,105,105
+Yelamanchili,SvcSitaChitramandirElamanchili,531055,Telugu,21:30,Premium,112₹,345,0
+Yelamanchili,SvcSitaChitramandirElamanchili,531055,Telugu,21:30,NonPremium,90₹,105,105
