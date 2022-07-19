@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Yelamanchili,SvcTulasiChitramandirElamanchili,531055,Telugu,10:45,Premium,112₹,273,0
+Yelamanchili,SvcTulasiChitramandirElamanchili,531055,Telugu,10:45,NonPremium,90₹,68,68
+Yelamanchili,SvcTulasiChitramandirElamanchili,531055,Telugu,14:15,Premium,112₹,273,0
+Yelamanchili,SvcTulasiChitramandirElamanchili,531055,Telugu,14:15,NonPremium,90₹,68,68
+Yelamanchili,SvcTulasiChitramandirElamanchili,531055,Telugu,18:00,Premium,112₹,273,0
+Yelamanchili,SvcTulasiChitramandirElamanchili,531055,Telugu,18:00,NonPremium,90₹,68,68
+Bengaluru,InnovativeMultiplexMarathahalli,560037,Telugu,21:15,Premium,150₹,36,0
+Yelamanchili,SvcTulasiChitramandirElamanchili,531055,Telugu,21:30,Premium,112₹,273,0
+Yelamanchili,SvcTulasiChitramandirElamanchili,531055,Telugu,21:30,NonPremium,90₹,68,68
