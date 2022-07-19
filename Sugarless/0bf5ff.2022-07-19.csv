@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,InoxMantriSquareMalleshwaram,560003,Kannada,13:20,Club,170₹,260,5
+Bengaluru,InoxMantriSquareMalleshwaram,560003,Kannada,13:20,Royal,240₹,10,7
+Udupi,DianaTheatreChitpady,576101,Kannada,16:15,Balcony,80₹,112,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,19:00,Classic,170₹,128,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,19:00,Prime,190₹,80,4
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,19:00,Recliner,300₹,10,3
+Udupi,DianaTheatreChitpady,576101,Kannada,19:15,Balcony,80₹,112,0
+Bengaluru,InoxMantriSquareMalleshwaram,560003,Kannada,19:25,Club,200₹,260,0
+Bengaluru,InoxMantriSquareMalleshwaram,560003,Kannada,19:25,Royal,230₹,10,0
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,560022,Kannada,22:30,Classic,170₹,105,0
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,560022,Kannada,22:30,Prime,190₹,40,0
+Bengaluru,PvrVaishnaviSapphireMallYashwantpur,560022,Kannada,22:30,Recliner,280₹,14,0
