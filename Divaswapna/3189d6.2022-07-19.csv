@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Deesa,ShreeRamMultiplexDeesa,385535,Gujarati,12:30,Gold,120₹,169,168
+Deesa,ShreeRamMultiplexDeesa,385535,Gujarati,12:30,Gold,120₹,38,35
+Deesa,ShreeRamMultiplexDeesa,385535,Gujarati,15:30,Gold,120₹,169,169
+Deesa,ShreeRamMultiplexDeesa,385535,Gujarati,15:30,Gold,120₹,38,36
+Patan,VijayCinema,384265,Gujarati,18:00,Gold,200₹,182,0
+Patan,VijayCinema,384265,Gujarati,18:00,Silver,150₹,70,0
+Deesa,ShreeRamMultiplexDeesa,385535,Gujarati,18:30,Gold,120₹,169,0
+Deesa,ShreeRamMultiplexDeesa,385535,Gujarati,18:30,Gold,120₹,38,0
+Deesa,ShreeRamMultiplexDeesa,385535,Gujarati,21:30,Gold,120₹,169,17
+Deesa,ShreeRamMultiplexDeesa,385535,Gujarati,21:30,Gold,120₹,38,0
