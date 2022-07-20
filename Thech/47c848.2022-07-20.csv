@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nanded,PvrTreasureBazaarMallNanded,431606,Marathi,10:45,PrimePlus,80₹,63,20
+Nanded,PvrTreasureBazaarMallNanded,431606,Marathi,10:45,Prime,80₹,100,2
+Nanded,PvrTreasureBazaarMallNanded,431606,Marathi,10:45,Classic,80₹,70,0
+Latur,RegalCinemaSaweWadi,413512,Marathi,12:00,Balcony,80₹,150,0
+Latur,RegalCinemaSaweWadi,413512,Marathi,12:00,FirstClass,70₹,322,0
+Latur,RegalCinemaSaweWadi,413512,Marathi,12:00,Balcony,80₹,150,0
+Latur,RegalCinemaSaweWadi,413512,Marathi,12:00,FirstClass,70₹,322,0
+Aurangabad,MohanNovaCinemazSarafaRoad,431001,Marathi,12:30,Platinum,150₹,58,0
+Aurangabad,MohanNovaCinemazSarafaRoad,431001,Marathi,12:30,Gold,150₹,57,0
+Aurangabad,MohanNovaCinemazSarafaRoad,431001,Marathi,12:30,Silver,150₹,57,1
+Parli,ShreeNathChitraMandirNathMandirRoad,431515,Marathi,18:00,Nath,100₹,369,0
