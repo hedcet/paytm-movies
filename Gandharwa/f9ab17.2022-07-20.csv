@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Macherla,NagarjunaKalamandir,522426,Telugu,11:15,AClass,100₹,56,0
+Macherla,NagarjunaKalamandir,522426,Telugu,11:15,BClass,70₹,127,0
+Macherla,NagarjunaKalamandir,522426,Telugu,11:15,CClass,50₹,138,0
+Macherla,NagarjunaKalamandir,522426,Telugu,11:15,DClass,50₹,100,0
+Macherla,NagarjunaKalamandir,522426,Telugu,14:30,AClass,100₹,56,0
+Macherla,NagarjunaKalamandir,522426,Telugu,14:30,BClass,70₹,127,2
+Macherla,NagarjunaKalamandir,522426,Telugu,14:30,CClass,50₹,138,0
+Macherla,NagarjunaKalamandir,522426,Telugu,14:30,DClass,50₹,100,0
+Macherla,NagarjunaKalamandir,522426,Telugu,18:30,AClass,100₹,56,0
+Macherla,NagarjunaKalamandir,522426,Telugu,18:30,BClass,70₹,127,0
+Macherla,NagarjunaKalamandir,522426,Telugu,18:30,CClass,50₹,138,0
+Macherla,NagarjunaKalamandir,522426,Telugu,18:30,DClass,50₹,100,0
+Macherla,NagarjunaKalamandir,522426,Telugu,21:30,AClass,100₹,56,0
+Macherla,NagarjunaKalamandir,522426,Telugu,21:30,BClass,70₹,127,0
+Macherla,NagarjunaKalamandir,522426,Telugu,21:30,CClass,50₹,138,0
+Macherla,NagarjunaKalamandir,522426,Telugu,21:30,DClass,50₹,100,0
