@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,12:25,Club,190₹,135,2
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,12:25,Executive,60₹,19,0
+Trichy,SriRengarajTalkiesSrirangam,620006,Tamil,14:15,FirstClass,50₹,200,0
+Chennai,InoxTheMarinaMallOmrEgatoor,603103,Tamil,15:35,Club,190₹,126,2
+Chennai,InoxTheMarinaMallOmrEgatoor,603103,Tamil,15:35,Executive,60₹,16,12
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,15:35,Classic,60₹,16,15
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,15:35,Prime,190₹,110,48
+Trichy,SriRengarajTalkiesSrirangam,620006,Tamil,18:15,FirstClass,50₹,200,0
+Chennai,SpiEscapeCinemasRoyapettah,600014,Tamil,18:35,Budget,60₹,11,0
+Chennai,SpiEscapeCinemasRoyapettah,600014,Tamil,18:35,Elite,190₹,99,27
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,19:10,Elite,190₹,165,7
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,19:10,Budget,60₹,27,27
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,19:30,Classic,60₹,17,2
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,19:30,Prime,165₹,116,0
+Trichy,SriRengarajTalkiesSrirangam,620006,Tamil,22:15,FirstClass,50₹,200,0
