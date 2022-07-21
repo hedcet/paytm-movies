@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,11:30,Gold,145₹,86,86
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,11:30,Reserved,110₹,299,47
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,11:30,FristClass,70₹,88,0
+Agra,PannaCinemaAgra,282001,Hindi,12:15,Gold,100₹,240,180
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,14:30,Gold,145₹,86,34
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,14:30,Reserved,110₹,299,47
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,14:30,FristClass,70₹,88,0
+Agra,PannaCinemaAgra,282001,Hindi,15:15,Gold,100₹,240,180
+Agra,PannaCinemaAgra,282001,Hindi,18:15,Gold,100₹,240,180
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,18:30,Gold,145₹,86,34
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,18:30,Reserved,110₹,299,47
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,18:30,FristClass,70₹,88,0
+Agra,PannaCinemaAgra,282001,Hindi,21:15,Gold,100₹,240,180
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,21:30,Gold,145₹,86,34
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,21:30,Reserved,110₹,299,47
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,21:30,FristClass,70₹,88,0
