@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Malebennur,SriJyothiTalkies,577530,Kannada,10:30,FirstClass,81₹,400,352
+Malebennur,SriJyothiTalkies,577530,Kannada,14:30,FirstClass,81₹,400,352
+Chamarajanagara,ShreeBhramarambaCineplexBrDoubleRoad,571313,Kannada,16:00,Balcony,100₹,112,0
+Chamarajanagara,ShreeBhramarambaCineplexBrDoubleRoad,571313,Kannada,16:00,Second,80₹,336,0
+Malebennur,SriJyothiTalkies,577530,Kannada,18:30,FirstClass,81₹,400,352
+Chamarajanagara,ShreeBhramarambaCineplexBrDoubleRoad,571313,Kannada,19:00,Balcony,100₹,112,0
+Chamarajanagara,ShreeBhramarambaCineplexBrDoubleRoad,571313,Kannada,19:00,Second,80₹,336,0
+Malebennur,SriJyothiTalkies,577530,Kannada,21:30,FirstClass,81₹,400,352
