@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nanjangud,BhargavaiSreevatsaTheatreNanjangud,571301,Kannada,10:30,Balcony,100₹,51,28
+Nanjangud,BhargavaiSreevatsaTheatreNanjangud,571301,Kannada,10:30,First,80₹,434,320
+Vijayapura,DreamlandACDolbyTheatreVijayapura,586101,Kannada,12:00,Balcony,150₹,168,88
+Vijayapura,DreamlandACDolbyTheatreVijayapura,586101,Kannada,12:00,Comfort,110₹,310,156
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,13:15,Platinum,150₹,16,16
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,13:15,Gold,100₹,180,112
+Kalaburagi,ShettysMultiplexAlandRoad,585101,Kannada,13:15,Silver,80₹,135,86
+Nanjangud,BhargavaiSreevatsaTheatreNanjangud,571301,Kannada,13:30,Balcony,100₹,51,28
+Nanjangud,BhargavaiSreevatsaTheatreNanjangud,571301,Kannada,13:30,First,80₹,434,320
+Vijayapura,DreamlandACDolbyTheatreVijayapura,586101,Kannada,15:00,Balcony,150₹,168,88
+Vijayapura,DreamlandACDolbyTheatreVijayapura,586101,Kannada,15:00,Comfort,110₹,310,156
+Nanjangud,BhargavaiSreevatsaTheatreNanjangud,571301,Kannada,16:30,Balcony,100₹,51,28
+Nanjangud,BhargavaiSreevatsaTheatreNanjangud,571301,Kannada,16:30,First,80₹,434,320
+Nanjangud,BhargavaiSreevatsaTheatreNanjangud,571301,Kannada,19:30,Balcony,100₹,51,28
+Nanjangud,BhargavaiSreevatsaTheatreNanjangud,571301,Kannada,19:30,First,80₹,434,320
