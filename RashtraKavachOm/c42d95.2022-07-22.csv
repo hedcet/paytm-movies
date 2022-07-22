@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chandrakona,RoyalCinemaHall,721201,Hindi,11:45,Balcony,70₹,105,11
+Chandrakona,RoyalCinemaHall,721201,Hindi,11:45,RearStall,50₹,153,56
+Chandrakona,RoyalCinemaHall,721201,Hindi,11:45,GeneralStall,40₹,258,258
+Chandrakona,RoyalCinemaHall,721201,Hindi,14:45,Balcony,70₹,105,11
+Chandrakona,RoyalCinemaHall,721201,Hindi,14:45,RearStall,50₹,153,56
+Chandrakona,RoyalCinemaHall,721201,Hindi,14:45,GeneralStall,40₹,258,258
+Tohana,RitzMiniplexTohana,125120,Hindi,17:30,Diamond,200₹,37,15
+Tohana,RitzMiniplexTohana,125120,Hindi,17:30,Gold,150₹,60,10
+Chandrakona,RoyalCinemaHall,721201,Hindi,17:45,Balcony,70₹,105,11
+Chandrakona,RoyalCinemaHall,721201,Hindi,17:45,RearStall,50₹,153,56
+Chandrakona,RoyalCinemaHall,721201,Hindi,17:45,GeneralStall,40₹,258,258
+Tohana,RitzMiniplexTohana,125120,Hindi,20:00,Diamond,200₹,37,15
+Tohana,RitzMiniplexTohana,125120,Hindi,20:00,Gold,150₹,60,10
