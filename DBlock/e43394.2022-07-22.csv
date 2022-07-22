@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Coimbatore,SpiTheCinemaBrookefieldsMall,641001,Tamil,12:15,Elite,190₹,165,17
+Coimbatore,SpiTheCinemaBrookefieldsMall,641001,Tamil,12:15,Budget,60₹,19,0
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,22:15,Classic,60₹,16,16
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,22:15,Prime,165₹,110,62
