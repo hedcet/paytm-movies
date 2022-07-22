@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nagpur,MovieMaxEternityNagpur,440012,Marathi,17:50,Recliner,300₹,15,0
+Nagpur,MovieMaxEternityNagpur,440012,Marathi,17:50,Prime,150₹,138,1
+Nagpur,MovieMaxEternityNagpur,440012,Marathi,17:50,Classic,140₹,104,0
