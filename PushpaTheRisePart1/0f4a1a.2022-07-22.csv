@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vijayapura,AlankarTheatreVijayapura,586101,Hindi,18:00,Balcony,150₹,275,150
+Vijayapura,AlankarTheatreVijayapura,586101,Hindi,18:00,DressCircle,150₹,40,40
+Vijayapura,AlankarTheatreVijayapura,586101,Hindi,21:00,Balcony,150₹,275,150
+Vijayapura,AlankarTheatreVijayapura,586101,Hindi,21:00,DressCircle,150₹,40,40
