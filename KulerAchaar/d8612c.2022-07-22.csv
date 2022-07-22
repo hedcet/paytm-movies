@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Asansol,CarnivalSentrumMallAsansol,713304,Bengali,11:35,Premium,110₹,63,0
+Asansol,CarnivalSentrumMallAsansol,713304,Bengali,11:35,Silver,110₹,150,4
+Asansol,CarnivalSentrumMallAsansol,713304,Bengali,11:35,Gold,110₹,43,0
+Kolkata,InoxSouthCityMall,700068,Bengali,14:00,Premier,230₹,34,0
+Kolkata,InoxSouthCityMall,700068,Bengali,14:00,Silver,250₹,156,5
+Kolkata,InoxStarMallMadhyamgram,700129,Bengali,14:05,Club,180₹,92,2
+Kolkata,InoxStarMallMadhyamgram,700129,Bengali,14:05,Executive,160₹,32,0
+Kolkata,InoxStarMallMadhyamgram,700129,Bengali,14:05,Royal,200₹,63,10
+Kolkata,InoxCityCentreIiRajarhat,700157,Bengali,14:15,Club,210₹,229,9
+Kolkata,InoxCityCentreIiRajarhat,700157,Bengali,14:15,Executive,190₹,42,0
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,16:45,Classic,220₹,80,7
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,16:45,Prime,260₹,11,7
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,16:45,Recliner,430₹,12,0
+Asansol,CarnivalSentrumMallAsansol,713304,Bengali,17:05,Premium,130₹,63,0
+Asansol,CarnivalSentrumMallAsansol,713304,Bengali,17:05,Silver,130₹,150,0
+Asansol,CarnivalSentrumMallAsansol,713304,Bengali,17:05,Gold,130₹,43,0
