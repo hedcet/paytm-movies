@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mudhol,SubhashiniTheatreMudhol,587313,Kannada,12:00,DressCircle,100₹,110,0
+Mudhol,SubhashiniTheatreMudhol,587313,Kannada,15:00,DressCircle,100₹,110,0
+Krishnarajanagara,SriVenkateshwaraChitramandiraMysoreRoad,571602,Kannada,16:30,Balcony,100₹,109,0
+Krishnarajanagara,SriVenkateshwaraChitramandiraMysoreRoad,571602,Kannada,16:30,First,80₹,600,392
+Shivamogga,VeerabhadreshwaraTalkiesShivamogga,577201,Kannada,17:45,Balcony,100₹,223,223
+Shivamogga,VeerabhadreshwaraTalkiesShivamogga,577201,Kannada,17:45,FirstClass,100₹,650,618
+Mudhol,SubhashiniTheatreMudhol,587313,Kannada,18:00,DressCircle,100₹,110,0
+Krishnarajanagara,SriVenkateshwaraChitramandiraMysoreRoad,571602,Kannada,19:30,Balcony,100₹,109,0
+Krishnarajanagara,SriVenkateshwaraChitramandiraMysoreRoad,571602,Kannada,19:30,First,80₹,600,392
+Shivamogga,VeerabhadreshwaraTalkiesShivamogga,577201,Kannada,20:45,Balcony,100₹,223,223
+Shivamogga,VeerabhadreshwaraTalkiesShivamogga,577201,Kannada,20:45,FirstClass,100₹,650,618
+Mudhol,SubhashiniTheatreMudhol,587313,Kannada,21:00,DressCircle,100₹,110,0
