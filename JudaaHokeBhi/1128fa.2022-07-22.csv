@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ludhiana,SolitaireCinemasJmdGovardhanCityCenter,141008,Hindi,10:00,VipClass,200₹,20,0
+Ludhiana,SolitaireCinemasJmdGovardhanCityCenter,141008,Hindi,10:00,GoldClass,180₹,127,0
+Ludhiana,SolitaireCinemasJmdGovardhanCityCenter,141008,Hindi,10:00,SilverClass,160₹,60,0
+NewDelhi,PvrVegasDwarka,110078,Hindi,12:25,Prime,199₹,15,15
+NewDelhi,PvrVegasDwarka,110078,Hindi,12:25,Classic,149₹,120,120
