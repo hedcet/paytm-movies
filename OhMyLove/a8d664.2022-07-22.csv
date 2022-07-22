@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,AkashCinemasLaggere,560058,Kannada,16:30,GoldClass,150₹,44,44
+Bengaluru,AkashCinemasLaggere,560058,Kannada,16:30,SilverClass,100₹,729,669
+Malebennur,SriJyothiTalkies,577530,Kannada,18:30,FirstClass,81₹,400,352
+Bengaluru,AkashCinemasLaggere,560058,Kannada,19:30,GoldClass,150₹,44,44
+Bengaluru,AkashCinemasLaggere,560058,Kannada,19:30,SilverClass,100₹,729,669
+Malebennur,SriJyothiTalkies,577530,Kannada,21:30,FirstClass,81₹,400,352
