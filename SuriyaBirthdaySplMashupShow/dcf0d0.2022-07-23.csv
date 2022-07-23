@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Tirunelveli,ARKRamMuthuramCinemasRgbDolbyAtmos,627001,Tamil,08:01,PremiumA,150₹,22,22
+Tirunelveli,ARKRamMuthuramCinemasRgbDolbyAtmos,627001,Tamil,08:01,PremiumB,150₹,22,22
+Tirunelveli,ARKRamMuthuramCinemasRgbDolbyAtmos,627001,Tamil,08:01,Platinum,100₹,373,373
+Tirunelveli,ARKRamMuthuramCinemasRgbDolbyAtmos,627001,Tamil,08:01,Gold,100₹,350,182
+Tirunelveli,GrandeMuthuramCinemas4KSlsDolbyAtmos,627001,Tamil,08:01,Platinum,100₹,277,80
+Tirunelveli,GrandeMuthuramCinemas4KSlsDolbyAtmos,627001,Tamil,08:01,Grande,100₹,463,9
