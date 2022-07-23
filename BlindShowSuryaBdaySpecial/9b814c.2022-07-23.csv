@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,632006,Tamil,18:30,Box,130₹,11,11
+Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,632006,Tamil,18:30,Couple,130₹,20,0
+Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,632006,Tamil,18:30,Premium,130₹,130,22
+Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,632006,Tamil,18:30,Elite1,100₹,220,96
+Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,632006,Tamil,18:30,Elite2,100₹,110,0
+Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,632006,Tamil,18:30,Economy1,100₹,66,0
+Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,632006,Tamil,18:30,Economy2,100₹,66,0
+Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,632006,Tamil,18:45,Box,130₹,11,11
+Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,632006,Tamil,18:45,Couple,130₹,20,2
+Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,632006,Tamil,18:45,Premium,130₹,130,36
+Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,632006,Tamil,18:45,Elite1,100₹,220,120
+Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,632006,Tamil,18:45,Elite2,100₹,110,3
+Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,632006,Tamil,18:45,Economy1,100₹,66,0
+Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,632006,Tamil,18:45,Economy2,100₹,66,0
