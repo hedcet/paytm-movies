@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Belur,SriRenukaTalkies,573121,Kannada,10:00,Balcony,120₹,48,24
+Belur,SriRenukaTalkies,573121,Kannada,10:00,FirstClass,100₹,310,210
+Belur,SriRenukaTalkies,573121,Kannada,13:00,Balcony,120₹,48,24
+Belur,SriRenukaTalkies,573121,Kannada,13:00,FirstClass,100₹,310,210
