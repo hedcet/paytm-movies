@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,InoxForumMallElginRoad,700020,Hindi,16:00,DressCircle,370₹,100,100
+Kolkata,InoxForumMallElginRoad,700020,Hindi,16:00,Galleria,370₹,28,28
+Kolkata,InoxForumMallElginRoad,700020,Hindi,16:00,Royal,370₹,33,33
+Kolkata,InoxForumMallElginRoad,700020,Hindi,18:00,DressCircle,370₹,100,100
+Kolkata,InoxForumMallElginRoad,700020,Hindi,18:00,Galleria,370₹,28,28
+Kolkata,InoxForumMallElginRoad,700020,Hindi,18:00,Royal,370₹,33,33
+NaviMumbai,InoxRaghuleelaMallVashi,400703,Hindi,18:00,Gold,750₹,55,55
