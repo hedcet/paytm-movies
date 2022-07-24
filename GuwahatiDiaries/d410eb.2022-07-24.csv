@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Guwahati,CinepolisCentralMallGuwahati,781005,Assamese,12:20,Normal,130₹,24,0
+Guwahati,CinepolisCentralMallGuwahati,781005,Assamese,12:20,Executive,150₹,116,7
+Guwahati,CinepolisCentralMallGuwahati,781005,Assamese,12:20,Premium,170₹,41,16
+Guwahati,CinepolisCentralMallGuwahati,781005,Assamese,12:20,Vip,350₹,4,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,19:25,Classic,99₹,40,6
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,19:25,Prime,99₹,82,76
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,19:25,PrimePlus,99₹,13,13
