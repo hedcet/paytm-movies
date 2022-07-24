@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Honnali,ShanthaChitramandira,577217,Kannada,10:30,Balcony,121₹,172,48
+Honnali,ShanthaChitramandira,577217,Kannada,10:30,FirstClass,101₹,532,482
+Honnali,ShanthaChitramandira,577217,Kannada,13:30,Balcony,121₹,172,48
+Honnali,ShanthaChitramandira,577217,Kannada,13:30,FirstClass,101₹,532,482
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,16:00,Classic,240₹,180,26
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,16:00,Prime,260₹,120,67
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,16:00,Recliner,420₹,36,14
+Honnali,ShanthaChitramandira,577217,Kannada,17:30,Balcony,121₹,172,48
+Honnali,ShanthaChitramandira,577217,Kannada,17:30,FirstClass,101₹,532,482
+Honnali,ShanthaChitramandira,577217,Kannada,20:30,Balcony,121₹,172,48
+Honnali,ShanthaChitramandira,577217,Kannada,20:30,FirstClass,101₹,532,482
