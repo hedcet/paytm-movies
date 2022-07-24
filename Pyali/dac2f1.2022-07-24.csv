@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,PvrPanjagutta,500082,Malayalam,17:10,Classic,150₹,217,19
+Hyderabad,PvrPanjagutta,500082,Malayalam,17:10,Recliner,250₹,17,4
+Bengaluru,GalaxyParadiseHongasandra,560068,Malayalam,18:40,FirstClass,150₹,100,80
