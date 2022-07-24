@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Belur,SriRenukaTalkies,573121,Kannada,10:00,Balcony,120₹,48,24
+Belur,SriRenukaTalkies,573121,Kannada,10:00,FirstClass,100₹,310,210
+Bellary,RaghavendraTheatre2KACKcRoad,583101,Kannada,10:30,Diamond,150₹,150,45
+Bellary,RaghavendraTheatre2KACKcRoad,583101,Kannada,10:30,Gold,100₹,453,312
+Belur,SriRenukaTalkies,573121,Kannada,13:00,Balcony,120₹,48,24
+Belur,SriRenukaTalkies,573121,Kannada,13:00,FirstClass,100₹,310,210
+Bellary,RaghavendraTheatre2KACKcRoad,583101,Kannada,13:30,Diamond,150₹,150,45
+Bellary,RaghavendraTheatre2KACKcRoad,583101,Kannada,13:30,Gold,100₹,453,312
+Bellary,RaghavendraTheatre2KACKcRoad,583101,Kannada,16:30,Diamond,150₹,150,45
+Bellary,RaghavendraTheatre2KACKcRoad,583101,Kannada,16:30,Gold,100₹,453,312
+Bellary,RaghavendraTheatre2KACKcRoad,583101,Kannada,19:30,Diamond,150₹,150,45
+Bellary,RaghavendraTheatre2KACKcRoad,583101,Kannada,19:30,Gold,100₹,453,312
