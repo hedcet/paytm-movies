@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kota,InoxAhluwaliasGreatMallDhanmandi,324005,Hindi,09:30,Club,200₹,93,4
+Kota,InoxAhluwaliasGreatMallDhanmandi,324005,Hindi,09:30,Executive,200₹,45,0
+Kota,InoxAhluwaliasGreatMallDhanmandi,324005,Hindi,09:30,Royale,200₹,37,3
+Indore,InoxC21MallSheetalNagar,452010,Hindi,11:40,Normal,200₹,163,5
+Indore,InoxC21MallSheetalNagar,452010,Hindi,19:25,Normal,250₹,163,32
+Kota,InoxAhluwaliasGreatMallDhanmandi,324005,Hindi,19:25,Club,250₹,93,83
+Kota,InoxAhluwaliasGreatMallDhanmandi,324005,Hindi,19:25,Executive,250₹,45,0
+Kota,InoxAhluwaliasGreatMallDhanmandi,324005,Hindi,19:25,Royale,250₹,38,38
