@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,InoxMegaplexInorbitMall,400064,English,15:00,Insignia,500₹,33,0
+Noida,PvrLogixCityCentreNoida,201301,English,15:20,Classic,99₹,89,4
+Gurgaon,PvrAmbienceGoldGurgaon,122001,English,16:10,PlatinumSuperior,400₹,16,5
+Gurgaon,PvrAmbienceGoldGurgaon,122001,English,16:10,Platinum,400₹,28,4
+Mumbai,InoxLaserplexCr2NarimanPoint,400021,English,18:25,Insignia,700₹,70,2
+Mumbai,MetroInoxCinemaMGRoad,400020,English,18:30,Insignia,700₹,41,3
+Pune,InoxBundGarden,411001,English,19:10,Royale,450₹,32,5
+Mumbai,PvrLuxeMarketcityKurlaMumbai,400072,English,19:20,GoldPremium,500₹,24,0
+Mumbai,PvrLuxeMarketcityKurlaMumbai,400072,English,19:20,GoldStar,450₹,36,0
+Mumbai,InoxMegaplexInorbitMall,400064,English,19:30,Insignia,550₹,33,4
+Kolkata,InoxQuestMallBallygunge,700017,English,22:20,RoyalRecliner,470₹,63,4
+Mumbai,PaytmImaxInoxRCityGhatkoparW,400086,English,22:20,Insignia,450₹,39,0
+Mumbai,PvrDynamicJuhu,400049,English,22:20,Prime,260₹,72,23
+Mumbai,PvrDynamicJuhu,400049,English,22:20,Classic,240₹,40,0
+Mumbai,MaisonPvrTheLoftLuxeJioWorldDriveBkc,400051,English,22:30,Platinum,700₹,33,7
+Mumbai,InoxLaserplexCr2NarimanPoint,400021,English,22:40,Insignia,700₹,70,0
