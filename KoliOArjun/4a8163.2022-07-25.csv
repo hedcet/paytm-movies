@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+CoochBehar,NewCinemaBangchatraRoad,736101,Bengali,10:15,Balcony,80₹,87,45
+Kolkata,LilaCinemaFultala,700144,Bengali,13:00,Balcony,60₹,28,0
+Kolkata,LilaCinemaFultala,700144,Bengali,16:00,Balcony,60₹,28,0
+Kolkata,LilaCinemaFultala,700144,Bengali,18:45,Balcony,60₹,28,0
