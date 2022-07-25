@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,226010,Hindi,11:15,Club,150₹,96,0
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,226010,Hindi,11:15,Executive,130₹,32,0
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,226010,Hindi,11:15,RoyaleRecliners,300₹,10,2
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,226010,Hindi,11:15,Royale,170₹,70,2
+Kolkata,IndiraCinemaBhawanipur,700025,Hindi,12:40,Box,110₹,30,0
+Kolkata,IndiraCinemaBhawanipur,700025,Hindi,12:40,Balcony,90₹,280,133
