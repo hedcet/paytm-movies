@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,13:00,Elite,165₹,165,1
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,13:00,Budget,60₹,27,27
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,15:40,Classic,60₹,17,12
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,15:40,Prime,179₹,118,0
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,16:15,Quartz,152₹,242,0
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,16:15,Zircon,60₹,27,27
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,19:00,Classic,60₹,11,11
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,19:00,Prime,179₹,102,25
+Chennai,AgsCinemasMaduravoyal,600095,Tamil,21:45,Diamond,150₹,205,0
+Chennai,SpiS2CinemasPerambur,600011,Tamil,22:15,Budget,60₹,23,0
+Chennai,SpiS2CinemasPerambur,600011,Tamil,22:15,Elite,165₹,196,19
