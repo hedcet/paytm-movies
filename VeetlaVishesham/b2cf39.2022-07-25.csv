@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,12:00,Classic,60₹,17,10
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,12:00,Prime,165₹,118,8
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,15:35,Classic,60₹,16,16
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,15:35,Prime,165₹,110,27
+Chennai,SpiEscapeCinemasRoyapettah,600014,Tamil,18:45,Elite,165₹,99,41
+Chennai,SpiEscapeCinemasRoyapettah,600014,Tamil,18:45,Budget,60₹,11,11
