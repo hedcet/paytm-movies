@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Moodabidri,AmarshreeTheatreVijayaNagar,574227,Kannada,10:00,Balcony,120₹,192,114
+Moodabidri,AmarshreeTheatreVijayaNagar,574227,Kannada,10:00,SecondClass,100₹,368,368
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,12:10,Classic,150₹,140,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,12:10,Prime,170₹,96,2
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,12:10,Recliner,250₹,28,0
+Karkala,PlanetTheatreMarketRoad,574104,Kannada,13:00,FirstClass,120₹,98,70
+Baindur,ShankarTheatreBaindur,576214,Kannada,14:00,Balcony,100₹,342,247
+Baindur,ShankarTheatreBaindur,576214,Kannada,18:00,Balcony,100₹,342,247
+Baindur,ShankarTheatreBaindur,576214,Kannada,21:00,Balcony,100₹,342,247
+Moodabidri,AmarshreeTheatreVijayaNagar,574227,Kannada,21:00,Balcony,120₹,192,114
+Moodabidri,AmarshreeTheatreVijayaNagar,574227,Kannada,21:00,SecondClass,100₹,368,368
