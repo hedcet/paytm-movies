@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mangalore,PvrNexusMallPandeshwarMangalore,575001,Tulu,11:50,Classic,150₹,133,2
+Mangalore,PvrNexusMallPandeshwarMangalore,575001,Tulu,11:50,Prime,150₹,69,6
+Mangalore,PvrNexusMallPandeshwarMangalore,575001,Tulu,11:50,Recliner,300₹,13,0
+Mangalore,CinepolisCityCentreMallMangaluru,575001,Tulu,12:50,Normal,140₹,28,0
+Mangalore,CinepolisCityCentreMallMangaluru,575001,Tulu,12:50,Executive,160₹,133,3
+Mangalore,CinepolisCityCentreMallMangaluru,575001,Tulu,12:50,Premium,180₹,58,8
+Mangalore,PvrNexusMallPandeshwarMangalore,575001,Tulu,15:20,Classic,150₹,126,0
+Mangalore,PvrNexusMallPandeshwarMangalore,575001,Tulu,15:20,Prime,150₹,32,0
+Mangalore,PvrNexusMallPandeshwarMangalore,575001,Tulu,15:20,Recliner,300₹,12,0
+Mangalore,CineGalaxySurathkalMangalore,575014,Tulu,20:30,Club,300₹,5,0
+Mangalore,CineGalaxySurathkalMangalore,575014,Tulu,20:30,Gold,150₹,18,0
+Mangalore,CineGalaxySurathkalMangalore,575014,Tulu,20:30,Prime,150₹,90,0
+Mangalore,CineGalaxySurathkalMangalore,575014,Tulu,20:30,Classic,150₹,52,0
+Mangalore,PvrNexusMallPandeshwarMangalore,575001,Tulu,21:40,Classic,150₹,126,0
+Mangalore,PvrNexusMallPandeshwarMangalore,575001,Tulu,21:40,Prime,150₹,32,0
+Mangalore,PvrNexusMallPandeshwarMangalore,575001,Tulu,21:40,Recliner,300₹,12,0
