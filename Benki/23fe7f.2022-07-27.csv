@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,Vinayaka2KDolbyTheatreHarohalli,562112,Kannada,10:30,Gold,100₹,452,352
+Bengaluru,Vinayaka2KDolbyTheatreHarohalli,562112,Kannada,13:30,Gold,100₹,452,352
+Bengaluru,Vinayaka2KDolbyTheatreHarohalli,562112,Kannada,16:30,Gold,100₹,452,352
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,16:55,Normal,100₹,10,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,16:55,Executive,100₹,81,0
+Bengaluru,CinepolisEtaNammaMallBinnyPete,560023,Kannada,16:55,Premium,100₹,33,0
+Bengaluru,KrishnaTheatreKrPuram,560036,Kannada,18:15,Balcony,120₹,271,243
+Bengaluru,KrishnaTheatreKrPuram,560036,Kannada,18:15,FirstClass,50₹,600,600
+Bengaluru,Vinayaka2KDolbyTheatreHarohalli,562112,Kannada,19:30,Gold,100₹,452,352
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,19:30,Classic,170₹,128,5
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,19:30,Prime,190₹,80,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,19:30,Recliner,300₹,10,7
+Bengaluru,KrishnaTheatreKrPuram,560036,Kannada,21:30,Balcony,120₹,271,243
+Bengaluru,KrishnaTheatreKrPuram,560036,Kannada,21:30,FirstClass,50₹,600,600
