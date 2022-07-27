@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Saoner,AdarshCineplxRajkamalChowk,441107,Hindi,12:00,Box,120₹,7,0
+Saoner,AdarshCineplxRajkamalChowk,441107,Hindi,12:00,Balcony,100₹,19,0
+Saoner,AdarshCineplxRajkamalChowk,441107,Hindi,12:00,Reserve,80₹,19,0
+NewDelhi,PvrVegasDwarka,110078,Hindi,12:25,Prime,199₹,15,7
+NewDelhi,PvrVegasDwarka,110078,Hindi,12:25,Classic,199₹,105,4
+Saoner,AdarshCineplxRajkamalChowk,441107,Hindi,15:00,Box,120₹,7,0
+Saoner,AdarshCineplxRajkamalChowk,441107,Hindi,15:00,Balcony,100₹,19,0
+Saoner,AdarshCineplxRajkamalChowk,441107,Hindi,15:00,Reserve,80₹,19,0
+Saoner,AdarshCineplxRajkamalChowk,441107,Hindi,18:00,Box,120₹,7,0
+Saoner,AdarshCineplxRajkamalChowk,441107,Hindi,18:00,Balcony,100₹,19,0
+Saoner,AdarshCineplxRajkamalChowk,441107,Hindi,18:00,Reserve,80₹,19,0
+Saoner,AdarshCineplxRajkamalChowk,441107,Hindi,21:00,Box,120₹,7,0
+Saoner,AdarshCineplxRajkamalChowk,441107,Hindi,21:00,Balcony,100₹,19,0
+Saoner,AdarshCineplxRajkamalChowk,441107,Hindi,21:00,Reserve,80₹,19,0
