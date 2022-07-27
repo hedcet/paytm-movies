@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Palakonda,SunCinemaxAcDtsVenkataGouriPalakonda,532440,Telugu,10:30,Premium,100₹,122,34
+Madhira,ShanthiTheatreMadhira,507203,Telugu,11:15,Balcony,100₹,223,76
+Madhira,ShanthiTheatreMadhira,507203,Telugu,14:15,Balcony,100₹,223,76
+Palakonda,SunCinemaxAcDtsVenkataGouriPalakonda,532440,Telugu,14:30,Premium,100₹,122,34
+Kurnool,InoxJyotiMallKurnool,518001,Telugu,14:40,Executive,177₹,226,0
+Madhira,ShanthiTheatreMadhira,507203,Telugu,18:15,Balcony,100₹,223,76
+Rajahmundry,Raja4KDolbyAnusriCinemasVidyaNagar,533105,Telugu,18:15,ReservedClass,112₹,321,134
+Palakonda,SunCinemaxAcDtsVenkataGouriPalakonda,532440,Telugu,18:30,Premium,100₹,122,34
+Kurnool,BharathComplexKurnool,518001,Telugu,18:30,Premium,100₹,257,0
+Kurnool,BharathComplexKurnool,518001,Telugu,18:30,NonPremium,70₹,85,0
+Madhira,ShanthiTheatreMadhira,507203,Telugu,21:15,Balcony,100₹,223,76
+Palakonda,SunCinemaxAcDtsVenkataGouriPalakonda,532440,Telugu,21:30,Premium,100₹,122,34
+Kurnool,BharathComplexKurnool,518001,Telugu,21:30,Premium,100₹,257,0
+Kurnool,BharathComplexKurnool,518001,Telugu,21:30,NonPremium,70₹,85,0
+Rajahmundry,Raja4KDolbyAnusriCinemasVidyaNagar,533105,Telugu,21:30,ReservedClass,112₹,321,134
