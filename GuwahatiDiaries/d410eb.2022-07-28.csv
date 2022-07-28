@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Guwahati,MatrixCinemasMatrixMallBeltola,781028,Assamese,13:10,Gold,350₹,100,0
+Guwahati,MatrixCinemasMatrixMallBeltola,781028,Assamese,13:10,Club,200₹,100,0
+Guwahati,MatrixCinemasMatrixMallBeltola,781028,Assamese,13:10,Executive,150₹,100,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,19:25,Classic,99₹,40,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,19:25,Prime,99₹,82,34
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,19:25,PrimePlus,99₹,13,11
