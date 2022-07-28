@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ludhiana,PvrPavilionMallLudhiana,141002,Punjabi,11:35,Classic,99₹,64,0
+Jalandhar,PvrFriendsJalandhar,144001,Punjabi,14:00,Classic,99₹,32,0
+Jalandhar,PvrFriendsJalandhar,144001,Punjabi,14:00,Prime,99₹,56,23
+Jalandhar,PvrFriendsJalandhar,144001,Punjabi,14:00,Recliner,149₹,8,1
+Ludhiana,PvrPavilionMallLudhiana,141002,Punjabi,14:50,Classic,99₹,70,0
+Amritsar,InoxVrAmbarsarCircularRoad,143001,Punjabi,16:15,Normal,100₹,163,0
+Jalandhar,PvrCuroJalandhar,144022,Punjabi,18:55,Classic,99₹,27,0
+Jalandhar,PvrCuroJalandhar,144022,Punjabi,18:55,Prime,149₹,40,0
+Jalandhar,PvrCuroJalandhar,144022,Punjabi,18:55,ClassicPlus,99₹,30,0
+Jalandhar,PvrFriendsJalandhar,144001,Punjabi,19:55,Classic,99₹,33,0
+Jalandhar,PvrFriendsJalandhar,144001,Punjabi,19:55,Prime,99₹,53,14
+Amritsar,PvrSctCityCentre,143001,Punjabi,19:55,Classic,99₹,150,3
+Amritsar,PvrSctCityCentre,143001,Punjabi,19:55,Prime,99₹,41,9
+Amritsar,PvrSctCityCentre,143001,Punjabi,19:55,Recliner,149₹,6,5
+Ludhiana,PvrPavilionMallLudhiana,141002,Punjabi,21:00,Classic,99₹,117,6
+Ludhiana,PvrPavilionMallLudhiana,141002,Punjabi,21:00,Prime,149₹,8,0
