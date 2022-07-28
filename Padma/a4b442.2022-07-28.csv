@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,PvrOberonMallErnakulam,682024,Malayalam,16:05,Classic,140₹,36,0
+Kochi,PvrOberonMallErnakulam,682024,Malayalam,16:05,ClassicPlus,170₹,81,37
+Trivandrum,CarnivalArtechMallVanchyoor,695035,Malayalam,20:15,ExecutiveOffline,100₹,26,0
+Trivandrum,CarnivalArtechMallVanchyoor,695035,Malayalam,20:15,SilverOffline,150₹,147,30
+Kochi,PvrLuluKochi,682025,Malayalam,22:20,Classic,140₹,39,0
+Kochi,PvrLuluKochi,682025,Malayalam,22:20,ClassicPlus,160₹,91,0
+Kochi,PvrLuluKochi,682025,Malayalam,22:20,Prime,190₹,68,17
+Kochi,PvrLuluKochi,682025,Malayalam,22:20,Recliner,350₹,10,0
