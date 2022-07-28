@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,11:00,Balcony,250₹,15,8
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,11:00,FirstClass,110₹,215,88
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,14:00,Balcony,250₹,15,8
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,14:00,FirstClass,110₹,215,88
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,18:00,Balcony,250₹,15,8
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,18:00,FirstClass,110₹,215,88
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,21:00,Balcony,250₹,15,8
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,21:00,FirstClass,110₹,215,88
