@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mangalore,CinepolisCityCentreMallMangaluru,575001,Tulu,16:45,Platinum,150₹,50,6
+Mangalore,CinepolisCityCentreMallMangaluru,575001,Tulu,16:45,Vip,200₹,17,4
+Mangalore,PvrNexusMallPandeshwarMangalore,575001,Tulu,21:45,Classic,150₹,79,9
