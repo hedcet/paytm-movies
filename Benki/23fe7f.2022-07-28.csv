@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,Vinayaka2KDolbyTheatreHarohalli,562112,Kannada,10:30,Gold,100₹,452,352
+Bengaluru,Vinayaka2KDolbyTheatreHarohalli,562112,Kannada,13:30,Gold,100₹,452,352
+Bengaluru,Vinayaka2KDolbyTheatreHarohalli,562112,Kannada,16:30,Gold,100₹,452,352
+Bengaluru,Vinayaka2KDolbyTheatreHarohalli,562112,Kannada,19:30,Gold,100₹,452,352
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,19:30,Classic,170₹,128,2
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,19:30,Prime,190₹,80,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,19:30,Recliner,300₹,12,5
