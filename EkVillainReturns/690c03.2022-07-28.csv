@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Durgapur,DurgapurCinemaCityCenter,713216,Hindi,12:00,Balcony,60₹,480,480
+Durgapur,DurgapurCinemaCityCenter,713216,Hindi,12:00,DressCircle,70₹,92,77
+Durgapur,DurgapurCinemaCityCenter,713216,Hindi,12:00,Box,70₹,32,32
+Durgapur,DurgapurCinemaCityCenter,713216,Hindi,12:00,RareStall,50₹,640,608
+Durgapur,DurgapurCinemaCityCenter,713216,Hindi,15:00,Balcony,60₹,480,480
+Durgapur,DurgapurCinemaCityCenter,713216,Hindi,15:00,DressCircle,70₹,92,77
+Durgapur,DurgapurCinemaCityCenter,713216,Hindi,15:00,Box,70₹,32,32
+Durgapur,DurgapurCinemaCityCenter,713216,Hindi,15:00,RareStall,50₹,640,608
+Durgapur,DurgapurCinemaCityCenter,713216,Hindi,18:00,Balcony,60₹,480,480
+Durgapur,DurgapurCinemaCityCenter,713216,Hindi,18:00,DressCircle,70₹,92,77
+Durgapur,DurgapurCinemaCityCenter,713216,Hindi,18:00,Box,70₹,32,32
+Durgapur,DurgapurCinemaCityCenter,713216,Hindi,18:00,RareStall,50₹,640,608
