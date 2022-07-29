@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,RajhansCinemaVastral,382418,Gujarati,18:45,Marvel,130₹,32,0
+Ahmedabad,RajhansCinemaVastral,382418,Gujarati,18:45,Royal,150₹,40,0
+Ahmedabad,RajhansCinemaVastral,382418,Gujarati,18:45,Executive,170₹,104,6
+Ahmedabad,RajhansCinemaVastral,382418,Gujarati,18:45,Recliner,350₹,17,6
