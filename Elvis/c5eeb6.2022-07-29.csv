@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Gurgaon,PvrAmbienceGoldGurgaon,122001,English,13:40,PlatinumSuperior,500₹,8,2
+Gurgaon,PvrAmbienceGoldGurgaon,122001,English,13:40,Platinum,500₹,28,0
+NewDelhi,PvrPromenadeVasantKunj,110070,English,13:55,Classic,250₹,50,0
+NewDelhi,PvrPromenadeVasantKunj,110070,English,13:55,Prime,300₹,34,6
+Mumbai,PaytmImaxInoxRCityGhatkoparW,400086,English,16:45,Insignia,550₹,39,4
+Mumbai,MetroInoxCinemaMGRoad,400020,English,19:15,Insignia,850₹,42,8
+Mumbai,InoxMegaplexInorbitMall,400064,English,19:30,Insignia,750₹,33,4
+Noida,PvrLogixCityCentreNoida,201301,English,19:35,Classic,99₹,78,4
+Mumbai,InoxLaserplexCr2NarimanPoint,400021,English,22:15,Insignia,950₹,70,7
+Mumbai,PvrDynamicJuhu,400049,English,22:30,Prime,380₹,72,29
+Mumbai,PvrDynamicJuhu,400049,English,22:30,Classic,360₹,40,0
+NewDelhi,PvrDirectorsCutDelhiAmbienceMall,110070,English,22:35,Platinum,800₹,36,13
+NewDelhi,PvrDirectorsCutDelhiAmbienceMall,110070,English,22:35,PlatinumSuperior,"1,000₹",10,9
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,400013,English,23:30,PrimePlus,"1,000₹",30,10
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,400013,English,23:30,Prime,"1,000₹",12,0
