@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Periyakulam,ParvathyTheatreThenkarai,625601,Tamil,10:30,Firstclass,100₹,272,0
+Periyakulam,ParvathyTheatreThenkarai,625601,Tamil,14:30,Firstclass,100₹,272,0
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,15:50,Classic,60₹,11,11
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,15:50,Prime,165₹,102,25
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,15:55,Classic,60₹,17,16
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,15:55,Prime,179₹,118,0
+Periyakulam,ParvathyTheatreThenkarai,625601,Tamil,18:30,Firstclass,100₹,272,0
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,21:55,Elite,165₹,165,2
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,21:55,Budget,60₹,27,27
+Periyakulam,ParvathyTheatreThenkarai,625601,Tamil,22:30,Firstclass,100₹,272,0
