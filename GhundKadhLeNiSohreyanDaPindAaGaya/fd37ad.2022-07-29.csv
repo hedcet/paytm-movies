@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Banga,RitzMultiplexBanga,144505,Punjabi,14:25,GoldC,200₹,12,0
+Banga,RitzMultiplexBanga,144505,Punjabi,14:25,SilverC,150₹,109,0
+Chandigarh,PvrElanteMallChandigarh,178178,Punjabi,17:45,Classic,230₹,138,10
+Chandigarh,PvrElanteMallChandigarh,178178,Punjabi,17:45,Recliner,650₹,13,0
+Patiala,PvrVrcPatiala,147001,Punjabi,19:55,Classic,120₹,26,26
+Patiala,PvrVrcPatiala,147001,Punjabi,19:55,Prime,120₹,78,78
+Patiala,PvrVrcPatiala,147001,Punjabi,19:55,Recliner,120₹,9,9
