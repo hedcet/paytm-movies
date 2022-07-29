@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mangalore,PvrNexusMallPandeshwarMangalore,575001,Tulu,15:35,Classic,150₹,79,4
+Mangalore,CineGalaxySurathkalMangalore,575014,Tulu,16:00,Gold,150₹,17,0
+Mangalore,CineGalaxySurathkalMangalore,575014,Tulu,16:00,Prime,150₹,64,0
+Mangalore,CineGalaxySurathkalMangalore,575014,Tulu,16:00,Classic,150₹,48,0
