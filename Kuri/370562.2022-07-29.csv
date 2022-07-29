@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thalayolaparambu,CarnivalThalayolaparambu,686605,Malayalam,10:30,Gold,110₹,144,6
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,10:30,ExecutiveOffline,140₹,132,14
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,15:00,BlueCircle,150₹,227,218
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,16:15,NormalOffline,100₹,17,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,16:15,ExecutiveOffline,180₹,193,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,16:15,Silver,210₹,97,10
+Thalassery,LibertyParadiseComplexThalassery,670101,Malayalam,18:00,Mini,125₹,250,152
+Karunagappally,CarnivalHJComplexLalajiJunction,690518,Malayalam,19:30,ClassicOffline,170₹,118,0
