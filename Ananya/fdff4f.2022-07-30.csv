@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,12:40,Normal,210₹,31,0
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,12:40,Executive,230₹,104,15
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,12:40,Premium,250₹,52,31
+Mumbai,MovieTimeHubMallGoregaonE,400063,Marathi,15:00,Mhraja,150₹,44,40
+Nashik,CinemaxCityCenterNasik,422002,Marathi,15:30,Prime,220₹,139,50
+Nashik,CinemaxCityCenterNasik,422002,Marathi,15:30,Recliner,360₹,14,11
+Nashik,CinemaxCityCenterNasik,422002,Marathi,15:30,Classic,180₹,34,0
+Pune,CinepolisSeasonsMallHadapsar,411028,Marathi,16:40,Normal,200₹,31,0
+Pune,CinepolisSeasonsMallHadapsar,411028,Marathi,16:40,Executive,220₹,84,0
+Pune,CinepolisSeasonsMallHadapsar,411028,Marathi,16:40,Premium,220₹,34,13
+Mumbai,CinepolisNexusSeawoodsNaviMumbai,400706,Marathi,18:30,Normal,210₹,32,0
+Mumbai,CinepolisNexusSeawoodsNaviMumbai,400706,Marathi,18:30,Executive,230₹,70,3
+Mumbai,CinepolisNexusSeawoodsNaviMumbai,400706,Marathi,18:30,Premium,250₹,57,25
+Mumbai,CinepolisNexusSeawoodsNaviMumbai,400706,Marathi,18:30,Vip,450₹,13,7
