@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Bengali,13:00,Balcony,50₹,264,33
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Bengali,13:00,FirstClass,30₹,513,30
+Kolkata,InoxCityCentreIiRajarhat,700157,Bengali,13:25,Club,220₹,229,0
+Kolkata,InoxCityCentreIiRajarhat,700157,Bengali,13:25,Executive,200₹,42,0
+Kolkata,AjantaCinemaBehala,700038,Bengali,14:00,Balcony,150₹,106,82
+Kolkata,RupMandirCinemaBelgharia,700056,Bengali,14:30,Platinum,100₹,48,0
+Kolkata,RupMandirCinemaBelgharia,700056,Bengali,14:30,Gold,80₹,102,32
+Kolkata,JayantiCinemaBarrackpore,700120,Bengali,14:30,SuperStall,200₹,183,145
+Kolkata,JayantiCinemaBarrackpore,700120,Bengali,14:30,Stall,200₹,39,39
+Kolkata,InoxSouthCityMall,700068,Bengali,19:20,Premier,230₹,34,0
+Kolkata,InoxSouthCityMall,700068,Bengali,19:20,Silver,250₹,156,0
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,20:00,Classic,230₹,189,0
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,20:00,Prime,270₹,11,0
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,20:00,Recliner,440₹,12,0
