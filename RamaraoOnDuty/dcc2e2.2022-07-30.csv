@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vizag,UrvasiTheaterDolby2KACKancharapalem,530008,Telugu,11:00,UcPremium,145₹,414,27
+Vizag,UrvasiTheaterDolby2KACKancharapalem,530008,Telugu,11:00,NonPremium,100₹,140,140
+Vizag,UrvasiTheaterDolby2KACKancharapalem,530008,Telugu,14:15,UcPremium,145₹,414,27
+Vizag,UrvasiTheaterDolby2KACKancharapalem,530008,Telugu,14:15,NonPremium,100₹,140,140
+Vizag,UrvasiTheaterDolby2KACKancharapalem,530008,Telugu,17:45,UcPremium,145₹,414,27
+Vizag,UrvasiTheaterDolby2KACKancharapalem,530008,Telugu,17:45,NonPremium,100₹,140,140
+Vizag,UrvasiTheaterDolby2KACKancharapalem,530008,Telugu,21:00,UcPremium,200₹,414,27
+Vizag,UrvasiTheaterDolby2KACKancharapalem,530008,Telugu,21:00,NonPremium,150₹,140,140
