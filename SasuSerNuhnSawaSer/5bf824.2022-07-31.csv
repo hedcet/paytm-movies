@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kota,MayurCinemaNayapura,324001,Sindhi,12:00,Royal,100₹,10,10
+Kota,MayurCinemaNayapura,324001,Sindhi,12:00,Gold,70₹,65,0
+Kota,MayurCinemaNayapura,324001,Sindhi,12:00,Silver,70₹,55,0
+Kota,MayurCinemaNayapura,324001,Sindhi,15:00,Royal,100₹,10,10
+Kota,MayurCinemaNayapura,324001,Sindhi,15:00,Gold,70₹,65,10
+Kota,MayurCinemaNayapura,324001,Sindhi,15:00,Silver,70₹,55,7
+Kota,MayurCinemaNayapura,324001,Sindhi,18:00,Royal,100₹,10,10
+Kota,MayurCinemaNayapura,324001,Sindhi,18:00,Gold,70₹,65,0
+Kota,MayurCinemaNayapura,324001,Sindhi,18:00,Silver,70₹,55,0
+Kota,MayurCinemaNayapura,324001,Sindhi,21:00,Royal,100₹,10,10
+Kota,MayurCinemaNayapura,324001,Sindhi,21:00,Gold,70₹,65,12
+Kota,MayurCinemaNayapura,324001,Sindhi,21:00,Silver,70₹,55,0
