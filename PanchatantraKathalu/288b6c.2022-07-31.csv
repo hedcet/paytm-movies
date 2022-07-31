@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,InoxGvkOneBanjaraHills,500034,Telugu,10:35,Executive,150₹,156,17
+Hyderabad,InoxGvkOneBanjaraHills,500034,Telugu,10:35,Royal,250₹,12,5
+Hyderabad,PvrInorbitCyberabad,500081,Telugu,13:35,Classic,150₹,161,4
+Hyderabad,InoxGsmMallMadinaguda,500049,Telugu,22:20,Executive,150₹,136,3
+Hyderabad,InoxGsmMallMadinaguda,500049,Telugu,22:20,Royal,250₹,8,0
+Hyderabad,PvrNexusMallKukatpallyHyderabad,500072,Telugu,22:30,Classic,150₹,135,11
+Hyderabad,PvrNexusMallKukatpallyHyderabad,500072,Telugu,22:30,Recliner,250₹,9,0
