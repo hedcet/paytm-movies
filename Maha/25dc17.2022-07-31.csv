@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,15:50,Classic,60₹,11,11
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,15:50,Prime,179₹,102,25
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,15:55,Classic,60₹,17,17
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,15:55,Prime,179₹,118,11
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,21:55,Elite,165₹,165,1
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,21:55,Budget,60₹,27,27
