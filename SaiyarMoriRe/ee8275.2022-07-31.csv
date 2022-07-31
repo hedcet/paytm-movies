@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vadodara,PvrTransCubeVadodara,390005,Gujarati,12:15,Classic,150₹,34,0
+Vadodara,PvrTransCubeVadodara,390005,Gujarati,12:15,Prime,150₹,100,25
+Vadodara,PvrTransCubeVadodara,390005,Gujarati,12:15,Recliner,300₹,8,0
