@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Deesa,ShreeRamMultiplexDeesa,385535,Gujarati,09:00,Gold,120₹,169,0
+Deesa,ShreeRamMultiplexDeesa,385535,Gujarati,09:00,Gold,120₹,38,0
+Ahmedabad,ConnplexSmartScienceCity,380060,Gujarati,11:30,Miller,120₹,45,44
+Ahmedabad,ConnplexSmartScienceCity,380060,Gujarati,11:30,Lounger,120₹,9,5
+Deesa,ShreeRamMultiplexDeesa,385535,Gujarati,12:30,Gold,120₹,169,0
+Deesa,ShreeRamMultiplexDeesa,385535,Gujarati,12:30,Gold,120₹,38,0
+Deesa,ShreeRamMultiplexDeesa,385535,Gujarati,15:15,Gold,120₹,169,0
+Deesa,ShreeRamMultiplexDeesa,385535,Gujarati,15:15,Gold,120₹,38,0
