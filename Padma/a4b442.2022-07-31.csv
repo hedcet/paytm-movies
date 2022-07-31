@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,CarnivalArtechMallVanchyoor,695035,Malayalam,13:00,ExecutiveOffline,100₹,26,0
+Trivandrum,CarnivalArtechMallVanchyoor,695035,Malayalam,13:00,SilverOffline,180₹,147,46
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,16:40,Club,190₹,66,14
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,16:40,Executive,130₹,22,4
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,16:40,RoyalRecliner,350₹,10,4
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,16:40,Royal,190₹,13,12
+Trivandrum,CarnivalArtechMallVanchyoor,695035,Malayalam,18:45,ExecutiveOffline,100₹,26,2
+Trivandrum,CarnivalArtechMallVanchyoor,695035,Malayalam,18:45,SilverOffline,180₹,147,36
