@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Surat,TimeCinemaSuratGalaxyCircle,394510,Gujarati,16:45,Standard150,150₹,96,0
+Surat,RajhansMultiplexAdajan,395009,Gujarati,17:00,Box,270₹,6,0
+Surat,RajhansMultiplexAdajan,395009,Gujarati,17:00,Executive,200₹,292,0
+Ahmedabad,RevolutionMultiplexCtm,380026,Gujarati,18:20,PlatinumClass,180₹,15,0
+Ahmedabad,RevolutionMultiplexCtm,380026,Gujarati,18:20,GoldenClass,160₹,40,0
+Ahmedabad,RevolutionMultiplexCtm,380026,Gujarati,18:20,SilverClass,140₹,20,0
+Mumbai,MovieTimeMaladW,400064,Gujarati,19:00,DressCircle,150₹,70,54
+Vadodara,BansalMovieplexGotri,390021,Gujarati,19:25,Recliner,200₹,13,0
+Vadodara,BansalMovieplexGotri,390021,Gujarati,19:25,Gold,130₹,110,0
+Vadodara,BansalMovieplexGotri,390021,Gujarati,19:25,Silver,110₹,17,0
+Vadodara,MovieTimeSSquareMallElloraPark,390023,Gujarati,19:30,Premium,120₹,120,8
+Vadodara,MovieTimeSSquareMallElloraPark,390023,Gujarati,19:30,Recliner,160₹,8,6
+Vadodara,MovieTimeSSquareMallElloraPark,390023,Gujarati,19:30,Executive,120₹,48,0
