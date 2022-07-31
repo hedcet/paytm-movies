@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Dumka,MiniAmarCinemaDumka,814101,Hindi,11:30,Gold,100₹,170,40
+Dumka,MiniAmarCinemaDumka,814101,Hindi,11:30,Silver,60₹,200,40
+Dumka,MiniAmarCinemaDumka,814101,Hindi,14:30,Gold,100₹,170,40
+Dumka,MiniAmarCinemaDumka,814101,Hindi,14:30,Silver,60₹,200,40
+Dumka,MiniAmarCinemaDumka,814101,Hindi,17:30,Gold,100₹,170,40
+Dumka,MiniAmarCinemaDumka,814101,Hindi,17:30,Silver,60₹,200,40
+Dumka,MiniAmarCinemaDumka,814101,Hindi,20:30,Gold,100₹,170,40
+Dumka,MiniAmarCinemaDumka,814101,Hindi,20:30,Silver,60₹,200,40
+Mumbai,InoxMegaplexInorbitMall,400064,Hindi,22:00,Executive,280₹,56,0
+Mumbai,InoxMegaplexInorbitMall,400064,Hindi,22:00,Premiere,280₹,146,0
+Mumbai,InoxMegaplexInorbitMall,400064,Hindi,22:00,Silver,300₹,100,0
