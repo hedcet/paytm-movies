@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,12:45,Recliner,250₹,8,2
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,12:45,Prime,200₹,14,0
+NewDelhi,PvrVegasPlayHouseDwarka,110078,English,12:45,Classic,175₹,36,0
+Mumbai,InoxMegaplexInorbitMall,400064,English,13:00,Kiddles,150₹,53,0
+Gurgaon,PvrAmbienceGurgaon,122001,English,16:20,ClassicNormal,200₹,84,0
+Gurgaon,PvrAmbienceGurgaon,122001,English,16:20,Prime,200₹,68,0
+Noida,PvrLogixCityCentreNoida,201301,English,20:20,Classic,250₹,49,0
