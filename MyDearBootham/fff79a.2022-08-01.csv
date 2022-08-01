@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trichy,SriRengarajTalkiesSrirangam,620006,Tamil,14:15,FirstClass,50₹,200,0
+Chennai,MuruganCinemas4KAmbattur,600053,Tamil,15:05,Box1,150₹,12,0
+Chennai,MuruganCinemas4KAmbattur,600053,Tamil,15:05,Box2,150₹,14,2
+Chennai,MuruganCinemas4KAmbattur,600053,Tamil,15:05,FirstClass,110₹,400,60
+Chennai,InoxTheMarinaMallOmrEgatoor,603103,Tamil,15:30,Club,190₹,126,3
+Chennai,InoxTheMarinaMallOmrEgatoor,603103,Tamil,15:30,Executive,60₹,16,15
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,15:40,Budget,60₹,28,0
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,15:40,Elite,165₹,216,46
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,16:30,Normal,60₹,16,0
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,16:30,Executive,152₹,118,12
+Trichy,SriRengarajTalkiesSrirangam,620006,Tamil,18:15,FirstClass,50₹,200,0
+Chennai,MuruganCinemas4KAmbattur,600053,Tamil,18:40,Diamond,110₹,80,8
+Trichy,SriRengarajTalkiesSrirangam,620006,Tamil,22:15,FirstClass,50₹,200,0
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,22:25,Normal,60₹,16,0
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,22:25,Executive,152₹,118,9
