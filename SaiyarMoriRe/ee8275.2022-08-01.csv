@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vadodara,PvrTransCubeVadodara,390005,Gujarati,12:15,Classic,100₹,34,0
+Vadodara,PvrTransCubeVadodara,390005,Gujarati,12:15,Prime,100₹,100,5
+Vadodara,PvrTransCubeVadodara,390005,Gujarati,12:15,Recliner,300₹,8,8
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,13:00,Gold,110₹,70,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,13:00,Silver,90₹,54,0
+Bhavnagar,TheEntertainmentParkNawapara,364001,Gujarati,19:00,Silver,119₹,34,0
+Bhavnagar,TheEntertainmentParkNawapara,364001,Gujarati,19:00,Gold,119₹,156,0
+Bhavnagar,TheEntertainmentParkNawapara,364001,Gujarati,19:00,Platinum,149₹,34,0
+Bhavnagar,TheEntertainmentParkNawapara,364001,Gujarati,19:00,Royal,219₹,14,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Gujarati,20:00,Club,200₹,65,39
