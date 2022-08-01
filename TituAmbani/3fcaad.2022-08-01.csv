@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bihpuria,PreranaCinema,784161,Hindi,11:00,Platinum,150₹,57,57
+Bihpuria,PreranaCinema,784161,Hindi,11:00,Gold,120₹,50,50
+Bihpuria,PreranaCinema,784161,Hindi,11:00,Silver,80₹,33,33
+Bihpuria,PreranaCinema,784161,Hindi,14:00,Platinum,150₹,57,0
+Bihpuria,PreranaCinema,784161,Hindi,14:00,Gold,120₹,50,0
+Bihpuria,PreranaCinema,784161,Hindi,14:00,Silver,80₹,33,0
