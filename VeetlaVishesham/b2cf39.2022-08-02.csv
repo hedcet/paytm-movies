@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kulittalai,PalaceTheatreMaduraiRoad,620008,Tamil,11:15,FirstClass,60₹,249,0
+Kulittalai,PalaceTheatreMaduraiRoad,620008,Tamil,14:15,FirstClass,60₹,249,0
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,16:30,Classic,60₹,34,34
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,16:30,Prime,165₹,142,26
+Kulittalai,PalaceTheatreMaduraiRoad,620008,Tamil,18:15,FirstClass,60₹,249,0
+Kulittalai,PalaceTheatreMaduraiRoad,620008,Tamil,22:00,FirstClass,60₹,249,0
