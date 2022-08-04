@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,MuruganCinemas4KAmbattur,600053,Tamil,11:40,Diamond,110₹,80,14
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,13:10,Club,152₹,135,2
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,13:10,Executive,60₹,19,5
+Trichy,SriRengarajTalkiesSrirangam,620006,Tamil,14:15,FirstClass,50₹,200,0
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,15:30,Budget,60₹,28,0
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,15:30,Elite,165₹,216,46
+Chennai,InoxTheMarinaMallOmrEgatoor,603103,Tamil,15:50,Club,190₹,126,0
+Chennai,InoxTheMarinaMallOmrEgatoor,603103,Tamil,15:50,Executive,60₹,16,10
+Trichy,SriRengarajTalkiesSrirangam,620006,Tamil,18:15,FirstClass,50₹,200,0
+Trichy,SriRengarajTalkiesSrirangam,620006,Tamil,22:15,FirstClass,50₹,200,0
