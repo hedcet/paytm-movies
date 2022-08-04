@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bhuj,SurmandirCineplex,370001,Telugu,21:45,Platinum,220₹,41,24
+Bhuj,SurmandirCineplex,370001,Telugu,21:45,Diamond,170₹,56,42
+Bhuj,SurmandirCineplex,370001,Telugu,21:45,Gold,120₹,38,24
