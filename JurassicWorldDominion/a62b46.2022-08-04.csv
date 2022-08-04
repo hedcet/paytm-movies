@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NewDelhi,PvrVegasPlayHouseDwarka,110078,Hindi,18:45,Recliner,200₹,8,8
+NewDelhi,PvrVegasPlayHouseDwarka,110078,Hindi,18:45,Prime,180₹,14,2
+NewDelhi,PvrVegasPlayHouseDwarka,110078,Hindi,18:45,Classic,160₹,36,7
+Pune,CinepolisSeasonsMallHadapsar,411028,English,19:25,Normal,140₹,29,0
+Pune,CinepolisSeasonsMallHadapsar,411028,English,19:25,Executive,140₹,83,0
+Pune,CinepolisSeasonsMallHadapsar,411028,English,19:25,Premium,140₹,35,0
+Indore,PvrPlayHouseTreasureIslandIndore,452001,Hindi,20:50,Prime,210₹,46,16
+Indore,PvrPlayHouseTreasureIslandIndore,452001,Hindi,20:50,Classic,190₹,26,0
+Indore,PvrPlayHouseTreasureIslandIndore,452001,Hindi,20:50,Recliner,350₹,8,4
+Thane,CinepolisVivianaMallThaneW,400606,English,21:00,Normal,220₹,27,0
+Thane,CinepolisVivianaMallThaneW,400606,English,21:00,Executive,240₹,105,0
+Thane,CinepolisVivianaMallThaneW,400606,English,21:00,Premium,260₹,46,22
+Hyderabad,PvrPlayHouseNextGalleriaMallPanjagutta,500082,English,21:30,Classic,150₹,54,20
+Chennai,SpiSathyamCinemasRoyapettah,600014,English,21:50,3DElite,220₹,102,21
+Chennai,SpiSathyamCinemasRoyapettah,600014,English,21:50,3DBudget,101₹,12,9
