@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,RevolutionMultiplexCtm,380026,Gujarati,15:20,PlatinumClass,180₹,15,0
+Ahmedabad,RevolutionMultiplexCtm,380026,Gujarati,15:20,GoldenClass,160₹,40,0
+Ahmedabad,RevolutionMultiplexCtm,380026,Gujarati,15:20,SilverClass,140₹,20,0
+Vadodara,BansalMovieplexGotri,390021,Gujarati,16:30,Sofa,150₹,14,0
+Vadodara,BansalMovieplexGotri,390021,Gujarati,16:30,Platinium,90₹,127,0
+Vadodara,BansalMovieplexGotri,390021,Gujarati,16:30,Gold,90₹,17,0
+Vadodara,BansalMovieplexGotri,390021,Gujarati,16:30,Silver,90₹,3,0
+Ahmedabad,AppleMultiplexAhmedabad,380028,Gujarati,18:30,UpperSofa,130₹,7,0
+Ahmedabad,AppleMultiplexAhmedabad,380028,Gujarati,18:30,Platinum,130₹,104,0
+Ahmedabad,AppleMultiplexAhmedabad,380028,Gujarati,18:30,LowerSofa,130₹,9,0
+Mumbai,MovieTimeMaladW,400064,Gujarati,19:15,DressCircle,100₹,70,6
