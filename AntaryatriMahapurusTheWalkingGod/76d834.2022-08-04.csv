@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Indore,InoxC21MallSheetalNagar,452010,Hindi,18:40,Normal,250₹,163,14
+Indore,CineSquareCinemasIndore,452006,Hindi,19:00,Luxury,250₹,5,5
+Indore,CineSquareCinemasIndore,452006,Hindi,19:00,Royale,200₹,104,80
+Indore,CineSquareCinemasIndore,452006,Hindi,19:00,Premium,200₹,26,20
+Kota,InoxAhluwaliasGreatMallDhanmandi,324005,Hindi,19:05,Club,250₹,93,3
+Kota,InoxAhluwaliasGreatMallDhanmandi,324005,Hindi,19:05,Executive,250₹,45,0
+Kota,InoxAhluwaliasGreatMallDhanmandi,324005,Hindi,19:05,Royale,250₹,37,0
