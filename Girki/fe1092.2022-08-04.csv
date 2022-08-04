@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,GoverdhanTheatreYeshwanthpur,560022,Kannada,16:00,Balcony,100₹,307,205
+Bengaluru,GoverdhanTheatreYeshwanthpur,560022,Kannada,16:00,FirstClass,80₹,555,555
+Bengaluru,GoverdhanTheatreYeshwanthpur,560022,Kannada,16:00,SecondClass,40₹,202,202
+Bengaluru,GoverdhanTheatreYeshwanthpur,560022,Kannada,19:00,Balcony,100₹,307,205
+Bengaluru,GoverdhanTheatreYeshwanthpur,560022,Kannada,19:00,FirstClass,80₹,555,555
+Bengaluru,GoverdhanTheatreYeshwanthpur,560022,Kannada,19:00,SecondClass,40₹,202,202
