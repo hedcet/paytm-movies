@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kozhikode,RegalCinema,673001,Malayalam,10:30,FirstClassSc1,200₹,95,10
+Mukkam,RoseCinePalaceMukkam,673602,Malayalam,11:45,Executive,110₹,230,17
+Mukkam,RoseCinePalaceMukkam,673602,Malayalam,14:45,Executive,110₹,230,17
+Kozhikode,RegalCinema,673001,Malayalam,15:15,FirstClassSc1,200₹,95,10
+Mukkam,RoseCinePalaceMukkam,673602,Malayalam,17:45,Executive,110₹,230,17
+Kozhikode,RegalCinema,673001,Malayalam,20:15,FirstClassSc1,200₹,95,10
+Mukkam,RoseCinePalaceMukkam,673602,Malayalam,21:00,Executive,110₹,230,17
+Kozhikode,RegalCinema,673001,Malayalam,22:45,FirstClassSc1,200₹,95,10
