@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Haridwar,WavePentagonMallSidcul,249403,Hindi,15:15,Classic,200₹,114,0
+Rudrapur,WaveRudrapur,263154,Hindi,15:30,Classic,170₹,156,0
+Dehradun,SilvercityDehradun,248001,Hindi,19:00,Silver,150₹,68,0
+Dehradun,SilvercityDehradun,248001,Hindi,19:00,Gold,200₹,137,2
+Dehradun,SilvercityDehradun,248001,Hindi,19:00,Platinum,250₹,15,9
+Kashipur,SuncityCinemaKashipur,244713,Hindi,21:15,Platinum,200₹,183,0
+Kashipur,SuncityCinemaKashipur,244713,Hindi,21:15,Gold,150₹,183,0
+Kashipur,SuncityCinemaKashipur,244713,Hindi,21:15,Silver,100₹,183,0
