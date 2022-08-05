@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Noida,PvrLogixCityCentreNoida,201301,Japanese,10:15,Classic,99₹,87,5
+Kolkata,PvrManiSquareMallEmBypassRoad,700054,Japanese,10:20,Classic,99₹,80,0
+Kolkata,PvrManiSquareMallEmBypassRoad,700054,Japanese,10:20,Prime,99₹,154,1
+Kolkata,PvrManiSquareMallEmBypassRoad,700054,Japanese,10:20,Recliner,149₹,13,0
+Dehradun,PvrPacificMallDehradun,248001,Japanese,10:30,Prime,99₹,87,1
+Dehradun,PvrPacificMallDehradun,248001,Japanese,10:30,PrimePlus,99₹,10,2
+Dehradun,PvrPacificMallDehradun,248001,Japanese,10:30,Classic,99₹,24,0
+Mumbai,InoxMegaplexInorbitMall,400064,Japanese,11:45,Insignia,300₹,34,4
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,226010,Japanese,11:55,Club,170₹,32,0
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,226010,Japanese,11:55,Executive,150₹,16,0
+Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,226010,Japanese,11:55,Royale,190₹,20,0
+GreaterNoida,PvrGaurCityGreaterNoida,201301,Japanese,12:30,Classic,99₹,87,0
+GreaterNoida,PvrGaurCityGreaterNoida,201301,Japanese,12:30,Prime,99₹,13,0
+Chennai,PvrVrMallAnnaNagar,600040,Japanese,16:15,Classic,66₹,11,11
+Chennai,PvrVrMallAnnaNagar,600040,Japanese,16:15,Prime,185₹,102,27
