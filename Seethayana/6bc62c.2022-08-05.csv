@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hubli,CinepolisUrbanOasisMallHubli,580030,Kannada,21:15,Normal,160₹,38,0
+Hubli,CinepolisUrbanOasisMallHubli,580030,Kannada,21:15,Executive,160₹,100,0
+Hubli,CinepolisUrbanOasisMallHubli,580030,Kannada,21:15,Premium,180₹,61,10
