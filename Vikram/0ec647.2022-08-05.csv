@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,12:00,Box,100₹,8,0
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,12:00,Balcony,80₹,20,0
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,12:45,Classic,60₹,16,16
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,12:45,Prime,179₹,110,26
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,15:00,Box,100₹,8,0
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,15:00,Balcony,80₹,20,0
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,18:00,Box,100₹,8,0
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,18:00,Balcony,80₹,20,0
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,18:05,Club,152₹,135,6
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,18:05,Executive,60₹,19,0
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,18:15,Budget,60₹,28,28
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,18:15,Elite,190₹,216,46
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,21:00,Box,100₹,8,0
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,21:00,Balcony,80₹,20,0
