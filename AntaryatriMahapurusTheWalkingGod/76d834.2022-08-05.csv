@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Indore,InoxC21MallSheetalNagar,452010,Hindi,11:55,Normal,200₹,163,0
+Bhilwara,InoxCityCentreMallBhilwara,311001,Hindi,19:00,Club,200₹,180,180
+Bhilwara,InoxCityCentreMallBhilwara,311001,Hindi,19:00,Executive,200₹,53,33
+Bhilwara,InoxCityCentreMallBhilwara,311001,Hindi,19:00,Royale,200₹,58,58
+Ajmer,MayaMandirMultiplexDolbyAtmosSound,305001,Hindi,19:30,ClubA,112₹,20,0
+Ajmer,MayaMandirMultiplexDolbyAtmosSound,305001,Hindi,19:30,ClubB,112₹,20,20
+Ajmer,MayaMandirMultiplexDolbyAtmosSound,305001,Hindi,19:30,Premium,100₹,68,26
+Ajmer,MayaMandirMultiplexDolbyAtmosSound,305001,Hindi,19:30,Classic,100₹,92,24
