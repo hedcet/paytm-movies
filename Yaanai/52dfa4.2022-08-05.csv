@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kulittalai,PalaceTheatreMaduraiRoad,620008,Tamil,11:15,FirstClass,60₹,249,0
+Kulittalai,PalaceTheatreMaduraiRoad,620008,Tamil,14:15,FirstClass,60₹,249,0
+Trichy,SriRengarajTalkiesSrirangam,620006,Tamil,14:15,FirstClass,50₹,200,0
+Kulittalai,PalaceTheatreMaduraiRoad,620008,Tamil,18:15,FirstClass,60₹,249,2
+Trichy,SriRengarajTalkiesSrirangam,620006,Tamil,18:15,FirstClass,50₹,200,0
+Kulittalai,PalaceTheatreMaduraiRoad,620008,Tamil,22:00,FirstClass,60₹,249,0
+Trichy,SriRengarajTalkiesSrirangam,620006,Tamil,22:15,FirstClass,50₹,200,0
