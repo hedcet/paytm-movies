@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,531001,Telugu,18:30,Premium,112₹,344,0
+Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,531001,Telugu,18:30,NonPemium,70₹,128,0
+Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,531001,Telugu,21:30,Premium,112₹,344,84
+Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,531001,Telugu,21:30,NonPemium,70₹,128,128
