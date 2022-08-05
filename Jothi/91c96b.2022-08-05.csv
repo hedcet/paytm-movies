@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NeyveliTownship,SriNidhiRathinaCineplex4K3DDolbyAtmosNeyveliTownship,607803,Tamil,14:50,FirstClass,150₹,146,12
+NeyveliTownship,SriNidhiRathinaCineplex4K3DDolbyAtmosNeyveliTownship,607803,Tamil,14:50,SecondClass,150₹,24,24
+Cuddalore,VelmuruganTheatre,607002,Tamil,18:15,MaharajaClass,130₹,100,20
+Cuddalore,VelmuruganTheatre,607002,Tamil,18:15,1FirstClass,130₹,336,5
+Cuddalore,VelmuruganTheatre,607002,Tamil,18:15,2SecondClass,100₹,104,11
+Cuddalore,VelmuruganTheatre,607002,Tamil,18:15,3ThirdClass,55₹,72,0
