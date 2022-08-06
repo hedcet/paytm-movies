@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PrachiCinemaAjcBoseRoad,700014,Bengali,13:00,Balcony,150₹,177,137
+Kolkata,PrachiCinemaAjcBoseRoad,700014,Bengali,13:00,FrontStall,100₹,306,262
+Kolkata,AjantaCinemaBehala,700038,Bengali,14:00,Balcony,150₹,106,82
+Kolkata,RupMandirCinemaBelgharia,700056,Bengali,14:30,Platinum,100₹,48,0
+Kolkata,RupMandirCinemaBelgharia,700056,Bengali,14:30,Gold,80₹,102,32
