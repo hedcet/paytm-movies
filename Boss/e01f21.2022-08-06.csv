@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kishangarh,GagandeepCinemaMadangunj,305801,Hindi,18:00,FamilyBox,150₹,21,0
+Kishangarh,GagandeepCinemaMadangunj,305801,Hindi,18:00,PlatinumClass,120₹,213,0
+Kishangarh,GagandeepCinemaMadangunj,305801,Hindi,18:00,GoldClass,100₹,295,268
+Kishangarh,GagandeepCinemaMadangunj,305801,Hindi,18:00,SilverClass,100₹,212,212
+Kishangarh,GagandeepCinemaMadangunj,305801,Hindi,21:00,FamilyBox,150₹,21,0
+Kishangarh,GagandeepCinemaMadangunj,305801,Hindi,21:00,PlatinumClass,120₹,213,0
+Kishangarh,GagandeepCinemaMadangunj,305801,Hindi,21:00,GoldClass,100₹,295,268
+Kishangarh,GagandeepCinemaMadangunj,305801,Hindi,21:00,SilverClass,100₹,212,212
