@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,InoxSouthCityMall,700068,Bengali,14:15,Premier,230₹,34,0
+Kolkata,InoxSouthCityMall,700068,Bengali,14:15,Silver,250₹,157,10
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,19:25,Classic,230₹,154,0
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,19:25,Prime,270₹,12,0
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,19:25,Recliner,440₹,14,2
+Kolkata,InoxMetropolisMallHilandPark,700094,Bengali,19:45,Premier,200₹,29,0
+Kolkata,InoxMetropolisMallHilandPark,700094,Bengali,19:45,Royal,400₹,18,0
+Kolkata,InoxMetropolisMallHilandPark,700094,Bengali,19:45,Silver,220₹,143,2
+Kolkata,InoxCityCentreIiRajarhat,700157,Bengali,19:50,Club,220₹,229,0
+Kolkata,InoxCityCentreIiRajarhat,700157,Bengali,19:50,Executive,200₹,42,0
