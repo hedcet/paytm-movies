@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Noida,PvrLogixCityCentreNoida,201301,Punjabi,11:30,Classic,99₹,84,6
+Amritsar,InoxVrAmbarsarCircularRoad,143001,Punjabi,12:20,Normal,170₹,163,0
+NewDelhi,PvrPacificSubhashNagarDelhi,110018,Punjabi,12:35,Classic,149₹,36,0
+NewDelhi,PvrPacificSubhashNagarDelhi,110018,Punjabi,12:35,Prime,199₹,111,7
+NewDelhi,PvrPacificSubhashNagarDelhi,110018,Punjabi,12:35,PrimePlus,199₹,21,10
+NewDelhi,PvrPacificSubhashNagarDelhi,110018,Punjabi,12:35,Recliner,349₹,10,8
+Ludhiana,PvrPavilionMallLudhiana,141002,Punjabi,14:55,Classic,99₹,70,11
+Amritsar,PvrSctCityCentre,143001,Punjabi,16:20,Classic,99₹,105,0
+Amritsar,PvrSctCityCentre,143001,Punjabi,16:20,Prime,99₹,45,0
+Amritsar,PvrSctCityCentre,143001,Punjabi,16:20,Recliner,149₹,12,0
+Ludhiana,PvrSilverArcMallGurdevNagar,141001,Punjabi,18:00,Prime,99₹,15,8
+Ludhiana,PvrSilverArcMallGurdevNagar,141001,Punjabi,18:00,Classic,99₹,106,9
+Patiala,PvrVrcPatiala,147001,Punjabi,19:25,Classic,99₹,22,0
+Patiala,PvrVrcPatiala,147001,Punjabi,19:25,Prime,99₹,94,15
+Chandigarh,PvrElanteMallChandigarh,178178,Punjabi,21:35,Classic,230₹,140,4
+Chandigarh,PvrElanteMallChandigarh,178178,Punjabi,21:35,Recliner,650₹,26,3
