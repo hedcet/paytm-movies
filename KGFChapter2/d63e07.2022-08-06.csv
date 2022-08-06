@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,11:00,Premium,60₹,362,0
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,11:00,NonPremium,40₹,247,247
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,14:30,Premium,60₹,362,0
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,14:30,NonPremium,40₹,247,247
+Chamarajanagara,ShreeBhramarambaCineplexBrDoubleRoad,571313,Kannada,16:00,Balcony,100₹,112,0
+Chamarajanagara,ShreeBhramarambaCineplexBrDoubleRoad,571313,Kannada,16:00,Second,80₹,336,0
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,18:30,Premium,60₹,362,0
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,18:30,NonPremium,40₹,247,247
+Chamarajanagara,ShreeBhramarambaCineplexBrDoubleRoad,571313,Kannada,19:00,Balcony,100₹,112,0
+Chamarajanagara,ShreeBhramarambaCineplexBrDoubleRoad,571313,Kannada,19:00,Second,80₹,336,0
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,21:30,Premium,60₹,362,0
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,21:30,NonPremium,40₹,247,247
