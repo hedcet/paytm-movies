@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Indore,PvrPlayHouseTreasureIslandIndore,452001,Hindi,18:10,Prime,280₹,46,18
+Indore,PvrPlayHouseTreasureIslandIndore,452001,Hindi,18:10,Classic,250₹,26,0
+Indore,PvrPlayHouseTreasureIslandIndore,452001,Hindi,18:10,Recliner,500₹,8,4
+Hyderabad,PvrPlayHouseNextGalleriaMallPanjagutta,500082,English,21:30,Classic,150₹,54,17
+Noida,PvrLogixCityCentrePlayHouseNoida,201301,English,23:40,Classic,340₹,38,2
