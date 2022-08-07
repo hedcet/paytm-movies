@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,11:30,Gold,145₹,86,34
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,11:30,Reserved,110₹,299,47
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,11:30,FristClass,70₹,88,0
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,14:30,Gold,145₹,86,34
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,14:30,Reserved,110₹,299,47
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,14:30,FristClass,70₹,88,0
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,18:30,Gold,145₹,86,34
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,18:30,Reserved,110₹,299,47
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,18:30,FristClass,70₹,88,0
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,21:30,Gold,145₹,86,34
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,21:30,Reserved,110₹,299,47
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,21:30,FristClass,70₹,88,0
