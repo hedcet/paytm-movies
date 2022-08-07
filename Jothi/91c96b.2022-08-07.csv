@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Cuddalore,VelmuruganTheatre,607002,Tamil,11:00,MaharajaClass,130₹,100,0
+Cuddalore,VelmuruganTheatre,607002,Tamil,11:00,1FirstClass,130₹,336,0
+Cuddalore,VelmuruganTheatre,607002,Tamil,11:00,2SecondClass,100₹,104,4
+Cuddalore,VelmuruganTheatre,607002,Tamil,11:00,3ThirdClass,55₹,72,0
+Sethiyathope,SriVasaviTheatreSethiyathope,608702,Tamil,11:30,FirstClass,60₹,440,364
+Sethiyathope,SriVasaviTheatreSethiyathope,608702,Tamil,15:00,FirstClass,60₹,440,364
+Cuddalore,VelmuruganTheatre,607002,Tamil,18:15,MaharajaClass,130₹,100,49
+Cuddalore,VelmuruganTheatre,607002,Tamil,18:15,1FirstClass,130₹,336,0
+Cuddalore,VelmuruganTheatre,607002,Tamil,18:15,2SecondClass,100₹,104,0
+Cuddalore,VelmuruganTheatre,607002,Tamil,18:15,3ThirdClass,55₹,72,0
+Sethiyathope,SriVasaviTheatreSethiyathope,608702,Tamil,18:30,FirstClass,60₹,440,364
+Sethiyathope,SriVasaviTheatreSethiyathope,608702,Tamil,21:30,FirstClass,60₹,440,364
