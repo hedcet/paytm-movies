@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MovieTimeHubMallGoregaonE,400063,Marathi,15:40,Mhraja,160₹,44,28
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,16:10,Normal,230₹,25,0
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,16:10,Executive,250₹,97,23
+Thane,CinepolisVivianaMallThaneW,400606,Marathi,16:10,Premium,270₹,43,29
+Mumbai,MovieTimeHubMallGoregaonE,400063,Marathi,18:05,Mhraja,170₹,44,22
