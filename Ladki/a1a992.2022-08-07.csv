@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Udupi,DianaTheatreChitpady,576101,Hindi,10:30,Balcony,90₹,112,0
+Udupi,DianaTheatreChitpady,576101,Hindi,13:30,Balcony,90₹,112,0
+Shikarpur,MalateshaTalkies,577427,Kannada,14:00,Balcony,101₹,15,15
+Shikarpur,MalateshaTalkies,577427,Kannada,14:00,FirstClass,101₹,411,311
+Udupi,DianaTheatreChitpady,576101,Hindi,16:30,Balcony,90₹,112,0
+Shikarpur,MalateshaTalkies,577427,Kannada,18:00,Balcony,101₹,15,15
+Shikarpur,MalateshaTalkies,577427,Kannada,18:00,FirstClass,101₹,411,311
+Udupi,DianaTheatreChitpady,576101,Hindi,19:30,Balcony,90₹,112,0
+Shikarpur,MalateshaTalkies,577427,Kannada,21:00,Balcony,101₹,15,15
+Shikarpur,MalateshaTalkies,577427,Kannada,21:00,FirstClass,101₹,411,311
