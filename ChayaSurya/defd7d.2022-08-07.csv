@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Bengali,13:00,Balcony,50₹,264,33
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Bengali,13:00,FirstClass,30₹,513,30
+Kolkata,LaliCinemaBarasat,700130,Bengali,14:00,DressCircle,100₹,22,16
+Kolkata,LaliCinemaBarasat,700130,Bengali,14:00,Balcony,70₹,169,142
+Kolkata,LaliCinemaBarasat,700130,Bengali,14:00,RearStall,50₹,270,216
+Kolkata,ChhabigharCinemaBaithakkhana,700009,Bengali,17:00,Balcony,100₹,144,84
+Kolkata,ChhabigharCinemaBaithakkhana,700009,Bengali,17:00,RearStall,80₹,502,148
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Bengali,19:00,Balcony,50₹,264,33
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Bengali,19:00,FirstClass,30₹,513,30
