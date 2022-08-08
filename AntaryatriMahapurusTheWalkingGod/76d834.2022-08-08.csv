@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Indore,InoxC21MallSheetalNagar,452010,Hindi,11:55,Normal,200₹,163,0
+Agra,GoldCinemaAshokCosmosMallSanjayPlace,282002,Hindi,13:00,Gold,250₹,118,0
+Ajmer,MayaMandirMultiplexDolbyAtmosSound,305001,Hindi,19:15,ClubA,112₹,20,7
+Ajmer,MayaMandirMultiplexDolbyAtmosSound,305001,Hindi,19:15,ClubB,112₹,20,20
+Ajmer,MayaMandirMultiplexDolbyAtmosSound,305001,Hindi,19:15,Premium,100₹,68,26
+Ajmer,MayaMandirMultiplexDolbyAtmosSound,305001,Hindi,19:15,Classic,100₹,92,24
+Agra,GoldCinemaAshokCosmosMallSanjayPlace,282002,Hindi,19:15,Gold,250₹,118,112
+Agra,GoldCinemaAshokCosmosMallSanjayPlace,282002,Hindi,22:00,Gold,250₹,118,0
