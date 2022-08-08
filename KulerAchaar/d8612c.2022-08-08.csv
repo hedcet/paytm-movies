@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,CarnivalSaltLake,700091,Bengali,12:15,Silver,79₹,206,0
+Kolkata,CarnivalSaltLake,700091,Bengali,12:15,Gold,150₹,9,2
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,16:50,Classic,99₹,154,4
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,16:50,Prime,99₹,12,0
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,16:50,Recliner,149₹,14,0
