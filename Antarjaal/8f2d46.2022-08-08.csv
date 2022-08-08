@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,LaliCinemaBarasat,700130,Bengali,14:00,DressCircle,100₹,22,16
+Kolkata,LaliCinemaBarasat,700130,Bengali,14:00,Balcony,70₹,169,142
+Kolkata,LaliCinemaBarasat,700130,Bengali,14:00,RearStall,50₹,270,216
+Bakhrahat,UmaTalkiesBakhrahat,743377,Bengali,15:00,Box,220₹,46,24
+Bakhrahat,UmaTalkiesBakhrahat,743377,Bengali,15:00,Balcony,70₹,102,54
+Bakhrahat,UmaTalkiesBakhrahat,743377,Bengali,15:00,SpecialClass,70₹,80,80
