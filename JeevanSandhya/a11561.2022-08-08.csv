@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nagpur,JayshreeCineplexOldCottonMarket,440018,Marathi,08:45,Balcony,50₹,168,167
+Nagpur,JayshreeCineplexOldCottonMarket,440018,Marathi,08:45,Reserve,40₹,312,310
+Aurangabad,MohanNovaCinemazSarafaRoad,431001,Marathi,12:00,Platinum,150₹,54,1
+Aurangabad,MohanNovaCinemazSarafaRoad,431001,Marathi,12:00,Gold,150₹,52,0
+Aurangabad,MohanNovaCinemazSarafaRoad,431001,Marathi,12:00,Silver,150₹,39,0
+Pune,VaibhavChitramandirHadapsar,411028,Marathi,12:30,Gold,120₹,337,0
+Pune,VaibhavChitramandirHadapsar,411028,Marathi,12:30,Silver,100₹,73,0
+Pune,ViluxTalkiesKhadkiBazar,411003,Marathi,18:30,Gold,100₹,224,0
+Pune,ViluxTalkiesKhadkiBazar,411003,Marathi,18:30,Silver,100₹,58,0
