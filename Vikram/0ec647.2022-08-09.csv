@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,12:00,Box,100₹,8,0
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,12:00,Balcony,80₹,20,0
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,15:00,Box,100₹,8,0
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,15:00,Balcony,80₹,20,0
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,18:00,Box,100₹,8,0
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,18:00,Balcony,80₹,20,0
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,18:15,Elite,190₹,203,46
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,18:15,Budget,60₹,28,28
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,21:00,Box,100₹,8,0
+Gadarwara,ShyamTalkiesGadarwara,487551,Hindi,21:00,Balcony,80₹,20,0
