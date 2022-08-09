@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,InoxMegaplexInorbitMall,400064,English,11:00,Insignia,300₹,34,0
+Gurgaon,PvrAmbienceGoldGurgaon,122001,English,15:30,Platinum,400₹,28,0
+Gurgaon,PvrAmbienceGoldGurgaon,122001,English,15:30,PlatinumSuperior,400₹,16,7
+Noida,PvrLogixCityCentreNoida,201301,English,15:35,Classic,99₹,78,1
+Mumbai,PaytmImaxInoxRCityGhatkoparW,400086,English,18:15,Insignia,350₹,42,2
+Mumbai,InoxMegaplexInorbitMall,400064,English,21:45,Insignia,500₹,33,7
+Mumbai,InoxLaserplexCr2NarimanPoint,400021,English,21:55,Insignia,500₹,70,6
+NewDelhi,PvrDirectorsCutDelhiAmbienceMall,110070,English,22:25,Platinum,500₹,36,0
+NewDelhi,PvrDirectorsCutDelhiAmbienceMall,110070,English,22:25,PlatinumSuperior,500₹,10,0
+Mumbai,PvrDynamicJuhu,400049,English,22:40,Prime,149₹,72,21
+Mumbai,PvrDynamicJuhu,400049,English,22:40,Classic,149₹,40,0
