@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mangaldoi,GoldCinemaMangaldoi,784125,Assamese,14:00,Platinum,150₹,67,0
+Mangaldoi,GoldCinemaMangaldoi,784125,Assamese,14:00,Gold,100₹,96,0
+Mangaldoi,GoldCinemaMangaldoi,784125,Assamese,14:00,Silver,70₹,32,0
+Guwahati,CinepolisCentralMallGuwahati,781005,Assamese,17:30,Normal,130₹,24,0
+Guwahati,CinepolisCentralMallGuwahati,781005,Assamese,17:30,Executive,150₹,116,0
+Guwahati,CinepolisCentralMallGuwahati,781005,Assamese,17:30,Premium,170₹,41,0
+Guwahati,CinepolisCentralMallGuwahati,781005,Assamese,17:30,Vip,350₹,4,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,21:05,Classic,180₹,40,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,21:05,Prime,200₹,82,14
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,21:05,PrimePlus,220₹,13,0
