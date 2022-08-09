@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Harihara,JayashreeTheatre,577601,Kannada,10:20,Balcony,101₹,200,0
+Harihara,JayashreeTheatre,577601,Kannada,10:20,SecondClass,81₹,472,472
+Shivamogga,VeerabhadreshwaraTalkiesShivamogga,577201,Kannada,11:00,Balcony,100₹,223,223
+Shivamogga,VeerabhadreshwaraTalkiesShivamogga,577201,Kannada,11:00,FirstClass,100₹,650,618
+Shivamogga,VeerabhadreshwaraTalkiesShivamogga,577201,Kannada,14:00,Balcony,100₹,223,223
+Shivamogga,VeerabhadreshwaraTalkiesShivamogga,577201,Kannada,14:00,FirstClass,100₹,650,618
+Harihara,JayashreeTheatre,577601,Kannada,14:20,Balcony,101₹,200,0
+Harihara,JayashreeTheatre,577601,Kannada,14:20,SecondClass,81₹,472,472
+Shivamogga,VeerabhadreshwaraTalkiesShivamogga,577201,Kannada,18:00,Balcony,100₹,223,223
+Shivamogga,VeerabhadreshwaraTalkiesShivamogga,577201,Kannada,18:00,FirstClass,100₹,650,618
+Harihara,JayashreeTheatre,577601,Kannada,18:20,Balcony,101₹,200,0
+Harihara,JayashreeTheatre,577601,Kannada,18:20,SecondClass,81₹,472,472
+Shivamogga,VeerabhadreshwaraTalkiesShivamogga,577201,Kannada,21:00,Balcony,100₹,223,223
+Shivamogga,VeerabhadreshwaraTalkiesShivamogga,577201,Kannada,21:00,FirstClass,100₹,650,618
+Harihara,JayashreeTheatre,577601,Kannada,21:20,Balcony,101₹,200,0
+Harihara,JayashreeTheatre,577601,Kannada,21:20,SecondClass,81₹,472,472
