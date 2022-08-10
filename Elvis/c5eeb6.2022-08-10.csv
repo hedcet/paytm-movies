@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Gurgaon,PvrAmbienceGoldGurgaon,122001,English,15:30,Platinum,400₹,28,28
+Gurgaon,PvrAmbienceGoldGurgaon,122001,English,15:30,PlatinumSuperior,400₹,16,16
+Noida,PvrLogixCityCentreNoida,201301,English,15:35,Classic,99₹,89,2
+Mumbai,InoxRCityGhatkoparW,400086,English,18:15,Insignia,350₹,42,2
+Mumbai,MetroInoxCinemaMGRoad,400020,English,18:30,Insignia,500₹,41,3
+Pune,InoxBundGarden,411001,English,19:20,Royale,400₹,32,0
+NewDelhi,PvrPromenadeVasantKunj,110070,English,19:20,Classic,250₹,84,0
+NewDelhi,PvrPromenadeVasantKunj,110070,English,19:20,Prime,300₹,21,2
+Mumbai,InoxMegaplexInorbitMall,400064,English,21:45,Insignia,500₹,33,3
+Mumbai,PvrDynamicJuhu,400049,English,22:15,Prime,149₹,72,14
+Mumbai,PvrDynamicJuhu,400049,English,22:15,Classic,149₹,40,0
+NewDelhi,PvrDirectorsCutDelhiAmbienceMall,110070,English,22:25,Platinum,500₹,36,6
+NewDelhi,PvrDirectorsCutDelhiAmbienceMall,110070,English,22:25,PlatinumSuperior,500₹,10,8
