@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,VidyaTheatre4KDolbyAtmosTambaramW,600045,Tamil,11:30,Balcony,0₹,64,64
+Chennai,VidyaTheatre4KDolbyAtmosTambaramW,600045,Tamil,11:30,FirstClass,0₹,560,231
+Chennai,ArulMurugaTheatre4KACThiruporur,603105,Tamil,12:00,FirstClass,100₹,502,126
+Chennai,SrkCinemasACDtsChengalpattu,603101,Tamil,12:00,Balcony,1₹,160,7
+Chennai,SrkCinemasACDtsChengalpattu,603101,Tamil,12:00,FirstClass,1₹,282,10
