@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Srikakulam,SunMaxChandraMahalACDtsSrikakulam,532001,Telugu,18:30,Box,140₹,28,28
+Srikakulam,SunMaxChandraMahalACDtsSrikakulam,532001,Telugu,18:30,Premium,140₹,323,2
+Srikakulam,SunMaxChandraMahalACDtsSrikakulam,532001,Telugu,18:30,NonPremium,80₹,147,0
+Srikakulam,SunMaxChandraMahalACDtsSrikakulam,532001,Telugu,21:45,Box,140₹,28,28
+Srikakulam,SunMaxChandraMahalACDtsSrikakulam,532001,Telugu,21:45,Premium,140₹,323,0
+Srikakulam,SunMaxChandraMahalACDtsSrikakulam,532001,Telugu,21:45,NonPremium,70₹,147,0
