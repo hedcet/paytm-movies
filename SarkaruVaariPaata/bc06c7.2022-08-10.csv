@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Addanki,VCelluloidsSatyanarayanaKalamandirNspColony,523201,Telugu,11:20,GoldClass,110₹,180,20
+Addanki,VCelluloidsSatyanarayanaKalamandirNspColony,523201,Telugu,11:20,ExecutiveClass,70₹,40,0
+Addanki,VCelluloidsSatyanarayanaKalamandirNspColony,523201,Telugu,14:30,GoldClass,110₹,180,20
+Addanki,VCelluloidsSatyanarayanaKalamandirNspColony,523201,Telugu,14:30,ExecutiveClass,70₹,40,0
+Addanki,VCelluloidsSatyanarayanaKalamandirNspColony,523201,Telugu,18:20,GoldClass,110₹,180,20
+Addanki,VCelluloidsSatyanarayanaKalamandirNspColony,523201,Telugu,18:20,ExecutiveClass,70₹,40,0
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,18:30,Gold,145₹,86,34
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,18:30,Reserved,110₹,299,47
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,18:30,FristClass,70₹,88,0
+Addanki,VCelluloidsSatyanarayanaKalamandirNspColony,523201,Telugu,21:30,GoldClass,110₹,180,20
+Addanki,VCelluloidsSatyanarayanaKalamandirNspColony,523201,Telugu,21:30,ExecutiveClass,70₹,40,0
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,21:30,Gold,145₹,86,34
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,21:30,Reserved,110₹,299,47
+Machilipatnam,SriRamarajuTheatreMachilipatnam,521001,Telugu,21:30,FristClass,70₹,88,0
