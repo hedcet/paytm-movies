@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mukkam,RoseCinePalaceMukkam,673602,Malayalam,14:45,Executive,110₹,230,17
+Mukkam,RoseCinePalaceMukkam,673602,Malayalam,17:45,Executive,110₹,230,17
+Mukkam,RoseCinePalaceMukkam,673602,Malayalam,21:00,Executive,110₹,230,17
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,21:40,Club,170₹,63,3
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,21:40,Executive,130₹,22,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,21:40,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,21:40,Royal,170₹,16,8
+Kochi,PvrLuluKochi,682025,Malayalam,22:35,Classic,110₹,39,0
+Kochi,PvrLuluKochi,682025,Malayalam,22:35,ClassicPlus,140₹,91,10
+Kochi,PvrLuluKochi,682025,Malayalam,22:35,Prime,160₹,64,4
+Kochi,PvrLuluKochi,682025,Malayalam,22:35,Recliner,300₹,9,4
