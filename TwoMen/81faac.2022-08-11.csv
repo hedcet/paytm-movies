@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,18:00,Saphire,150₹,42,42
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,18:00,EmeraldCircle,150₹,370,342
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,18:00,Ruby,150₹,821,821
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmosThoongamparaKattakada,695572,Malayalam,18:15,DiamondSofa,200₹,4,0
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmosThoongamparaKattakada,695572,Malayalam,18:15,Gold,150₹,173,0
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,21:00,Saphire,150₹,42,42
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,21:00,EmeraldCircle,150₹,370,342
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,21:00,Ruby,150₹,821,821
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmosThoongamparaKattakada,695572,Malayalam,21:30,DiamondSofa,200₹,4,0
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmosThoongamparaKattakada,695572,Malayalam,21:30,Gold,150₹,173,0
