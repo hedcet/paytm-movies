@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Sivasagar,BhaskarjyotiCinemaBhatiapar,785640,Assamese,11:45,SilverClass,200₹,176,132
+Sivasagar,BhaskarjyotiCinemaBhatiapar,785640,Assamese,11:45,PremierCircle,150₹,315,273
+Nagaon,DivyaJyotiCinemaNagaon,782002,Assamese,18:00,Box,200₹,10,0
+Nagaon,DivyaJyotiCinemaNagaon,782002,Assamese,18:00,Balcony,150₹,186,138
