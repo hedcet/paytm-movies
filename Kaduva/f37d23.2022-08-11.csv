@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thalassery,LibertyParadiseComplexThalassery,670101,Malayalam,11:30,Mini,125₹,250,152
+Thalassery,LibertyParadiseComplexThalassery,670101,Malayalam,14:45,Mini,125₹,250,152
+Kochi,PvrLuluKochi,682025,Malayalam,16:20,Classic,110₹,39,0
+Kochi,PvrLuluKochi,682025,Malayalam,16:20,ClassicPlus,140₹,91,0
+Kochi,PvrLuluKochi,682025,Malayalam,16:20,Prime,160₹,64,20
+Kochi,PvrLuluKochi,682025,Malayalam,16:20,Recliner,300₹,9,0
+Thalassery,LibertyParadiseComplexThalassery,670101,Malayalam,18:00,Mini,125₹,250,152
+Ponnani,AiswaryaMoviesAC4KDolby3DPonnani,679586,Malayalam,18:15,Platinum,110₹,344,68
