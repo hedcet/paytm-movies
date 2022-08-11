@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Noida,PvrLogixCityCentreNoida,201301,Tamil,14:10,Classic,230₹,78,78
+Gurgaon,InoxAiplJoyStreetGurgaon,122018,Tamil,16:00,Club,200₹,61,4
+Gurgaon,InoxAiplJoyStreetGurgaon,122018,Tamil,16:00,Executive,180₹,22,0
+Gurgaon,InoxAiplJoyStreetGurgaon,122018,Tamil,16:00,Royale,200₹,45,0
