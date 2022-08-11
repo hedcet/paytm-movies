@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kollengode,GowriMovieHouse2KDolby71Kollengode,678506,Tamil,10:45,FirstClass,100₹,129,0
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,12:30,Budget,60₹,26,0
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,12:30,Elite,165₹,230,48
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,13:00,Classic,60₹,15,15
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,13:00,Prime,165₹,118,13
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmosThoongamparaKattakada,695572,Tamil,14:30,DiamondSofa,200₹,4,0
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmosThoongamparaKattakada,695572,Tamil,14:30,Gold,150₹,173,0
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,15:55,Club,190₹,134,0
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,15:55,Executive,60₹,22,0
+Kochi,SaritaCinemasKacheripady,682018,Tamil,18:00,BlueCircle,150₹,227,218
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,19:30,Classic,60₹,30,30
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,19:30,Prime,165₹,158,36
+Kochi,SaritaCinemasKacheripady,682018,Tamil,21:00,BlueCircle,150₹,227,218
+Chennai,InoxChandraMetroMallVirugambakkam,600092,Tamil,22:20,Premiere,60₹,15,12
+Chennai,InoxChandraMetroMallVirugambakkam,600092,Tamil,22:20,Silver,152₹,120,0
