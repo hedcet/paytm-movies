@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,09:00,Classic,99₹,80,0
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,09:00,Prime,99₹,11,0
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,09:00,Recliner,149₹,12,0
+Kolkata,LaliCinemaBarasat,700130,Bengali,11:30,DressCircle,100₹,22,16
+Kolkata,LaliCinemaBarasat,700130,Bengali,11:30,Balcony,70₹,169,142
+Kolkata,LaliCinemaBarasat,700130,Bengali,11:30,RearStall,50₹,270,216
+Kolkata,IndiraCinemaBhawanipur,700025,Bengali,12:20,Box,110₹,30,0
+Kolkata,IndiraCinemaBhawanipur,700025,Bengali,12:20,Balcony,90₹,280,131
+Kolkata,IndiraCinemaBhawanipur,700025,Bengali,19:20,Box,110₹,30,0
+Kolkata,IndiraCinemaBhawanipur,700025,Bengali,19:20,Balcony,90₹,280,131
