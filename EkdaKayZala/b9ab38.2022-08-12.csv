@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MovieTimeChembur,400074,Marathi,12:15,Silver,150₹,74,0
+Mumbai,MovieTimeHubMallGoregaonE,400063,Marathi,15:05,Mhraja,160₹,44,12
+Pune,CinepolisSeasonsMallHadapsar,411028,Marathi,22:10,Normal,200₹,23,0
+Pune,CinepolisSeasonsMallHadapsar,411028,Marathi,22:10,Executive,220₹,52,0
+Pune,CinepolisSeasonsMallHadapsar,411028,Marathi,22:10,Premium,220₹,40,8
