@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,InoxJaiGaneshVisionMallAkurdi,411035,Telugu,09:25,Premiere,112₹,90,0
+Pune,InoxJaiGaneshVisionMallAkurdi,411035,Telugu,09:25,Silver,140₹,45,0
+Tadepalligudem,G3LakshmiNarayanaTheatresSavitrupet,534102,Telugu,11:00,PremiumCl,112₹,197,117
+Tadepalligudem,G3LakshmiNarayanaTheatresSavitrupet,534102,Telugu,11:00,NonPremium,90₹,75,75
+Tadepalligudem,G3LakshmiNarayanaTheatresSavitrupet,534102,Telugu,14:00,PremiumCl,112₹,197,117
+Tadepalligudem,G3LakshmiNarayanaTheatresSavitrupet,534102,Telugu,14:00,NonPremium,90₹,75,75
+Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,122103,Telugu,16:05,Premium,240₹,17,2
+Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,122103,Telugu,16:05,Executive,220₹,105,0
+Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,122103,Telugu,16:05,Normal,200₹,41,0
+Tadepalligudem,G3LakshmiNarayanaTheatresSavitrupet,534102,Telugu,18:00,PremiumCl,112₹,197,117
+Tadepalligudem,G3LakshmiNarayanaTheatresSavitrupet,534102,Telugu,18:00,NonPremium,90₹,75,75
+Tadepalligudem,G3LakshmiNarayanaTheatresSavitrupet,534102,Telugu,21:00,PremiumCl,112₹,197,117
+Tadepalligudem,G3LakshmiNarayanaTheatresSavitrupet,534102,Telugu,21:00,NonPremium,90₹,75,75
