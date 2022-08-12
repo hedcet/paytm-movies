@@ -1,0 +1,3 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,21:30,Premium,60₹,362,0
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,21:30,NonPremium,40₹,247,247
