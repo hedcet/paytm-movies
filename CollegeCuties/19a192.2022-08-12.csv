@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Muvattupuzha,CarnivalGrandCentreMallAramanaJunction,686661,Malayalam,09:40,ExecutiveOffline,130₹,96,0
+Kattanam,GanamTheatreComplexACKattanam,690503,Malayalam,10:00,FirstClass,140₹,202,202
+Payyanur,AradhanaArchanaMovieHousePayyanur,670307,Malayalam,10:30,Balcony,130₹,144,0
+Manjeri,LadderCinemasIndianMall,676121,Malayalam,11:00,Executive,150₹,74,0
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,13:35,ExecutiveOffline,160₹,119,25
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,15:00,BlueCircle,150₹,227,218
+Karunagappally,CarnivalHJComplexLalajiJunction,690518,Malayalam,16:15,ClassicOffline,170₹,118,15
+Angamaly,CarnivalKsrtComplexSalemErnakulamHighway,683572,Malayalam,17:15,GoldOffline,150₹,202,6
+Kodungallur,CarnivalMughalMallStarNagar,680664,Malayalam,17:30,ExecutiveOffline,140₹,172,0
+Kodungallur,CarnivalMughalMallStarNagar,680664,Malayalam,17:30,Vip,250₹,10,0
+Valanchery,PopularFilmCityACPerinthalmannaRoad,676552,Malayalam,18:30,DiamondCircle,110₹,181,0
+Valanchery,PopularFilmCityACPerinthalmannaRoad,676552,Malayalam,21:30,DiamondCircle,110₹,181,0
