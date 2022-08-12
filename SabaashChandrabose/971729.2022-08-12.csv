@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,13:10,NormalOffline,100₹,18,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,13:10,ExecutiveOffline,180₹,72,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,13:10,Silver,210₹,103,6
+Trivandrum,CarnivalArtechMallVanchyoor,695035,Malayalam,15:45,ExecutiveOffline,100₹,13,0
+Trivandrum,CarnivalArtechMallVanchyoor,695035,Malayalam,15:45,SilverOffline,180₹,167,16
+Trivandrum,CarnivalArtechMallVanchyoor,695035,Malayalam,15:45,GoldOffline,350₹,13,0
+Manjeri,LadderCinemasIndianMall,676121,Malayalam,16:30,Executive,150₹,74,0
+Kochi,PvrLuluKochi,682025,Malayalam,19:20,Classic,140₹,39,39
+Kochi,PvrLuluKochi,682025,Malayalam,19:20,ClassicPlus,160₹,91,91
+Kochi,PvrLuluKochi,682025,Malayalam,19:20,Prime,190₹,64,64
+Kochi,PvrLuluKochi,682025,Malayalam,19:20,Recliner,350₹,9,9
