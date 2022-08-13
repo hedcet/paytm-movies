@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,AlbertComplexEgmore,600008,Tamil,18:30,FirstClass,99₹,158,12
+Chennai,AlbertComplexEgmore,600008,Tamil,18:30,SecondClass,79₹,84,0
+Chennai,AlbertComplexEgmore,600008,Tamil,18:30,ThirdClass,50₹,28,0
