@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,12:30,Classic,60₹,17,17
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,12:30,Prime,190₹,130,6
+Chennai,SpiS2CinemasPerambur,600011,Tamil,12:35,Elite,190₹,177,0
+Chennai,SpiS2CinemasPerambur,600011,Tamil,12:35,Budget,60₹,23,16
+Coimbatore,SpiTheCinemaBrookefieldsMall,641001,Tamil,13:00,Elite,190₹,146,6
+Coimbatore,SpiTheCinemaBrookefieldsMall,641001,Tamil,13:00,Budget,60₹,19,2
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,13:30,Normal,60₹,17,1
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,13:30,Executive,190₹,117,0
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,16:00,Club,190₹,135,0
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,16:00,Executive,60₹,19,0
+Coimbatore,CinepolisFunCinemaRepublicMallPeelamedu,641004,Tamil,16:45,Executive,152₹,142,30
+Coimbatore,CinepolisFunCinemaRepublicMallPeelamedu,641004,Tamil,16:45,Normal,60₹,17,17
