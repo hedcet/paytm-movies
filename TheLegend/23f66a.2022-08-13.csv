@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,12:55,Normal,60₹,17,15
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,12:55,Executive,152₹,163,17
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,15:55,Classic,60₹,11,10
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,15:55,Prime,165₹,102,99
