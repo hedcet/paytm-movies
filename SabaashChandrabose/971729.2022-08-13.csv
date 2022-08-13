@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Manjeri,LadderCinemasIndianMall,676121,Malayalam,12:00,Executive,150₹,74,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,13:10,NormalOffline,100₹,18,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,13:10,ExecutiveOffline,180₹,72,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,13:10,Silver,210₹,103,6
+Angamaly,CarnivalKsrtComplexSalemErnakulamHighway,683572,Malayalam,17:20,GoldOffline,150₹,202,27
+Kochi,PvrLuluKochi,682025,Malayalam,19:20,Classic,140₹,39,0
+Kochi,PvrLuluKochi,682025,Malayalam,19:20,ClassicPlus,160₹,91,18
+Kochi,PvrLuluKochi,682025,Malayalam,19:20,Prime,190₹,64,26
+Kochi,PvrLuluKochi,682025,Malayalam,19:20,Recliner,350₹,9,5
