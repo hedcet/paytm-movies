@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chandrakona,RoyalCinemaHall,721201,Bengali,11:45,Balcony,70₹,105,11
+Chandrakona,RoyalCinemaHall,721201,Bengali,11:45,RearStall,50₹,153,56
+Chandrakona,RoyalCinemaHall,721201,Bengali,11:45,GeneralStall,40₹,258,258
+Chandrakona,RoyalCinemaHall,721201,Bengali,14:45,Balcony,70₹,105,11
+Chandrakona,RoyalCinemaHall,721201,Bengali,14:45,RearStall,50₹,153,56
+Chandrakona,RoyalCinemaHall,721201,Bengali,14:45,GeneralStall,40₹,258,258
+Chandrakona,RoyalCinemaHall,721201,Bengali,17:45,Balcony,70₹,105,11
+Chandrakona,RoyalCinemaHall,721201,Bengali,17:45,RearStall,50₹,153,56
+Chandrakona,RoyalCinemaHall,721201,Bengali,17:45,GeneralStall,40₹,258,258
