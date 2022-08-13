@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Aurangabad,MohanNovaCinemazSarafaRoad,431001,Marathi,11:30,Platinum,150₹,58,57
+Aurangabad,MohanNovaCinemazSarafaRoad,431001,Marathi,11:30,Gold,150₹,57,2
+Aurangabad,MohanNovaCinemazSarafaRoad,431001,Marathi,11:30,Silver,150₹,57,1
