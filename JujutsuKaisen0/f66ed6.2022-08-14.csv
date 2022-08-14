@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,InoxMegaplexInorbitMall,400064,Japanese,09:00,Insignia,300₹,34,11
+Chennai,PvrVrMallAnnaNagar,600040,Japanese,11:45,Classic,66₹,24,12
+Chennai,PvrVrMallAnnaNagar,600040,Japanese,11:45,Prime,185₹,112,76
+Bengaluru,PvrPlayHousePhoenixMarketcityMallBengaluruWhitefieldRoad,560048,Japanese,11:45,Classic,200₹,104,38
+Bengaluru,PvrPlayHousePhoenixMarketcityMallBengaluruWhitefieldRoad,560048,Japanese,11:45,Recliner,350₹,8,8
+Noida,PvrLogixCityCentrePlayHouseNoida,201301,Japanese,16:00,Classic,300₹,49,38
