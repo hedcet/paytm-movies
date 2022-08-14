@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,CinepolisSeasonsMallHadapsar,411028,Hindi,17:45,Normal,200₹,27,1
+Pune,CinepolisSeasonsMallHadapsar,411028,Hindi,17:45,Executive,220₹,74,15
+Pune,CinepolisSeasonsMallHadapsar,411028,Hindi,17:45,Premium,220₹,33,24
