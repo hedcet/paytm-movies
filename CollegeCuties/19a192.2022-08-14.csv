@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Angamaly,CarnivalKsrtComplexSalemErnakulamHighway,683572,Malayalam,09:45,GoldOffline,130₹,202,27
+Kattanam,GanamTheatreComplexACKattanam,690503,Malayalam,10:00,FirstClass,140₹,202,202
+Payyanur,AradhanaArchanaMovieHousePayyanur,670307,Malayalam,10:30,Balcony,130₹,144,0
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,13:00,ExecutiveOffline,160₹,119,5
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,13:20,PremiumLounge,250₹,65,6
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,15:00,BlueCircle,150₹,227,218
+Karunagappally,CarnivalHJComplexLalajiJunction,690518,Malayalam,16:15,ClassicOffline,170₹,118,0
