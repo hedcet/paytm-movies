@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Noida,PvrLogixCityCentreNoida,201301,English,12:05,Classic,99₹,97,6
+Mumbai,MaisonPvrTheLoftLuxeJioWorldDriveBkc,400051,English,15:30,Platinum,500₹,33,18
+Gurgaon,PvrAmbienceGoldGurgaon,122001,English,21:30,Platinum,500₹,28,0
+Gurgaon,PvrAmbienceGoldGurgaon,122001,English,21:30,PlatinumSuperior,500₹,8,0
