@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Tuticorin,NewCleopatraTheatreSouthCottonRoad,628001,Tamil,22:30,Box,120₹,32,0
+Tuticorin,NewCleopatraTheatreSouthCottonRoad,628001,Tamil,22:30,BalconyAC,120₹,100,11
+Tuticorin,NewCleopatraTheatreSouthCottonRoad,628001,Tamil,22:30,FirstClassAC,120₹,569,29
