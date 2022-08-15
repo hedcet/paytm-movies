@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrDynamicJuhu,400049,Hindi,17:30,Prime,260₹,219,21
+Mumbai,PvrDynamicJuhu,400049,Hindi,17:30,Classic,240₹,84,0
+Gurgaon,PvrAmbienceGoldGurgaon,122001,Hindi,18:15,Platinum,600₹,28,0
+Gurgaon,PvrAmbienceGoldGurgaon,122001,Hindi,18:15,PlatinumSuperior,600₹,16,0
+Mumbai,PvrCitiMallAndheriW,400053,Hindi,20:35,Classic,250₹,46,0
+Mumbai,PvrCitiMallAndheriW,400053,Hindi,20:35,Recliner,460₹,24,4
+Mumbai,PvrCitiMallAndheriW,400053,Hindi,20:35,Prime,290₹,146,14
+NewDelhi,PvrVegasDwarka,110078,Hindi,21:10,Prime,199₹,15,2
+NewDelhi,PvrVegasDwarka,110078,Hindi,21:10,Classic,199₹,105,0
+Ludhiana,PvrSilverArcMallGurdevNagar,141001,Hindi,21:55,Prime,99₹,8,4
+Ludhiana,PvrSilverArcMallGurdevNagar,141001,Hindi,21:55,Classic,99₹,258,0
+Noida,PvrLogixCityCentreNoida,201301,Hindi,22:00,Classic,99₹,84,27
