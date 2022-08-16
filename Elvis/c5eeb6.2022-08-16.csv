@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Noida,PvrLogixCityCentreNoida,201301,English,12:05,Classic,99₹,97,0
+NewDelhi,PvrPromenadeVasantKunj,110070,English,22:15,Classic,200₹,50,0
+NewDelhi,PvrPromenadeVasantKunj,110070,English,22:15,Prime,200₹,34,4
