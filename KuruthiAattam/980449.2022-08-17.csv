@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Krishnagiri,KTheatre70MmDtsKrishnagiri,635001,Tamil,10:30,Firstclass,50₹,98,0
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,12:50,Club,190₹,135,2
+Coimbatore,InoxProzoneMallSathyRoad,641035,Tamil,12:50,Executive,60₹,19,0
+Krishnagiri,KTheatre70MmDtsKrishnagiri,635001,Tamil,14:15,Firstclass,50₹,98,0
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,16:00,Quartz,152₹,277,3
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,16:00,Zircon,60₹,31,31
+Kanchipuram,ArunaComplexKanchipuram,631501,Tamil,18:00,Platinum,120₹,63,63
+Kanchipuram,ArunaComplexKanchipuram,631501,Tamil,18:00,Diamond,120₹,206,0
+Krishnagiri,KTheatre70MmDtsKrishnagiri,635001,Tamil,18:15,Firstclass,50₹,98,0
+Krishnagiri,KTheatre70MmDtsKrishnagiri,635001,Tamil,21:30,Firstclass,50₹,98,0
+Kanchipuram,ArunaComplexKanchipuram,631501,Tamil,21:30,Platinum,120₹,63,63
+Kanchipuram,ArunaComplexKanchipuram,631501,Tamil,21:30,Diamond,120₹,206,0
