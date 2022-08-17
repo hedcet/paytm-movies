@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,PvrSklsGalaxyMallRedHillsChennai,600052,Tamil,11:35,Classic,60₹,16,13
+Chennai,PvrSklsGalaxyMallRedHillsChennai,600052,Tamil,11:35,Prime,165₹,81,10
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,12:30,Classic,60₹,17,17
+Chennai,PvrAmpaSkywalkMallAminjikarai,600029,Tamil,12:30,Prime,179₹,118,0
+Chennai,SpiEscapeCinemasRoyapettah,600014,Tamil,12:45,Budget,60₹,11,0
+Chennai,SpiEscapeCinemasRoyapettah,600014,Tamil,12:45,Elite,165₹,99,27
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,22:05,Elite,165₹,170,0
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,22:05,Budget,60₹,28,28
