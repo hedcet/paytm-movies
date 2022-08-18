@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrDynamicJuhu,400049,Hindi,17:30,Prime,200₹,219,23
+Mumbai,PvrDynamicJuhu,400049,Hindi,17:30,Classic,170₹,84,0
+NewDelhi,PvrPromenadeVasantKunj,110070,Hindi,18:45,Classic,149₹,50,0
+NewDelhi,PvrPromenadeVasantKunj,110070,Hindi,18:45,Prime,199₹,34,4
+NewDelhi,PvrVegasDwarka,110078,Hindi,21:10,Prime,149₹,15,6
+NewDelhi,PvrVegasDwarka,110078,Hindi,21:10,Classic,149₹,105,0
+Noida,PvrLogixCityCentreNoida,201301,Hindi,21:25,Classic,99₹,84,14
