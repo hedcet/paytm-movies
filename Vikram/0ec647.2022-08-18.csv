@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kakinada,MayuriAcDts,533001,Telugu,11:30,Premium,112₹,351,0
+Kakinada,MayuriAcDts,533001,Telugu,11:30,NonPremium,75₹,118,18
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,11:40,Classic,60₹,16,16
+Chennai,PvrVrMallAnnaNagar,600040,Tamil,11:40,Prime,179₹,110,24
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,11:50,Elite,179₹,181,7
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,11:50,Budget,60₹,26,24
+Chennai,SpiEscapeCinemasRoyapettah,600014,Tamil,12:15,Budget,60₹,11,0
+Chennai,SpiEscapeCinemasRoyapettah,600014,Tamil,12:15,Elite,165₹,99,27
+Kakinada,MayuriAcDts,533001,Telugu,14:30,Premium,112₹,351,0
+Kakinada,MayuriAcDts,533001,Telugu,14:30,NonPremium,75₹,118,18
+Kakinada,MayuriAcDts,533001,Telugu,18:30,Premium,112₹,351,50
+Kakinada,MayuriAcDts,533001,Telugu,18:30,NonPremium,75₹,118,18
+Kakinada,MayuriAcDts,533001,Telugu,21:30,Premium,112₹,351,50
+Kakinada,MayuriAcDts,533001,Telugu,21:30,NonPremium,75₹,118,18
