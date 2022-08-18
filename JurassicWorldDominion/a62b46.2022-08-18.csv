@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,CinepolisNexusShantiniketanThigalarapalya,560067,English,13:50,Normal,300₹,92,10
+Bengaluru,CinepolisNexusShantiniketanThigalarapalya,560067,English,17:35,Normal,200₹,57,0
+Bengaluru,CinepolisNexusShantiniketanThigalarapalya,560067,English,17:35,DoubleSofa,250₹,24,0
+Bengaluru,CinepolisNexusShantiniketanThigalarapalya,560067,English,17:35,SingleSofa,300₹,3,0
+Bengaluru,CinepolisNexusShantiniketanThigalarapalya,560067,English,17:35,Lounger,280₹,9,0
