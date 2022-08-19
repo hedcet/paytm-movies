@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Surat,InoxRajImperialVarachhaRoad,395006,Gujarati,11:45,Gold,140₹,112,24
+Surat,InoxRajImperialVarachhaRoad,395006,Gujarati,11:45,Imperial,320₹,11,2
+Surat,InoxRajImperialVarachhaRoad,395006,Gujarati,11:45,Platinum,170₹,42,11
+Surat,InoxRajImperialVarachhaRoad,395006,Gujarati,11:45,Silver,112₹,30,0
+Ahmedabad,MirajCityPulseManiNagar,380001,Gujarati,15:35,Gold,180₹,24,14
+Surat,TimeCinemaSuratGalaxyCircle,394510,Gujarati,16:15,Standard110,110₹,96,87
+Mumbai,MovieTimeMaladW,400064,Gujarati,17:00,DressCircle,100₹,70,15
+Ahmedabad,AppleMultiplexAhmedabad,380028,Gujarati,18:15,UpperSofa,150₹,7,0
+Ahmedabad,AppleMultiplexAhmedabad,380028,Gujarati,18:15,Platinum,130₹,104,0
+Ahmedabad,AppleMultiplexAhmedabad,380028,Gujarati,18:15,LowerSofa,130₹,9,0
+Surat,TimeCinemaSuratGalaxyCircle,394510,Gujarati,22:10,Standard220,220₹,96,0
