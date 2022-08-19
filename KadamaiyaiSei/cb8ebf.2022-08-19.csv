@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thiruvannamalai,ArunachalamCinemasThiruvannamalai,606601,Tamil,11:15,FirstClass,80₹,79,0
+Thiruvannamalai,ArunachalamCinemasThiruvannamalai,606601,Tamil,11:15,SecondClass,80₹,12,0
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,13:00,Quartz,152₹,242,0
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,13:00,Zircon,60₹,27,27
+Thiruvannamalai,ArunachalamCinemasThiruvannamalai,606601,Tamil,14:30,FirstClass,80₹,79,0
+Thiruvannamalai,ArunachalamCinemasThiruvannamalai,606601,Tamil,14:30,SecondClass,80₹,12,0
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,16:00,Quartz,152₹,242,1
+Chennai,DeviCineplexAnnaSalai,600002,Tamil,16:00,Zircon,60₹,27,27
+Thiruvannamalai,ArunachalamCinemasThiruvannamalai,606601,Tamil,18:15,FirstClass,80₹,79,0
+Thiruvannamalai,ArunachalamCinemasThiruvannamalai,606601,Tamil,18:15,SecondClass,80₹,12,0
+Thiruvannamalai,ArunachalamCinemasThiruvannamalai,606601,Tamil,21:45,FirstClass,80₹,79,0
+Thiruvannamalai,ArunachalamCinemasThiruvannamalai,606601,Tamil,21:45,SecondClass,80₹,12,0
