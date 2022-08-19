@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NaviMumbai,PvrOrionPanvel,410206,Marathi,13:00,Classic,139₹,28,0
+NaviMumbai,PvrOrionPanvel,410206,Marathi,13:00,Prime,139₹,115,23
+NaviMumbai,PvrOrionPanvel,410206,Marathi,13:00,PrimePlus,139₹,34,20
+NaviMumbai,PvrOrionPanvel,410206,Marathi,19:00,Classic,149₹,28,0
+NaviMumbai,PvrOrionPanvel,410206,Marathi,19:00,Prime,149₹,115,106
+NaviMumbai,PvrOrionPanvel,410206,Marathi,19:00,PrimePlus,149₹,34,32
