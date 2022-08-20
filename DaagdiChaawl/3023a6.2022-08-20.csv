@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MirajThakurCinemasKandivaliE,400101,Marathi,10:00,Special,110₹,403,0
+Mumbai,MirajThakurCinemasKandivaliE,400101,Marathi,10:00,Executivep,110₹,30,0
+Mumbai,MirajThakurCinemasKandivaliE,400101,Marathi,10:00,Platinum,250₹,21,11
+Mumbai,MirajThakurCinemasKandivaliE,400101,Marathi,10:00,Executive,110₹,93,0
+Mumbai,MirajThakurCinemasKandivaliE,400101,Marathi,10:00,Gold,110₹,121,30
+Mumbai,MirajThakurCinemasKandivaliE,400101,Marathi,16:00,Special,150₹,403,2
+Mumbai,MirajThakurCinemasKandivaliE,400101,Marathi,16:00,Executivep,150₹,30,0
+Mumbai,MirajThakurCinemasKandivaliE,400101,Marathi,16:00,Platinum,300₹,21,11
+Mumbai,MirajThakurCinemasKandivaliE,400101,Marathi,16:00,Executive,150₹,93,0
+Mumbai,MirajThakurCinemasKandivaliE,400101,Marathi,16:00,Gold,150₹,121,30
