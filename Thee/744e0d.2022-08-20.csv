@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thalassery,CarnivalDowntownThalassery,670101,Malayalam,10:30,ExecutiveOffline,140₹,136,13
+Kattanam,GanamTheatreComplexACKattanam,690503,Malayalam,10:30,FirstClass,110₹,129,67
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmosThoongamparaKattakada,695572,Malayalam,11:00,DiamondSofa,200₹,4,0
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmosThoongamparaKattakada,695572,Malayalam,11:00,Gold,150₹,170,0
+Manjeri,LadderCinemasIndianMall,676121,Malayalam,11:00,Executive,150₹,74,0
+Valanchery,PopularFilmCityACPerinthalmannaRoad,676552,Malayalam,14:30,DiamondCircle,110₹,143,0
+Kattanam,GanamTheatreComplexACKattanam,690503,Malayalam,15:15,FirstClass,110₹,129,67
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,15:45,ExecutiveOffline,180₹,119,30
+Manjeri,LadderCinemasIndianMall,676121,Malayalam,16:15,Executive,150₹,74,0
+Pattambi,SyndicateCinemas4KRgbLaserAtmosKoppam,679309,Malayalam,17:00,Platinum,250₹,20,0
+Pattambi,SyndicateCinemas4KRgbLaserAtmosKoppam,679309,Malayalam,17:00,Gold,150₹,109,0
+Valanchery,PopularFilmCityACPerinthalmannaRoad,676552,Malayalam,18:30,DiamondCircle,110₹,143,0
+Valanchery,PopularFilmCityACPerinthalmannaRoad,676552,Malayalam,21:30,DiamondCircle,110₹,143,0
