@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Gujarati,11:55,Crew,180₹,10,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Gujarati,11:55,Captain,200₹,10,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Gujarati,11:55,Club,220₹,10,0
+Surat,InoxRajImperialVarachhaRoad,395006,Gujarati,13:00,Gold,200₹,23,20
+Surat,InoxRajImperialVarachhaRoad,395006,Gujarati,13:00,Imperial,400₹,5,3
+Surat,InoxRajImperialVarachhaRoad,395006,Gujarati,13:00,Platinum,230₹,20,18
+Surat,InoxRajImperialVarachhaRoad,395006,Gujarati,13:00,Silver,180₹,10,6
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,13:00,Gold,120₹,70,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,13:00,Silver,100₹,54,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Gujarati,14:40,Club,220₹,10,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Gujarati,14:40,Crew,180₹,10,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Gujarati,14:40,Captain,200₹,10,0
+Rajkot,CosmoplexMultiplexKalawadRoad,360001,Gujarati,14:40,Club,220₹,10,0
+Ahmedabad,AppleMultiplexAhmedabad,380028,Gujarati,15:45,UpperSofa,150₹,7,0
+Ahmedabad,AppleMultiplexAhmedabad,380028,Gujarati,15:45,Platinum,130₹,104,0
+Ahmedabad,AppleMultiplexAhmedabad,380028,Gujarati,15:45,LowerSofa,130₹,9,0
