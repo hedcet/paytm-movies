@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Rewari,BmgCinemaBmgMallLeoChowk,123401,Hindi,12:50,Gold,110₹,229,42
+Hisar,EliteCinemasHisar,125001,Hindi,15:10,Gold,100₹,30,0
+Hisar,EliteCinemasHisar,125001,Hindi,15:10,Lounge,250₹,30,0
+Hisar,SuncityCinemaHisar,125005,Hindi,15:50,Platinum,180₹,205,0
+Hisar,SuncityCinemaHisar,125005,Hindi,15:50,Gold,180₹,205,0
+Hisar,SuncityCinemaHisar,125005,Hindi,15:50,Silver,150₹,205,0
+Rewari,BmgCinemaBmgMallLeoChowk,123401,Hindi,18:20,Gold,110₹,229,40
+Gurgaon,CarnivalRahejaMallGurgaon,122001,Hindi,20:15,Classic,200₹,40,0
+Gurgaon,CarnivalRahejaMallGurgaon,122001,Hindi,20:15,PremiumOffline,200₹,16,0
+Gurgaon,CarnivalRahejaMallGurgaon,122001,Hindi,20:15,Standard,200₹,40,0
