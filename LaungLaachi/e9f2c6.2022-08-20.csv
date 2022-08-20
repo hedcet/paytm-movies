@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Faridabad,InoxCrownInteriorzMallDelhiMathuraRoad,121003,Punjabi,11:30,Club,180₹,178,5
+Faridabad,InoxCrownInteriorzMallDelhiMathuraRoad,121003,Punjabi,11:30,Executive,160₹,48,0
+Faridabad,InoxCrownInteriorzMallDelhiMathuraRoad,121003,Punjabi,16:20,Club,230₹,276,0
+Faridabad,InoxCrownInteriorzMallDelhiMathuraRoad,121003,Punjabi,16:20,Executive,210₹,78,0
+Indore,PvrTreasureIslandMallSouthTukoganj,452001,Punjabi,19:10,Classic,200₹,48,0
+Indore,PvrTreasureIslandMallSouthTukoganj,452001,Punjabi,19:10,Prime,230₹,117,23
+Indore,PvrTreasureIslandMallSouthTukoganj,452001,Punjabi,19:10,Recliner,450₹,11,4
+Kanpur,MirajGurudevPammiCinemasLakhanpur,208024,Punjabi,19:30,FirstClass,140₹,33,2
+Kanpur,MirajGurudevPammiCinemasLakhanpur,208024,Punjabi,19:30,Family,160₹,66,0
+Kanpur,MirajGurudevPammiCinemasLakhanpur,208024,Punjabi,19:30,Balcony,180₹,102,0
+Faridabad,InoxCrownInteriorzMallDelhiMathuraRoad,121003,Punjabi,22:40,Club,230₹,178,0
+Faridabad,InoxCrownInteriorzMallDelhiMathuraRoad,121003,Punjabi,22:40,Executive,210₹,48,0
