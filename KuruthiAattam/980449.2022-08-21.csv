@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kanchipuram,ArunaComplexKanchipuram,631501,Tamil,11:00,Platinum,120₹,63,63
+Kanchipuram,ArunaComplexKanchipuram,631501,Tamil,11:00,Diamond,120₹,206,0
+Chennai,SriVenkateswaraTalkiesACDolby71Thiruvallur,602002,Tamil,14:00,First,60₹,172,36
+Kanchipuram,ArunaComplexKanchipuram,631501,Tamil,14:30,Platinum,120₹,63,63
+Kanchipuram,ArunaComplexKanchipuram,631501,Tamil,14:30,Diamond,120₹,206,0
+Kanchipuram,ArunaComplexKanchipuram,631501,Tamil,18:00,Platinum,120₹,63,63
+Kanchipuram,ArunaComplexKanchipuram,631501,Tamil,18:00,Diamond,120₹,206,0
+Chennai,SriVenkateswaraTalkiesACDolby71Thiruvallur,602002,Tamil,18:15,First,60₹,172,69
+Kanchipuram,ArunaComplexKanchipuram,631501,Tamil,21:30,Platinum,120₹,63,63
+Kanchipuram,ArunaComplexKanchipuram,631501,Tamil,21:30,Diamond,120₹,206,0
