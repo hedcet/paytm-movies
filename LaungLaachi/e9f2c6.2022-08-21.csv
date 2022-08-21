@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Indore,PvrTreasureIslandMallSouthTukoganj,452001,Punjabi,19:10,Classic,220₹,48,0
+Indore,PvrTreasureIslandMallSouthTukoganj,452001,Punjabi,19:10,Prime,240₹,117,23
+Indore,PvrTreasureIslandMallSouthTukoganj,452001,Punjabi,19:10,Recliner,450₹,11,4
+Muzaffarnagar,CarnivalAsjGrandPlazaMallBhopaRoad,251001,Punjabi,20:00,Club,220₹,151,22
+Muzaffarnagar,CarnivalAsjGrandPlazaMallBhopaRoad,251001,Punjabi,20:00,Premium,190₹,90,0
