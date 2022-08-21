@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Annigeri,JanataTalkiesStateHighway28,582201,Telugu,14:45,Balcony,101₹,148,80
+Annigeri,JanataTalkiesStateHighway28,582201,Telugu,14:45,DressCircle,91₹,227,180
+Annigeri,JanataTalkiesStateHighway28,582201,Telugu,18:00,Balcony,101₹,148,80
+Annigeri,JanataTalkiesStateHighway28,582201,Telugu,18:00,DressCircle,91₹,227,180
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,18:30,Premium,60₹,362,0
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,18:30,NonPremium,40₹,247,247
+Annigeri,JanataTalkiesStateHighway28,582201,Telugu,21:15,Balcony,101₹,148,80
+Annigeri,JanataTalkiesStateHighway28,582201,Telugu,21:15,DressCircle,91₹,227,180
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,21:30,Premium,60₹,362,0
+Vizag,SriKanthiTheatreDtsVisakhapatnam,530001,Telugu,21:30,NonPremium,40₹,247,247
