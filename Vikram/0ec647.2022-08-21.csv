@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,SpiEscapeCinemasRoyapettah,600014,Tamil,11:15,Elite,190₹,99,54
+Chennai,SpiEscapeCinemasRoyapettah,600014,Tamil,11:15,Budget,60₹,11,11
+Kulittalai,PalaceTheatreMaduraiRoad,620008,Tamil,11:15,FirstClass,60₹,249,0
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,12:40,Budget,60₹,26,26
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,12:40,Elite,190₹,230,105
+Trichy,SriRengarajTalkiesSrirangam,620006,Tamil,14:15,FirstClass,50₹,200,0
+Kulittalai,PalaceTheatreMaduraiRoad,620008,Tamil,14:15,FirstClass,60₹,249,0
+Trichy,SriRengarajTalkiesSrirangam,620006,Tamil,18:15,FirstClass,50₹,200,0
+Kulittalai,PalaceTheatreMaduraiRoad,620008,Tamil,18:15,FirstClass,60₹,249,0
+Kulittalai,PalaceTheatreMaduraiRoad,620008,Tamil,22:00,FirstClass,60₹,249,0
+Trichy,SriRengarajTalkiesSrirangam,620006,Tamil,22:15,FirstClass,50₹,200,0
