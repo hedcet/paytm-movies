@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thalassery,CarnivalDowntownThalassery,670101,Malayalam,10:30,ExecutiveOffline,110₹,136,13
+Kattanam,GanamTheatreComplexACKattanam,690503,Malayalam,10:30,FirstClass,110₹,129,67
+Karunagappally,CarnivalHJComplexLalajiJunction,690518,Malayalam,14:45,ClassicOffline,110₹,118,0
+Kattanam,GanamTheatreComplexACKattanam,690503,Malayalam,15:15,FirstClass,110₹,129,67
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,15:45,ExecutiveOffline,160₹,119,0
