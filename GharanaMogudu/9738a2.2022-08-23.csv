@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kurnool,SvcCinemasCitySquareMall,518004,Telugu,19:30,Platinum,295₹,19,8
+Kurnool,SvcCinemasCitySquareMall,518004,Telugu,19:30,Gold,177₹,220,24
+Kurnool,SvcCinemasCitySquareMall,518004,Telugu,19:30,Loungers,177₹,17,0
