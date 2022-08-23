@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kota,NatrajCinemasKota,324002,Hindi,12:15,PletinumClass,120₹,131,40
+Kota,NatrajCinemasKota,324002,Hindi,12:15,GoldClass,100₹,273,81
+Kota,NatrajCinemasKota,324002,Hindi,12:15,SilverClass,80₹,259,53
+Kota,NatrajCinemasKota,324002,Hindi,15:16,PletinumClass,120₹,131,40
+Kota,NatrajCinemasKota,324002,Hindi,15:16,GoldClass,100₹,273,81
+Kota,NatrajCinemasKota,324002,Hindi,15:16,SilverClass,80₹,259,53
