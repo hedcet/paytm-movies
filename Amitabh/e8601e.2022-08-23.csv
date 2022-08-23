@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Sivasagar,BhaskarjyotiCinemaBhatiapar,785640,Assamese,13:30,SilverClass,200₹,176,132
+Sivasagar,BhaskarjyotiCinemaBhatiapar,785640,Assamese,13:30,PremierCircle,150₹,315,273
+Guwahati,MatrixCinemasMatrixMallBeltola,781028,Assamese,14:00,Gold,350₹,100,0
+Guwahati,MatrixCinemasMatrixMallBeltola,781028,Assamese,14:00,Club,200₹,100,0
+Guwahati,MatrixCinemasMatrixMallBeltola,781028,Assamese,14:00,Executive,150₹,100,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,19:35,Classic,180₹,44,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,19:35,Prime,200₹,107,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,19:35,PrimePlus,220₹,14,0
+Guwahati,GoldCinemaNarengi,781026,Assamese,20:00,Diamond,180₹,94,0
+Guwahati,GoldCinemaNarengi,781026,Assamese,20:00,Gold,140₹,58,0
+Guwahati,GoldCinemaNarengi,781026,Assamese,20:00,Silver,120₹,66,0
