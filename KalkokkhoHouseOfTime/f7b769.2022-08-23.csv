@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,InoxMetropolisMallHilandPark,700094,Bengali,12:20,CoupleSeats,112₹,12,0
+Kolkata,InoxMetropolisMallHilandPark,700094,Bengali,12:20,Premier,112₹,53,0
+Kolkata,InoxMetropolisMallHilandPark,700094,Bengali,12:20,Royal,300₹,20,0
+Kolkata,InoxMetropolisMallHilandPark,700094,Bengali,12:20,Silver,112₹,186,0
+Kolkata,CinepolisAcropolisMallRajdangaRoad,839200,Bengali,12:40,Normal,110₹,22,0
+Kolkata,CinepolisAcropolisMallRajdangaRoad,839200,Bengali,12:40,Executive,110₹,64,0
+Kolkata,CinepolisAcropolisMallRajdangaRoad,839200,Bengali,12:40,Premium,110₹,20,0
+Kolkata,PvrManiSquareMallEmBypassRoad,700054,Bengali,16:15,Classic,190₹,45,0
+Kolkata,PvrManiSquareMallEmBypassRoad,700054,Bengali,16:15,Prime,230₹,81,0
+Kolkata,PvrManiSquareMallEmBypassRoad,700054,Bengali,16:15,Recliner,420₹,19,0
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,17:25,Classic,160₹,80,5
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,17:25,Prime,220₹,11,0
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,17:25,Recliner,420₹,12,0
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,Bengali,18:50,Classic,190₹,72,0
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,Bengali,18:50,Recliner,290₹,7,1
