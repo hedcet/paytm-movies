@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Agra,ChitraCinemaBaghMuzaffarKhanRoad,282002,Hindi,12:00,Balcony,50₹,110,92
+Agra,ChitraCinemaBaghMuzaffarKhanRoad,282002,Hindi,12:00,SpecialClass,30₹,380,380
+Agra,ChitraCinemaBaghMuzaffarKhanRoad,282002,Hindi,15:00,Balcony,50₹,110,92
+Agra,ChitraCinemaBaghMuzaffarKhanRoad,282002,Hindi,15:00,SpecialClass,30₹,380,380
+Agra,ChitraCinemaBaghMuzaffarKhanRoad,282002,Hindi,18:00,Balcony,50₹,110,92
+Agra,ChitraCinemaBaghMuzaffarKhanRoad,282002,Hindi,18:00,SpecialClass,30₹,380,380
+Agra,ChitraCinemaBaghMuzaffarKhanRoad,282002,Hindi,21:00,Balcony,50₹,110,92
+Agra,ChitraCinemaBaghMuzaffarKhanRoad,282002,Hindi,21:00,SpecialClass,30₹,380,380
