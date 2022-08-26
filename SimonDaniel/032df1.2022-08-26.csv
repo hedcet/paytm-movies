@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,10:00,Deluxe,180₹,555,531
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,10:00,RoseCircle,180₹,115,115
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,16:20,Club,190₹,66,20
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,16:20,Executive,130₹,22,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,16:20,RoyalRecliner,350₹,10,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,16:20,Royal,190₹,13,0
+Payyanur,AradhanaArchanaMovieHousePayyanur,670307,Malayalam,16:30,Balcony,130₹,144,0
