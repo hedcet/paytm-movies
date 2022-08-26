@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Angamaly,CarnivalKsrtComplexSalemErnakulamHighway,683572,Malayalam,10:45,GoldOffline,130₹,202,27
+Edappal,SaradaMovies,679576,Malayalam,11:00,Platinum,110₹,317,0
+Mukkam,RoseCinePalaceMukkam,673602,Malayalam,11:45,Executive,110₹,230,17
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,15:20,NormalOffline,100₹,18,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,15:20,ExecutiveOffline,180₹,72,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,695024,Malayalam,15:20,Silver,210₹,103,10
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,21:15,ExecutiveOffline,180₹,119,0
+Thalayolaparambu,CarnivalThalayolaparambu,686605,Malayalam,21:30,Gold,110₹,144,0
+Karunagappally,CarnivalHJComplexLalajiJunction,690518,Malayalam,22:10,ClassicOffline,170₹,118,0
