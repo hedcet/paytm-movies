@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mangalore,PvrNexusMallPandeshwarMangalore,575001,Kannada,09:40,Classic,180₹,126,0
+Mangalore,PvrNexusMallPandeshwarMangalore,575001,Kannada,09:40,Prime,180₹,32,0
+Mangalore,PvrNexusMallPandeshwarMangalore,575001,Kannada,09:40,Recliner,350₹,12,0
+Bengaluru,CinepolisOrionEastMallBanaswadi,560033,Kannada,16:25,Normal,140₹,30,0
+Bengaluru,CinepolisOrionEastMallBanaswadi,560033,Kannada,16:25,Executive,160₹,102,2
+Bengaluru,CinepolisOrionEastMallBanaswadi,560033,Kannada,16:25,Premium,180₹,53,2
+Mangalore,PvrNexusMallPandeshwarMangalore,575001,Kannada,19:05,Classic,180₹,126,0
+Mangalore,PvrNexusMallPandeshwarMangalore,575001,Kannada,19:05,Prime,180₹,32,0
+Mangalore,PvrNexusMallPandeshwarMangalore,575001,Kannada,19:05,Recliner,350₹,12,0
