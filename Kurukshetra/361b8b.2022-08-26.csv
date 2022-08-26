@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Raipur,InoxAmbujaCityCentreMowa,492007,Chhattisgarhi,12:50,Club,100₹,188,0
+Raipur,InoxAmbujaCityCentreMowa,492007,Chhattisgarhi,12:50,Executive,90₹,36,0
+Raipur,InoxAmbujaCityCentreMowa,492007,Chhattisgarhi,12:50,RoyalRecliner,200₹,16,0
+Raipur,InoxAmbujaCityCentreMowa,492007,Chhattisgarhi,12:50,Royal,140₹,34,0
+Bilaspur,PvrRamaMagnetoMallBilaspur,495001,Chhattisgarhi,15:05,Classic,170₹,40,0
+Bilaspur,PvrRamaMagnetoMallBilaspur,495001,Chhattisgarhi,15:05,Prime,190₹,116,28
+Bilaspur,PvrRamaMagnetoMallBilaspur,495001,Chhattisgarhi,15:05,PrimePlus,350₹,13,7
+Raipur,PvrCityCenterRaipur,492001,Chhattisgarhi,16:30,Recliner,370₹,12,12
+Raipur,PvrCityCenterRaipur,492001,Chhattisgarhi,16:30,Prime,160₹,140,32
+Raipur,PvrCityCenterRaipur,492001,Chhattisgarhi,16:30,Classic,140₹,24,0
