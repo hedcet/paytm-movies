@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Rayagada,AshokaTalkiesACDtsRayagadaBhawanipatnaRoad,765001,Telugu,10:30,Balcony,150₹,355,0
+Rayagada,AshokaTalkiesACDtsRayagadaBhawanipatnaRoad,765001,Telugu,10:30,FirstClass,100₹,222,0
+Rayagada,AshokaTalkiesACDtsRayagadaBhawanipatnaRoad,765001,Telugu,10:30,SecondClass,60₹,57,0
+Kalwakurthy,NationalTheatre,509324,Telugu,11:00,Balcony,100₹,180,130
+Kalwakurthy,NationalTheatre,509324,Telugu,14:00,Balcony,100₹,180,130
+Rayagada,AshokaTalkiesACDtsRayagadaBhawanipatnaRoad,765001,Telugu,14:13,Balcony,150₹,355,0
+Rayagada,AshokaTalkiesACDtsRayagadaBhawanipatnaRoad,765001,Telugu,14:13,FirstClass,100₹,222,0
+Rayagada,AshokaTalkiesACDtsRayagadaBhawanipatnaRoad,765001,Telugu,14:13,SecondClass,60₹,57,0
+Kalwakurthy,NationalTheatre,509324,Telugu,18:00,Balcony,100₹,180,130
+Rajahmundry,AshokaTheaterRajahmundry,533101,Telugu,18:15,PremuimCl,112₹,434,34
+Rajahmundry,AshokaTheaterRajahmundry,533101,Telugu,18:15,NonPremiumCl,75₹,145,110
+Kalwakurthy,NationalTheatre,509324,Telugu,21:00,Balcony,100₹,180,130
+Rajahmundry,AshokaTheaterRajahmundry,533101,Telugu,21:30,PremuimCl,112₹,434,34
+Rajahmundry,AshokaTheaterRajahmundry,533101,Telugu,21:30,NonPremiumCl,75₹,145,110
