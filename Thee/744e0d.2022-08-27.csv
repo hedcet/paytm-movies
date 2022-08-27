@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pattambi,SyndicateCinemas4KRgbLaserAtmosKoppam,679309,Malayalam,11:00,Platinum,250₹,20,0
+Pattambi,SyndicateCinemas4KRgbLaserAtmosKoppam,679309,Malayalam,11:00,Gold,150₹,109,0
+Kattanam,GanamTheatreComplexACKattanam,690503,Malayalam,15:30,FirstClass,110₹,129,67
+Karunagappally,CarnivalHJComplexLalajiJunction,690518,Malayalam,17:30,ClassicOffline,170₹,118,0
