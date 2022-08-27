@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NewDelhi,InoxNehruPlace,110019,Hindi,15:20,Club,380₹,75,75
+NewDelhi,InoxNehruPlace,110019,Hindi,15:20,Executive,360₹,70,70
+NewDelhi,InoxNehruPlace,110019,Hindi,15:20,Royal,400₹,21,21
