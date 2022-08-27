@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,10:10,ExecutiveOffline,140₹,119,25
+Kodungallur,CarnivalMughalMallStarNagar,680664,Malayalam,10:15,ExecutiveOffline,100₹,225,109
+Thalassery,CarnivalDowntownThalassery,670101,Malayalam,10:15,ExecutiveOffline,140₹,135,14
+Thalassery,CarnivalDowntownThalassery,670101,Malayalam,10:15,GoldOffline,200₹,7,0
+Angamaly,CarnivalKsrtComplexSalemErnakulamHighway,683572,Malayalam,10:45,GoldOffline,130₹,202,27
+Karunagappally,CarnivalHJComplexLalajiJunction,690518,Malayalam,22:10,ClassicOffline,170₹,118,0
