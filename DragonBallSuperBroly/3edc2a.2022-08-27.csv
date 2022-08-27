@@ -1,0 +1,13 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+,Ahmedabad,380006,TimeCinemaCgRoad,English,09:10,Standard160,160₹,108,8
+,Surat,394510,TimeCinemaSuratGalaxyCircle,English,09:30,Standard110,110₹,115,15
+,Surat,394510,TimeCinemaSuratGalaxyCircle,English,11:25,Standard110,110₹,115,15
+,Surat,394510,TimeCinemaSuratGalaxyCircle,English,13:00,Sofa180,180₹,34,0
+,Ahmedabad,380006,TimeCinemaCgRoad,English,13:30,Standard160,160₹,84,0
+,Surat,394510,TimeCinemaSuratGalaxyCircle,English,15:00,Sofa180,180₹,34,0
+,Ahmedabad,380006,TimeCinemaCgRoad,English,15:25,Standard160,160₹,84,0
+,Surat,394510,TimeCinemaSuratGalaxyCircle,English,16:50,Sofa180,180₹,34,0
+,Ahmedabad,380006,TimeCinemaCgRoad,English,17:25,Standard160,160₹,84,0
+,Ahmedabad,380006,TimeCinemaCgRoad,English,19:35,Standard160,160₹,84,0
+,Surat,394510,TimeCinemaSuratGalaxyCircle,English,21:00,Sofa180,180₹,34,0
+,Ahmedabad,380006,TimeCinemaCgRoad,English,23:15,Standard330,330₹,108,8
