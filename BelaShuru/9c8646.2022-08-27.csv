@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,11:00,Classic,99₹,189,4
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,11:00,Prime,99₹,11,3
+Kolkata,PvrDiamondPlazaJassore,700055,Bengali,11:00,Recliner,149₹,12,8
+Kolkata,InoxMetropolisMallHilandPark,700094,Bengali,11:20,Premier,150₹,36,0
+Kolkata,InoxMetropolisMallHilandPark,700094,Bengali,11:20,Royal,240₹,14,2
+Kolkata,InoxMetropolisMallHilandPark,700094,Bengali,11:20,Silver,150₹,147,2
+Kolkata,LaliCinemaBarasat,700130,Bengali,11:30,DressCircle,100₹,22,18
+Kolkata,LaliCinemaBarasat,700130,Bengali,11:30,Balcony,70₹,169,142
+Kolkata,LaliCinemaBarasat,700130,Bengali,11:30,RearStall,50₹,270,216
+Domkal,ZamanTalkiesDomkol,742303,Bengali,13:00,Balcony,60₹,160,140
+Domkal,ZamanTalkiesDomkol,742303,Bengali,13:00,RearStall,50₹,468,442
+Domkal,ZamanTalkiesDomkol,742303,Bengali,16:00,Balcony,60₹,160,140
+Domkal,ZamanTalkiesDomkol,742303,Bengali,16:00,RearStall,50₹,468,442
+Domkal,ZamanTalkiesDomkol,742303,Bengali,19:00,Balcony,60₹,160,140
+Domkal,ZamanTalkiesDomkol,742303,Bengali,19:00,RearStall,50₹,468,442
