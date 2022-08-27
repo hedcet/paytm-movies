@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,SaritaCinemasKacheripady,682018,Malayalam,10:00,BlueCircle,150₹,227,218
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,10:10,Club,140₹,155,8
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,10:10,Executive,110₹,26,0
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,10:10,RoyalRecliner,270₹,10,2
+Thrissur,InoxSobhaCityMallPuzhakkal,680553,Malayalam,10:10,Royal,170₹,20,0
+Kattanam,GanamTheatreComplexACKattanam,690503,Malayalam,10:30,FirstClass,110₹,129,129
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,695581,Malayalam,13:00,ExecutiveOffline,160₹,132,14
+Kodungallur,CarnivalMughalMallStarNagar,680664,Malayalam,16:30,ExecutiveOffline,140₹,172,0
+Kodungallur,CarnivalMughalMallStarNagar,680664,Malayalam,16:30,Vip,250₹,10,0
+Punalur,CarnivalDMallPunalur,691305,Malayalam,17:05,Silver,130₹,126,0
+Punalur,CarnivalDMallPunalur,691305,Malayalam,17:05,Gold,200₹,11,0
