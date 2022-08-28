@@ -1,0 +1,9 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+Rajasthan,Kotputli,303108,HeeraMotiCinemaKothputli,Hindi,12:00,PlatinumClass,150₹,20,10
+Rajasthan,Kotputli,303108,HeeraMotiCinemaKothputli,Hindi,12:00,DiamondClass,100₹,196,176
+Rajasthan,Kotputli,303108,HeeraMotiCinemaKothputli,Hindi,15:00,PlatinumClass,150₹,20,10
+Rajasthan,Kotputli,303108,HeeraMotiCinemaKothputli,Hindi,15:00,DiamondClass,100₹,196,176
+Rajasthan,Kotputli,303108,HeeraMotiCinemaKothputli,Hindi,18:00,PlatinumClass,150₹,20,10
+Rajasthan,Kotputli,303108,HeeraMotiCinemaKothputli,Hindi,18:00,DiamondClass,100₹,196,176
+Rajasthan,Kotputli,303108,HeeraMotiCinemaKothputli,Hindi,21:00,PlatinumClass,150₹,20,10
+Rajasthan,Kotputli,303108,HeeraMotiCinemaKothputli,Hindi,21:00,DiamondClass,100₹,196,176
