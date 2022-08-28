@@ -1,0 +1,13 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+AndhraPradesh,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,11:15,FirstClass,100₹,236,0
+AndhraPradesh,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,11:15,SecondClass,60₹,59,0
+AndhraPradesh,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,11:15,ThirdClass,40₹,68,7
+AndhraPradesh,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,14:15,FirstClass,100₹,236,4
+AndhraPradesh,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,14:15,SecondClass,60₹,59,0
+AndhraPradesh,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,14:15,ThirdClass,40₹,68,6
+AndhraPradesh,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,18:15,FirstClass,100₹,236,0
+AndhraPradesh,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,18:15,SecondClass,60₹,59,1
+AndhraPradesh,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,18:15,ThirdClass,40₹,68,0
+AndhraPradesh,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,21:15,FirstClass,100₹,236,0
+AndhraPradesh,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,21:15,SecondClass,60₹,59,0
+AndhraPradesh,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,21:15,ThirdClass,40₹,68,0
