@@ -1,0 +1,5 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Sanand,382110,ArthMultiplexSanand,Gujarati,12:00,Gold,50₹,79,0
+Gujarat,Sanand,382110,ArthMultiplexSanand,Gujarati,12:00,Silver,50₹,46,18
+Gujarat,Sanand,382110,ArthMultiplexSanand,Gujarati,15:00,Gold,50₹,79,0
+Gujarat,Sanand,382110,ArthMultiplexSanand,Gujarati,15:00,Silver,50₹,46,18
