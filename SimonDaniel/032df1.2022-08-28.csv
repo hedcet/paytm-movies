@@ -1,0 +1,8 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Kochi,682018,SaritaCinemasKacheripady,Malayalam,10:00,Deluxe,150₹,555,531
+Kerala,Kochi,682018,SaritaCinemasKacheripady,Malayalam,10:00,RoseCircle,150₹,115,115
+Kerala,Thrissur,680553,InoxSobhaCityMallPuzhakkal,Malayalam,16:20,Club,190₹,66,12
+Kerala,Thrissur,680553,InoxSobhaCityMallPuzhakkal,Malayalam,16:20,Executive,130₹,22,0
+Kerala,Thrissur,680553,InoxSobhaCityMallPuzhakkal,Malayalam,16:20,RoyalRecliner,350₹,10,3
+Kerala,Thrissur,680553,InoxSobhaCityMallPuzhakkal,Malayalam,16:20,Royal,190₹,13,2
+Kerala,Payyanur,670307,AradhanaArchanaMovieHousePayyanur,Malayalam,16:30,Balcony,130₹,144,5
