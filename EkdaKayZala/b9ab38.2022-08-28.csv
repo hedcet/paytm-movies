@@ -1,0 +1,8 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+Maharashtra,Thane,400606,CinepolisVipVivianaMallThaneW,Marathi,13:05,Vip,400₹,74,52
+Maharashtra,Mumbai,400063,MovieTimeHubMallGoregaonE,Marathi,17:00,Gold,150₹,196,29
+Maharashtra,Pune,411028,CinepolisSeasonsMallHadapsar,Marathi,18:25,Normal,200₹,29,0
+Maharashtra,Pune,411028,CinepolisSeasonsMallHadapsar,Marathi,18:25,Executive,220₹,93,33
+Maharashtra,Pune,411028,CinepolisSeasonsMallHadapsar,Marathi,18:25,Premium,220₹,35,30
+Maharashtra,Thane,400606,CinepolisVipVivianaMallThaneW,Marathi,19:10,Vip,500₹,74,33
+Maharashtra,Mumbai,400063,MovieTimeHubMallGoregaonE,Marathi,19:45,Mhraja,160₹,44,26
