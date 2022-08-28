@@ -1,0 +1,11 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Kochi,682025,PvrLuluKochi,Malayalam,15:45,Classic,140₹,39,0
+Kerala,Kochi,682025,PvrLuluKochi,Malayalam,15:45,ClassicPlus,160₹,91,54
+Kerala,Kochi,682025,PvrLuluKochi,Malayalam,15:45,Prime,190₹,64,64
+Kerala,Kochi,682025,PvrLuluKochi,Malayalam,15:45,Recliner,350₹,9,9
+Kerala,Thrissur,680553,InoxSobhaCityMallPuzhakkal,Malayalam,22:00,Club,190₹,155,16
+Kerala,Thrissur,680553,InoxSobhaCityMallPuzhakkal,Malayalam,22:00,Executive,130₹,26,0
+Kerala,Thrissur,680553,InoxSobhaCityMallPuzhakkal,Malayalam,22:00,RoyalRecliner,350₹,10,2
+Kerala,Thrissur,680553,InoxSobhaCityMallPuzhakkal,Malayalam,22:00,Royal,190₹,20,11
+Kerala,Kochi,682024,PvrOberonMallErnakulam,Malayalam,22:10,Classic,140₹,36,10
+Kerala,Kochi,682024,PvrOberonMallErnakulam,Malayalam,22:10,ClassicPlus,190₹,81,69
