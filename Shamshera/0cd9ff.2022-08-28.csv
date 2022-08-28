@@ -1,0 +1,9 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+UttarPradesh,Agra,282002,ChitraCinemaBaghMuzaffarKhanRoad,Hindi,12:00,Balcony,50₹,110,92
+UttarPradesh,Agra,282002,ChitraCinemaBaghMuzaffarKhanRoad,Hindi,12:00,SpecialClass,30₹,380,380
+UttarPradesh,Agra,282002,ChitraCinemaBaghMuzaffarKhanRoad,Hindi,15:00,Balcony,50₹,110,92
+UttarPradesh,Agra,282002,ChitraCinemaBaghMuzaffarKhanRoad,Hindi,15:00,SpecialClass,30₹,380,380
+UttarPradesh,Agra,282002,ChitraCinemaBaghMuzaffarKhanRoad,Hindi,18:00,Balcony,50₹,110,92
+UttarPradesh,Agra,282002,ChitraCinemaBaghMuzaffarKhanRoad,Hindi,18:00,SpecialClass,30₹,380,380
+UttarPradesh,Agra,282002,ChitraCinemaBaghMuzaffarKhanRoad,Hindi,21:00,Balcony,50₹,110,92
+UttarPradesh,Agra,282002,ChitraCinemaBaghMuzaffarKhanRoad,Hindi,21:00,SpecialClass,30₹,380,380
