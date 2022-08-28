@@ -1,0 +1,16 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+WestBengal,Waterland,732101,TpmcOms,English,09:00,Executive,0₹,222,143
+WestBengal,Waterland,732101,TpmcOms,English,09:00,Corporate,0₹,538,100
+WestBengal,Waterland,732101,TpmcOms,English,09:00,Budget,0₹,95,32
+WestBengal,Waterland,732101,TpmcOms,English,11:30,Executive,10₹,222,143
+WestBengal,Waterland,732101,TpmcOms,English,11:30,Corporate,10₹,538,100
+WestBengal,Waterland,732101,TpmcOms,English,11:30,Budget,5₹,95,32
+WestBengal,Waterland,732101,TpmcOms,English,15:00,Executive,0₹,222,143
+WestBengal,Waterland,732101,TpmcOms,English,15:00,Corporate,0₹,538,100
+WestBengal,Waterland,732101,TpmcOms,English,15:00,Budget,0₹,95,32
+WestBengal,Waterland,732101,TpmcOms,English,18:30,Executive,10₹,222,143
+WestBengal,Waterland,732101,TpmcOms,English,18:30,Corporate,10₹,538,100
+WestBengal,Waterland,732101,TpmcOms,English,18:30,Budget,5₹,95,32
+WestBengal,Waterland,732101,TpmcOms,English,22:00,Executive,0₹,222,143
+WestBengal,Waterland,732101,TpmcOms,English,22:00,Corporate,0₹,538,100
+WestBengal,Waterland,732101,TpmcOms,English,22:00,Budget,0₹,95,32
