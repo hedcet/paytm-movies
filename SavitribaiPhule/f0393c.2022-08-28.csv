@@ -1,0 +1,9 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Gokak,591136,BasaveshwaraTheatre,Kannada,12:00,Balcony,51₹,130,110
+Karnataka,Gokak,591136,BasaveshwaraTheatre,Kannada,12:00,DressCircle,51₹,470,270
+Karnataka,Gokak,591136,BasaveshwaraTheatre,Kannada,15:00,Balcony,51₹,130,110
+Karnataka,Gokak,591136,BasaveshwaraTheatre,Kannada,15:00,DressCircle,51₹,470,270
+Karnataka,Gokak,591136,BasaveshwaraTheatre,Kannada,18:00,Balcony,51₹,130,110
+Karnataka,Gokak,591136,BasaveshwaraTheatre,Kannada,18:00,DressCircle,51₹,470,270
+Karnataka,Gokak,591136,BasaveshwaraTheatre,Kannada,21:00,Balcony,51₹,130,110
+Karnataka,Gokak,591136,BasaveshwaraTheatre,Kannada,21:00,DressCircle,51₹,470,270
