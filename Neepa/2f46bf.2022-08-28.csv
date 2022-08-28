@@ -1,0 +1,7 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Trivandrum,695581,CarnivalGreenfieldCinemaKaryavattom,Malayalam,10:10,ExecutiveOffline,140₹,119,0
+Kerala,Thalassery,670101,CarnivalDowntownThalassery,Malayalam,10:15,ExecutiveOffline,140₹,135,16
+Kerala,Thalassery,670101,CarnivalDowntownThalassery,Malayalam,10:15,GoldOffline,200₹,7,0
+Kerala,Edappal,679576,SaradaMovies,Malayalam,11:00,Platinum,110₹,317,317
+Kerala,Thalayolaparambu,686605,CarnivalThalayolaparambu,Malayalam,21:30,Gold,110₹,144,0
+Kerala,Karunagappally,690518,CarnivalHJComplexLalajiJunction,Malayalam,22:10,ClassicOffline,170₹,118,1
