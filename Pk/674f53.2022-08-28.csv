@@ -1,0 +1,8 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+AndhraPradesh,Hyderabad,500072,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,Telugu,12:00,Classic,150₹,135,30
+AndhraPradesh,Hyderabad,500072,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,Telugu,12:00,Recliner,250₹,9,0
+AndhraPradesh,Kurnool,518001,InoxJyotiMallKurnool,Telugu,12:50,Executive,177₹,226,2
+AndhraPradesh,Vijayawada,520010,CapitalCinemasTrendsetMallKalaNagar,Telugu,13:00,Gold,295₹,27,0
+AndhraPradesh,Vijayawada,520010,CapitalCinemasTrendsetMallKalaNagar,Telugu,13:00,Silver,177₹,21,0
+AndhraPradesh,Kurnool,518001,InoxJyotiMallKurnool,Telugu,18:50,Executive,177₹,226,0
+AndhraPradesh,Vizag,530020,InoxChitralayaaMallChitralayaa,Telugu,19:05,Executive,177₹,124,0
