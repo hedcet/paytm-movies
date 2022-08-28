@@ -1,0 +1,11 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Ambasamudram,627425,ThaiCinesACDtsAmbasamudram,Tamil,11:30,BalconyNonAC,80₹,213,0
+TamilNadu,Ambasamudram,627425,ThaiCinesACDtsAmbasamudram,Tamil,11:30,ACClass,100₹,136,0
+TamilNadu,Chennai,600002,DeviCineplexAnnaSalai,Tamil,13:00,Quartz,152₹,242,12
+TamilNadu,Chennai,600002,DeviCineplexAnnaSalai,Tamil,13:00,Zircon,60₹,27,27
+TamilNadu,Ambasamudram,627425,ThaiCinesACDtsAmbasamudram,Tamil,14:30,BalconyNonAC,80₹,213,0
+TamilNadu,Ambasamudram,627425,ThaiCinesACDtsAmbasamudram,Tamil,14:30,ACClass,100₹,136,0
+TamilNadu,Ambasamudram,627425,ThaiCinesACDtsAmbasamudram,Tamil,18:30,BalconyNonAC,80₹,213,0
+TamilNadu,Ambasamudram,627425,ThaiCinesACDtsAmbasamudram,Tamil,18:30,ACClass,100₹,136,0
+TamilNadu,Ambasamudram,627425,ThaiCinesACDtsAmbasamudram,Tamil,22:30,BalconyNonAC,80₹,213,0
+TamilNadu,Ambasamudram,627425,ThaiCinesACDtsAmbasamudram,Tamil,22:30,ACClass,100₹,136,0
