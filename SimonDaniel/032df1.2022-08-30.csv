@@ -1,0 +1,10 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Kochi,SaritaCinemasKacheripady,Malayalam,10:00,Deluxe,180₹,555,531
+Kerala,Kochi,SaritaCinemasKacheripady,Malayalam,10:00,RoseCircle,180₹,115,115
+Kerala,Kochi,SaritaCinemasKacheripady,Malayalam,10:00,Deluxe,150₹,555,531
+Kerala,Kochi,SaritaCinemasKacheripady,Malayalam,10:00,RoseCircle,150₹,115,115
+Kerala,Payyanur,AradhanaArchanaMovieHousePayyanur,Malayalam,16:30,Balcony,130₹,144,0
+Kerala,Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,17:05,Club,170₹,66,2
+Kerala,Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,17:05,Executive,130₹,22,0
+Kerala,Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,17:05,RoyalRecliner,290₹,10,0
+Kerala,Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,17:05,Royal,170₹,13,8
