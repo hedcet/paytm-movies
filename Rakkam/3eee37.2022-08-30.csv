@@ -1,0 +1,9 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Belur,SriRenukaTalkies,Kannada,10:00,Balcony,120₹,48,24
+Karnataka,Belur,SriRenukaTalkies,Kannada,10:00,FirstClass,100₹,310,210
+Karnataka,Belur,SriRenukaTalkies,Kannada,13:00,Balcony,120₹,48,0
+Karnataka,Belur,SriRenukaTalkies,Kannada,13:00,FirstClass,100₹,310,0
+Karnataka,Belur,SriRenukaTalkies,Kannada,16:00,Balcony,120₹,48,0
+Karnataka,Belur,SriRenukaTalkies,Kannada,16:00,FirstClass,100₹,310,0
+Karnataka,Belur,SriRenukaTalkies,Kannada,19:00,Balcony,120₹,48,0
+Karnataka,Belur,SriRenukaTalkies,Kannada,19:00,FirstClass,100₹,310,0
