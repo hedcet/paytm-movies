@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Rajasthan,Sujangarh,ChhotuMaharajSujangarh,Tamil,07:00,Ca,1₹,75,0
+Rajasthan,Sujangarh,ChhotuMaharajSujangarh,Tamil,07:00,Pe,1₹,25,0
+Rajasthan,Sikar,ChhotuMaharajSikar,Tamil,09:00,Cl,1₹,68,4
+Rajasthan,Sikar,ChhotuMaharajSikar,Tamil,09:00,Pr,1₹,32,0
