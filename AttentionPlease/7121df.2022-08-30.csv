@@ -1,0 +1,6 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Kochi,SaritaCinemasKacheripady,Malayalam,10:00,BlueCircle,150₹,227,218
+Kerala,Kariyad,CarnivalCinemasKariyad,Malayalam,10:30,ExecutiveOffline,110₹,96,0
+Kerala,Kariyad,CarnivalCinemasKariyad,Malayalam,10:30,GoldLounge,190₹,32,6
+Kerala,Kochi,SaritaCinemasKacheripady,Malayalam,15:00,Deluxe,150₹,555,531
+Kerala,Kochi,SaritaCinemasKacheripady,Malayalam,15:00,RoseCircle,150₹,115,115
