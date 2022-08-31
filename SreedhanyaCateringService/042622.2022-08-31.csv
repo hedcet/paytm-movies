@@ -1,0 +1,7 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Karunagappally,CarnivalHJComplexLalajiJunction,Malayalam,12:45,ClassicOffline,100₹,118,15
+Kerala,Trivandrum,CarnivalGreenfieldCinemaKaryavattom,Malayalam,15:45,ExecutiveOffline,160₹,119,0
+Kerala,Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,16:20,Club,170₹,63,0
+Kerala,Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,16:20,Executive,130₹,22,0
+Kerala,Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,16:20,RoyalRecliner,290₹,10,0
+Kerala,Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,16:20,Royal,170₹,16,0
