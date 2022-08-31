@@ -1,0 +1,17 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,10:00,Balcony,100₹,307,205
+Karnataka,Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,10:00,FirstClass,80₹,555,555
+Karnataka,Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,10:00,SecondClass,40₹,202,202
+Karnataka,Mysuru,LidoTheatreMysore,Kannada,10:30,Balcony,120₹,244,0
+Karnataka,Mysuru,LidoTheatreMysore,Kannada,10:30,Second,100₹,456,0
+Karnataka,Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,13:00,Balcony,100₹,307,205
+Karnataka,Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,13:00,FirstClass,80₹,555,555
+Karnataka,Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,13:00,SecondClass,40₹,202,202
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,13:15,Classic,200₹,85,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,13:15,Prime,220₹,20,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,13:15,Recliner,350₹,9,0
+Karnataka,Mysuru,LidoTheatreMysore,Kannada,13:30,Balcony,120₹,244,0
+Karnataka,Mysuru,LidoTheatreMysore,Kannada,13:30,Second,100₹,456,0
+Karnataka,Hubli,ShringarCinemaHubli,Kannada,15:00,Balcony,150₹,190,84
+Karnataka,Hubli,ShringarCinemaHubli,Kannada,15:00,DressCircle,100₹,504,112
+Karnataka,Mangalore,PvrNexusMallPandeshwarMangalore,Kannada,21:30,Classic,150₹,71,0
