@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NewDelhi,InoxNehruPlace,English,19:30,Club,150₹,75,75
+Delhi,NewDelhi,InoxNehruPlace,English,19:30,Executive,150₹,70,70
+Delhi,NewDelhi,InoxNehruPlace,English,19:30,Royal,150₹,21,21
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,19:30,Executive,112₹,32,32
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,19:30,Premiere,112₹,125,125
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,19:30,Silver,112₹,76,76
