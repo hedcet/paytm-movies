@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,13:20,Executive,150₹,69,3
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,13:20,Premium,150₹,29,23
+Karnataka,Hubli,ShringarCinemaHubli,Kannada,18:00,Balcony,150₹,190,84
+Karnataka,Hubli,ShringarCinemaHubli,Kannada,18:00,DressCircle,100₹,504,112
+Karnataka,Gundlupet,SriVenkateshwaraChitramandiraGundlupet,Kannada,19:30,Balcony,100₹,165,82
+Karnataka,Gundlupet,SriVenkateshwaraChitramandiraGundlupet,Kannada,19:30,First,80₹,517,517
+Karnataka,Hubli,ShringarCinemaHubli,Kannada,21:00,Balcony,150₹,190,84
+Karnataka,Hubli,ShringarCinemaHubli,Kannada,21:00,DressCircle,100₹,504,112
