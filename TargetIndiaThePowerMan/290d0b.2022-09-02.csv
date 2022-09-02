@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Ghaziabad,ApsaraCinemaDilshadGardenBorder,Hindi,12:00,Gold,110₹,340,146
+UttarPradesh,Gonda,KunwarPicturePalaceMultiplex,Hindi,13:00,Diamond,200₹,100,0
+UttarPradesh,Gonda,KunwarPicturePalaceMultiplex,Hindi,13:00,Gold,160₹,100,0
+UttarPradesh,Ghaziabad,ApsaraCinemaDilshadGardenBorder,Hindi,15:00,Gold,110₹,340,146
+UttarPradesh,Gonda,KunwarPicturePalaceMultiplex,Hindi,16:00,Diamond,200₹,100,0
+UttarPradesh,Gonda,KunwarPicturePalaceMultiplex,Hindi,16:00,Gold,160₹,100,0
