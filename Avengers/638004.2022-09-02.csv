@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kozhinjampara,RavirajComplexACKozhinjampara,Malayalam,11:00,FirstClass,110₹,163,52
+Kerala,Trivandrum,CarnivalGreenfieldCinemaKaryavattom,Malayalam,11:50,ExecutiveOffline,160₹,119,25
+Kerala,Perinthalmanna,PlazaCinemasPerinthalmanna,Malayalam,13:00,Platinum,120₹,151,0
+Kerala,Thalayolaparambu,CarnivalThalayolaparambu,Malayalam,13:15,Gold,110₹,204,8
+Kerala,Kodungallur,CarnivalMughalMallStarNagar,Malayalam,14:45,ExecutiveOffline,140₹,225,29
+Kerala,Manjeri,LadderCinemasIndianMall,Malayalam,17:00,Executive,150₹,114,0
+Kerala,Kochi,SaritaCinemasKacheripady,Malayalam,18:00,BlueCircle,150₹,227,218
+Kerala,Kozhinjampara,RavirajComplexACKozhinjampara,Malayalam,18:00,FirstClass,110₹,163,52
+Kerala,SultanBathery,AiswaryaAthulyaAiswaryaCineplexSulthanBathery,Malayalam,19:15,SofaSeat,170₹,44,0
+Kerala,SultanBathery,AiswaryaAthulyaAiswaryaCineplexSulthanBathery,Malayalam,19:15,GoldClass,110₹,63,40
+Kerala,Manjeri,LadderCinemasIndianMall,Malayalam,22:00,Executive,150₹,114,0
