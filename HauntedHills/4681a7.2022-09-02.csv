@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,ChhotuMaharajCineRestaurantThaltej,Hindi,12:30,Gl,112₹,72,0
+Gujarat,Ahmedabad,ChhotuMaharajCineRestaurantThaltej,Hindi,12:30,Pl,112₹,28,0
+Gujarat,Ahmedabad,ChhotuMaharajCineRestaurantThaltej,Hindi,15:30,Gl,112₹,72,0
+Gujarat,Ahmedabad,ChhotuMaharajCineRestaurantThaltej,Hindi,15:30,Pl,112₹,28,2
+Gujarat,Ahmedabad,ChhotuMaharajCineRestaurantThaltej,Hindi,18:30,Gl,112₹,72,0
+Gujarat,Ahmedabad,ChhotuMaharajCineRestaurantThaltej,Hindi,18:30,Pl,112₹,28,0
+Gujarat,Ahmedabad,ChhotuMaharajCineRestaurantThaltej,Hindi,21:30,Gl,112₹,72,0
+Gujarat,Ahmedabad,ChhotuMaharajCineRestaurantThaltej,Hindi,21:30,Pl,112₹,28,0
