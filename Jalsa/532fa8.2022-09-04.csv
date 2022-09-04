@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Nandyal,RajPicturePalaceNandyal,Telugu,11:30,Delux,70₹,252,84
+AndhraPradesh,Nandyal,RajPicturePalaceNandyal,Telugu,11:30,NonDelux,50₹,270,0
+AndhraPradesh,Nandyal,RajPicturePalaceNandyal,Telugu,14:30,Delux,70₹,252,64
+AndhraPradesh,Nandyal,RajPicturePalaceNandyal,Telugu,14:30,NonDelux,50₹,270,0
+AndhraPradesh,Nandyal,RajPicturePalaceNandyal,Telugu,18:30,Delux,70₹,252,60
+AndhraPradesh,Nandyal,RajPicturePalaceNandyal,Telugu,18:30,NonDelux,50₹,270,0
+AndhraPradesh,Vijayawada,G3TheatresRajYuvraj,Telugu,19:30,Recliner,295₹,27,17
+AndhraPradesh,Vijayawada,G3TheatresRajYuvraj,Telugu,19:30,Gold,177₹,293,88
+AndhraPradesh,Nandyal,RajPicturePalaceNandyal,Telugu,21:30,Delux,70₹,252,60
+AndhraPradesh,Nandyal,RajPicturePalaceNandyal,Telugu,21:30,NonDelux,50₹,270,0
