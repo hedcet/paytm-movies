@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Huvinahadagali,GayathriTheatre,Kannada,10:30,FirstClass,81₹,200,0
+Karnataka,Bengaluru,SantoshTheatreGandhinagar,Kannada,10:30,Balcony,150₹,272,212
+Karnataka,Bengaluru,SantoshTheatreGandhinagar,Kannada,10:30,SecondClass,100₹,720,614
+Karnataka,Talikoti,AmirTheatre,Kannada,12:00,DressCircle,100₹,250,150
+Karnataka,Huvinahadagali,GayathriTheatre,Kannada,13:30,FirstClass,81₹,200,0
+Karnataka,Bengaluru,SantoshTheatreGandhinagar,Kannada,13:30,Balcony,150₹,272,212
+Karnataka,Bengaluru,SantoshTheatreGandhinagar,Kannada,13:30,SecondClass,100₹,720,614
+Karnataka,Talikoti,AmirTheatre,Kannada,15:00,DressCircle,100₹,250,150
+Karnataka,Bengaluru,SantoshTheatreGandhinagar,Kannada,16:30,Balcony,150₹,272,212
+Karnataka,Bengaluru,SantoshTheatreGandhinagar,Kannada,16:30,SecondClass,100₹,720,614
+Karnataka,Huvinahadagali,GayathriTheatre,Kannada,17:30,FirstClass,81₹,200,0
+Karnataka,Talikoti,AmirTheatre,Kannada,18:00,DressCircle,100₹,250,150
+Karnataka,Bengaluru,SantoshTheatreGandhinagar,Kannada,19:30,Balcony,150₹,272,212
+Karnataka,Bengaluru,SantoshTheatreGandhinagar,Kannada,19:30,SecondClass,100₹,720,614
+Karnataka,Huvinahadagali,GayathriTheatre,Kannada,20:30,FirstClass,81₹,200,0
+Karnataka,Talikoti,AmirTheatre,Kannada,21:00,DressCircle,100₹,250,150
