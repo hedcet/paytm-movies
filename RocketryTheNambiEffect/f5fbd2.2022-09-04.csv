@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Uttaranchal,Rudrapur,FunCinemasRaveCinemaRudrapur,Hindi,09:15,Platinum,200₹,8,0
+Uttaranchal,Rudrapur,FunCinemasRaveCinemaRudrapur,Hindi,09:15,Gold,100₹,17,0
+Uttaranchal,Rudrapur,FunCinemasRaveCinemaRudrapur,Hindi,09:15,Silver,100₹,78,0
+Uttaranchal,Rudrapur,FunCinemasRaveCinemaRudrapur,Hindi,09:30,Gold,100₹,15,0
+Uttaranchal,Rudrapur,FunCinemasRaveCinemaRudrapur,Hindi,09:30,Silver,100₹,65,0
+UttarPradesh,Lucknow,PvrPhoenixUnitedMallAlambagh,Hindi,10:40,Classic,99₹,380,97
+UttarPradesh,Lucknow,PvrPhoenixUnitedMallAlambagh,Hindi,10:40,Prime,99₹,28,26
+UttarPradesh,Lucknow,PvrPhoenixUnitedMallAlambagh,Hindi,10:40,Recliner,149₹,12,12
+WestBengal,Waterland,TpmcTest9002Malda,Tamil,11:30,Corporate,152₹,307,151
+UttarPradesh,GreaterNoida,PvrGaurCityGreaterNoida,Hindi,14:35,Classic,99₹,87,9
+UttarPradesh,GreaterNoida,PvrGaurCityGreaterNoida,Hindi,14:35,Prime,99₹,13,7
+UttarPradesh,Noida,PvrLogixCityCentreNoida,Hindi,20:40,Classic,99₹,119,20
