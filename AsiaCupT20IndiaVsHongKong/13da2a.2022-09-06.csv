@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Sirsa,OhmCineGardenHissarRoad,Hindi,19:30,GoldExecutive,200₹,62,23
+Haryana,Sirsa,OhmCineGardenHissarRoad,Hindi,19:30,Gold,200₹,85,27
+Haryana,Sirsa,OhmCineGardenHissarRoad,Hindi,19:30,Silver,150₹,68,34
