@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Sanand,ArthMultiplexSanand,Gujarati,09:00,Gold,50₹,74,0
+Gujarat,Sanand,ArthMultiplexSanand,Gujarati,09:00,Silver,50₹,51,0
+Gujarat,Sanand,ArthMultiplexSanand,Gujarati,15:30,Gold,50₹,74,0
+Gujarat,Sanand,ArthMultiplexSanand,Gujarati,15:30,Silver,50₹,51,16
+Gujarat,Sanand,ArthMultiplexSanand,Gujarati,18:30,Gold,50₹,74,0
+Gujarat,Sanand,ArthMultiplexSanand,Gujarati,18:30,Silver,50₹,51,16
