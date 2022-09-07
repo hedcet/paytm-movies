@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Waterland,TpmcTest9002Malda,Tamil,18:30,Corporate,152₹,307,151
+Jharkhand,Jamshedpur,PjpCinepolisCityCentreMallMauja,Hindi,21:10,Normal,180₹,28,0
+Jharkhand,Jamshedpur,PjpCinepolisCityCentreMallMauja,Hindi,21:10,Executive,200₹,58,0
+Jharkhand,Jamshedpur,PjpCinepolisCityCentreMallMauja,Hindi,21:10,Premium,220₹,78,0
+Jharkhand,Jamshedpur,PjpCinepolisCityCentreMallMauja,Hindi,21:10,Vip,400₹,12,0
