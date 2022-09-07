@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Jhansi,NatarajCinemaCivilLines,Hindi,10:00,Executive,230₹,146,19
+UttarPradesh,Jhansi,NatarajCinemaCivilLines,Hindi,18:30,Executive,250₹,146,19
+Rajasthan,Jaipur,CinepolisWorldTradeParkMalviyaNagar,English,19:25,Normal,150₹,39,0
+Rajasthan,Jaipur,CinepolisWorldTradeParkMalviyaNagar,English,19:25,Executive,150₹,127,0
+Rajasthan,Jaipur,CinepolisWorldTradeParkMalviyaNagar,English,19:25,Premium,150₹,43,10
+Rajasthan,Jaipur,CinepolisWorldTradeParkMalviyaNagar,English,19:25,Vip,300₹,13,3
+Delhi,NewDelhi,CinepolisDlfAvenueSaket,English,20:00,Normal,150₹,42,0
+Delhi,NewDelhi,CinepolisDlfAvenueSaket,English,20:00,Executive,150₹,59,0
+Delhi,NewDelhi,CinepolisDlfAvenueSaket,English,20:00,Vip,300₹,5,0
+Delhi,NewDelhi,CinepolisDlfAvenueSaket,English,20:00,Premium,150₹,44,4
+UttarPradesh,Jhansi,NatarajCinemaCivilLines,Hindi,21:30,Executive,250₹,146,19
