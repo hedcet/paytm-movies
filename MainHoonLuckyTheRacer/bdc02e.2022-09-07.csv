@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,LaliCinemaBarasat,Hindi,19:30,DressCircle,110₹,22,16
+WestBengal,Kolkata,LaliCinemaBarasat,Hindi,19:30,Balcony,70₹,169,142
+WestBengal,Kolkata,LaliCinemaBarasat,Hindi,19:30,RearStall,50₹,270,216
