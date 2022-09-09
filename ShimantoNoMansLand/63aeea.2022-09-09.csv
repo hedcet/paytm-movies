@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,16:00,Balcony,50₹,264,33
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,16:00,FirstClass,30₹,513,30
+WestBengal,CoochBehar,NewCinemaBangchatraRoad,Bengali,18:45,Balcony,80₹,87,45
