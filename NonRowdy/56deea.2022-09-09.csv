@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,10:05,Classic,112₹,140,6
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,10:05,Prime,150₹,120,20
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,10:05,Recliner,280₹,33,7
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,10:45,Classic,112₹,85,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,10:45,Prime,140₹,20,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,10:45,Recliner,250₹,13,0
+Karnataka,Mysuru,PvrNexusMallCentreCityMysuru,Kannada,11:45,Classic,160₹,119,0
+Karnataka,Bengaluru,PvrVegaBannerghattaRoad,Kannada,12:45,Classic,200₹,73,0
+Karnataka,Bengaluru,PvrVegaBannerghattaRoad,Kannada,12:45,Recliner,350₹,9,0
+Karnataka,Mysuru,PvrNexusMallCentreCityMysuru,Kannada,12:50,Classic,150₹,119,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,13:15,Executive,150₹,69,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,13:15,Premium,150₹,29,0
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,Kannada,13:45,Club,190₹,260,15
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,Kannada,13:45,Royal,320₹,9,0
