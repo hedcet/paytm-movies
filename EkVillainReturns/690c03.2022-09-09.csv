@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,Hindi,09:00,Club,170₹,112,1
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,Hindi,09:00,Executive,150₹,26,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,Hindi,09:00,RoyaleRecliners,350₹,8,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,Hindi,09:00,Royale,190₹,60,0
+UttarPradesh,Lucknow,InoxLucknowCrownMall,Hindi,10:15,Club,140₹,95,4
+UttarPradesh,Lucknow,InoxLucknowCrownMall,Hindi,10:15,Executive,110₹,26,0
+UttarPradesh,Lucknow,InoxLucknowCrownMall,Hindi,10:15,RoyaleRecliners,280₹,13,0
+UttarPradesh,Lucknow,InoxLucknowCrownMall,Hindi,10:15,Royale,150₹,32,0
+UttarPradesh,Dhampur,ShielaTheatreBijnor,Hindi,12:00,Balcony,100₹,199,142
+UttarPradesh,Dhampur,ShielaTheatreBijnor,Hindi,15:00,Balcony,100₹,199,142
+UttarPradesh,Dhampur,ShielaTheatreBijnor,Hindi,18:00,Balcony,100₹,199,142
+UttarPradesh,Dhampur,ShielaTheatreBijnor,Hindi,21:00,Balcony,100₹,199,142
