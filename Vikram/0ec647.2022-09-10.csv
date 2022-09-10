@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,11:30,Classic,60₹,16,15
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,11:30,Prime,190₹,110,109
+Chhattisgarh,Dhamtari,VimalDevshriCineplex,Hindi,12:00,Balcony,90₹,136,111
+Chhattisgarh,Dhamtari,VimalDevshriCineplex,Hindi,15:00,Balcony,90₹,136,111
+Chhattisgarh,Dhamtari,VimalDevshriCineplex,Hindi,18:00,Balcony,90₹,136,111
+TamilNadu,Chennai,AlbertComplexEgmore,Tamil,18:45,Box,109₹,28,28
+TamilNadu,Chennai,AlbertComplexEgmore,Tamil,18:45,Balcony,109₹,334,65
+TamilNadu,Chennai,AlbertComplexEgmore,Tamil,18:45,FirstClass,99₹,384,98
+TamilNadu,Chennai,AlbertComplexEgmore,Tamil,18:45,SecondClass,79₹,288,7
+TamilNadu,Chennai,AlbertComplexEgmore,Tamil,18:45,ThirdClass,50₹,80,40
+Chhattisgarh,Dhamtari,VimalDevshriCineplex,Hindi,21:00,Balcony,90₹,136,111
