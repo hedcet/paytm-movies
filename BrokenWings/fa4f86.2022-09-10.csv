@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Darjeeling,InoxRinkMallLadenLaRoad,Nepali,14:30,Box,210₹,4,0
+WestBengal,Darjeeling,InoxRinkMallLadenLaRoad,Nepali,14:30,Economy,150₹,53,0
+WestBengal,Darjeeling,InoxRinkMallLadenLaRoad,Nepali,14:30,Executive,150₹,160,0
+WestBengal,Darjeeling,InoxRinkMallLadenLaRoad,Nepali,14:30,Royal,170₹,53,2
+WestBengal,Siliguri,InoxCityCentreMatigara,Nepali,16:00,Club,280₹,176,6
+WestBengal,Siliguri,InoxCityCentreMatigara,Nepali,16:00,Executive,250₹,32,0
+WestBengal,Siliguri,InoxCityCentreMatigara,Nepali,16:00,Royale,370₹,10,5
