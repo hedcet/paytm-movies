@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,09:00,Gold,100₹,169,0
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,09:00,Gold,100₹,38,0
+Gujarat,Ahmedabad,ConnplexSmartScienceCity,Gujarati,10:15,Miller,100₹,100,0
+Gujarat,Ahmedabad,ConnplexSmartScienceCity,Gujarati,10:15,Lounger,100₹,100,0
+Gujarat,Ahmedabad,ConnplexSmartScienceCity,Gujarati,13:45,Miller,150₹,45,37
+Gujarat,Ahmedabad,ConnplexSmartScienceCity,Gujarati,13:45,Lounger,150₹,9,0
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,18:15,Gold,100₹,169,0
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,18:15,Gold,100₹,38,0
