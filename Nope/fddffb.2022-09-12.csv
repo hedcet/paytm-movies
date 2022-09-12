@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Gurgaon,PvrMgfMall4DxGurgaon,English,12:10,Classic,250₹,84,0
+Maharashtra,Mumbai,PvrIconOberoiGoregaonE,English,13:30,Classic,140₹,45,0
+Maharashtra,Mumbai,PvrIconOberoiGoregaonE,English,13:30,Prime,160₹,147,18
+Maharashtra,Mumbai,PvrIconOberoiGoregaonE,English,13:30,Recliner,250₹,34,2
