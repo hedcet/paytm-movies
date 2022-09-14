@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Domkal,ZamanTalkiesDomkol,Hindi,13:00,Balcony,60₹,160,140
+WestBengal,Domkal,ZamanTalkiesDomkol,Hindi,13:00,RearStall,50₹,468,442
+WestBengal,Domkal,ZamanTalkiesDomkol,Hindi,16:00,Balcony,60₹,160,140
+WestBengal,Domkal,ZamanTalkiesDomkol,Hindi,16:00,RearStall,50₹,468,442
+WestBengal,Domkal,ZamanTalkiesDomkol,Hindi,19:00,Balcony,60₹,160,140
+WestBengal,Domkal,ZamanTalkiesDomkol,Hindi,19:00,RearStall,50₹,468,442
