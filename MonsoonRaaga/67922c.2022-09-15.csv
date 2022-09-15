@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,19:00,Classic,236₹,198,168
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,19:00,Prime,236₹,156,155
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,19:00,Recliner,500₹,39,38
+Karnataka,Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Kannada,19:20,Recliner,500₹,8,6
+Karnataka,Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Kannada,19:20,Classic,236₹,228,228
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,22:00,Classic,236₹,198,102
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,22:00,Prime,236₹,156,153
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,22:00,Recliner,500₹,39,31
+Karnataka,Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Kannada,22:20,Recliner,500₹,8,3
+Karnataka,Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Kannada,22:20,Classic,236₹,228,60
