@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,12:55,Classic,112₹,80,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,12:55,Prime,190₹,11,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,12:55,Recliner,360₹,12,0
+WestBengal,Kolkata,InoxMetropolisMallHilandPark,Bengali,14:35,Premier,140₹,36,0
+WestBengal,Kolkata,InoxMetropolisMallHilandPark,Bengali,14:35,Royal,300₹,14,0
+WestBengal,Kolkata,InoxMetropolisMallHilandPark,Bengali,14:35,Silver,140₹,145,2
+WestBengal,Kolkata,InoxStarMallMadhyamgram,Bengali,16:30,Club,140₹,92,4
+WestBengal,Kolkata,InoxStarMallMadhyamgram,Bengali,16:30,Executive,140₹,32,0
+WestBengal,Kolkata,InoxStarMallMadhyamgram,Bengali,16:30,Royal,180₹,63,2
