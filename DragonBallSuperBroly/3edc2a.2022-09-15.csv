@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,TimeCinemaCgRoad,English,09:05,Standard170,170₹,108,8
+Gujarat,Ahmedabad,TimeCinemaCgRoad,English,11:30,Standard190,190₹,108,8
+Gujarat,Ahmedabad,TimeCinemaCgRoad,English,15:35,Infinity1100,"1,100₹",12,0
+Gujarat,Ahmedabad,TimeCinemaCgRoad,English,19:40,Standard280,280₹,108,8
