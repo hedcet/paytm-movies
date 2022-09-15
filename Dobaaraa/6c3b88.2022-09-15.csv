@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,InoxForumMallElginRoad,Hindi,13:05,DressCircle,170₹,100,1
+WestBengal,Kolkata,InoxForumMallElginRoad,Hindi,13:05,Galleria,170₹,28,0
+WestBengal,Kolkata,InoxForumMallElginRoad,Hindi,13:05,Royal,170₹,33,0
