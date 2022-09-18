@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Punalur,CarnivalDMallPunalur,Malayalam,10:45,Silver,130₹,140,0
+Kerala,Punalur,CarnivalDMallPunalur,Malayalam,10:45,Gold,200₹,11,0
+Kerala,Kodungallur,CarnivalMughalMallStarNagar,Malayalam,11:00,ExecutiveOffline,100₹,225,29
+Kerala,Kochi,SaritaCinemasKacheripady,Malayalam,12:00,BlueCircle,150₹,227,218
+Kerala,Kattanam,GanamTheatreComplexACKattanam,Malayalam,13:17,FirstClass,110₹,129,129
+Kerala,Thalayolaparambu,CarnivalThalayolaparambu,Malayalam,15:00,Gold,110₹,144,6
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,16:30,NormalOffline,100₹,18,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,16:30,ExecutiveOffline,180₹,72,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,16:30,Silver,210₹,103,6
+Kerala,Karunagappally,CarnivalHJComplexLalajiJunction,Malayalam,17:15,ClassicOffline,170₹,118,4
