@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,InoxTheMarinaMallOmrEgatoor,Telugu,16:10,Club,202₹,126,0
+TamilNadu,Chennai,InoxTheMarinaMallOmrEgatoor,Telugu,16:10,Executive,63₹,16,2
+AndhraPradesh,Vizag,JagadambaComplexDabaGardens,Telugu,22:00,PremiumClass,145₹,586,554
+AndhraPradesh,Vizag,JagadambaComplexDabaGardens,Telugu,22:00,NonPremiumClass,100₹,430,430
