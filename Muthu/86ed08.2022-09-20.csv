@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Vizag,SriLakshminarasimhaPicturePalace104Area,Telugu,10:45,Premium,145₹,339,176
+AndhraPradesh,Vizag,SriLakshminarasimhaPicturePalace104Area,Telugu,10:45,NonPremium,100₹,116,0
+AndhraPradesh,Amalapuram,SriVenkataramana2KACDts,Telugu,11:15,ReservedClass,110₹,378,0
+AndhraPradesh,Amalapuram,SriVenkataramana2KACDts,Telugu,11:15,ReservedClass,110₹,378,0
+AndhraPradesh,Mandapeta,AmbicaTheatres2KACDtsGandhiNagar,Telugu,11:15,FirstClass,110₹,558,256
+AndhraPradesh,Vizag,SriLakshminarasimhaPicturePalace104Area,Telugu,14:00,Premium,145₹,339,176
+AndhraPradesh,Vizag,SriLakshminarasimhaPicturePalace104Area,Telugu,14:00,NonPremium,100₹,116,0
+AndhraPradesh,Amalapuram,SriVenkataramana2KACDts,Telugu,14:15,ReservedClass,110₹,378,0
+AndhraPradesh,Amalapuram,SriVenkataramana2KACDts,Telugu,14:15,ReservedClass,110₹,378,0
+AndhraPradesh,Mandapeta,AmbicaTheatres2KACDtsGandhiNagar,Telugu,14:30,FirstClass,110₹,558,256
+AndhraPradesh,Amalapuram,SriVenkataramana2KACDts,Telugu,18:15,ReservedClass,110₹,378,0
+AndhraPradesh,Amalapuram,SriVenkataramana2KACDts,Telugu,18:15,ReservedClass,110₹,378,0
+AndhraPradesh,Mandapeta,AmbicaTheatres2KACDtsGandhiNagar,Telugu,18:15,FirstClass,110₹,558,256
+AndhraPradesh,Amalapuram,SriVenkataramana2KACDts,Telugu,21:15,ReservedClass,110₹,378,0
+AndhraPradesh,Amalapuram,SriVenkataramana2KACDts,Telugu,21:15,ReservedClass,110₹,378,0
+AndhraPradesh,Mandapeta,AmbicaTheatres2KACDtsGandhiNagar,Telugu,21:30,FirstClass,110₹,558,256
