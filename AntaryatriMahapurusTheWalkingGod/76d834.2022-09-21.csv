@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Hindi,09:45,Normal,200₹,37,0
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Hindi,09:45,Executive,200₹,45,0
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Hindi,09:45,Premium,200₹,54,23
+UttarPradesh,Muzaffarnagar,CarnivalAsjGrandPlazaMallBhopaRoad,Hindi,19:00,Club,220₹,151,22
+UttarPradesh,Muzaffarnagar,CarnivalAsjGrandPlazaMallBhopaRoad,Hindi,19:00,Premium,190₹,90,0
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Hindi,21:15,Normal,200₹,36,36
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Hindi,21:15,Executive,230₹,78,78
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Hindi,21:15,Premium,250₹,53,53
