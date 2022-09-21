@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kalwakurthy,NationalTheatre,Telugu,11:00,Balcony,100₹,180,130
+AndhraPradesh,Kalwakurthy,NationalTheatre,Telugu,14:00,Balcony,100₹,180,131
+AndhraPradesh,Kalwakurthy,NationalTheatre,Telugu,18:00,Balcony,100₹,180,130
+AndhraPradesh,Kalwakurthy,NationalTheatre,Telugu,21:00,Balcony,100₹,180,130
