@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Waterland,TpmcOms,Hindi,18:30,Executive,650₹,222,143
+WestBengal,Waterland,TpmcOms,Hindi,18:30,Corporate,700₹,538,100
+WestBengal,Waterland,TpmcOms,Hindi,18:30,Budget,800₹,95,32
