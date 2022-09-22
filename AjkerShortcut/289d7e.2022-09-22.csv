@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,InoxMetropolisMallHilandPark,Bengali,14:50,Premier,90₹,36,0
+WestBengal,Kolkata,InoxMetropolisMallHilandPark,Bengali,14:50,Royal,90₹,14,1
+WestBengal,Kolkata,InoxMetropolisMallHilandPark,Bengali,14:50,Silver,90₹,143,2
+WestBengal,Kolkata,CarnivalSaltLake,Bengali,15:25,Silver,89₹,190,2
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,16:00,Balcony,50₹,264,33
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,16:00,FirstClass,30₹,513,30
+WestBengal,Kolkata,InoxStarMallMadhyamgram,Bengali,16:45,Club,112₹,92,0
+WestBengal,Kolkata,InoxStarMallMadhyamgram,Bengali,16:45,Executive,112₹,32,0
+WestBengal,Kolkata,InoxStarMallMadhyamgram,Bengali,16:45,Royal,112₹,63,2
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,16:50,Classic,100₹,80,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,16:50,Prime,100₹,11,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,16:50,Recliner,360₹,12,0
+WestBengal,Burdwan,InoxBurdwanArcadeBBGhoshRoad,Bengali,18:45,Club,150₹,72,0
+WestBengal,Burdwan,InoxBurdwanArcadeBBGhoshRoad,Bengali,18:45,Executive,150₹,36,0
+WestBengal,Burdwan,InoxBurdwanArcadeBBGhoshRoad,Bengali,18:45,Royal,150₹,40,0
