@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,CoochBehar,BhavaniCinemaKeshavRoad,Hindi,10:15,Special,100₹,316,158
+WestBengal,Berachampa,BanirupaCinemaTakiRoad,Hindi,12:00,UpperStall,60₹,25,0
+WestBengal,Berachampa,BanirupaCinemaTakiRoad,Hindi,12:00,LowerStall,50₹,25,0
+WestBengal,CoochBehar,BhavaniCinemaKeshavRoad,Hindi,13:00,Special,100₹,316,158
+WestBengal,Berachampa,BanirupaCinemaTakiRoad,Hindi,14:45,UpperStall,60₹,25,0
+WestBengal,Berachampa,BanirupaCinemaTakiRoad,Hindi,14:45,LowerStall,50₹,25,0
+WestBengal,Berachampa,BanirupaCinemaTakiRoad,Hindi,17:30,UpperStall,60₹,25,0
+WestBengal,Berachampa,BanirupaCinemaTakiRoad,Hindi,17:30,LowerStall,50₹,25,0
