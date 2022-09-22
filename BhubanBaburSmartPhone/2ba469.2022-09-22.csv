@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Domkal,ZamanTalkiesDomkol,Bengali,13:00,Balcony,60₹,160,140
+WestBengal,Domkal,ZamanTalkiesDomkol,Bengali,13:00,RearStall,50₹,468,442
+WestBengal,Domkal,ZamanTalkiesDomkol,Bengali,16:00,Balcony,60₹,160,140
+WestBengal,Domkal,ZamanTalkiesDomkol,Bengali,16:00,RearStall,50₹,468,442
+WestBengal,Domkal,ZamanTalkiesDomkol,Bengali,19:00,Balcony,60₹,160,140
+WestBengal,Domkal,ZamanTalkiesDomkol,Bengali,19:00,RearStall,50₹,468,442
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,19:40,Classic,100₹,80,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,19:40,Prime,100₹,11,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,19:40,Recliner,360₹,12,0
