@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,10:00,Classic,75₹,49,46
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,English,12:10,Kiddles,75₹,36,19
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,Hindi,12:40,Club,340₹,16,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,Hindi,12:40,Royal,340₹,60,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,12:40,Club,200₹,16,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,12:40,Royal,200₹,60,10
+Punjab,Ludhiana,PvrPavilionMallLudhiana,English,16:30,Classic,75₹,124,124
+AndhraPradesh,Hyderabad,PvrNextGalleriaMallPanjagutta,English,19:20,Classic,112₹,54,42
