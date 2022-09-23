@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,13:15,3DClassic,75₹,103,103
+Delhi,NewDelhi,PvrVegasDwarka,English,13:55,Recliner,200₹,8,8
+Delhi,NewDelhi,PvrVegasDwarka,English,13:55,Prime,75₹,21,21
+Delhi,NewDelhi,PvrVegasDwarka,English,13:55,Classic,75₹,36,36
+AndhraPradesh,Hyderabad,PvrNextGalleriaMallPanjagutta,English,14:35,Classic,112₹,54,28
+Karnataka,Bengaluru,PvrVegaBannerghattaRoad,English,15:10,3DClassic,75₹,66,66
+Haryana,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,17:00,Normal,75₹,30,8
+Haryana,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,17:00,DoubleSofa,75₹,24,19
+Haryana,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,17:00,Lounger,75₹,8,5
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,18:20,Classic,75₹,49,47
