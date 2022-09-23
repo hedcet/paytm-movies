@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Chhattisgarh,Pendra,PoojaShreeCineplexPendra,Chhattisgarhi,12:00,Diamond,150₹,93,78
+Chhattisgarh,Pendra,PoojaShreeCineplexPendra,Chhattisgarhi,12:00,Gold,120₹,60,60
+Chhattisgarh,Pendra,PoojaShreeCineplexPendra,Chhattisgarhi,12:00,Silver,100₹,60,60
+Chhattisgarh,Pendra,PoojaShreeCineplexPendra,Chhattisgarhi,15:00,Diamond,150₹,93,78
+Chhattisgarh,Pendra,PoojaShreeCineplexPendra,Chhattisgarhi,15:00,Gold,120₹,60,60
+Chhattisgarh,Pendra,PoojaShreeCineplexPendra,Chhattisgarhi,15:00,Silver,100₹,60,60
