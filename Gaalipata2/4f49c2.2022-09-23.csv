@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Kannada,08:50,Recliner,200₹,8,0
+Karnataka,Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Kannada,08:50,Classic,75₹,228,13
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,13:10,Normal,75₹,9,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,13:10,Executive,75₹,81,42
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,13:10,Premium,75₹,33,32
+Karnataka,Bengaluru,CinepolisRoyalMeenakshiMallBannerghattaRoad,Kannada,13:15,Normal,75₹,24,24
+Karnataka,Bengaluru,CinepolisRoyalMeenakshiMallBannerghattaRoad,Kannada,13:15,Executive,75₹,50,50
+Karnataka,Bengaluru,CinepolisRoyalMeenakshiMallBannerghattaRoad,Kannada,13:15,Premium,75₹,38,38
+Karnataka,Hubli,CinepolisUrbanOasisMallHubli,Kannada,13:20,Normal,75₹,38,21
+Karnataka,Hubli,CinepolisUrbanOasisMallHubli,Kannada,13:20,Executive,75₹,103,102
+Karnataka,Hubli,CinepolisUrbanOasisMallHubli,Kannada,13:20,Premium,75₹,62,61
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,21:45,Classic,75₹,108,108
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,21:45,Prime,75₹,99,99
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,21:45,Recliner,200₹,12,12
+Karnataka,Davanagere,MovieTimeSsGardeniaMall,Kannada,22:45,Premier,75₹,180,29
+Karnataka,Davanagere,MovieTimeSsGardeniaMall,Kannada,22:45,Gold,75₹,79,62
