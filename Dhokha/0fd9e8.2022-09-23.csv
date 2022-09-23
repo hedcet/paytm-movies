@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Belagavi,CarnivalKapeelNucleusMall,Hindi,13:00,Platinum,75₹,140,1
+Karnataka,Belagavi,CarnivalKapeelNucleusMall,Hindi,13:00,Gold,75₹,85,0
+Karnataka,Belagavi,CarnivalKapeelNucleusMall,Hindi,13:00,Silver,75₹,51,0
