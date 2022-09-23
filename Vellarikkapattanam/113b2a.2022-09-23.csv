@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Punalur,CarnivalDMallPunalur,Malayalam,18:45,Silver,130₹,142,9
+Kerala,Punalur,CarnivalDMallPunalur,Malayalam,18:45,Gold,200₹,12,10
+Kerala,Punalur,CarnivalDMallPunalur,Malayalam,18:45,Platinum,290₹,10,0
+Kerala,Kochi,PvrOberonMallErnakulam,Malayalam,19:10,Classic,140₹,36,0
+Kerala,Kochi,PvrOberonMallErnakulam,Malayalam,19:10,ClassicPlus,190₹,81,26
