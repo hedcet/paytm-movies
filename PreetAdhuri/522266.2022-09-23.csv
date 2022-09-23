@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Ahmednagar,AshaSquareMultiplexAhmednagar,Marathi,12:00,GoldenClass,75₹,254,0
+Maharashtra,Aurangabad,MohanNovaCinemazSarafaRoad,Marathi,12:00,Platinum,75₹,58,0
+Maharashtra,Aurangabad,MohanNovaCinemazSarafaRoad,Marathi,12:00,Gold,75₹,57,0
+Maharashtra,Aurangabad,MohanNovaCinemazSarafaRoad,Marathi,12:00,Silver,75₹,57,1
+Maharashtra,Mumbai,BharatChitraMandirKurlaW,Marathi,12:30,Sofa,100₹,18,0
+Maharashtra,Mumbai,BharatChitraMandirKurlaW,Marathi,12:30,Premium,75₹,181,0
+Maharashtra,Mumbai,CarnivalMoviestarGoregaonW,Marathi,14:05,GoldOffline,75₹,46,20
+Maharashtra,Mumbai,CarnivalMoviestarGoregaonW,Marathi,14:05,SilverOffline,75₹,24,0
+Maharashtra,Pune,VikasCinemaManchar,Marathi,15:00,1stClass,100₹,156,0
+Maharashtra,Pune,VikasCinemaManchar,Marathi,15:00,2ndClass,80₹,196,0
+Maharashtra,Sangli,MeenakshiCinemaPalus,Marathi,15:00,Balcony,75₹,100,3
+Maharashtra,Sangli,MeenakshiCinemaPalus,Marathi,15:00,Stall,75₹,200,7
