@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,SkyCinemaVarachhaRoad,Hindi,15:00,Recliner,100₹,12,0
+Gujarat,Surat,SkyCinemaVarachhaRoad,Hindi,15:00,RoyalSofa,80₹,26,0
+Gujarat,Surat,SkyCinemaVarachhaRoad,Hindi,15:00,Executive,60₹,38,11
+Gujarat,Surat,SkyCinemaVarachhaRoad,Hindi,15:00,Upper,40₹,65,0
+Gujarat,Surat,SkyCinemaVarachhaRoad,Hindi,18:00,Recliner,100₹,12,0
+Gujarat,Surat,SkyCinemaVarachhaRoad,Hindi,18:00,RoyalSofa,80₹,26,0
+Gujarat,Surat,SkyCinemaVarachhaRoad,Hindi,18:00,Executive,60₹,38,0
+Gujarat,Surat,SkyCinemaVarachhaRoad,Hindi,18:00,Upper,40₹,65,0
+Gujarat,Surat,SkyCinemaVarachhaRoad,Hindi,21:30,Recliner,100₹,12,0
+Gujarat,Surat,SkyCinemaVarachhaRoad,Hindi,21:30,RoyalSofa,80₹,26,0
+Gujarat,Surat,SkyCinemaVarachhaRoad,Hindi,21:30,Executive,60₹,38,0
+Gujarat,Surat,SkyCinemaVarachhaRoad,Hindi,21:30,Upper,40₹,65,0
