@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Siliguri,CarnivalCinemaSiliguri,Bengali,11:30,Special,160₹,28,0
+WestBengal,Siliguri,CarnivalCinemaSiliguri,Bengali,11:30,Executive,160₹,176,0
+WestBengal,Siliguri,CarnivalCinemaSiliguri,Bengali,13:30,Special,160₹,28,0
+WestBengal,Siliguri,CarnivalCinemaSiliguri,Bengali,13:30,Executive,160₹,176,0
+WestBengal,Kolkata,ChhabigharCinemaBaithakkhana,Bengali,14:45,Balcony,80₹,144,80
+WestBengal,Kolkata,ChhabigharCinemaBaithakkhana,Bengali,14:45,RearStall,60₹,502,148
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,19:45,Classic,230₹,80,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,19:45,Prime,270₹,11,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,19:45,Recliner,440₹,12,0
