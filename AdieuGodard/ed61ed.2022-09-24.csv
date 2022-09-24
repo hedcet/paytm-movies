@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,18:20,Vip,500₹,9,2
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,18:20,Premium,220₹,44,11
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,18:20,Executive,200₹,52,5
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,18:20,Normal,180₹,23,0
+Delhi,NewDelhi,PvrPromenadeVasantKunj,Odia,18:25,Classic,300₹,50,0
+Delhi,NewDelhi,PvrPromenadeVasantKunj,Odia,18:25,Prime,350₹,34,7
+WestBengal,Kolkata,InoxSouthCityMall,Odia,20:30,Premier,230₹,34,1
+WestBengal,Kolkata,InoxSouthCityMall,Odia,20:30,Silver,250₹,156,4
+WestBengal,Kolkata,PvrManiSquareMallEmBypassRoad,Odia,21:00,Classic,240₹,48,0
+WestBengal,Kolkata,PvrManiSquareMallEmBypassRoad,Odia,21:00,Prime,290₹,110,2
+WestBengal,Kolkata,PvrManiSquareMallEmBypassRoad,Odia,21:00,Recliner,560₹,8,0
