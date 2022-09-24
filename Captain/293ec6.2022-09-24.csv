@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Yellandu,LalithaKalaMandirYellandu,Telugu,10:45,BoxA,110₹,56,36
+AndhraPradesh,Yellandu,LalithaKalaMandirYellandu,Telugu,10:45,BoxB,110₹,17,17
+AndhraPradesh,Yellandu,LalithaKalaMandirYellandu,Telugu,10:45,ReservedClass,110₹,324,281
+AndhraPradesh,Yellandu,LalithaKalaMandirYellandu,Telugu,14:15,BoxA,110₹,56,36
+AndhraPradesh,Yellandu,LalithaKalaMandirYellandu,Telugu,14:15,BoxB,110₹,17,17
+AndhraPradesh,Yellandu,LalithaKalaMandirYellandu,Telugu,14:15,ReservedClass,110₹,324,281
+AndhraPradesh,Yellandu,LalithaKalaMandirYellandu,Telugu,18:15,BoxA,110₹,56,36
+AndhraPradesh,Yellandu,LalithaKalaMandirYellandu,Telugu,18:15,BoxB,110₹,17,17
+AndhraPradesh,Yellandu,LalithaKalaMandirYellandu,Telugu,18:15,ReservedClass,110₹,324,281
+AndhraPradesh,Yellandu,LalithaKalaMandirYellandu,Telugu,21:15,BoxA,110₹,56,36
+AndhraPradesh,Yellandu,LalithaKalaMandirYellandu,Telugu,21:15,BoxB,110₹,17,17
+AndhraPradesh,Yellandu,LalithaKalaMandirYellandu,Telugu,21:15,ReservedClass,110₹,324,281
