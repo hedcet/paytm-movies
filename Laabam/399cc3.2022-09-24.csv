@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kozhinjampara,GeethaCinemax,Tamil,11:00,Golden,110₹,231,0
+Kerala,Kozhinjampara,GeethaCinemax,Tamil,14:15,Golden,110₹,231,0
+Kerala,Kozhinjampara,GeethaCinemax,Tamil,18:00,Golden,110₹,231,0
+Kerala,Kozhinjampara,GeethaCinemax,Tamil,21:15,Golden,110₹,231,0
+Kerala,Thalassery,LibertyParadiseComplexThalassery,Tamil,21:15,Mini,125₹,250,152
