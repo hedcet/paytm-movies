@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Gurgaon,PvrAmbienceGurgaon,English,09:20,ClassicNormal,200₹,84,0
+Haryana,Gurgaon,PvrAmbienceGurgaon,English,09:20,Prime,250₹,68,8
+Haryana,Gurgaon,PvrMgfMallGurgaon,English,09:40,Prime,189₹,61,5
+Haryana,Gurgaon,PvrMgfMallGurgaon,English,09:40,Classic,189₹,91,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,11:35,Insignia,300₹,33,33
+Haryana,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,13:15,Normal,220₹,22,4
+Haryana,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,13:15,DoubleSofa,260₹,24,4
+Haryana,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,13:15,Lounger,240₹,8,0
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,13:15,3DClassic,280₹,103,94
+AndhraPradesh,Hyderabad,PvrNextGalleriaMallPanjagutta,English,14:35,Classic,150₹,54,54
+Karnataka,Bengaluru,PvrVegaBannerghattaRoad,English,15:10,3DClassic,290₹,77,71
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,18:30,Classic,380₹,49,45
