@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,Berhampur,SivaMaxBerhampur,Odia,12:00,Balcony,100₹,240,222
+Orissa,Berhampur,SivaMaxBerhampur,Odia,12:00,RearStall,70₹,300,280
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,19:45,Vip,500₹,10,0
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,19:45,Premium,200₹,48,4
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,19:45,Executive,180₹,52,0
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,19:45,Normal,160₹,23,0
