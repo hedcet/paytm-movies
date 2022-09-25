@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Assam,Karimganj,GoldCinemaKarimganj,Bengali,11:00,Platinum,200₹,100,0
+Assam,Karimganj,GoldCinemaKarimganj,Bengali,11:00,Gold,150₹,100,0
+Assam,Karimganj,GoldCinemaKarimganj,Bengali,11:00,Silver,120₹,100,0
+WestBengal,Siliguri,CarnivalCinemaSiliguri,Bengali,11:30,Special,160₹,28,0
+WestBengal,Siliguri,CarnivalCinemaSiliguri,Bengali,11:30,Executive,160₹,176,0
+WestBengal,Kolkata,ChhabigharCinemaBaithakkhana,Bengali,14:45,Balcony,80₹,144,80
+WestBengal,Kolkata,ChhabigharCinemaBaithakkhana,Bengali,14:45,RearStall,60₹,502,148
+Assam,Karimganj,GoldCinemaKarimganj,Bengali,17:00,Platinum,200₹,9,8
+Assam,Karimganj,GoldCinemaKarimganj,Bengali,17:00,Gold,150₹,109,0
+Assam,Karimganj,GoldCinemaKarimganj,Bengali,17:00,Silver,120₹,40,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,19:45,Classic,240₹,100,2
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,19:45,Prime,280₹,11,2
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,19:45,Recliner,450₹,12,0
