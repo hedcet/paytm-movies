@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,TimeCinemaSuratGalaxyCircle,Gujarati,10:00,Standard100,100₹,96,0
+Gujarat,Surat,TimeCinemaSuratGalaxyCircle,Gujarati,13:00,Sofa220,220₹,34,0
+Gujarat,Ahmedabad,TimeCinemaCgRoad,Gujarati,13:45,Standard100,100₹,108,8
+Gujarat,Surat,TimeCinemaSuratGalaxyCircle,Gujarati,17:00,Infinity300,300₹,22,0
