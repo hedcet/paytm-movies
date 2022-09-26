@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Noida,PvrGoldLogixCityCentreNoida,English,11:15,Recliner,300₹,30,4
+MadhyaPradesh,Indore,InoxC21MallSheetalNagar,English,16:30,Cl,180₹,33,0
+MadhyaPradesh,Indore,InoxC21MallSheetalNagar,English,16:30,Ry,180₹,63,3
