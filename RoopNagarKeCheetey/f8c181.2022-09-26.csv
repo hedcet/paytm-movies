@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Chiplun,MKTheatreChiplun,Marathi,15:00,Special,150₹,57,2
+Maharashtra,Chiplun,MKTheatreChiplun,Marathi,15:00,UpperStall,100₹,192,37
+Maharashtra,Chiplun,MKTheatreChiplun,Marathi,15:00,Stall,80₹,32,0
