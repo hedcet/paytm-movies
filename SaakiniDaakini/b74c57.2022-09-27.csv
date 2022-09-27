@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kuppam,MahalakshmiTheatreKuppam,Telugu,10:30,Premium,90₹,216,0
+AndhraPradesh,Kuppam,MahalakshmiTheatreKuppam,Telugu,10:30,NonPremium,67₹,84,0
+AndhraPradesh,Peddapuram,VeerabhadraTheatreACDtsPeddapuram,Telugu,11:15,FirstClass,100₹,266,80
+AndhraPradesh,Kuppam,MahalakshmiTheatreKuppam,Telugu,14:00,Premium,90₹,216,0
+AndhraPradesh,Kuppam,MahalakshmiTheatreKuppam,Telugu,14:00,NonPremium,67₹,84,0
+AndhraPradesh,Kakinada,DeviMultiplexKakinada,Telugu,14:40,FirstClass,112₹,214,114
+AndhraPradesh,Kakinada,DeviMultiplexKakinada,Telugu,14:40,SecondClass,75₹,60,0
+AndhraPradesh,Kuppam,MahalakshmiTheatreKuppam,Telugu,18:00,Premium,90₹,216,0
+AndhraPradesh,Kuppam,MahalakshmiTheatreKuppam,Telugu,18:00,NonPremium,67₹,84,0
+AndhraPradesh,Kuppam,MahalakshmiTheatreKuppam,Telugu,21:00,Premium,90₹,216,0
+AndhraPradesh,Kuppam,MahalakshmiTheatreKuppam,Telugu,21:00,NonPremium,67₹,84,0
+AndhraPradesh,Kakinada,DeviMultiplexKakinada,Telugu,21:40,FirstClass,112₹,214,114
+AndhraPradesh,Kakinada,DeviMultiplexKakinada,Telugu,21:40,SecondClass,75₹,60,0
