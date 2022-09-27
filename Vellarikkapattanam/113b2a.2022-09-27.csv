@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,15:45,NormalOffline,100₹,18,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,15:45,ExecutiveOffline,112₹,72,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,15:45,SilverOffline,112₹,103,6
+Kerala,Punalur,CarnivalDMallPunalur,Malayalam,18:35,Silver,130₹,140,0
+Kerala,Punalur,CarnivalDMallPunalur,Malayalam,18:35,Gold,200₹,12,0
+Kerala,Punalur,CarnivalDMallPunalur,Malayalam,18:35,Platinum,290₹,10,0
+Kerala,Kochi,PvrOberonMallErnakulam,Malayalam,19:10,Classic,129₹,36,0
+Kerala,Kochi,PvrOberonMallErnakulam,Malayalam,19:10,ClassicPlus,160₹,81,27
