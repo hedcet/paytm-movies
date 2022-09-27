@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kattanam,GanamTheatreComplexACKattanam,Malayalam,10:45,FirstClass,110₹,129,129
+Kerala,Kochi,PvrLuluKochi,Malayalam,10:45,Classic,89₹,39,39
+Kerala,Kochi,PvrLuluKochi,Malayalam,10:45,ClassicPlus,110₹,91,91
+Kerala,Kochi,PvrLuluKochi,Malayalam,10:45,Prime,125₹,68,68
+Kerala,Kochi,PvrLuluKochi,Malayalam,10:45,Recliner,240₹,10,10
+Kerala,Karunagappally,CarnivalHJComplexLalajiJunction,Malayalam,12:00,ClassicOffline,100₹,118,15
+Kerala,Kattanam,GanamTheatreComplexACKattanam,Malayalam,13:00,FirstClass,110₹,129,129
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,21:10,Normal,110₹,19,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,21:10,Executive,140₹,44,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,21:10,Premium,160₹,43,18
