@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Nagpur,AlankarCinemaGorepeth,Marathi,15:30,Balcony,120₹,188,0
+Maharashtra,Nagpur,AlankarCinemaGorepeth,Marathi,15:30,FirstBalcony,80₹,311,0
+Maharashtra,Nagpur,CinepolisVrNagpurMall,Marathi,16:20,Vip,200₹,4,1
+Maharashtra,Nagpur,CinepolisVrNagpurMall,Marathi,16:20,Premium,100₹,32,30
+Maharashtra,Nagpur,CinepolisVrNagpurMall,Marathi,16:20,Executive,100₹,40,22
+Maharashtra,Nagpur,CinepolisVrNagpurMall,Marathi,16:20,Normal,100₹,20,0
+Maharashtra,Nagpur,CinepolisVrNagpurMall,Marathi,17:05,Vip,200₹,6,3
+Maharashtra,Nagpur,CinepolisVrNagpurMall,Marathi,17:05,Premium,100₹,40,19
+Maharashtra,Nagpur,CinepolisVrNagpurMall,Marathi,17:05,Executive,100₹,68,0
+Maharashtra,Nagpur,CinepolisVrNagpurMall,Marathi,17:05,Normal,100₹,34,0
+Maharashtra,Nagpur,AlankarCinemaGorepeth,Marathi,18:30,Balcony,120₹,188,0
+Maharashtra,Nagpur,AlankarCinemaGorepeth,Marathi,18:30,FirstBalcony,80₹,311,0
