@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PrakashChitramandiraYelahanka,Telugu,10:15,Balcony,120₹,357,231
+AndhraPradesh,Hyderabad,Srilatha70MmTheatreChandanagar,Telugu,11:00,DressCircle,110₹,466,130
+AndhraPradesh,Hyderabad,Srilatha70MmTheatreChandanagar,Telugu,11:00,FirstClass,80₹,163,52
+AndhraPradesh,Hyderabad,Srilatha70MmTheatreChandanagar,Telugu,11:00,ThirdClass,50₹,157,98
+Karnataka,Bengaluru,PrakashChitramandiraYelahanka,Telugu,13:15,Balcony,120₹,357,231
+AndhraPradesh,Hyderabad,Srilatha70MmTheatreChandanagar,Telugu,14:00,DressCircle,110₹,466,130
+AndhraPradesh,Hyderabad,Srilatha70MmTheatreChandanagar,Telugu,14:00,FirstClass,80₹,163,52
+AndhraPradesh,Hyderabad,Srilatha70MmTheatreChandanagar,Telugu,14:00,ThirdClass,50₹,157,98
+Karnataka,Bengaluru,PrakashChitramandiraYelahanka,Telugu,16:15,Balcony,120₹,357,231
+AndhraPradesh,Hyderabad,Srilatha70MmTheatreChandanagar,Telugu,18:00,DressCircle,110₹,466,132
+AndhraPradesh,Hyderabad,Srilatha70MmTheatreChandanagar,Telugu,18:00,FirstClass,80₹,163,52
+AndhraPradesh,Hyderabad,Srilatha70MmTheatreChandanagar,Telugu,18:00,ThirdClass,50₹,157,98
+Karnataka,Bengaluru,PrakashChitramandiraYelahanka,Telugu,19:15,Balcony,120₹,357,231
+AndhraPradesh,Hyderabad,Srilatha70MmTheatreChandanagar,Telugu,21:00,DressCircle,110₹,466,132
+AndhraPradesh,Hyderabad,Srilatha70MmTheatreChandanagar,Telugu,21:00,FirstClass,80₹,163,52
+AndhraPradesh,Hyderabad,Srilatha70MmTheatreChandanagar,Telugu,21:00,ThirdClass,50₹,157,98
