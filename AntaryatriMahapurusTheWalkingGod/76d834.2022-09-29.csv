@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Jaipur,InoxGtCentralMallMalviyaNagar,Hindi,12:30,Club,100₹,160,0
+Rajasthan,Jaipur,InoxGtCentralMallMalviyaNagar,Hindi,12:30,Executive,100₹,23,0
+Rajasthan,Jaipur,InoxGtCentralMallMalviyaNagar,Hindi,12:30,Royale,100₹,30,0
+Rajasthan,Jaipur,InoxGtCentralMallMalviyaNagar,Hindi,19:05,Club,100₹,160,43
+Rajasthan,Jaipur,InoxGtCentralMallMalviyaNagar,Hindi,19:05,Executive,100₹,23,0
+Rajasthan,Jaipur,InoxGtCentralMallMalviyaNagar,Hindi,19:05,Royale,100₹,30,24
