@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kattanam,GanamTheatreComplexACKattanam,Malayalam,10:45,FirstClass,110₹,129,67
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,22:10,Normal,110₹,29,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,22:10,Executive,140₹,42,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,22:10,Premium,160₹,98,14
