@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Nagpur,CinepolisVrNagpurMall,Marathi,16:20,Vip,200₹,4,0
+Maharashtra,Nagpur,CinepolisVrNagpurMall,Marathi,16:20,Premium,100₹,32,2
+Maharashtra,Nagpur,CinepolisVrNagpurMall,Marathi,16:20,Executive,100₹,40,0
+Maharashtra,Nagpur,CinepolisVrNagpurMall,Marathi,16:20,Normal,100₹,20,0
