@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Krishnagiri,KTheatre70MmDtsKrishnagiri,Tamil,10:30,Firstclass,70₹,98,1
+TamilNadu,Krishnagiri,KTheatre70MmDtsKrishnagiri,Tamil,14:00,Firstclass,70₹,98,0
+TamilNadu,Krishnagiri,KTheatre70MmDtsKrishnagiri,Tamil,18:00,Firstclass,70₹,98,0
+TamilNadu,Krishnagiri,KTheatre70MmDtsKrishnagiri,Tamil,21:30,Firstclass,70₹,98,0
