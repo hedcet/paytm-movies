@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Waterland,TpmcOms,Telugu,15:00,Executive,10₹,222,143
+UttarPradesh,Waterland,TpmcOms,Telugu,15:00,Corporate,10₹,538,100
+UttarPradesh,Waterland,TpmcOms,Telugu,15:00,Budget,5₹,95,32
+UttarPradesh,Waterland,TpmcOms,English,18:30,Executive,0₹,222,143
+UttarPradesh,Waterland,TpmcOms,English,18:30,Corporate,0₹,538,100
+UttarPradesh,Waterland,TpmcOms,English,18:30,Budget,0₹,95,32
