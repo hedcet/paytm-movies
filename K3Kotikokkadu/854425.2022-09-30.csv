@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Cheepurupalli,AnuragAndAmoghTheatresCheepurupalli,Telugu,10:30,Premium,100₹,318,72
+AndhraPradesh,Cheepurupalli,AnuragAndAmoghTheatresCheepurupalli,Telugu,10:30,NonPremium,100₹,124,0
+AndhraPradesh,Cheepurupalli,AnuragAndAmoghTheatresCheepurupalli,Telugu,14:30,Premium,100₹,318,72
+AndhraPradesh,Cheepurupalli,AnuragAndAmoghTheatresCheepurupalli,Telugu,14:30,NonPremium,100₹,124,0
+AndhraPradesh,Cheepurupalli,AnuragAndAmoghTheatresCheepurupalli,Telugu,18:30,Premium,100₹,318,72
+AndhraPradesh,Cheepurupalli,AnuragAndAmoghTheatresCheepurupalli,Telugu,18:30,NonPremium,100₹,124,0
+AndhraPradesh,Cheepurupalli,AnuragAndAmoghTheatresCheepurupalli,Telugu,21:30,Premium,100₹,318,72
+AndhraPradesh,Cheepurupalli,AnuragAndAmoghTheatresCheepurupalli,Telugu,21:30,NonPremium,100₹,124,0
