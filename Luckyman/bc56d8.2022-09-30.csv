@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,11:45,Classic,112₹,140,11
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,11:45,Prime,150₹,120,11
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,11:45,Recliner,280₹,33,7
+Karnataka,Bengaluru,CinepolisRoyalMeenakshiMallBannerghattaRoad,Kannada,15:30,Normal,160₹,24,0
+Karnataka,Bengaluru,CinepolisRoyalMeenakshiMallBannerghattaRoad,Kannada,15:30,Executive,180₹,50,0
+Karnataka,Bengaluru,CinepolisRoyalMeenakshiMallBannerghattaRoad,Kannada,15:30,Premium,200₹,35,10
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,15:40,Executive,140₹,69,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,15:40,Premium,140₹,29,0
+Karnataka,Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Kannada,16:05,Recliner,280₹,10,0
+Karnataka,Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Kannada,16:05,Classic,140₹,164,9
+Karnataka,Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,Kannada,16:05,Classic,170₹,80,0
+Karnataka,Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,Kannada,16:05,Prime,190₹,19,0
+Karnataka,Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,Kannada,16:05,Recliner,350₹,11,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,18:55,Classic,180₹,85,6
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,18:55,Prime,200₹,37,20
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,18:55,Recliner,320₹,13,8
