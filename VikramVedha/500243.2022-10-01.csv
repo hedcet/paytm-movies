@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NewDelhi,GaganTheatreDelhi,Tamil,09:15,Balcony,110₹,240,66
+Delhi,NewDelhi,GaganTheatreDelhi,Tamil,09:15,DressCircle,100₹,456,60
+Delhi,NewDelhi,GaganTheatreDelhi,Tamil,09:15,FrontCircle,80₹,286,30
+Delhi,NewDelhi,GaganTheatreDelhi,Tamil,12:15,Balcony,120₹,240,66
+Delhi,NewDelhi,GaganTheatreDelhi,Tamil,12:15,DressCircle,110₹,456,60
+Delhi,NewDelhi,GaganTheatreDelhi,Tamil,12:15,FrontCircle,100₹,286,30
+Delhi,NewDelhi,GaganTheatreDelhi,Tamil,15:15,Balcony,120₹,240,66
+Delhi,NewDelhi,GaganTheatreDelhi,Tamil,15:15,DressCircle,110₹,456,60
+Delhi,NewDelhi,GaganTheatreDelhi,Tamil,15:15,FrontCircle,100₹,286,30
+Delhi,NewDelhi,GaganTheatreDelhi,Tamil,18:15,Balcony,120₹,240,66
+Delhi,NewDelhi,GaganTheatreDelhi,Tamil,18:15,DressCircle,110₹,456,60
+Delhi,NewDelhi,GaganTheatreDelhi,Tamil,18:15,FrontCircle,100₹,286,30
+Delhi,NewDelhi,GaganTheatreDelhi,Tamil,21:15,Balcony,110₹,240,66
+Delhi,NewDelhi,GaganTheatreDelhi,Tamil,21:15,DressCircle,100₹,456,60
+Delhi,NewDelhi,GaganTheatreDelhi,Tamil,21:15,FrontCircle,80₹,286,30
