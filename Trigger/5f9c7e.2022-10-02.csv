@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,16:15,Elite,179₹,210,176
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,16:15,Budget,60₹,27,27
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,22:05,Classic,60₹,16,6
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,22:05,Prime,165₹,110,84
