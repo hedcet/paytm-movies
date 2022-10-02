@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Eluru,VMaxEluruPaidichintapadu,Telugu,21:30,Box1,150₹,27,27
+AndhraPradesh,Eluru,VMaxEluruPaidichintapadu,Telugu,21:30,Box2,150₹,27,27
+AndhraPradesh,Eluru,VMaxEluruPaidichintapadu,Telugu,21:30,Executive,150₹,80,54
+AndhraPradesh,Eluru,VMaxEluruPaidichintapadu,Telugu,21:30,Balcony,150₹,166,81
+AndhraPradesh,Eluru,VMaxEluruPaidichintapadu,Telugu,21:30,SecondClass,80₹,69,37
+AndhraPradesh,Eluru,VMaxEluruPaidichintapadu,Telugu,21:30,LowClass,50₹,54,0
