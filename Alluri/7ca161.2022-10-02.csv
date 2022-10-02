@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Rajahmundry,SwamyTalkiesAnnapurnammaPeta,Telugu,11:00,Premium,112₹,448,358
+AndhraPradesh,Rajahmundry,SwamyTalkiesAnnapurnammaPeta,Telugu,11:00,NoPremium,100₹,150,150
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,11:30,FristClass,110₹,215,17
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,11:30,SecondClass,80₹,85,0
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,14:30,FristClass,110₹,215,17
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,14:30,SecondClass,80₹,85,0
+AndhraPradesh,Rajahmundry,SwamyTalkiesAnnapurnammaPeta,Telugu,14:30,Premium,112₹,448,360
+AndhraPradesh,Rajahmundry,SwamyTalkiesAnnapurnammaPeta,Telugu,14:30,NoPremium,100₹,150,150
+AndhraPradesh,Rajahmundry,SwamyTalkiesAnnapurnammaPeta,Telugu,18:15,Premium,112₹,448,358
+AndhraPradesh,Rajahmundry,SwamyTalkiesAnnapurnammaPeta,Telugu,18:15,NoPremium,100₹,150,150
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,18:30,FristClass,110₹,215,17
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,18:30,SecondClass,80₹,85,0
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,21:30,FristClass,110₹,215,17
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,21:30,SecondClass,80₹,85,0
+AndhraPradesh,Rajahmundry,SwamyTalkiesAnnapurnammaPeta,Telugu,21:30,Premium,112₹,448,358
+AndhraPradesh,Rajahmundry,SwamyTalkiesAnnapurnammaPeta,Telugu,21:30,NoPremium,100₹,150,150
