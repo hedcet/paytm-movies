@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,ValamMultiplexVarachha,Hindi,15:00,Gold,50₹,88,20
+Gujarat,Surat,ValamMultiplexVarachha,Hindi,18:00,Gold,50₹,88,22
+Gujarat,Surat,ValamMultiplexVarachha,Hindi,21:30,Gold,50₹,88,20
