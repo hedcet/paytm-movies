@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Chandigarh,Pvr4DxElanteChandigarh,English,11:00,Classic,400₹,92,16
+Haryana,Gurgaon,PvrMgfMall4DxGurgaon,English,11:00,Classic,340₹,96,40
+Karnataka,Bengaluru,PvrVegaBannerghattaRoad,English,11:35,3DClassic,240₹,70,62
+AndhraPradesh,Hyderabad,PvrNextGalleriaMallPanjagutta,English,13:40,Classic,150₹,54,54
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,16:55,Classic,360₹,40,36
+Delhi,NewDelhi,PvrVegasDwarka,English,18:35,Recliner,320₹,8,5
+Delhi,NewDelhi,PvrVegasDwarka,English,18:35,Prime,320₹,14,13
+Delhi,NewDelhi,PvrVegasDwarka,English,18:35,Classic,275₹,36,5
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,20:05,3DClassic,300₹,103,81
