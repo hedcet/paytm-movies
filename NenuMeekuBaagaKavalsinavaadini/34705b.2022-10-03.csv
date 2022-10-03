@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Nandyal,SangeethTheatreNkRoad,Telugu,11:30,FristClass,110₹,341,47
+AndhraPradesh,Nandyal,SangeethTheatreNkRoad,Telugu,11:30,SecondClass,80₹,118,0
+AndhraPradesh,Nandyal,SangeethTheatreNkRoad,Telugu,14:30,FristClass,110₹,341,45
+AndhraPradesh,Nandyal,SangeethTheatreNkRoad,Telugu,14:30,SecondClass,80₹,118,0
+AndhraPradesh,Nandyal,SangeethTheatreNkRoad,Telugu,18:30,FristClass,110₹,341,45
+AndhraPradesh,Nandyal,SangeethTheatreNkRoad,Telugu,18:30,SecondClass,80₹,118,0
+AndhraPradesh,Nandyal,SangeethTheatreNkRoad,Telugu,21:30,FristClass,110₹,341,45
+AndhraPradesh,Nandyal,SangeethTheatreNkRoad,Telugu,21:30,SecondClass,80₹,118,0
