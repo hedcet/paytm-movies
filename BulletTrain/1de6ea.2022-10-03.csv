@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,TimeCinemaSuratGalaxyCircle,English,10:15,Sofa180,180₹,34,0
+Gujarat,Ahmedabad,TimeCinemaCgRoad,English,17:15,Infinity1000,"1,000₹",12,0
+Haryana,Chandigarh,Pvr4DxElanteChandigarh,English,19:00,Classic,400₹,92,0
+Haryana,Gurgaon,PvrMgfMall4DxGurgaon,English,19:00,Classic,250₹,96,8
+Delhi,NewDelhi,PvrPacificSubhashNagar4DxDelhi,English,20:05,Prime,300₹,72,1
+Delhi,NewDelhi,PvrPacificSubhashNagar4DxDelhi,English,20:05,Classic,250₹,36,4
