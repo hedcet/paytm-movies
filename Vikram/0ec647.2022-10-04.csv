@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Idar,TimeCinemaIdarSapawada,Hindi,12:00,IdarStandard180,180₹,125,25
+Gujarat,Idar,TimeCinemaIdarSapawada,Hindi,15:00,IdarStandard180,180₹,125,25
+Gujarat,Idar,TimeCinemaIdarSapawada,Hindi,15:15,IdarStandard180,180₹,90,0
+Gujarat,Idar,TimeCinemaIdarSapawada,Hindi,18:00,IdarStandard180,180₹,125,25
+Gujarat,Idar,TimeCinemaIdarSapawada,Hindi,21:15,IdarStandard180,180₹,125,25
+Gujarat,Idar,TimeCinemaIdarSapawada,Hindi,21:30,IdarStandard180,180₹,90,0
