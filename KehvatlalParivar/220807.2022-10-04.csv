@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,AppleMultiplexAhmedabad,Gujarati,10:00,UpperSofa,110₹,11,0
+Gujarat,Ahmedabad,AppleMultiplexAhmedabad,Gujarati,10:00,Platinum,110₹,100,0
+Gujarat,Ahmedabad,AppleMultiplexAhmedabad,Gujarati,10:00,LowerSofa,90₹,10,0
+Gujarat,Ahmedabad,TimeCinemaCgRoad,Gujarati,14:00,Infinity1000,"1,000₹",12,0
+Gujarat,Surat,TimeCinemaSuratGalaxyCircle,Gujarati,17:15,Sofa250,250₹,34,0
+Gujarat,Vadodara,MovieTimeSSquareMallElloraPark,Gujarati,17:15,Premium,100₹,120,3
+Gujarat,Vadodara,MovieTimeSSquareMallElloraPark,Gujarati,17:15,Recliner,150₹,8,0
+Gujarat,Vadodara,MovieTimeSSquareMallElloraPark,Gujarati,17:15,Executive,100₹,48,0
