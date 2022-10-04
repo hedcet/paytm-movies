@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,12:00,Classic,170₹,49,12
+Delhi,NewDelhi,PvrVegasDwarka,English,12:30,Recliner,320₹,8,8
+Delhi,NewDelhi,PvrVegasDwarka,English,12:30,Prime,320₹,21,21
+Delhi,NewDelhi,PvrVegasDwarka,English,12:30,Classic,275₹,36,36
+Haryana,Gurgaon,PvrDirectorsCutGurugramAmbienceMall,English,12:30,Platinum,500₹,42,4
+Haryana,Gurgaon,PvrDirectorsCutGurugramAmbienceMall,English,12:30,PlatinumSuperior,500₹,16,5
+Haryana,Chandigarh,Pvr4DxElanteChandigarh,English,13:10,Classic,400₹,92,0
+Haryana,Gurgaon,PvrMgfMall4DxGurgaon,English,13:10,Classic,250₹,84,5
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,13:40,Club,280₹,16,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,13:40,Royal,280₹,60,2
+Maharashtra,Mumbai,PvrInfinitiMalad4DxMumbai,English,14:00,4DxPrime,200₹,52,6
+Maharashtra,Mumbai,PvrInfinitiMalad4DxMumbai,English,14:00,4DxClassic,180₹,24,0
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,English,14:10,Kiddles,210₹,36,6
+Haryana,Gurgaon,InoxGurgaonArdeeMall,English,18:00,Insignia,500₹,25,25
+AndhraPradesh,Hyderabad,PvrNextGalleriaMallPanjagutta,English,19:20,Classic,150₹,54,40
