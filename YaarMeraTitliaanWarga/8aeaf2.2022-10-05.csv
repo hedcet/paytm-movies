@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Amritsar,PvrSctCityCentre,Punjabi,09:00,Classic,112₹,105,0
+Punjab,Amritsar,PvrSctCityCentre,Punjabi,09:00,Prime,112₹,45,0
+Punjab,Amritsar,PvrSctCityCentre,Punjabi,09:00,Recliner,225₹,12,0
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,09:30,Classic,170₹,105,0
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,09:30,Prime,200₹,42,0
+Punjab,Ludhiana,PvrPavilionMallLudhiana,Punjabi,09:45,Prime,200₹,9,0
+Punjab,Ludhiana,PvrPavilionMallLudhiana,Punjabi,09:45,Classic,140₹,231,1
+Punjab,Jalandhar,PvrFriendsJalandhar,Punjabi,12:00,Classic,150₹,32,0
+Punjab,Jalandhar,PvrFriendsJalandhar,Punjabi,12:00,Prime,175₹,56,24
+Punjab,Jalandhar,PvrFriendsJalandhar,Punjabi,12:00,Recliner,380₹,8,0
+Haryana,Chandigarh,PvrElanteMallChandigarh,Punjabi,12:55,Classic,180₹,138,15
+Haryana,Chandigarh,PvrElanteMallChandigarh,Punjabi,12:55,Recliner,550₹,13,0
+Haryana,Sirsa,OhmCineGardenHissarRoad,Punjabi,20:40,Recliner,600₹,44,21
+Haryana,Sirsa,OhmCineGardenHissarRoad,Punjabi,20:40,GoldExecutive,300₹,72,20
+Haryana,Sirsa,OhmCineGardenHissarRoad,Punjabi,20:40,Silver,150₹,54,36
