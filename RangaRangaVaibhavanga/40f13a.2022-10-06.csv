@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Anakapalle,VenkateswaraMovieMart,Telugu,11:00,Premium,147₹,315,1
+AndhraPradesh,Anakapalle,VenkateswaraMovieMart,Telugu,11:00,NonPremium,100₹,99,0
+AndhraPradesh,Anakapalle,VenkateswaraMovieMart,Telugu,14:30,Premium,147₹,315,0
+AndhraPradesh,Anakapalle,VenkateswaraMovieMart,Telugu,14:30,NonPremium,100₹,99,0
+AndhraPradesh,Anakapalle,VenkateswaraMovieMart,Telugu,18:30,Premium,112₹,315,0
+AndhraPradesh,Anakapalle,VenkateswaraMovieMart,Telugu,18:30,NonPremium,70₹,99,0
+AndhraPradesh,Anakapalle,VenkateswaraMovieMart,Telugu,21:30,Premium,112₹,315,0
+AndhraPradesh,Anakapalle,VenkateswaraMovieMart,Telugu,21:30,NonPremium,70₹,99,0
