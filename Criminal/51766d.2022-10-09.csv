@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Rupnagar,RitzMultiplexRupnagar,Punjabi,09:30,GoldClass,130₹,17,0
+Punjab,Rupnagar,RitzMultiplexRupnagar,Punjabi,09:30,Silver1Class,90₹,120,40
+Punjab,Rupnagar,RitzMultiplexRupnagar,Punjabi,09:30,NormalC,90₹,32,0
