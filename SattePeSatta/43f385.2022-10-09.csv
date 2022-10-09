@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Chandigarh,PvrElanteMallChandigarh,Hindi,18:30,Classic,230₹,138,34
+Haryana,Chandigarh,PvrElanteMallChandigarh,Hindi,18:30,Recliner,650₹,13,0
+Maharashtra,Kolhapur,PvrDypCityMallKavalaNaka,Hindi,19:00,Prime,150₹,194,18
+Maharashtra,Kolhapur,PvrDypCityMallKavalaNaka,Hindi,19:00,Classic,150₹,42,0
+Maharashtra,Mumbai,PvrDynamicJuhu,Hindi,19:00,Prime,150₹,72,72
+Maharashtra,Mumbai,PvrDynamicJuhu,Hindi,19:00,Classic,150₹,40,40
