@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kasibugga,SriRaviShankarPicturePalace,Telugu,11:00,FirstClass,80₹,252,45
+AndhraPradesh,Kasibugga,SriRaviShankarPicturePalace,Telugu,11:00,SecondClass,60₹,103,103
+AndhraPradesh,Ponnur,PvsTheatreNidubrolu,Telugu,11:30,FirstClass,80₹,225,0
+AndhraPradesh,Ponnur,PvsTheatreNidubrolu,Telugu,11:30,SecondClass,50₹,75,0
+AndhraPradesh,Ponnur,PvsTheatreNidubrolu,Telugu,14:30,FirstClass,80₹,225,0
+AndhraPradesh,Ponnur,PvsTheatreNidubrolu,Telugu,14:30,SecondClass,50₹,75,0
+AndhraPradesh,Kasibugga,SriRaviShankarPicturePalace,Telugu,14:30,FirstClass,80₹,252,45
+AndhraPradesh,Kasibugga,SriRaviShankarPicturePalace,Telugu,14:30,SecondClass,60₹,103,103
+AndhraPradesh,Kasibugga,SriRaviShankarPicturePalace,Telugu,18:15,FirstClass,80₹,252,45
+AndhraPradesh,Kasibugga,SriRaviShankarPicturePalace,Telugu,18:15,SecondClass,60₹,103,103
+AndhraPradesh,Ponnur,PvsTheatreNidubrolu,Telugu,18:30,FirstClass,80₹,225,0
+AndhraPradesh,Ponnur,PvsTheatreNidubrolu,Telugu,18:30,SecondClass,50₹,75,0
+AndhraPradesh,Kasibugga,SriRaviShankarPicturePalace,Telugu,21:15,FirstClass,80₹,252,45
+AndhraPradesh,Kasibugga,SriRaviShankarPicturePalace,Telugu,21:15,SecondClass,60₹,103,103
+AndhraPradesh,Ponnur,PvsTheatreNidubrolu,Telugu,21:30,FirstClass,80₹,225,0
+AndhraPradesh,Ponnur,PvsTheatreNidubrolu,Telugu,21:30,SecondClass,50₹,75,0
