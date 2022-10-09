@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Kannada,09:45,Recliner,300₹,6,0
+Karnataka,Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Kannada,09:45,Classic,170₹,210,11
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,10:15,Classic,170₹,128,10
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,10:15,Prime,190₹,80,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,10:15,Recliner,350₹,10,0
+Karnataka,Tumakuru,InoxSMallTumakuru,Kannada,12:50,Club,210₹,56,1
+Karnataka,Tumakuru,InoxSMallTumakuru,Kannada,12:50,Executive,190₹,76,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,15:50,Executive,150₹,69,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,15:50,Premium,150₹,29,8
