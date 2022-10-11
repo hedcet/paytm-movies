@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Kanpur,PvrDeepKanpur,Hindi,15:00,Classic,80₹,120,0
+UttarPradesh,Kanpur,PvrDeepKanpur,Hindi,15:00,Prime,80₹,72,33
+Delhi,NewDelhi,PvrPromenadeVasantKunj,Hindi,15:00,Classic,80₹,96,89
+Delhi,NewDelhi,PvrPromenadeVasantKunj,Hindi,15:00,Prime,80₹,33,32
+MadhyaPradesh,Indore,PvrTreasureIslandMallSouthTukoganj,Hindi,15:00,Prime,80₹,110,65
+MadhyaPradesh,Indore,PvrTreasureIslandMallSouthTukoganj,Hindi,15:00,Classic,80₹,38,0
+Maharashtra,Mumbai,PvrIconOberoiGoregaonE,Hindi,18:00,Classic,80₹,49,49
+Maharashtra,Mumbai,PvrIconOberoiGoregaonE,Hindi,18:00,Prime,80₹,181,181
+Maharashtra,Mumbai,PvrIconOberoiGoregaonE,Hindi,18:00,Recliner,180₹,36,36
+Chhattisgarh,Raipur,PvrMagnetoTheMallRaipur,Hindi,18:00,Prime,80₹,192,10
+Chhattisgarh,Raipur,PvrMagnetoTheMallRaipur,Hindi,18:00,Recliner,149₹,22,15
+Chhattisgarh,Raipur,PvrMagnetoTheMallRaipur,Hindi,18:00,Classic,80₹,38,0
+UttarPradesh,Noida,PvrLogixCityCentreNoida,Hindi,21:00,Classic,80₹,89,89
