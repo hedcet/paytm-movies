@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Hindi,13:05,Lounger,80₹,14,0
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Hindi,13:05,Classic,80₹,38,2
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Hindi,13:05,Prime,80₹,186,49
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Hindi,13:05,Recliner,250₹,14,7
+Maharashtra,Mumbai,PvrDynamicJuhu,Hindi,15:00,Prime,80₹,72,72
+Maharashtra,Mumbai,PvrDynamicJuhu,Hindi,15:00,Classic,80₹,40,40
+Gujarat,Ahmedabad,PvrArvedTranscube,Hindi,18:30,Classic,80₹,54,0
+Gujarat,Ahmedabad,PvrArvedTranscube,Hindi,18:30,Prime,80₹,187,28
+Gujarat,Ahmedabad,PvrArvedTranscube,Hindi,18:30,Recliner,180₹,9,6
+Maharashtra,Mumbai,PvrIconOberoiGoregaonE,Hindi,19:15,Classic,80₹,22,22
+Maharashtra,Mumbai,PvrIconOberoiGoregaonE,Hindi,19:15,Prime,80₹,96,96
+Maharashtra,Mumbai,PvrIconOberoiGoregaonE,Hindi,19:15,Recliner,180₹,26,26
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Hindi,21:00,Recliner,200₹,14,13
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Hindi,21:00,Prime,80₹,68,67
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Hindi,21:00,Classic,80₹,42,39
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Hindi,21:00,Lounger,80₹,10,9
