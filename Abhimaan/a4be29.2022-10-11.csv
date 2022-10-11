@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NewDelhi,PvrPacificSubhashNagarDelhi,Hindi,18:00,Classic,80₹,52,3
+Delhi,NewDelhi,PvrPacificSubhashNagarDelhi,Hindi,18:00,Prime,80₹,68,57
+UttarPradesh,Allahabad,PvrVinayakPrayagraj,Hindi,21:00,Classic,80₹,58,0
+UttarPradesh,Allahabad,PvrVinayakPrayagraj,Hindi,21:00,Prime,80₹,57,5
+UttarPradesh,Allahabad,PvrVinayakPrayagraj,Hindi,21:00,Recliner,149₹,9,9
+Maharashtra,Mumbai,PvrMarketCityKurlaW,Hindi,21:00,Classic,80₹,90,21
+Maharashtra,Mumbai,PvrMarketCityKurlaW,Hindi,21:00,Prime,80₹,117,94
+MadhyaPradesh,Indore,PvrTreasureIslandMallSouthTukoganj,Hindi,21:00,Prime,80₹,112,80
+MadhyaPradesh,Indore,PvrTreasureIslandMallSouthTukoganj,Hindi,21:00,Classic,80₹,144,4
+MadhyaPradesh,Indore,PvrTreasureIslandMallSouthTukoganj,Hindi,21:00,Recliner,200₹,21,12
