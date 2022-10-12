@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,CinepolisLakeMallRashbehari,Bengali,20:10,Normal,140₹,40,0
+WestBengal,Kolkata,CinepolisLakeMallRashbehari,Bengali,20:10,Executive,160₹,185,5
+WestBengal,Kolkata,CinepolisLakeMallRashbehari,Bengali,20:10,Premium,180₹,20,0
+WestBengal,Kolkata,CinepolisLakeMallRashbehari,Bengali,20:10,Vip,350₹,12,0
