@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,DeviCineplexAnnaSalai,Tamil,13:00,Quartz,152₹,242,0
+TamilNadu,Chennai,DeviCineplexAnnaSalai,Tamil,13:00,Zircon,60₹,27,27
+TamilNadu,Chennai,DeviCineplexAnnaSalai,Tamil,13:00,Quartz,152₹,277,2
+TamilNadu,Chennai,DeviCineplexAnnaSalai,Tamil,13:00,Zircon,60₹,31,31
