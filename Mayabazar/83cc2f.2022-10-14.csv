@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Razole,4FourshowsCineplexDolbyAtmos,Telugu,21:30,Platinum,200₹,10,0
+AndhraPradesh,Razole,4FourshowsCineplexDolbyAtmos,Telugu,21:30,Gold,100₹,156,10
+AndhraPradesh,Razole,4FourshowsCineplexDolbyAtmos,Telugu,21:30,Silver,100₹,44,44
