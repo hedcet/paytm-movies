@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NewDelhi,PvrEcxChanakyapuri,Italian,20:40,Classic,1₹,16,16
+Delhi,NewDelhi,PvrEcxChanakyapuri,Italian,20:40,Prime,1₹,150,150
+Delhi,NewDelhi,PvrEcxChanakyapuri,Italian,20:40,PrimePlus,1₹,35,33
