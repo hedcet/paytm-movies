@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NewDelhi,PvrEcxChanakyapuri,Italian,18:15,Classic,1₹,16,16
+Delhi,NewDelhi,PvrEcxChanakyapuri,Italian,18:15,Prime,1₹,150,150
+Delhi,NewDelhi,PvrEcxChanakyapuri,Italian,18:15,PrimePlus,1₹,35,35
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Italian,18:30,Classic,1₹,72,72
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Italian,18:30,Recliner,1₹,7,7
