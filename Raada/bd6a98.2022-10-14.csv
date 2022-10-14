@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Nanded,PvrTreasureBazaarMallNanded,Marathi,14:00,PrimePlus,150₹,63,17
+Maharashtra,Nanded,PvrTreasureBazaarMallNanded,Marathi,14:00,Prime,130₹,100,0
+Maharashtra,Nanded,PvrTreasureBazaarMallNanded,Marathi,14:00,Classic,100₹,70,0
