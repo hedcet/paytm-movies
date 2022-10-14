@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,SriVenkateswaraTalkiesACDolby71Thiruvallur,Tamil,10:15,First,60₹,172,21
+Karnataka,Mysuru,PadmaTalkiesMysore,Tamil,10:30,Balcony,120₹,151,106
+Karnataka,Mysuru,PadmaTalkiesMysore,Tamil,10:30,Second,100₹,506,353
+Karnataka,Mysuru,PadmaTalkiesMysore,Tamil,13:30,Balcony,120₹,151,106
+Karnataka,Mysuru,PadmaTalkiesMysore,Tamil,13:30,Second,100₹,506,353
+TamilNadu,Chennai,SriVenkateswaraTalkiesACDolby71Thiruvallur,Tamil,14:00,First,60₹,172,21
+Karnataka,Mysuru,PadmaTalkiesMysore,Tamil,16:30,Balcony,120₹,151,106
+Karnataka,Mysuru,PadmaTalkiesMysore,Tamil,16:30,Second,100₹,506,353
+TamilNadu,Chennai,SriVenkateswaraTalkiesACDolby71Thiruvallur,Tamil,18:15,First,60₹,172,27
+Karnataka,Mysuru,PadmaTalkiesMysore,Tamil,19:30,Balcony,120₹,151,106
+Karnataka,Mysuru,PadmaTalkiesMysore,Tamil,19:30,Second,100₹,506,353
