@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NewDelhi,InoxNehruPlace,English,19:00,Club,600₹,75,75
+Delhi,NewDelhi,InoxNehruPlace,English,19:00,Executive,600₹,70,70
+Delhi,NewDelhi,InoxNehruPlace,English,19:00,Royal,600₹,21,21
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,English,19:00,Club,236₹,74,74
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,English,19:00,Executive,236₹,88,76
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,English,19:00,RoyaleRecliners,"2,643₹",12,12
+TamilNadu,Chennai,InoxChennaiCitiCentreDrRKSalai,English,19:00,Club,211₹,146,146
+TamilNadu,Chennai,InoxChennaiCitiCentreDrRKSalai,English,19:00,Executive,66₹,25,25
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,19:15,Insignia,"1,500₹",42,42
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,19:30,Insignia,"1,500₹",42,42
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,19:45,Insignia,"1,500₹",34,34
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,20:00,Insignia,"1,500₹",34,34
