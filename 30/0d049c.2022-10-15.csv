@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,10:00,Classic,150₹,108,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,10:00,Prime,190₹,108,2
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,10:00,Recliner,350₹,14,0
+Karnataka,Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,Kannada,10:30,Gold,110₹,355,319
+Karnataka,Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,Kannada,10:30,Silver,100₹,748,748
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,Kannada,11:10,Club,200₹,209,4
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,13:20,Classic,180₹,85,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,13:20,Prime,200₹,20,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,13:20,Recliner,320₹,13,0
+Karnataka,Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,Kannada,13:30,Gold,110₹,355,319
+Karnataka,Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,Kannada,13:30,Silver,100₹,748,748
+Karnataka,Bengaluru,InoxShreeGarudaSwagathMallJayanagar,Kannada,18:25,Club,290₹,85,0
+Karnataka,Bengaluru,InoxShreeGarudaSwagathMallJayanagar,Kannada,18:25,Executive,280₹,176,0
+Karnataka,Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,Kannada,22:00,Gold,110₹,355,319
+Karnataka,Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,Kannada,22:00,Silver,100₹,748,748
