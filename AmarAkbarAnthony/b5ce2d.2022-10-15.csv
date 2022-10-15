@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Aurangabad,MohanNovaCinemazSarafaRoad,Hindi,15:00,Platinum,110₹,58,0
+Maharashtra,Aurangabad,MohanNovaCinemazSarafaRoad,Hindi,15:00,Gold,110₹,57,0
+Maharashtra,Aurangabad,MohanNovaCinemazSarafaRoad,Hindi,15:00,Silver,110₹,57,1
+Maharashtra,Aurangabad,MohanNovaCinemazSarafaRoad,Hindi,18:00,Platinum,110₹,58,0
+Maharashtra,Aurangabad,MohanNovaCinemazSarafaRoad,Hindi,18:00,Gold,110₹,57,0
+Maharashtra,Aurangabad,MohanNovaCinemazSarafaRoad,Hindi,18:00,Silver,110₹,57,0
+Maharashtra,Aurangabad,MohanNovaCinemazSarafaRoad,Hindi,18:15,Platinum,110₹,100,0
+Maharashtra,Aurangabad,MohanNovaCinemazSarafaRoad,Hindi,18:15,Gold,110₹,100,0
+Maharashtra,Aurangabad,MohanNovaCinemazSarafaRoad,Hindi,18:15,Silver,110₹,100,0
+Maharashtra,Aurangabad,MohanNovaCinemazSarafaRoad,Hindi,21:00,Platinum,110₹,54,0
+Maharashtra,Aurangabad,MohanNovaCinemazSarafaRoad,Hindi,21:00,Gold,110₹,52,0
+Maharashtra,Aurangabad,MohanNovaCinemazSarafaRoad,Hindi,21:00,Silver,110₹,39,0
