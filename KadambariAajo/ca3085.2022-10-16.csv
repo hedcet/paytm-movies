@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,LilaCinemaFultala,Bengali,13:00,Balcony,60₹,28,0
+Assam,Nagaon,DivyaJyotiCinemaNagaon,Bengali,13:00,Box,200₹,10,0
+Assam,Nagaon,DivyaJyotiCinemaNagaon,Bengali,13:00,Balcony,150₹,186,138
+WestBengal,Kolkata,LilaCinemaFultala,Bengali,16:00,Balcony,60₹,28,0
+WestBengal,Kolkata,LilaCinemaFultala,Bengali,18:45,Balcony,60₹,28,0
