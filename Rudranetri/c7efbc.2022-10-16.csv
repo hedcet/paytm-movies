@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,18:30,Balcony,100₹,264,120
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,18:30,Balcony,100₹,44,44
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,18:30,SecondClass,70₹,40,3
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,18:30,ThirdClass,50₹,103,27
