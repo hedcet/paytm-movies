@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Darjeeling,InoxRinkMallLadenLaRoad,Nepali,13:45,Economy,170₹,82,82
+WestBengal,Darjeeling,InoxRinkMallLadenLaRoad,Nepali,13:45,Executive,160₹,16,14
+WestBengal,Darjeeling,InoxRinkMallLadenLaRoad,Nepali,16:00,Economy,140₹,82,14
+WestBengal,Darjeeling,InoxRinkMallLadenLaRoad,Nepali,16:00,Executive,160₹,16,15
+WestBengal,Siliguri,InoxCityCentreMatigara,Nepali,16:45,Club,280₹,176,24
+WestBengal,Siliguri,InoxCityCentreMatigara,Nepali,16:45,Executive,250₹,32,0
+WestBengal,Siliguri,InoxCityCentreMatigara,Nepali,16:45,Royale,350₹,10,5
+WestBengal,Kalimpong,DreamTheatreKalimpong,Nepali,17:00,Platinum,200₹,65,42
+WestBengal,Kalimpong,DreamTheatreKalimpong,Nepali,17:00,Gold,200₹,52,52
+WestBengal,Kalimpong,DreamTheatreKalimpong,Nepali,17:00,Silver,200₹,39,39
