@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Assam,Mangaldoi,GoldCinemaMangaldoi,Assamese,11:00,Platinum,150₹,67,0
+Assam,Mangaldoi,GoldCinemaMangaldoi,Assamese,11:00,Gold,100₹,96,0
+Assam,Mangaldoi,GoldCinemaMangaldoi,Assamese,11:00,Silver,70₹,32,0
+Assam,Guwahati,CarnivalTimesSquareTimesSquareMall,Assamese,11:45,Silver,99₹,54,0
+Assam,Guwahati,CarnivalTimesSquareTimesSquareMall,Assamese,11:45,Gold,99₹,146,2
+Assam,Golaghat,GoldCinemaGolaghat,Assamese,14:00,Platinum,150₹,24,6
+Assam,Golaghat,GoldCinemaGolaghat,Assamese,14:00,Gold,130₹,142,42
+Assam,Golaghat,GoldCinemaGolaghat,Assamese,14:00,Silver,100₹,54,0
+Assam,Jorhat,InoxAbsMallJorhat,Assamese,15:15,Club,210₹,68,23
+Assam,Jorhat,InoxAbsMallJorhat,Assamese,15:15,Executive,150₹,32,31
+Assam,Jorhat,InoxAbsMallJorhat,Assamese,15:15,Gold,350₹,12,2
+Assam,Jorhat,InoxAbsMallJorhat,Assamese,15:15,Premier,100₹,32,23
+Assam,Golaghat,GoldCinemaGolaghat,Assamese,17:15,Platinum,150₹,24,6
+Assam,Golaghat,GoldCinemaGolaghat,Assamese,17:15,Gold,130₹,142,14
+Assam,Golaghat,GoldCinemaGolaghat,Assamese,17:15,Silver,100₹,54,0
