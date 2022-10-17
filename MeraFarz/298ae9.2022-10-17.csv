@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Mahishadal,GitaCinema,Hindi,17:00,AcSuper,100₹,60,2
+WestBengal,Mahishadal,GitaCinema,Hindi,17:00,Special,70₹,96,0
+WestBengal,Mahishadal,GitaCinema,Hindi,17:00,DressCircle,40₹,40,0
+WestBengal,Mahishadal,GitaCinema,Hindi,17:00,Balcony,30₹,141,0
+WestBengal,Mahishadal,GitaCinema,Hindi,17:00,RearStall,25₹,600,0
