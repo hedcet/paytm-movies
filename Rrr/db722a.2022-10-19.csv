@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Waterland,TestCinemaOcl,Tamil,07:00,Balcony,1₹,131,34
+WestBengal,Waterland,TestCinemaOcl,Tamil,07:00,FirstClass,1₹,142,35
+WestBengal,Waterland,TestCinemaOcl,Tamil,10:45,Balcony,130₹,131,65
+WestBengal,Waterland,TestCinemaOcl,Tamil,10:45,FirstClass,120₹,142,73
+AndhraPradesh,Nellore,MythiliTheatre,Telugu,18:30,FirstClass,50₹,168,24
+AndhraPradesh,Nellore,MythiliTheatre,Telugu,18:30,SecondClass,30₹,81,0
