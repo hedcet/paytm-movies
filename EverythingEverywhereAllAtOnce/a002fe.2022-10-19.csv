@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrVegaBannerghattaRoad,English,09:50,Classic,112₹,86,0
+Karnataka,Bengaluru,PvrVegaBannerghattaRoad,English,09:50,Recliner,220₹,9,7
+Maharashtra,Mumbai,PvrDynamicJuhu,English,11:15,Prime,112₹,264,34
+Maharashtra,Mumbai,PvrDynamicJuhu,English,11:15,Lounger,112₹,12,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,12:20,Insignia,300₹,34,6
+Maharashtra,Mumbai,MaisonPvrTheLoftLuxeJioWorldDriveBkc,English,14:15,Platinum,500₹,33,4
+Maharashtra,Mumbai,InoxRCityGhatkoparW,English,14:25,Insignia,300₹,41,2
+Maharashtra,Mumbai,PvrLuxeMarketcityKurlaMumbai,English,16:30,GoldPremium,300₹,22,22
+Maharashtra,Mumbai,PvrLuxeMarketcityKurlaMumbai,English,16:30,GoldStar,300₹,55,55
+Maharashtra,Pune,PvrMarketCityGoldPune,English,17:00,GoldClassic,300₹,24,8
+Maharashtra,Pune,PvrMarketCityGoldPune,English,17:00,GoldPrime,300₹,22,9
+Maharashtra,Mumbai,PvrLuxeMarketcityKurlaMumbai,English,17:00,GoldPremium,300₹,24,19
+Maharashtra,Mumbai,PvrLuxeMarketcityKurlaMumbai,English,17:00,GoldStar,300₹,36,1
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,18:20,Platinum,500₹,28,2
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,18:20,PlatinumSuperior,700₹,8,2
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,21:45,Classic,112₹,89,17
