@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Gajapathinagaram,SuryaMahal,Telugu,10:30,Premium,100₹,283,21
+AndhraPradesh,Gajapathinagaram,SuryaMahal,Telugu,10:30,NonPremium,70₹,191,0
+AndhraPradesh,Gajapathinagaram,SuryaMahal,Telugu,14:15,Premium,100₹,283,21
+AndhraPradesh,Gajapathinagaram,SuryaMahal,Telugu,14:15,NonPremium,70₹,191,0
+AndhraPradesh,Gajapathinagaram,SuryaMahal,Telugu,18:15,Premium,100₹,283,21
+AndhraPradesh,Gajapathinagaram,SuryaMahal,Telugu,18:15,NonPremium,70₹,191,0
+AndhraPradesh,Gajapathinagaram,SuryaMahal,Telugu,21:15,Premium,100₹,283,21
+AndhraPradesh,Gajapathinagaram,SuryaMahal,Telugu,21:15,NonPremium,70₹,191,0
