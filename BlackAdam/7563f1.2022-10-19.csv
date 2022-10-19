@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Gurgaon,InoxAiplJoyStreetGurgaon,English,19:00,Club,50₹,52,52
+Haryana,Gurgaon,InoxAiplJoyStreetGurgaon,English,19:00,Executive,50₹,26,26
+Haryana,Gurgaon,InoxAiplJoyStreetGurgaon,English,19:00,RoyaleRecliner,50₹,9,9
+Haryana,Gurgaon,InoxAiplJoyStreetGurgaon,English,19:00,Royale,50₹,51,51
+Delhi,NewDelhi,InoxNehruPlace,English,19:30,Club,50₹,87,87
+Delhi,NewDelhi,InoxNehruPlace,English,19:30,Executive,50₹,84,84
+Delhi,NewDelhi,InoxNehruPlace,English,19:30,RoyaleRecliner,50₹,18,18
+Delhi,NewDelhi,InoxNehruPlace,English,19:30,Royal,50₹,26,26
+Delhi,NewDelhi,InoxNehruPlace,English,19:30,Club,50₹,87,87
+Delhi,NewDelhi,InoxNehruPlace,English,19:30,Executive,50₹,84,84
+Delhi,NewDelhi,InoxNehruPlace,English,19:30,RoyaleRecliner,50₹,18,18
+Delhi,NewDelhi,InoxNehruPlace,English,19:30,Royal,50₹,26,26
