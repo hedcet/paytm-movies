@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,AvkCinemasAC2K3DMappedu,Tamil,11:00,Platinum,110₹,164,14
+TamilNadu,Tuticorin,PerisonPlazaMultiscreen,Tamil,11:20,Premium,150₹,211,0
+TamilNadu,Chennai,MmTheatreChennai,Tamil,15:00,Elite,150₹,190,0
+TamilNadu,Chennai,MmTheatreChennai,Tamil,15:00,Premium,110₹,318,0
+TamilNadu,Chennai,AvkCinemasAC2K3DMappedu,Tamil,18:30,Platinum,110₹,164,14
+TamilNadu,Chennai,MmTheatreChennai,Tamil,18:30,Elite,150₹,190,0
+TamilNadu,Chennai,MmTheatreChennai,Tamil,18:30,Premium,110₹,318,0
+TamilNadu,Chennai,MmTheatreChennai,Tamil,22:00,Elite,150₹,190,0
+TamilNadu,Chennai,MmTheatreChennai,Tamil,22:00,Premium,110₹,318,0
