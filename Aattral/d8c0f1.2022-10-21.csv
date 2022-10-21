@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,AlankarTheatreACDtsMaduranthakam,Tamil,14:30,Gold,120₹,100,0
+TamilNadu,Chennai,AlankarTheatreACDtsMaduranthakam,Tamil,14:30,Silver,100₹,446,446
+TamilNadu,Chennai,AlankarTheatreACDtsMaduranthakam,Tamil,21:30,Gold,120₹,100,0
+TamilNadu,Chennai,AlankarTheatreACDtsMaduranthakam,Tamil,21:30,Silver,100₹,446,446
