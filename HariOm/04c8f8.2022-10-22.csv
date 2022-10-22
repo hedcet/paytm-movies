@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,CarnivalMoviestarGoregaonW,Marathi,12:15,GoldOffline,130₹,53,0
+Maharashtra,Mumbai,CarnivalMoviestarGoregaonW,Marathi,12:15,SilverOffline,100₹,35,0
+Maharashtra,Pune,CarnivalCinemasSpineCityPuneSpineCityMall,Marathi,16:30,PlatinumOffline,180₹,48,6
+Maharashtra,Pune,CarnivalCinemasSpineCityPuneSpineCityMall,Marathi,16:30,GoldOffline,160₹,65,2
+Maharashtra,Pune,CarnivalCinemasSpineCityPuneSpineCityMall,Marathi,16:30,SilverOffline,140₹,48,1
+Maharashtra,Pune,CarnivalCinemasSpineCityPuneSpineCityMall,Marathi,16:30,SofaOffline,200₹,18,1
+Maharashtra,Vita,SuriyaNovaCinemas,Marathi,18:10,Gold,150₹,77,0
+Maharashtra,Vita,SuriyaNovaCinemas,Marathi,18:10,Silver,120₹,42,0
