@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Assam,Guwahati,CarnivalTimesSquareTimesSquareMall,Assamese,13:30,Silver,99₹,54,0
+Assam,Guwahati,CarnivalTimesSquareTimesSquareMall,Assamese,13:30,Gold,99₹,146,40
+Assam,Golaghat,GoldCinemaGolaghat,Assamese,14:00,Platinum,150₹,24,23
+Assam,Golaghat,GoldCinemaGolaghat,Assamese,14:00,Gold,130₹,142,140
+Assam,Golaghat,GoldCinemaGolaghat,Assamese,14:00,Silver,100₹,54,36
