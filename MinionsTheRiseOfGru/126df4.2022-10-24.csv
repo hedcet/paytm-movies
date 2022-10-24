@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NewDelhi,PvrPromenadeVasantKunj,English,11:50,Classic,430₹,84,2
+Delhi,NewDelhi,PvrPromenadeVasantKunj,English,11:50,Prime,460₹,21,7
+AndhraPradesh,Hyderabad,PvrNextGalleriaMallPanjagutta,English,14:25,Classic,150₹,54,42
