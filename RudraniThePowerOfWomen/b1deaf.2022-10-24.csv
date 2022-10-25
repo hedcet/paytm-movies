@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,Bhubaneswar,InoxBmcBhawaniMallShahidNagar,Odia,16:05,Club,170₹,126,0
+Orissa,Bhubaneswar,InoxBmcBhawaniMallShahidNagar,Odia,16:05,Executive,170₹,42,0
+Orissa,Bhubaneswar,InoxBmcBhawaniMallShahidNagar,Odia,16:05,Royale,170₹,36,3
+Orissa,Bhubaneswar,InoxDnRegaliaMallPatrapada,Odia,17:15,Club,240₹,50,3
+Orissa,Bhubaneswar,InoxDnRegaliaMallPatrapada,Odia,17:15,Executive,220₹,20,0
+Orissa,Bhubaneswar,InoxDnRegaliaMallPatrapada,Odia,17:15,Royal,270₹,59,0
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,18:35,Vip,500₹,11,0
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,18:35,Premium,200₹,45,4
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,18:35,Executive,180₹,51,0
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,18:35,Normal,160₹,24,0
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,18:40,Vip,500₹,11,0
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,18:40,Premium,200₹,45,1
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,18:40,Executive,180₹,51,1
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,18:40,Normal,160₹,24,0
