@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Anakapalle,TheatreRamachandra,Telugu,11:00,1stClass,112₹,420,0
+AndhraPradesh,Anakapalle,TheatreRamachandra,Telugu,11:00,3rdClass,70₹,112,0
+AndhraPradesh,Anakapalle,TheatreRamachandra,Telugu,14:30,1stClass,112₹,420,0
+AndhraPradesh,Anakapalle,TheatreRamachandra,Telugu,14:30,3rdClass,70₹,112,0
+AndhraPradesh,Anakapalle,TheatreRamachandra,Telugu,18:30,1stClass,112₹,420,420
+AndhraPradesh,Anakapalle,TheatreRamachandra,Telugu,18:30,3rdClass,70₹,112,112
+AndhraPradesh,Anakapalle,TheatreRamachandra,Telugu,21:30,1stClass,112₹,420,420
+AndhraPradesh,Anakapalle,TheatreRamachandra,Telugu,21:30,3rdClass,70₹,112,112
