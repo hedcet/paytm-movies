@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Bhopal,RajBig2CinemaBhopal,Hindi,12:00,Diamond,110₹,385,275
+MadhyaPradesh,Bhopal,RajBig2CinemaBhopal,Hindi,12:00,Silver,80₹,160,160
+MadhyaPradesh,Bhopal,RajBig2CinemaBhopal,Hindi,15:00,Diamond,110₹,385,275
+MadhyaPradesh,Bhopal,RajBig2CinemaBhopal,Hindi,15:00,Silver,80₹,160,160
+MadhyaPradesh,Bhopal,RajBig2CinemaBhopal,Hindi,18:00,Diamond,110₹,385,275
+MadhyaPradesh,Bhopal,RajBig2CinemaBhopal,Hindi,18:00,Silver,80₹,160,160
+Punjab,Banga,SuryaOhriCinema,Hindi,18:40,Gold,210₹,12,0
+Punjab,Banga,SuryaOhriCinema,Hindi,18:40,Silver,160₹,109,0
+MadhyaPradesh,Indore,CineSquareCinemasIndore,Hindi,19:35,Luxury,280₹,5,5
+MadhyaPradesh,Indore,CineSquareCinemasIndore,Hindi,19:35,Royale,230₹,104,78
+MadhyaPradesh,Indore,CineSquareCinemasIndore,Hindi,19:35,Premium,210₹,26,19
+MadhyaPradesh,Bhopal,RajBig2CinemaBhopal,Hindi,21:00,Diamond,110₹,385,275
+MadhyaPradesh,Bhopal,RajBig2CinemaBhopal,Hindi,21:00,Silver,80₹,160,160
+MadhyaPradesh,Indore,CineSquareCinemasIndore,Hindi,22:00,Luxury,300₹,5,5
+MadhyaPradesh,Indore,CineSquareCinemasIndore,Hindi,22:00,Royale,250₹,104,78
+MadhyaPradesh,Indore,CineSquareCinemasIndore,Hindi,22:00,Premium,230₹,26,19
