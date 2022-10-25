@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Assam,Jorhat,InoxAbsMallJorhat,Assamese,12:25,Club,230₹,68,68
+Assam,Jorhat,InoxAbsMallJorhat,Assamese,12:25,Executive,150₹,32,32
+Assam,Jorhat,InoxAbsMallJorhat,Assamese,12:25,Gold,380₹,12,12
+Assam,Jorhat,InoxAbsMallJorhat,Assamese,12:25,Premier,120₹,32,32
+Assam,Tinsukia,GalleriaCinemasAtcMallTinsukia,Assamese,18:10,Business,330₹,14,4
+Assam,Tinsukia,GalleriaCinemasAtcMallTinsukia,Assamese,18:10,Platinum,280₹,192,7
+Assam,Tinsukia,GalleriaCinemasAtcMallTinsukia,Assamese,18:10,Gold,220₹,51,7
+Assam,Tinsukia,GalleriaCinemasAtcMallTinsukia,Assamese,18:10,Silver,130₹,34,0
+Assam,Guwahati,MatrixCinemasMatrixMallBeltola,Assamese,18:10,Gold,400₹,42,0
+Assam,Guwahati,MatrixCinemasMatrixMallBeltola,Assamese,18:10,Club,200₹,52,0
+Assam,Guwahati,MatrixCinemasMatrixMallBeltola,Assamese,18:10,Executive,150₹,13,0
+Assam,Guwahati,PvrCityCentreGuwahati,Assamese,19:15,Classic,210₹,40,0
+Assam,Guwahati,PvrCityCentreGuwahati,Assamese,19:15,Prime,230₹,82,14
+Assam,Guwahati,PvrCityCentreGuwahati,Assamese,19:15,PrimePlus,270₹,13,0
