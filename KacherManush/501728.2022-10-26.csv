@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,CoochBehar,NewCinemaBangchatraRoad,Bengali,10:15,Balcony,80₹,87,45
+WestBengal,Siliguri,NewCinemaPara,Bengali,13:15,Sofa,100₹,96,24
+WestBengal,Siliguri,NewCinemaPara,Bengali,13:15,Special,60₹,102,28
+WestBengal,Siliguri,NewCinemaPara,Bengali,13:15,FirstClass,40₹,285,0
+WestBengal,CoochBehar,NewCinemaBangchatraRoad,Bengali,15:45,Balcony,80₹,87,45
