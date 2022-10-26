@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Vadodara,VasantCinemaAsodar,Gujarati,12:30,Upper,50₹,512,0
+Gujarat,Vadodara,VasantCinemaAsodar,Gujarati,12:30,Balcony,60₹,218,0
+Gujarat,Sanand,ArthMultiplexSanand,Gujarati,15:00,Gold,60₹,79,0
+Gujarat,Sanand,ArthMultiplexSanand,Gujarati,15:00,Silver,60₹,46,0
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,15:00,Gold,100₹,169,0
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,15:00,Gold,100₹,38,0
+Gujarat,Vadodara,VasantCinemaAsodar,Gujarati,15:30,Upper,50₹,512,0
+Gujarat,Vadodara,VasantCinemaAsodar,Gujarati,15:30,Balcony,60₹,218,0
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,18:00,Gold,100₹,169,0
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,18:00,Gold,100₹,38,0
+Gujarat,Sanand,ArthMultiplexSanand,Gujarati,21:00,Gold,60₹,79,0
+Gujarat,Sanand,ArthMultiplexSanand,Gujarati,21:00,Silver,60₹,46,0
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,21:00,Gold,100₹,169,5
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,21:00,Gold,100₹,38,0
+Gujarat,Vadodara,VasantCinemaAsodar,Gujarati,21:30,Upper,50₹,512,0
+Gujarat,Vadodara,VasantCinemaAsodar,Gujarati,21:30,Balcony,60₹,218,0
