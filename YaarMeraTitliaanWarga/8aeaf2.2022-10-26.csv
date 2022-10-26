@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Sardulgarh,GoldenCinemasRoriRoad,Punjabi,12:50,Platinum,350₹,14,9
+Haryana,Sardulgarh,GoldenCinemasRoriRoad,Punjabi,12:50,Royal,300₹,8,4
+Haryana,Sardulgarh,GoldenCinemasRoriRoad,Punjabi,12:50,Gold,220₹,16,11
+Haryana,Sardulgarh,GoldenCinemasRoriRoad,Punjabi,12:50,Silver,200₹,33,22
+Haryana,Sardulgarh,GoldenCinemasRoriRoad,Punjabi,12:50,NormalClass,170₹,11,11
