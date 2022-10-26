@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Noida,PvrLogixCityCentreNoida,Hindi,13:25,Classic,315₹,87,26
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,Hindi,14:00,PlatinumSuperior,800₹,12,7
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,Hindi,14:00,Platinum,800₹,28,7
