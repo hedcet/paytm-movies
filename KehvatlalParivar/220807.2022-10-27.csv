@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Vadodara,MovieTimeSSquareMallElloraPark,Gujarati,17:15,Premium,100₹,120,34
+Gujarat,Vadodara,MovieTimeSSquareMallElloraPark,Gujarati,17:15,Recliner,150₹,8,1
+Gujarat,Vadodara,MovieTimeSSquareMallElloraPark,Gujarati,17:15,Executive,100₹,48,0
