@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,InoxDrWorldParvatPatiya,Hindi,12:10,Executive,180₹,93,21
+TamilNadu,Chennai,SriVenkateswaraTalkiesACDolby71Thiruvallur,Tamil,14:00,First,60₹,172,94
+Mizoram,Waterland,TpmcOms,Hindi,15:00,Executive,"1,000₹",222,143
+Mizoram,Waterland,TpmcOms,Hindi,15:00,Corporate,"1,000₹",538,100
+Mizoram,Waterland,TpmcOms,Hindi,15:00,Budget,950₹,95,32
+WestBengal,Kolkata,InoxForumMallElginRoad,Hindi,15:05,DressCircle,300₹,108,23
+WestBengal,Kolkata,InoxForumMallElginRoad,Hindi,15:05,Galleria,270₹,36,4
+WestBengal,Kolkata,InoxForumMallElginRoad,Hindi,15:05,Royal,340₹,34,19
+TamilNadu,Chennai,SriVenkateswaraTalkiesACDolby71Thiruvallur,Tamil,18:15,First,60₹,172,171
+Mizoram,Waterland,TpmcOms,Hindi,18:30,Executive,"1,100₹",222,143
+Mizoram,Waterland,TpmcOms,Hindi,18:30,Corporate,"1,100₹",538,100
+Mizoram,Waterland,TpmcOms,Hindi,18:30,Budget,"1,000₹",95,32
