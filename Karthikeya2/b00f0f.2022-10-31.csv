@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kakinada,ChanakyaChandraGuptaComplexSuryaRaoPeta,Telugu,11:30,FirstClass,112₹,416,24
+AndhraPradesh,Kakinada,ChanakyaChandraGuptaComplexSuryaRaoPeta,Telugu,11:30,ThirdLass,75₹,104,0
+AndhraPradesh,Kakinada,ChanakyaChandraGuptaComplexSuryaRaoPeta,Telugu,14:30,FirstClass,112₹,416,0
+AndhraPradesh,Kakinada,ChanakyaChandraGuptaComplexSuryaRaoPeta,Telugu,14:30,ThirdLass,75₹,104,0
+AndhraPradesh,Kakinada,ChanakyaChandraGuptaComplexSuryaRaoPeta,Telugu,18:30,FirstClass,112₹,416,126
+AndhraPradesh,Kakinada,ChanakyaChandraGuptaComplexSuryaRaoPeta,Telugu,18:30,ThirdLass,75₹,104,0
+AndhraPradesh,Kakinada,ChanakyaChandraGuptaComplexSuryaRaoPeta,Telugu,21:30,FirstClass,112₹,416,134
+AndhraPradesh,Kakinada,ChanakyaChandraGuptaComplexSuryaRaoPeta,Telugu,21:30,ThirdLass,75₹,104,0
