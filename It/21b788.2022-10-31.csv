@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrPhoenixMarketcityMall4DxWhitefieldRoad,English,22:30,Classic,410₹,88,3
+Maharashtra,Mumbai,PvrMarketCity4DxKurlaW,English,23:00,4DxPrime,400₹,80,16
+Maharashtra,Mumbai,PvrMarketCity4DxKurlaW,English,23:00,4DxClassic,350₹,60,0
+Gujarat,Surat,PvrRahulRaj4DxDumasRoad,English,23:05,4DxPrime,470₹,60,8
+Gujarat,Surat,PvrRahulRaj4DxDumasRoad,English,23:05,4DxClassic,450₹,24,0
+Maharashtra,Pune,PvrMarketCity4DxVimanNagar,English,23:05,4DxClassic,300₹,48,0
+Maharashtra,Pune,PvrMarketCity4DxVimanNagar,English,23:05,4DxPrime,300₹,72,13
