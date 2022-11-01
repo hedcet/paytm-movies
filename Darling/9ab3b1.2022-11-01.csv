@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Mizoram,Waterland,MirajTestCinema,Marathi,09:00,Executive,200₹,190,0
+Mizoram,Waterland,MirajTestCinema,Marathi,09:00,Special,150₹,21,1
+Mizoram,Waterland,MirajTestCinema,Marathi,15:30,Executive,200₹,190,0
+Mizoram,Waterland,MirajTestCinema,Marathi,15:30,Special,150₹,21,1
