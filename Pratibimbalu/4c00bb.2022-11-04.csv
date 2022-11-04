@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Vizag,InoxChitralayaaMallChitralayaa,Telugu,13:35,Executive,177₹,116,5
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,Telugu,16:30,Classic,150₹,244,64
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,Telugu,16:30,Recliner,250₹,13,13
+AndhraPradesh,Vizianagaram,InoxNcsMallBochuPeta,Telugu,22:30,Exclusive,177₹,199,0
