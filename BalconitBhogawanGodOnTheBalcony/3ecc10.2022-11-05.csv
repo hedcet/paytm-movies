@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Assam,Jorhat,InoxAbsMallJorhat,Assamese,14:50,Club,230₹,55,4
+Assam,Jorhat,InoxAbsMallJorhat,Assamese,14:50,Executive,150₹,32,15
+Assam,Jorhat,InoxAbsMallJorhat,Assamese,14:50,Premier,120₹,32,21
+Assam,Jorhat,InoxAbsMallJorhat,Assamese,14:50,Royal,350₹,14,2
+Assam,Guwahati,GoldCinemaPaltanbazar,Assamese,15:00,Gold,120₹,54,10
+Assam,Guwahati,GoldCinemaPaltanbazar,Assamese,15:00,Silver,100₹,24,0
