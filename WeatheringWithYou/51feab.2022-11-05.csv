@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NewDelhi,PvrSelectCityWalkSaket,Japanese,11:00,ClassicNormal,200₹,252,251
+Delhi,NewDelhi,PvrSelectCityWalkSaket,Japanese,11:00,ReclinersNormal,350₹,12,12
+Delhi,NewDelhi,PvrSelectCityWalkSaket,Japanese,11:00,ClassicSuperior,250₹,81,81
