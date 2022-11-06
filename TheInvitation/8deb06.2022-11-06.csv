@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,10:55,Classic,210₹,147,1
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,10:55,Recliner,350₹,12,0
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,12:45,Classic,320₹,89,8
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,15:15,PlatinumSuperior,"1,100₹",8,2
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,15:15,Platinum,900₹,28,2
+Haryana,Chandigarh,PvrElanteMallChandigarh,English,18:30,Classic,230₹,138,15
+Haryana,Chandigarh,PvrElanteMallChandigarh,English,18:30,Recliner,650₹,13,4
