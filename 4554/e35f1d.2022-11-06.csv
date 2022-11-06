@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,AgsCinemasVillivakkam,Tamil,09:30,Pearl,60₹,20,0
+TamilNadu,Chennai,AgsCinemasVillivakkam,Tamil,09:30,Diamond,190₹,174,21
+TamilNadu,Tuticorin,SathyaTheatre,Tamil,14:30,FirstClass,50₹,100,0
+TamilNadu,Tuticorin,SathyaTheatre,Tamil,18:30,FirstClass,50₹,100,0
+TamilNadu,Tuticorin,SathyaTheatre,Tamil,22:00,FirstClass,50₹,100,0
