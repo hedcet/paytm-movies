@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,PvrLuluKochi,Malayalam,09:40,Classic,89₹,39,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,09:40,ClassicPlus,110₹,91,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,09:40,Prime,125₹,64,6
+Kerala,Kochi,PvrLuluKochi,Malayalam,09:40,Recliner,240₹,9,1
+Kerala,Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,13:00,ExecutiveOffline,100₹,26,0
+Kerala,Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,13:00,SilverOffline,150₹,147,17
