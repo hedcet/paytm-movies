@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Palakonda,SunCinemaxAcDtsVenkataGouriPalakonda,Telugu,11:00,Premium,100₹,247,38
+AndhraPradesh,Anakapalle,SriSatyanarayanaPicturePalaceAcDts,Telugu,11:00,FirstClass,112₹,160,160
+AndhraPradesh,Anakapalle,SriSatyanarayanaPicturePalaceAcDts,Telugu,11:00,FirstClass,112₹,22,22
+AndhraPradesh,Anakapalle,SriSatyanarayanaPicturePalaceAcDts,Telugu,11:00,2ndClass,70₹,46,46
+AndhraPradesh,Palakonda,SunCinemaxAcDtsVenkataGouriPalakonda,Telugu,14:30,Premium,100₹,247,38
+AndhraPradesh,Anakapalle,SriSatyanarayanaPicturePalaceAcDts,Telugu,14:30,FirstClass,112₹,160,60
+AndhraPradesh,Anakapalle,SriSatyanarayanaPicturePalaceAcDts,Telugu,14:30,FirstClass,112₹,22,22
+AndhraPradesh,Anakapalle,SriSatyanarayanaPicturePalaceAcDts,Telugu,14:30,2ndClass,70₹,46,46
+AndhraPradesh,Anakapalle,SriSatyanarayanaPicturePalaceAcDts,Telugu,18:30,FirstClass,112₹,160,60
+AndhraPradesh,Anakapalle,SriSatyanarayanaPicturePalaceAcDts,Telugu,18:30,FirstClass,112₹,22,22
+AndhraPradesh,Anakapalle,SriSatyanarayanaPicturePalaceAcDts,Telugu,18:30,2ndClass,70₹,46,46
+AndhraPradesh,Palakonda,SunCinemaxAcDtsVenkataGouriPalakonda,Telugu,19:00,Premium,100₹,247,38
+AndhraPradesh,Anakapalle,SriSatyanarayanaPicturePalaceAcDts,Telugu,21:30,FirstClass,112₹,160,60
+AndhraPradesh,Anakapalle,SriSatyanarayanaPicturePalaceAcDts,Telugu,21:30,FirstClass,112₹,22,22
+AndhraPradesh,Anakapalle,SriSatyanarayanaPicturePalaceAcDts,Telugu,21:30,2ndClass,70₹,46,46
+AndhraPradesh,Palakonda,SunCinemaxAcDtsVenkataGouriPalakonda,Telugu,21:45,Premium,100₹,247,38
