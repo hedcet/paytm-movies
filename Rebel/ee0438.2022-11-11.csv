@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Kalwakurthy,ParthasarathiTheatreKalwakurthy,Telugu,18:00,Balcony,150₹,303,85
+Telangana,Kalwakurthy,ParthasarathiTheatreKalwakurthy,Telugu,18:00,SecondClass,110₹,99,99
+Telangana,Kalwakurthy,ParthasarathiTheatreKalwakurthy,Telugu,21:00,Balcony,150₹,303,85
+Telangana,Kalwakurthy,ParthasarathiTheatreKalwakurthy,Telugu,21:00,SecondClass,110₹,99,99
