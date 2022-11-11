@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Godavarikhani,SrinivasaTheatreGodavarikhani,Telugu,11:30,Coupleseats,110₹,24,24
+Telangana,Godavarikhani,SrinivasaTheatreGodavarikhani,Telugu,11:30,Balcony,110₹,453,381
+Telangana,Godavarikhani,SrinivasaTheatreGodavarikhani,Telugu,14:30,Coupleseats,110₹,24,24
+Telangana,Godavarikhani,SrinivasaTheatreGodavarikhani,Telugu,14:30,Balcony,110₹,453,381
+Telangana,Godavarikhani,SrinivasaTheatreGodavarikhani,Telugu,18:30,Coupleseats,110₹,24,24
+Telangana,Godavarikhani,SrinivasaTheatreGodavarikhani,Telugu,18:30,Balcony,110₹,453,381
+Telangana,Godavarikhani,SrinivasaTheatreGodavarikhani,Telugu,21:30,Coupleseats,110₹,24,24
+Telangana,Godavarikhani,SrinivasaTheatreGodavarikhani,Telugu,21:30,Balcony,110₹,453,381
