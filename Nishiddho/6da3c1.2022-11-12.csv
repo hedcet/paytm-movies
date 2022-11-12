@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Malappuram,MallikaPlexRachanaNaveenMalappuram,Malayalam,12:30,Sofa,200₹,11,11
+Kerala,Malappuram,MallikaPlexRachanaNaveenMalappuram,Malayalam,12:30,Executive,129₹,140,140
+Kerala,Kattanam,GanamTheatreComplexACKattanam,Malayalam,13:00,FirstClass,110₹,129,129
+Kerala,Kozhikode,MallikaPlexDolbyAtmosCalicut,Malayalam,13:00,Executive,140₹,162,6
+Kerala,Manjeri,LadderCinemasIndianMall,Malayalam,14:00,Executive,150₹,74,0
+Kerala,Trivandrum,KrishnaTheatreKazhakoottam,Malayalam,14:30,Reserved,129₹,252,252
+Kerala,Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmosThoongamparaKattakada,Malayalam,14:30,DiamondSofa,200₹,4,4
+Kerala,Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmosThoongamparaKattakada,Malayalam,14:30,Gold,150₹,170,170
+Kerala,Malappuram,MallikaPlexRachanaNaveenMalappuram,Malayalam,17:30,Sofa,200₹,11,11
+Kerala,Malappuram,MallikaPlexRachanaNaveenMalappuram,Malayalam,17:30,Executive,129₹,140,140
+Kerala,Kozhikode,MallikaPlexDolbyAtmosCalicut,Malayalam,18:00,Executive,140₹,163,163
+Kerala,Trivandrum,KrishnaTheatreKazhakoottam,Malayalam,18:15,Reserved,129₹,252,252
+Kerala,Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmosThoongamparaKattakada,Malayalam,18:15,DiamondSofa,200₹,4,4
+Kerala,Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmosThoongamparaKattakada,Malayalam,18:15,Gold,150₹,170,170
+Kerala,Kattanam,GanamTheatreComplexACKattanam,Malayalam,18:30,FirstClass,110₹,129,67
+Kerala,Manjeri,LadderCinemasIndianMall,Malayalam,19:00,Executive,150₹,74,74
