@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Rewa,SamdareeyaCinemaRewa,Bagheli,12:30,Platinum,150₹,105,67
+MadhyaPradesh,Rewa,SamdareeyaCinemaRewa,Bagheli,12:30,Gold,120₹,92,48
+MadhyaPradesh,Rewa,SamdareeyaCinemaRewa,Bagheli,12:30,Silver,100₹,66,19
+MadhyaPradesh,Satna,ImusicaEntertainmentVenusTreasureMall,Bagheli,12:30,RedCarpet,140₹,98,1
+MadhyaPradesh,Satna,ImusicaEntertainmentVenusTreasureMall,Bagheli,12:30,Gold,110₹,42,2
+MadhyaPradesh,Satna,ImusicaEntertainmentVenusTreasureMall,Bagheli,12:30,Royal,250₹,8,0
+MadhyaPradesh,Satna,ImusicaEntertainmentVenusTreasureMall,Bagheli,14:15,RedCarpet,140₹,98,2
+MadhyaPradesh,Satna,ImusicaEntertainmentVenusTreasureMall,Bagheli,14:15,Gold,110₹,42,4
+MadhyaPradesh,Satna,ImusicaEntertainmentVenusTreasureMall,Bagheli,14:15,Royal,250₹,8,0
+MadhyaPradesh,Rewa,SamdareeyaCinemaRewa,Bagheli,15:30,Platinum,150₹,105,62
+MadhyaPradesh,Rewa,SamdareeyaCinemaRewa,Bagheli,15:30,Gold,120₹,92,58
+MadhyaPradesh,Rewa,SamdareeyaCinemaRewa,Bagheli,15:30,Silver,100₹,66,21
