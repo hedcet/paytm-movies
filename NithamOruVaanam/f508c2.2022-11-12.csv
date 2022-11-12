@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,11:50,Budget,60₹,28,17
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,11:50,Elite,179₹,216,108
+TamilNadu,Coimbatore,SpiTheCinemaBrookefieldsMall,Tamil,15:30,Budget,60₹,20,20
+TamilNadu,Coimbatore,SpiTheCinemaBrookefieldsMall,Tamil,15:30,Elite,190₹,174,79
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,15:30,Classic,60₹,16,13
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,15:30,Prime,179₹,110,90
+TamilNadu,Coimbatore,InoxProzoneMallSathyRoad,Tamil,15:40,Club,190₹,159,28
+TamilNadu,Coimbatore,InoxProzoneMallSathyRoad,Tamil,15:40,Executive,60₹,21,21
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,16:30,Normal,60₹,16,16
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,16:30,Executive,152₹,118,90
+TamilNadu,Chennai,InoxTheMarinaMallOmrEgatoor,Tamil,18:45,Club,190₹,140,131
+TamilNadu,Chennai,InoxTheMarinaMallOmrEgatoor,Tamil,18:45,Executive,60₹,13,12
