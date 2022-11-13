@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Ghaziabad,ApsaraCinemaDilshadGardenBorder,Hindi,09:00,Gold,110₹,340,146
+UttarPradesh,Ghaziabad,ApsaraCinemaDilshadGardenBorder,Hindi,09:00,Gold,110₹,340,146
+Maharashtra,Mumbai,CarnivalMoviestarGoregaonW,Hindi,17:00,GoldOffline,130₹,55,0
+Maharashtra,Mumbai,CarnivalMoviestarGoregaonW,Hindi,17:00,SilverOffline,100₹,20,0
