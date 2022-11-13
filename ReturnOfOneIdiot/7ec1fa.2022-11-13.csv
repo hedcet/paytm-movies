@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,11:00,Club,250₹,56,56
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,11:00,Executive,250₹,28,28
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,11:00,RoyaleRecliner,250₹,8,8
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,11:00,Royale,250₹,41,41
