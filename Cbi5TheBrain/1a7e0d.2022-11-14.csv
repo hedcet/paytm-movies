@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Villupuram,KalyanCinemasACDtsVillupuram,Tamil,14:15,Box,164₹,24,0
+TamilNadu,Villupuram,KalyanCinemasACDtsVillupuram,Tamil,14:15,Balcony,164₹,88,16
+TamilNadu,Villupuram,KalyanCinemasACDtsVillupuram,Tamil,14:15,FirstClass,119₹,154,9
+TamilNadu,Villupuram,KalyanCinemasACDtsVillupuram,Tamil,22:00,Box,164₹,24,0
+TamilNadu,Villupuram,KalyanCinemasACDtsVillupuram,Tamil,22:00,Balcony,164₹,88,16
+TamilNadu,Villupuram,KalyanCinemasACDtsVillupuram,Tamil,22:00,FirstClass,119₹,154,9
