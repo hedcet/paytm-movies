@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,TimeCinemaCgRoad,Hindi,10:15,Infinity900,900₹,12,0
+UttarPradesh,Agra,RajeevCinemaBhogipura,Hindi,12:00,Balcony,40₹,280,224
+UttarPradesh,Agra,RajeevCinemaBhogipura,Hindi,12:00,DressCircle,20₹,660,600
+UttarPradesh,Agra,RajeevCinemaBhogipura,Hindi,15:00,Balcony,40₹,280,224
+UttarPradesh,Agra,RajeevCinemaBhogipura,Hindi,15:00,DressCircle,20₹,660,600
+Mizoram,Waterland,TpmcOms,Hindi,15:00,Executive,"1,100₹",222,143
+Mizoram,Waterland,TpmcOms,Hindi,15:00,Corporate,"1,100₹",538,100
+Mizoram,Waterland,TpmcOms,Hindi,15:00,Budget,"1,000₹",95,32
+UttarPradesh,Agra,RajeevCinemaBhogipura,Hindi,18:00,Balcony,40₹,280,224
+UttarPradesh,Agra,RajeevCinemaBhogipura,Hindi,18:00,DressCircle,20₹,660,600
+Gujarat,Ahmedabad,TimeCinemaCgRoad,Hindi,19:30,Infinity1100,"1,100₹",12,0
+Mizoram,Waterland,TpmcOms,Hindi,22:00,Executive,50₹,222,143
+Mizoram,Waterland,TpmcOms,Hindi,22:00,Corporate,50₹,538,100
+Mizoram,Waterland,TpmcOms,Hindi,22:00,Budget,10₹,95,32
