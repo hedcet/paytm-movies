@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Nadiad,GlobeCinemaNadiad,Gujarati,09:29,Balcony,40₹,119,119
+Gujarat,Nadiad,GlobeCinemaNadiad,Gujarati,09:29,Uper,40₹,320,0
+Gujarat,Vadodara,VasantCinemaAsodar,Gujarati,10:29,Upper,40₹,512,0
+Gujarat,Vadodara,VasantCinemaAsodar,Gujarati,10:29,Balcony,40₹,218,0
+Gujarat,Vadodara,VasantCinemaAsodar,Gujarati,18:29,Upper,40₹,512,0
+Gujarat,Vadodara,VasantCinemaAsodar,Gujarati,18:29,Balcony,40₹,218,0
