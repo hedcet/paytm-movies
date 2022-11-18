@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,C3LaurelMallRgbLaserChengalpattu,Tamil,10:00,Platinum,150₹,169,23
+TamilNadu,Chennai,C3LaurelMallRgbLaserChengalpattu,Tamil,10:00,Silver,150₹,54,0
+TamilNadu,Thanjavur,GvComplexThanjavur,Tamil,11:00,I,120₹,138,12
+TamilNadu,Chennai,AgsCinemasMaduravoyal,Tamil,13:25,Diamond,190₹,205,30
