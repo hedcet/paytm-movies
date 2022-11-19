@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,MirajCityPulseManiNagar,Gujarati,11:15,Gold,140₹,24,0
+Maharashtra,Mumbai,CarnivalRMallMulundW,Gujarati,13:45,ReclinerOffline,200₹,13,2
+Maharashtra,Mumbai,CarnivalRMallMulundW,Gujarati,13:45,GoldOffline,130₹,114,0
+Maharashtra,Mumbai,CarnivalRMallMulundW,Gujarati,13:45,SilverOffline,110₹,95,0
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Gujarati,15:50,Normal,200₹,37,0
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Gujarati,15:50,Executive,220₹,45,0
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Gujarati,15:50,Premium,270₹,54,0
+Gujarat,Anand,InfinityCinemas,Gujarati,18:15,Recliner,250₹,19,0
+Gujarat,Anand,InfinityCinemas,Gujarati,18:15,Platinum,150₹,50,0
+Gujarat,Anand,InfinityCinemas,Gujarati,18:15,Gold,120₹,60,0
+Gujarat,Ahmedabad,CityGoldSatellite,Gujarati,19:00,Executive,180₹,124,0
+Gujarat,Surat,CinepolisImperialSquareMallAdajan,Gujarati,19:35,Normal,160₹,22,0
+Gujarat,Surat,CinepolisImperialSquareMallAdajan,Gujarati,19:35,Premium,180₹,33,0
+Gujarat,Surat,CinepolisImperialSquareMallAdajan,Gujarati,19:35,Executive,160₹,67,0
+Maharashtra,Mumbai,CarnivalMoviestarGoregaonW,Gujarati,19:35,GoldOffline,140₹,55,0
+Maharashtra,Mumbai,CarnivalMoviestarGoregaonW,Gujarati,19:35,SilverOffline,110₹,20,4
