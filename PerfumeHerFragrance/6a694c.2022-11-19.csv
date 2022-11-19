@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Chalakudy,DCinemaasChalakudy,Malayalam,10:00,Platinum,270₹,5,5
+Kerala,Chalakudy,DCinemaasChalakudy,Malayalam,10:00,Gold,129₹,239,239
+Kerala,Thalayolaparambu,CarnivalThalayolaparambu,Malayalam,10:45,Gold,110₹,144,6
+Kerala,Kodungallur,CarnivalMughalMallStarNagar,Malayalam,12:45,ExecutiveOffline,140₹,166,0
+Kerala,Kunnamkulam,ThavoosTheatreAC2KDolbyDigital71Kunnamkulam,Malayalam,13:00,Balcony,129₹,112,0
+Kerala,Kunnamkulam,ThavoosTheatreAC2KDolbyDigital71Kunnamkulam,Malayalam,13:00,FirstClass,110₹,364,1
+Kerala,Trivandrum,CarnivalGreenfieldCinemaKaryavattom,Malayalam,16:00,ExecutiveOffline,180₹,132,14
+Kerala,Manjeri,LadderCinemasIndianMall,Malayalam,16:00,Executive,150₹,74,0
+Kerala,Karunagappally,CarnivalHJComplexLalajiJunction,Malayalam,17:00,ClassicOffline,170₹,118,35
+Kerala,Valanchery,SreekumarAndPavithraTheatreAC2K,Malayalam,18:30,FirstClass,110₹,334,0
+Kerala,Valanchery,SreekumarAndPavithraTheatreAC2K,Malayalam,21:30,FirstClass,110₹,334,0
