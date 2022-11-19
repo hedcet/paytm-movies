@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Tumakuru,InoxSMallTumakuru,Kannada,12:40,Insignia,350₹,29,3
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,16:40,Normal,140₹,9,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,16:40,Executive,140₹,78,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,16:40,Premium,140₹,33,8
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,22:30,Normal,150₹,9,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,22:30,Executive,150₹,78,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,22:30,Premium,150₹,33,0
