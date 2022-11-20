@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,SaritaCinemasKacheripady,Malayalam,10:00,Deluxe,150₹,555,531
+Kerala,Kochi,SaritaCinemasKacheripady,Malayalam,10:00,RoseCircle,150₹,115,115
+Kerala,Kozhinjampara,RavirajComplexACKozhinjampara,Malayalam,11:00,FirstClass,110₹,163,52
+Kerala,Alappuzha,RaibanCineHouseAC2K71Dolby,Malayalam,11:15,Balcony,125₹,206,100
+Kerala,Trivandrum,CarnivalGreenfieldCinemaKaryavattom,Malayalam,13:45,ExecutiveOffline,160₹,132,0
+Kerala,Karunagappally,CarnivalHJComplexLalajiJunction,Malayalam,14:50,ClassicOffline,150₹,118,15
+Kerala,Alappuzha,RaibanCineHouseAC2K71Dolby,Malayalam,15:00,Balcony,125₹,206,100
+Kerala,Kozhinjampara,RavirajComplexACKozhinjampara,Malayalam,16:00,FirstClass,110₹,163,52
