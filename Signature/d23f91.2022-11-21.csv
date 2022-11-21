@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,SaritaCinemasKacheripady,Malayalam,10:00,BlueCircle,150₹,227,218
+Kerala,Chalakudy,DCinemaasChalakudy,Malayalam,10:30,Platinum,270₹,5,0
+Kerala,Chalakudy,DCinemaasChalakudy,Malayalam,10:30,Gold,129₹,238,0
+Kerala,Anaikatti,CityCinema2KACAnaikatti,Malayalam,11:30,Premium,100₹,236,0
+Kerala,Mukkam,RoseCinePalaceMukkam,Malayalam,11:45,Executive,110₹,161,15
+Kerala,Manjeri,LadderCinemasIndianMall,Malayalam,12:00,Executive,150₹,74,0
+Kerala,Mannarkkad,ShivasakthiCinemasDolbyAtmosMannarkkad,Malayalam,14:30,Executive,110₹,256,0
+Kerala,Mukkam,RoseCinePalaceMukkam,Malayalam,14:45,Executive,110₹,161,15
+Kerala,Anaikatti,CityCinema2KACAnaikatti,Malayalam,18:30,Premium,100₹,236,0
