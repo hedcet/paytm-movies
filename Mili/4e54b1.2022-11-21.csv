@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,CarnivalMoviestarGoregaonW,Hindi,09:20,GoldOffline,80₹,55,4
+Maharashtra,Mumbai,CarnivalMoviestarGoregaonW,Hindi,09:20,SilverOffline,80₹,20,0
+Maharashtra,Pune,CarnivalPremierPlazaChinchwad,Hindi,11:40,PlatinumOffline,100₹,36,4
+Maharashtra,Pune,CarnivalPremierPlazaChinchwad,Hindi,11:40,GoldOffline,90₹,18,0
+Maharashtra,Pune,CarnivalPremierPlazaChinchwad,Hindi,11:40,SilverOffline,80₹,9,0
+UttarPradesh,Noida,PvrLogixCityCentreNoida,Hindi,11:55,Classic,175₹,78,2
+Maharashtra,Mumbai,CarnivalMoviestarGoregaonW,Hindi,16:55,GoldOffline,110₹,55,0
+Maharashtra,Mumbai,CarnivalMoviestarGoregaonW,Hindi,16:55,SilverOffline,90₹,20,0
+Maharashtra,Mumbai,CarnivalImaxWadala,Hindi,21:40,GoldOffline,140₹,84,0
+Maharashtra,Mumbai,CarnivalImaxWadala,Hindi,21:40,PlatinumOffline,160₹,220,0
+Maharashtra,Mumbai,CarnivalImaxWadala,Hindi,21:40,PremiumOffline,210₹,53,0
