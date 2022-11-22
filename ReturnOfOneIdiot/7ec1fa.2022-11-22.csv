@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,InoxQuestMallBallygunge,Hindi,14:45,RoyalRecliner,300₹,8,8
+WestBengal,Kolkata,InoxQuestMallBallygunge,Hindi,14:45,Royal,300₹,28,28
+WestBengal,Kolkata,InoxQuestMallBallygunge,Hindi,14:45,Club,300₹,112,112
+WestBengal,Kolkata,InoxQuestMallBallygunge,Hindi,14:45,Executive,300₹,24,24
