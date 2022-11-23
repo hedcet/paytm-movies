@@ -1,0 +1,3 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Mizoram,Waterland,MirajTestCinema,Hindi,20:30,Executive,200₹,190,0
+Mizoram,Waterland,MirajTestCinema,Hindi,20:30,Special,150₹,21,2
