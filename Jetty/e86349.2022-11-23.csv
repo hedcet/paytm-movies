@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Tenali,SangameswaraCinemasChenchupet,Telugu,11:30,Gold,150₹,204,17
+AndhraPradesh,Tenali,SangameswaraCinemasChenchupet,Telugu,11:30,Silver,70₹,54,0
+AndhraPradesh,Tenali,SangameswaraCinemasChenchupet,Telugu,14:30,Gold,150₹,204,17
+AndhraPradesh,Tenali,SangameswaraCinemasChenchupet,Telugu,14:30,Silver,70₹,54,0
+AndhraPradesh,Tenali,SangameswaraCinemasChenchupet,Telugu,18:30,Gold,150₹,204,17
+AndhraPradesh,Tenali,SangameswaraCinemasChenchupet,Telugu,18:30,Silver,70₹,54,0
+AndhraPradesh,Tenali,SangameswaraCinemasChenchupet,Telugu,21:30,Gold,150₹,204,17
+AndhraPradesh,Tenali,SangameswaraCinemasChenchupet,Telugu,21:30,Silver,70₹,54,0
