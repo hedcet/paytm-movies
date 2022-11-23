@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,16:10,Classic,170₹,108,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,16:10,Prime,190₹,99,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,16:10,Recliner,280₹,12,2
+Karnataka,Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Kannada,19:30,Recliner,310₹,10,10
+Karnataka,Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Kannada,19:30,Classic,190₹,164,164
+Karnataka,Kalaburagi,ShettysMultiplexAlandRoad,Kannada,21:00,Platinum,150₹,16,14
+Karnataka,Kalaburagi,ShettysMultiplexAlandRoad,Kannada,21:00,Gold,100₹,180,107
+Karnataka,Kalaburagi,ShettysMultiplexAlandRoad,Kannada,21:00,Silver,80₹,135,79
