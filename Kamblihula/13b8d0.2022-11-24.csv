@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,SriSrinivasaTheatreAC2KPadmanabhanagar,Kannada,13:30,DiamondClass,100₹,98,88
+Karnataka,Bengaluru,SriSrinivasaTheatreAC2KPadmanabhanagar,Kannada,13:30,GoldClass,80₹,532,512
+Karnataka,Bengaluru,SriSrinivasaTheatreAC2KPadmanabhanagar,Kannada,21:45,DiamondClass,100₹,98,88
+Karnataka,Bengaluru,SriSrinivasaTheatreAC2KPadmanabhanagar,Kannada,21:45,GoldClass,80₹,532,512
