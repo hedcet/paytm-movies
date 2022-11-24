@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Jammikunta,AnnapurnaDeluxTheatreJammikunta,Telugu,11:00,Balcony,100₹,360,330
+Telangana,Jammikunta,AnnapurnaDeluxTheatreJammikunta,Telugu,11:00,FirstClass,100₹,150,150
+Telangana,Jammikunta,AnnapurnaDeluxTheatreJammikunta,Telugu,14:00,Balcony,100₹,360,330
+Telangana,Jammikunta,AnnapurnaDeluxTheatreJammikunta,Telugu,14:00,FirstClass,100₹,150,150
+Telangana,Jammikunta,AnnapurnaDeluxTheatreJammikunta,Telugu,18:00,Balcony,100₹,360,330
+Telangana,Jammikunta,AnnapurnaDeluxTheatreJammikunta,Telugu,18:00,FirstClass,100₹,150,150
+Telangana,Jammikunta,AnnapurnaDeluxTheatreJammikunta,Telugu,21:00,Balcony,100₹,360,330
+Telangana,Jammikunta,AnnapurnaDeluxTheatreJammikunta,Telugu,21:00,FirstClass,100₹,150,150
