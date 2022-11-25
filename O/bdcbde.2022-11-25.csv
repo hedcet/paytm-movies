@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,14:15,Normal,140₹,9,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,14:15,Executive,140₹,78,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,14:15,Premium,140₹,33,0
+Karnataka,Bengaluru,GowrishankarDolby71Attibele,Kannada,17:00,FirstClass,100₹,180,77
+Karnataka,Bengaluru,GowrishankarDolby71Attibele,Kannada,17:00,SecondClass,100₹,162,162
