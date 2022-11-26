@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,Marathi,13:00,Normal,200₹,66,0
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,Marathi,13:00,Executive,220₹,97,7
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,Marathi,13:00,Premium,240₹,80,16
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,Marathi,13:00,Vip,440₹,14,2
+Maharashtra,Thane,CinepolisVivianaMallThaneW,Marathi,13:00,Normal,200₹,27,2
+Maharashtra,Thane,CinepolisVivianaMallThaneW,Marathi,13:00,Executive,220₹,104,21
+Maharashtra,Thane,CinepolisVivianaMallThaneW,Marathi,13:00,Premium,240₹,46,32
+Maharashtra,Mumbai,MovieTimeHubMallGoregaonE,Marathi,14:50,Gold,140₹,63,35
+Maharashtra,Pune,CinepolisSeasonsMallHadapsar,Marathi,18:45,Normal,200₹,27,0
+Maharashtra,Pune,CinepolisSeasonsMallHadapsar,Marathi,18:45,Executive,220₹,92,17
+Maharashtra,Pune,CinepolisSeasonsMallHadapsar,Marathi,18:45,Premium,220₹,33,25
