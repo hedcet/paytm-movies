@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Hindi,09:30,Recliner,280₹,20,5
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Hindi,09:30,ClassicPlus,120₹,12,0
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Hindi,09:30,Prime,140₹,111,11
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Hindi,09:30,Classic,120₹,26,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,13:30,Club,180₹,48,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,13:30,Executive,160₹,24,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,13:30,Royale,200₹,51,10
