@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Chhindwara,AlkaMultiplexChhindwara,Hindi,09:30,Recliners,400₹,100,0
+MadhyaPradesh,Chhindwara,AlkaMultiplexChhindwara,Hindi,09:30,Platinum,200₹,100,0
+MadhyaPradesh,Chhindwara,AlkaMultiplexChhindwara,Hindi,09:30,Gold,150₹,100,0
+MadhyaPradesh,Chhindwara,AlkaMultiplexChhindwara,Hindi,09:30,Silver,100₹,100,0
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Hindi,09:30,Recliner,250₹,20,5
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Hindi,09:30,ClassicPlus,120₹,12,0
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Hindi,09:30,Prime,130₹,111,11
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Hindi,09:30,Classic,120₹,26,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,13:30,Club,160₹,48,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,13:30,Executive,160₹,24,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,13:30,Royale,160₹,51,0
