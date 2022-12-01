@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Machilipatnam,SriRamarajuTheatreMachilipatnam,Telugu,11:30,Gold,100₹,86,34
+AndhraPradesh,Machilipatnam,SriRamarajuTheatreMachilipatnam,Telugu,11:30,Reserved,60₹,299,47
+AndhraPradesh,Machilipatnam,SriRamarajuTheatreMachilipatnam,Telugu,11:30,FristClass,40₹,88,22
+AndhraPradesh,Machilipatnam,SriRamarajuTheatreMachilipatnam,Telugu,14:30,Gold,100₹,86,34
+AndhraPradesh,Machilipatnam,SriRamarajuTheatreMachilipatnam,Telugu,14:30,Reserved,60₹,299,47
+AndhraPradesh,Machilipatnam,SriRamarajuTheatreMachilipatnam,Telugu,14:30,FristClass,40₹,88,22
+AndhraPradesh,Machilipatnam,SriRamarajuTheatreMachilipatnam,Telugu,18:30,Gold,100₹,86,34
+AndhraPradesh,Machilipatnam,SriRamarajuTheatreMachilipatnam,Telugu,18:30,Reserved,60₹,299,47
+AndhraPradesh,Machilipatnam,SriRamarajuTheatreMachilipatnam,Telugu,18:30,FristClass,40₹,88,22
+AndhraPradesh,Machilipatnam,SriRamarajuTheatreMachilipatnam,Telugu,21:30,Gold,100₹,86,34
+AndhraPradesh,Machilipatnam,SriRamarajuTheatreMachilipatnam,Telugu,21:30,Reserved,60₹,299,47
+AndhraPradesh,Machilipatnam,SriRamarajuTheatreMachilipatnam,Telugu,21:30,FristClass,40₹,88,22
