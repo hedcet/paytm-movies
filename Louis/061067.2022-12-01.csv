@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kattanam,GanamTheatreComplexACKattanam,Malayalam,10:45,FirstClass,110₹,129,129
+Kerala,Kattanam,GanamTheatreComplexACKattanam,Malayalam,15:30,FirstClass,110₹,129,129
+Kerala,Trivandrum,CarnivalGreenfieldCinemaKaryavattom,Malayalam,22:10,ExecutiveOffline,160₹,132,14
