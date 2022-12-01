@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Kovilpatti,LakshmiMultiplexDolbyatmosKovilpatti,Tamil,10:45,Platinum,130₹,208,0
+TamilNadu,Madurai,JazzAndArshCinemasAC4KMadurai,Tamil,13:00,Platinum,150₹,120,2
+TamilNadu,Madurai,JazzAndArshCinemasAC4KMadurai,Tamil,13:00,Gold,110₹,81,0
+TamilNadu,Madurai,JazzAndArshCinemasAC4KMadurai,Tamil,13:00,Silver,110₹,22,22
+TamilNadu,Kovilpatti,LakshmiMultiplexDolbyatmosKovilpatti,Tamil,14:30,Platinum,130₹,208,0
+TamilNadu,Madurai,JazzAndArshCinemasAC4KMadurai,Tamil,18:45,Platinum,150₹,120,0
+TamilNadu,Madurai,JazzAndArshCinemasAC4KMadurai,Tamil,18:45,Gold,110₹,81,0
+TamilNadu,Madurai,JazzAndArshCinemasAC4KMadurai,Tamil,18:45,Silver,110₹,22,22
+TamilNadu,Kovilpatti,LakshmiMultiplexDolbyatmosKovilpatti,Tamil,22:00,Platinum,130₹,208,0
