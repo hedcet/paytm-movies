@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Viralimalai,JothiTheatreAC4KDtsViralimalai,Tamil,11:00,Platinum,100₹,305,38
+TamilNadu,Salem,KasthooriCinemasGowri2K3DAC5Road,Tamil,11:00,Firstclass,100₹,350,50
+TamilNadu,Tenkasi,PssMultiplexTenkasi,Tamil,11:00,FirstClass,150₹,286,52
+TamilNadu,Chennai,MuruganCinemas4KAmbattur,Tamil,11:40,Diamond,110₹,152,82
+TamilNadu,Coimbatore,SrkMirajCinemasCoimbatore,Tamil,12:25,Special,60₹,21,1
+TamilNadu,Coimbatore,SrkMirajCinemasCoimbatore,Tamil,12:25,Executive,190₹,190,0
+TamilNadu,Viralimalai,JothiTheatreAC4KDtsViralimalai,Tamil,14:30,Platinum,100₹,305,38
+TamilNadu,Salem,KasthooriCinemasGowri2K3DAC5Road,Tamil,14:30,Firstclass,100₹,350,50
+TamilNadu,Viralimalai,JothiTheatreAC4KDtsViralimalai,Tamil,18:30,Platinum,100₹,305,38
+TamilNadu,Salem,KasthooriCinemasGowri2K3DAC5Road,Tamil,18:30,Firstclass,100₹,350,50
+TamilNadu,Viralimalai,JothiTheatreAC4KDtsViralimalai,Tamil,22:00,Platinum,100₹,305,38
+TamilNadu,Salem,KasthooriCinemasGowri2K3DAC5Road,Tamil,22:30,Firstclass,100₹,350,50
