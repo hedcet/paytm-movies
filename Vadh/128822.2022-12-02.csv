@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Raebareli,NyCinemasRaebareli,Bhojpuri,10:00,Dm,150₹,91,0
+UttarPradesh,Raebareli,NyCinemasRaebareli,Bhojpuri,10:00,Gl,100₹,156,0
+Bihar,Muzaffarpur,EylexCinemaDrbPalaceMallMotijheel,Bhojpuri,10:30,Gl,120₹,33,0
+Bihar,Muzaffarpur,EylexCinemaDrbPalaceMallMotijheel,Bhojpuri,10:30,Pl,120₹,93,0
+Jharkhand,Jamshedpur,PjpCinepolisCityCentreMallMauja,Bhojpuri,12:20,Normal,150₹,26,0
+Jharkhand,Jamshedpur,PjpCinepolisCityCentreMallMauja,Bhojpuri,12:20,Executive,150₹,26,0
+Jharkhand,Jamshedpur,PjpCinepolisCityCentreMallMauja,Bhojpuri,12:20,Premium,150₹,68,0
+Bihar,Patna,CinepolisPMMallPatna,Bhojpuri,12:45,Normal,150₹,172,0
+UttarPradesh,Ghazipur,NyCinemasGhazipur,Bhojpuri,13:00,Go,100₹,32,0
+UttarPradesh,Ghazipur,NyCinemasGhazipur,Bhojpuri,13:00,Pl,150₹,123,0
+UttarPradesh,Mughalsarai,IpCinemasIpMughalMultiplexMughalsarai,Bhojpuri,13:30,Silver,100₹,132,0
+UttarPradesh,Mughalsarai,IpCinemasIpMughalMultiplexMughalsarai,Bhojpuri,13:30,Gold,150₹,215,0
+UttarPradesh,Mughalsarai,IpCinemasIpMughalMultiplexMughalsarai,Bhojpuri,13:30,Diamond,200₹,6,0
+UttarPradesh,Lucknow,WaveLucknow,Bhojpuri,13:45,Classic,160₹,128,0
+UttarPradesh,Lucknow,WaveLucknow,Bhojpuri,13:45,Premium,180₹,74,3
