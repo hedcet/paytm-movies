@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,BananaSmartplexSbrThaltej,Gujarati,11:10,Premium,180₹,100,0
+Gujarat,Ahmedabad,BananaSmartplexSbrThaltej,Gujarati,11:10,Lounger,180₹,100,0
+Gujarat,Ahmedabad,RajhansCinemasSatadhar,Gujarati,20:00,Marvel,150₹,30,0
+Gujarat,Ahmedabad,RajhansCinemasSatadhar,Gujarati,20:00,Royal,150₹,105,0
+Gujarat,Ahmedabad,RajhansCinemasSatadhar,Gujarati,20:00,Executive,150₹,175,173
+Gujarat,Ahmedabad,RajhansCinemasSatadhar,Gujarati,20:00,Box,150₹,4,4
