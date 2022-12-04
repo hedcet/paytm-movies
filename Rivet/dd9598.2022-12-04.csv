@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Coimbatore,SrkMirajCinemasCoimbatore,Tamil,10:40,Special,60₹,21,3
+TamilNadu,Coimbatore,SrkMirajCinemasCoimbatore,Tamil,10:40,Executive,190₹,190,0
+TamilNadu,Vellore,PvrVelocityGandhiNagar,Tamil,13:20,Classic,60₹,17,17
+TamilNadu,Vellore,PvrVelocityGandhiNagar,Tamil,13:20,Prime,139₹,139,0
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,13:50,Classic,60₹,16,16
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,13:50,Prime,120₹,110,22
+TamilNadu,Chennai,SpiSathyamCinemasRoyapettah,Tamil,19:30,Elite,120₹,102,102
+TamilNadu,Chennai,SpiSathyamCinemasRoyapettah,Tamil,19:30,Budget,60₹,12,12
