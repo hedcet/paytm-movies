@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kattanam,GanamTheatreComplexACKattanam,Malayalam,10:45,FirstClass,110₹,129,67
+Kerala,Chalakudy,DCinemaasChalakudy,Malayalam,12:00,Platinum,270₹,5,0
+Kerala,Chalakudy,DCinemaasChalakudy,Malayalam,12:00,Gold,129₹,238,35
+Kerala,Kattanam,GanamTheatreComplexACKattanam,Malayalam,13:00,FirstClass,110₹,129,69
+Kerala,Kunnamkulam,BavanaMoviesHouseACKunnamkulam,Malayalam,14:30,LuxuryClass,220₹,13,0
+Kerala,Kunnamkulam,BavanaMoviesHouseACKunnamkulam,Malayalam,14:30,PlatinumCircle,130₹,159,0
