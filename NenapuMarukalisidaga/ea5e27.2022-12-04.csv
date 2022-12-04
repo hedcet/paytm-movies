@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,InoxGarudaYelahanka,Kannada,10:30,Club,200₹,111,0
+Karnataka,Bengaluru,InoxGarudaYelahanka,Kannada,10:30,Executive,200₹,60,0
+Karnataka,Bengaluru,GowrishankarDolby71Attibele,Kannada,10:30,FirstClass,100₹,180,77
+Karnataka,Bengaluru,GowrishankarDolby71Attibele,Kannada,10:30,SecondClass,100₹,162,162
+Karnataka,Tumkur,SriKrishnaTalkiesMgRoadTumkur,Kannada,10:30,Balcony,120₹,221,144
+Karnataka,Tumkur,SriKrishnaTalkiesMgRoadTumkur,Kannada,10:30,Second,100₹,485,288
+Karnataka,Bengaluru,AbhinayTheatre2KCinemaMajestic,Kannada,10:30,Balcony,150₹,369,312
+Karnataka,Bengaluru,AbhinayTheatre2KCinemaMajestic,Kannada,10:30,MiniBalcony,120₹,146,146
+Karnataka,Bengaluru,AbhinayTheatre2KCinemaMajestic,Kannada,10:30,Second,100₹,480,424
+Karnataka,Kalaburagi,InoxOrchidMallKalaburagi,Kannada,11:00,Club,150₹,76,0
+Karnataka,Kalaburagi,InoxOrchidMallKalaburagi,Kannada,11:00,Executive,140₹,112,0
+Karnataka,Kalaburagi,InoxOrchidMallKalaburagi,Kannada,11:00,Royale,250₹,8,0
+Karnataka,Tumkur,SriKrishnaTalkiesMgRoadTumkur,Kannada,13:30,Balcony,120₹,221,144
+Karnataka,Tumkur,SriKrishnaTalkiesMgRoadTumkur,Kannada,13:30,Second,100₹,485,288
