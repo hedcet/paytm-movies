@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Assam,Mangaldoi,GoldCinemaMangaldoi,Bodo,14:00,Platinum,150₹,67,19
+Assam,Mangaldoi,GoldCinemaMangaldoi,Bodo,14:00,Gold,100₹,96,0
+Assam,Mangaldoi,GoldCinemaMangaldoi,Bodo,14:00,Silver,70₹,32,0
+Assam,Mangaldoi,GoldCinemaMangaldoi,Bodo,17:15,Platinum,150₹,67,0
+Assam,Mangaldoi,GoldCinemaMangaldoi,Bodo,17:15,Gold,100₹,96,0
+Assam,Mangaldoi,GoldCinemaMangaldoi,Bodo,17:15,Silver,70₹,32,0
