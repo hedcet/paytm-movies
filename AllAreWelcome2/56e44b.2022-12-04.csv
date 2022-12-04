@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,BananaSmartplexSbrThaltej,Gujarati,11:10,Premium,180₹,82,10
+Gujarat,Ahmedabad,BananaSmartplexSbrThaltej,Gujarati,11:10,Lounger,180₹,12,0
+Gujarat,Ahmedabad,BananaSmartplexSbrThaltej,Gujarati,23:35,Lounger,300₹,100,0
+Gujarat,Ahmedabad,BananaSmartplexSbrThaltej,Gujarati,23:35,Premium,280₹,100,0
+Gujarat,Ahmedabad,BananaSmartplexSbrThaltej,Gujarati,23:55,Lounger,300₹,12,0
+Gujarat,Ahmedabad,BananaSmartplexSbrThaltej,Gujarati,23:55,Premium,280₹,82,0
