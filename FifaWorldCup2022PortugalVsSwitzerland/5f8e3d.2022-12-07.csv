@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Indore,InoxC21MallSheetalNagar,English,00:13,Normal,250₹,203,0
+Haryana,Gurgaon,InoxWorldMarkGurugram,English,00:15,Club,250₹,65,0
+Haryana,Gurgaon,InoxWorldMarkGurugram,English,00:15,Executive,250₹,26,0
+Haryana,Gurgaon,InoxWorldMarkGurugram,English,00:15,RoyalRecliner,350₹,10,7
+Haryana,Gurgaon,InoxWorldMarkGurugram,English,00:15,Royal,250₹,51,0
