@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Pudukkottai,VijayTheatresPudhukottai,Tamil,11:15,FirstClass,120₹,478,44
+TamilNadu,Pudukkottai,VijayTheatresPudhukottai,Tamil,14:15,FirstClass,120₹,478,46
+TamilNadu,Pudukkottai,VijayTheatresPudhukottai,Tamil,18:15,FirstClass,120₹,478,44
+TamilNadu,Pudukkottai,VijayTheatresPudhukottai,Tamil,22:15,FirstClass,120₹,478,45
