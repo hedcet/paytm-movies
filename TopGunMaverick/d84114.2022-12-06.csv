@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,Pvr4DxLuluThiruvananthapuram,English,09:55,Classic,250₹,48,5
+Kerala,Trivandrum,Pvr4DxLuluThiruvananthapuram,English,09:55,Prime,300₹,32,12
+Kerala,Kochi,Pvr4DxLuluKochi,English,12:05,Classic,350₹,116,18
+Kerala,Trivandrum,Pvr4DxLuluThiruvananthapuram,English,12:45,Classic,300₹,48,14
+Kerala,Trivandrum,Pvr4DxLuluThiruvananthapuram,English,12:45,Prime,350₹,32,23
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,English,16:20,Imax,199₹,419,12
+Kerala,Kochi,Pvr4DxLuluKochi,English,18:30,Classic,350₹,116,16
+Kerala,Trivandrum,Pvr4DxLuluThiruvananthapuram,English,19:10,Classic,350₹,48,32
+Kerala,Trivandrum,Pvr4DxLuluThiruvananthapuram,English,19:10,Prime,400₹,32,32
+Kerala,Trivandrum,PvrLuluThiruvananthapuram,English,22:35,Classic,150₹,60,0
+Kerala,Trivandrum,PvrLuluThiruvananthapuram,English,22:35,Prime,170₹,39,14
+Kerala,Trivandrum,PvrLuluThiruvananthapuram,English,22:35,Recliner,300₹,8,0
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,English,23:00,Imax,199₹,428,11
