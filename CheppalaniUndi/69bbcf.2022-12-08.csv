@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bellary,RadhikaTheatreBellary,Telugu,17:00,Gold,150₹,200,103
+Karnataka,Bellary,RadhikaTheatreBellary,Telugu,17:00,Silver,100₹,608,448
+Karnataka,Bellary,RadhikaTheatreBellary,Telugu,20:00,Gold,150₹,200,103
+Karnataka,Bellary,RadhikaTheatreBellary,Telugu,20:00,Silver,100₹,608,448
