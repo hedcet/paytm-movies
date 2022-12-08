@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,LilaCinemaFultala,Bengali,13:00,Balcony,60₹,28,0
+WestBengal,Siliguri,CarnivalCinemaSiliguri,Bengali,13:30,Special,99₹,28,0
+WestBengal,Siliguri,CarnivalCinemaSiliguri,Bengali,13:30,Executive,99₹,176,0
+WestBengal,Kolkata,AjantaCinemaBehala,Bengali,13:40,Balcony,150₹,106,82
+WestBengal,Kolkata,LaliCinemaBarasat,Bengali,19:30,DressCircle,150₹,22,16
+WestBengal,Kolkata,LaliCinemaBarasat,Bengali,19:30,Balcony,110₹,169,142
+WestBengal,Kolkata,LaliCinemaBarasat,Bengali,19:30,RearStall,50₹,270,216
