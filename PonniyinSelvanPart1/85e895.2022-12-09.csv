@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Waterland,TpmcTest9002Malda,Tamil,15:00,Corporate,100₹,538,86
+UttarPradesh,Kanpur,SaraswatiTalkiesShuklaganj,Hindi,18:00,Balcony,90₹,144,96
+UttarPradesh,Kanpur,SaraswatiTalkiesShuklaganj,Hindi,18:00,Family,60₹,336,264
+WestBengal,Waterland,TpmcOms,Hindi,18:30,Executive,0₹,222,145
+WestBengal,Waterland,TpmcOms,Hindi,18:30,Corporate,0₹,538,100
+WestBengal,Waterland,TpmcOms,Hindi,18:30,Budget,0₹,95,32
+TamilNadu,Chennai,InoxChandraMetroMallVirugambakkam,Tamil,18:30,Premiere,60₹,15,12
+TamilNadu,Chennai,InoxChandraMetroMallVirugambakkam,Tamil,18:30,Silver,152₹,120,2
+UttarPradesh,Kanpur,SaraswatiTalkiesShuklaganj,Hindi,21:00,Balcony,90₹,144,96
+UttarPradesh,Kanpur,SaraswatiTalkiesShuklaganj,Hindi,21:00,Family,60₹,336,264
+WestBengal,Waterland,TpmcTest9002Malda,Tamil,22:00,Corporate,100₹,538,86
