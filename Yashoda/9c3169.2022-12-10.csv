@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,AngelCinemaVarachha,Hindi,12:00,Gold,70₹,60,0
+Gujarat,Surat,AngelCinemaVarachha,Hindi,12:00,Silver,50₹,107,1
+Gujarat,Surat,AngelCinemaVarachha,Hindi,12:00,Maharaja,80₹,16,0
+Gujarat,Surat,AngelCinemaVarachha,Hindi,14:30,Gold,70₹,60,0
+Gujarat,Surat,AngelCinemaVarachha,Hindi,14:30,Silver,50₹,107,0
+Gujarat,Surat,AngelCinemaVarachha,Hindi,14:30,Maharaja,80₹,16,0
+AndhraPradesh,Kakinada,InoxSrmtMallRamanayyapeta,Telugu,16:30,Executive,112₹,131,7
+Gujarat,Surat,AngelCinemaVarachha,Hindi,17:30,Gold,70₹,60,0
+Gujarat,Surat,AngelCinemaVarachha,Hindi,17:30,Silver,50₹,107,0
+Gujarat,Surat,AngelCinemaVarachha,Hindi,17:30,Maharaja,80₹,16,0
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,21:45,Classic,60₹,11,11
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,21:45,Prime,165₹,102,29
