@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,16:00,Balcony,100₹,307,205
+Karnataka,Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,16:00,FirstClass,80₹,555,555
+Karnataka,Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,16:00,SecondClass,40₹,202,202
+Karnataka,Bengaluru,Vaibhav4KAC71DolbySanjayNagar,Kannada,16:30,Diamond,150₹,384,265
+Karnataka,Bengaluru,Vaibhav4KAC71DolbySanjayNagar,Kannada,16:30,Gold,120₹,513,341
+Karnataka,Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,19:00,Balcony,100₹,307,205
+Karnataka,Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,19:00,FirstClass,80₹,555,555
+Karnataka,Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,19:00,SecondClass,40₹,202,202
+Karnataka,Bengaluru,Vaibhav4KAC71DolbySanjayNagar,Kannada,22:00,Diamond,150₹,384,263
+Karnataka,Bengaluru,Vaibhav4KAC71DolbySanjayNagar,Kannada,22:00,Gold,120₹,513,341
