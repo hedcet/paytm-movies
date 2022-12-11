@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,KalolPanchmahal,VijayCinemaKalolPanchmahal,Gujarati,12:00,Gold,80₹,170,47
+Gujarat,KalolPanchmahal,VijayCinemaKalolPanchmahal,Gujarati,12:00,Silver,80₹,30,0
+Gujarat,KalolPanchmahal,VijayCinemaKalolPanchmahal,Gujarati,15:00,Gold,80₹,170,47
+Gujarat,KalolPanchmahal,VijayCinemaKalolPanchmahal,Gujarati,15:00,Silver,80₹,30,0
+Gujarat,KalolPanchmahal,VijayCinemaKalolPanchmahal,Gujarati,18:00,Gold,80₹,170,47
+Gujarat,KalolPanchmahal,VijayCinemaKalolPanchmahal,Gujarati,18:00,Silver,80₹,30,0
+Gujarat,KalolPanchmahal,VijayCinemaKalolPanchmahal,Gujarati,21:00,Gold,80₹,170,47
+Gujarat,KalolPanchmahal,VijayCinemaKalolPanchmahal,Gujarati,21:00,Silver,80₹,30,0
