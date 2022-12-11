@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Waterland,TestCinemaOcl,Tamil,07:00,Balcony,1₹,131,31
+UttarPradesh,Waterland,TestCinemaOcl,Tamil,07:00,FirstClass,1₹,142,34
+UttarPradesh,Waterland,TestCinemaOcl,Tamil,10:45,Balcony,1₹,131,31
+UttarPradesh,Waterland,TestCinemaOcl,Tamil,10:45,FirstClass,1₹,142,34
+UttarPradesh,Waterland,TestCinemaOcl,Tamil,14:15,Balcony,100₹,131,31
+UttarPradesh,Waterland,TestCinemaOcl,Tamil,14:15,FirstClass,100₹,142,34
+UttarPradesh,Waterland,TestCinemaOcl,Tamil,18:15,Balcony,1₹,131,31
+UttarPradesh,Waterland,TestCinemaOcl,Tamil,18:15,FirstClass,1₹,142,34
+UttarPradesh,Waterland,TestCinemaOcl,Tamil,22:30,Balcony,100₹,131,31
+UttarPradesh,Waterland,TestCinemaOcl,Tamil,22:30,FirstClass,100₹,142,34
