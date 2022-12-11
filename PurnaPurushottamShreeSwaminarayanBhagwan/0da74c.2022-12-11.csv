@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Godhra,MoonlightCinemaBapunagarSociety,Gujarati,12:00,Gold,80₹,125,0
+Gujarat,Bhuj,NyCinemasBhuj,Gujarati,13:00,Ex,180₹,54,0
+Gujarat,Bhuj,NyCinemasBhuj,Gujarati,13:00,No,150₹,36,0
+Gujarat,Bhuj,NyCinemasBhuj,Gujarati,13:00,Pr,200₹,68,5
+Gujarat,Bhuj,NyCinemasBhuj,Gujarati,13:00,Ey,250₹,12,0
+Gujarat,Godhra,MoonlightCinemaBapunagarSociety,Gujarati,15:00,Gold,80₹,125,0
+Gujarat,Godhra,MoonlightCinemaBapunagarSociety,Gujarati,18:00,Gold,80₹,125,0
+Gujarat,Godhra,MoonlightCinemaBapunagarSociety,Gujarati,21:00,Gold,80₹,125,0
