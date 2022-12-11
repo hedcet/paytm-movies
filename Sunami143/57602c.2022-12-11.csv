@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Mysuru,PvrNexusMallCentreCityMysuru,Kannada,10:15,Classic,140₹,133,0
+Karnataka,Kalaburagi,ShettysMultiplexAlandRoad,Kannada,11:00,Platinum,150₹,16,14
+Karnataka,Kalaburagi,ShettysMultiplexAlandRoad,Kannada,11:00,Gold,100₹,180,107
+Karnataka,Kalaburagi,ShettysMultiplexAlandRoad,Kannada,11:00,Silver,80₹,135,79
