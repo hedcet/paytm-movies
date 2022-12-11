@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Shikarpur,MalateshaTalkies,Kannada,14:00,Balcony,101₹,15,15
+Karnataka,Shikarpur,MalateshaTalkies,Kannada,14:00,FirstClass,101₹,411,311
+Karnataka,Udupi,DianaTheatreChitpady,Kannada,16:30,Balcony,80₹,112,0
+Karnataka,Shikarpur,MalateshaTalkies,Kannada,18:00,Balcony,101₹,15,15
+Karnataka,Shikarpur,MalateshaTalkies,Kannada,18:00,FirstClass,101₹,411,311
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,18:55,Classic,150₹,85,10
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,18:55,Prime,150₹,20,8
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,18:55,Recliner,300₹,9,0
+Karnataka,Udupi,DianaTheatreChitpady,Kannada,19:15,Balcony,80₹,112,0
+Karnataka,Shikarpur,MalateshaTalkies,Kannada,21:00,Balcony,101₹,15,15
+Karnataka,Shikarpur,MalateshaTalkies,Kannada,21:00,FirstClass,101₹,411,311
