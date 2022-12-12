@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Domkal,ZamanTalkiesDomkol,Bengali,13:00,Balcony,60₹,160,140
+WestBengal,Domkal,ZamanTalkiesDomkol,Bengali,13:00,RearStall,50₹,468,442
+WestBengal,Jiaganj,MahabirJainMunicipaltyCulturalJiaganj,Bengali,13:00,Boxa,120₹,14,0
+WestBengal,Jiaganj,MahabirJainMunicipaltyCulturalJiaganj,Bengali,13:00,Boxb,120₹,14,0
+WestBengal,Jiaganj,MahabirJainMunicipaltyCulturalJiaganj,Bengali,13:00,Balcony,100₹,90,38
+WestBengal,Jiaganj,MahabirJainMunicipaltyCulturalJiaganj,Bengali,13:00,RearStall,80₹,176,0
+WestBengal,Kolkata,InoxMetropolisMallHilandPark,Bengali,15:05,Premier,140₹,36,0
+WestBengal,Kolkata,InoxMetropolisMallHilandPark,Bengali,15:05,Royal,300₹,14,0
+WestBengal,Kolkata,InoxMetropolisMallHilandPark,Bengali,15:05,Silver,140₹,147,6
