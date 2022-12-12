@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Chhattisgarh,Raipur,ShyamTalkiesRaipur,Hindi,12:00,Balcony,70₹,140,100
+Chhattisgarh,Raipur,ShyamTalkiesRaipur,Hindi,15:00,Balcony,70₹,140,100
+Gujarat,Surat,AngelCinemaVarachha,Hindi,17:30,Gold,70₹,60,0
+Gujarat,Surat,AngelCinemaVarachha,Hindi,17:30,Silver,50₹,107,0
+Gujarat,Surat,AngelCinemaVarachha,Hindi,17:30,Maharaja,80₹,16,0
+Chhattisgarh,Raipur,ShyamTalkiesRaipur,Hindi,18:00,Balcony,70₹,140,100
+Chhattisgarh,Raipur,ShyamTalkiesRaipur,Hindi,21:00,Balcony,70₹,140,100
