@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,SriSrinivasaChitramandiraSgPalya,Telugu,13:00,Diamond,150₹,260,150
+Karnataka,Bengaluru,SriSrinivasaChitramandiraSgPalya,Telugu,13:00,Gold,120₹,514,362
+Telangana,Hyderabad,CinepolisDslVirtueMallUppal,Telugu,15:00,Normal,150₹,25,0
+Telangana,Hyderabad,CinepolisDslVirtueMallUppal,Telugu,15:00,Executive,150₹,115,4
+Telangana,Hyderabad,CinepolisDslVirtueMallUppal,Telugu,15:00,Vip,250₹,8,0
+Karnataka,Bengaluru,SriSrinivasaChitramandiraSgPalya,Telugu,16:00,Diamond,150₹,260,152
+Karnataka,Bengaluru,SriSrinivasaChitramandiraSgPalya,Telugu,16:00,Gold,120₹,514,362
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,Telugu,16:05,Classic,150₹,244,63
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,Telugu,16:05,Recliner,250₹,13,11
+Telangana,Hyderabad,InoxGsmMallMadinaguda,Telugu,16:20,Executive,150₹,146,0
+Telangana,Hyderabad,InoxGsmMallMadinaguda,Telugu,16:20,Royal,250₹,5,0
