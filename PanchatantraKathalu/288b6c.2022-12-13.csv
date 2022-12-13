@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Srikakulam,KinneraCinemaxSrikakulam,Telugu,11:00,Premium,140₹,159,32
+AndhraPradesh,Srikakulam,KinneraCinemaxSrikakulam,Telugu,11:00,NonPremium,70₹,100,0
+AndhraPradesh,Srikakulam,KinneraCinemaxSrikakulam,Telugu,14:30,Premium,140₹,159,32
+AndhraPradesh,Srikakulam,KinneraCinemaxSrikakulam,Telugu,14:30,NonPremium,70₹,100,0
+AndhraPradesh,Srikakulam,KinneraCinemaxSrikakulam,Telugu,18:30,Premium,140₹,159,32
+AndhraPradesh,Srikakulam,KinneraCinemaxSrikakulam,Telugu,18:30,NonPremium,70₹,100,0
+AndhraPradesh,Srikakulam,KinneraCinemaxSrikakulam,Telugu,21:45,Premium,140₹,159,32
+AndhraPradesh,Srikakulam,KinneraCinemaxSrikakulam,Telugu,21:45,NonPremium,70₹,100,0
