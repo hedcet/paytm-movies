@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Indore,InoxC21MallSheetalNagar,English,00:14,Normal,250₹,203,34
+Rajasthan,Jaipur,InoxGtCentralMallMalviyaNagar,English,00:15,Executive,350₹,18,0
+Rajasthan,Jaipur,InoxGtCentralMallMalviyaNagar,English,00:15,Royale,350₹,40,36
+MadhyaPradesh,Indore,InoxC21MallSheetalNagar,English,00:15,Normal,250₹,203,0
+Haryana,Gurgaon,InoxWorldMarkGurugram,English,00:30,Club,250₹,65,0
+Haryana,Gurgaon,InoxWorldMarkGurugram,English,00:30,Executive,250₹,26,0
+Haryana,Gurgaon,InoxWorldMarkGurugram,English,00:30,RoyalRecliner,350₹,10,0
+Haryana,Gurgaon,InoxWorldMarkGurugram,English,00:30,Royal,250₹,51,6
