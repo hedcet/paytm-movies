@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Nanded,PvrTreasureBazaarMallNanded,Hindi,10:00,PrimePlus,50₹,81,81
+Maharashtra,Nanded,PvrTreasureBazaarMallNanded,Hindi,10:00,Prime,50₹,100,100
+Maharashtra,Nanded,PvrTreasureBazaarMallNanded,Hindi,10:00,Classic,50₹,70,70
+Maharashtra,Nanded,PvrTreasureBazaarMallNanded,Hindi,10:15,PrimePlus,50₹,81,81
+Maharashtra,Nanded,PvrTreasureBazaarMallNanded,Hindi,10:15,Prime,50₹,100,100
+Maharashtra,Nanded,PvrTreasureBazaarMallNanded,Hindi,10:15,Classic,50₹,70,70
+Maharashtra,Nanded,PvrTreasureBazaarMallNanded,Hindi,12:30,Prime,50₹,100,100
+Maharashtra,Nanded,PvrTreasureBazaarMallNanded,Hindi,12:30,Classic,50₹,70,70
+Maharashtra,Nanded,PvrTreasureBazaarMallNanded,Hindi,12:30,PrimePlus,50₹,63,63
+Maharashtra,Nanded,PvrTreasureBazaarMallNanded,Hindi,12:45,PrimePlus,50₹,63,63
+Maharashtra,Nanded,PvrTreasureBazaarMallNanded,Hindi,12:45,Prime,50₹,100,100
+Maharashtra,Nanded,PvrTreasureBazaarMallNanded,Hindi,12:45,Classic,50₹,70,70
