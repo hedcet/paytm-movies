@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,AngelCinemaVarachha,Telugu,14:30,Gold,70₹,60,1
+Gujarat,Surat,AngelCinemaVarachha,Telugu,14:30,Silver,50₹,107,6
+Gujarat,Surat,AngelCinemaVarachha,Telugu,14:30,Maharaja,80₹,16,2
+Gujarat,Surat,AngelCinemaVarachha,Telugu,17:30,Gold,70₹,60,0
+Gujarat,Surat,AngelCinemaVarachha,Telugu,17:30,Silver,50₹,107,0
+Gujarat,Surat,AngelCinemaVarachha,Telugu,17:30,Maharaja,80₹,16,0
+Gujarat,Surat,AngelCinemaVarachha,Telugu,21:30,Gold,70₹,60,0
+Gujarat,Surat,AngelCinemaVarachha,Telugu,21:30,Silver,50₹,107,0
+Gujarat,Surat,AngelCinemaVarachha,Telugu,21:30,Maharaja,80₹,16,0
