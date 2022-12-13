@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,HanumanJunction,SriKrishnaACDtsBapulapadu,Telugu,11:00,FirstClass,100₹,247,95
+AndhraPradesh,HanumanJunction,SriKrishnaACDtsBapulapadu,Telugu,11:00,ThirdClass,78₹,76,76
+AndhraPradesh,HanumanJunction,SriKrishnaACDtsBapulapadu,Telugu,14:15,FirstClass,100₹,247,95
+AndhraPradesh,HanumanJunction,SriKrishnaACDtsBapulapadu,Telugu,14:15,ThirdClass,78₹,76,76
+AndhraPradesh,HanumanJunction,SriKrishnaACDtsBapulapadu,Telugu,18:15,FirstClass,100₹,247,95
+AndhraPradesh,HanumanJunction,SriKrishnaACDtsBapulapadu,Telugu,18:15,ThirdClass,78₹,76,76
+AndhraPradesh,HanumanJunction,SriKrishnaACDtsBapulapadu,Telugu,21:15,FirstClass,100₹,247,95
+AndhraPradesh,HanumanJunction,SriKrishnaACDtsBapulapadu,Telugu,21:15,ThirdClass,78₹,76,76
