@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Akividu,G3TheatresGangaratnam,Telugu,11:15,Sofa,0₹,84,84
+AndhraPradesh,Akividu,G3TheatresGangaratnam,Telugu,11:15,1stClass,100₹,200,40
+AndhraPradesh,Akividu,G3TheatresGangaratnam,Telugu,11:15,2ndClass,80₹,58,0
+AndhraPradesh,Akividu,G3TheatresGangaratnam,Telugu,11:15,3rdClass,50₹,40,40
+AndhraPradesh,Akividu,G3TheatresGangaratnam,Telugu,14:15,Sofa,0₹,84,84
+AndhraPradesh,Akividu,G3TheatresGangaratnam,Telugu,14:15,1stClass,100₹,200,40
+AndhraPradesh,Akividu,G3TheatresGangaratnam,Telugu,14:15,2ndClass,80₹,58,0
+AndhraPradesh,Akividu,G3TheatresGangaratnam,Telugu,14:15,3rdClass,50₹,40,40
+AndhraPradesh,Akividu,G3TheatresGangaratnam,Telugu,18:15,Sofa,0₹,84,84
+AndhraPradesh,Akividu,G3TheatresGangaratnam,Telugu,18:15,1stClass,100₹,200,40
+AndhraPradesh,Akividu,G3TheatresGangaratnam,Telugu,18:15,2ndClass,80₹,58,0
+AndhraPradesh,Akividu,G3TheatresGangaratnam,Telugu,18:15,3rdClass,50₹,40,40
+AndhraPradesh,Akividu,G3TheatresGangaratnam,Telugu,21:15,Sofa,0₹,84,84
+AndhraPradesh,Akividu,G3TheatresGangaratnam,Telugu,21:15,1stClass,100₹,200,40
+AndhraPradesh,Akividu,G3TheatresGangaratnam,Telugu,21:15,2ndClass,80₹,58,0
+AndhraPradesh,Akividu,G3TheatresGangaratnam,Telugu,21:15,3rdClass,50₹,40,40
