@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kollam,SmpTheatreKollam,Hindi,11:30,Balcony,90₹,119,0
+Kerala,Kollam,SmpTheatreKollam,Hindi,11:30,FirstClass,80₹,282,17
+Kerala,Kollam,SmpTheatreKollam,Hindi,14:30,Balcony,90₹,119,0
+Kerala,Kollam,SmpTheatreKollam,Hindi,14:30,FirstClass,80₹,282,0
+Kerala,Kollam,SmpTheatreKollam,Hindi,18:30,Balcony,90₹,119,0
+Kerala,Kollam,SmpTheatreKollam,Hindi,18:30,FirstClass,80₹,282,0
+Kerala,Kollam,SmpTheatreKollam,Hindi,21:15,Balcony,90₹,119,0
+Kerala,Kollam,SmpTheatreKollam,Hindi,21:15,FirstClass,80₹,282,0
