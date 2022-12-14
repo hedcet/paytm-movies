@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,Vinayaka2KHarknessDolbyCinemaDJHalli,Tamil,11:00,Balcony,150₹,226,112
+Karnataka,Bengaluru,Vinayaka2KHarknessDolbyCinemaDJHalli,Tamil,11:00,FirstClass,120₹,620,448
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Tamil,18:55,Classic,170₹,105,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Tamil,18:55,Prime,190₹,40,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Tamil,18:55,Recliner,280₹,14,0
