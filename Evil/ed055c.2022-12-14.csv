@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,AgsCinemasVillivakkam,Tamil,10:00,Pearl,60₹,0,0
+TamilNadu,Chennai,AgsCinemasVillivakkam,Tamil,10:00,Diamond,190₹,147,10
+TamilNadu,Tirunelveli,ArunagiriTheatreTirunelveli,Tamil,11:30,ACBoxA,130₹,35,0
+TamilNadu,Tirunelveli,ArunagiriTheatreTirunelveli,Tamil,11:30,ACBoxB,130₹,30,0
+TamilNadu,Tirunelveli,ArunagiriTheatreTirunelveli,Tamil,11:30,FirstClassNonAC,100₹,534,0
+TamilNadu,Tuticorin,SathyaTheatre,Tamil,14:30,FirstClass,50₹,100,0
+TamilNadu,Tuticorin,SathyaTheatre,Tamil,18:30,FirstClass,50₹,100,0
+TamilNadu,Tuticorin,SathyaTheatre,Tamil,22:00,FirstClass,50₹,100,0
+TamilNadu,Tirunelveli,ArunagiriTheatreTirunelveli,Tamil,22:30,ACBoxA,130₹,35,0
+TamilNadu,Tirunelveli,ArunagiriTheatreTirunelveli,Tamil,22:30,ACBoxB,130₹,30,0
+TamilNadu,Tirunelveli,ArunagiriTheatreTirunelveli,Tamil,22:30,FirstClassNonAC,100₹,534,0
