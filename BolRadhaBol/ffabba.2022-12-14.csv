@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Jharkhand,Jamtara,MiniSarojTalkies,Bhojpuri,11:30,Diamond,180₹,12,6
+Jharkhand,Jamtara,MiniSarojTalkies,Bhojpuri,11:30,Gold,100₹,90,45
+Jharkhand,Jamtara,MiniSarojTalkies,Bhojpuri,11:30,Silver,70₹,27,27
+Bihar,Gaya,SawanCinemaSherghati,Bhojpuri,12:20,Diamond,150₹,34,0
+Bihar,Gaya,SawanCinemaSherghati,Bhojpuri,12:20,Platinum,125₹,102,0
+Bihar,Gaya,SawanCinemaSherghati,Bhojpuri,12:20,Gold,100₹,85,0
+Jharkhand,Jamtara,MiniSarojTalkies,Bhojpuri,14:30,Diamond,180₹,12,6
+Jharkhand,Jamtara,MiniSarojTalkies,Bhojpuri,14:30,Gold,100₹,90,45
+Jharkhand,Jamtara,MiniSarojTalkies,Bhojpuri,14:30,Silver,70₹,27,27
+Bihar,Gaya,SawanCinemaSherghati,Bhojpuri,15:10,Diamond,150₹,34,0
+Bihar,Gaya,SawanCinemaSherghati,Bhojpuri,15:10,Platinum,125₹,102,0
+Bihar,Gaya,SawanCinemaSherghati,Bhojpuri,15:10,Gold,100₹,85,0
