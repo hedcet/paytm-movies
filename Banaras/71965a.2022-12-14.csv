@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Maddur,SumaChitramandira,Kannada,10:30,FirstClass,101₹,600,300
+Karnataka,Maddur,SumaChitramandira,Kannada,13:30,FirstClass,101₹,600,300
+Karnataka,Maddur,SumaChitramandira,Kannada,16:30,FirstClass,101₹,600,300
+Karnataka,Maddur,SumaChitramandira,Kannada,19:30,FirstClass,101₹,600,300
