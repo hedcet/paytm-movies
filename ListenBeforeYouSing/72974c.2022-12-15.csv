@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NewDelhi,InoxInsigniaAtEpicuriaNehruPlace,Korean,17:00,Insignia,921₹,36,36
+Delhi,NewDelhi,InoxInsigniaAtEpicuriaNehruPlace,Korean,17:00,Insignia,921₹,30,30
+Delhi,NewDelhi,InoxInsigniaAtEpicuriaNehruPlace,Korean,19:45,Insignia,921₹,36,0
