@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Coimbatore,InoxProzoneMallSathyRoad,Tamil,12:20,Club,190₹,134,7
+TamilNadu,Coimbatore,InoxProzoneMallSathyRoad,Tamil,12:20,Executive,60₹,22,2
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,12:20,Elite,165₹,182,182
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,12:20,Budget,60₹,26,26
+TamilNadu,Chennai,InoxTheMarinaMallOmrEgatoor,Tamil,16:00,Club,190₹,126,5
+TamilNadu,Chennai,InoxTheMarinaMallOmrEgatoor,Tamil,16:00,Executive,60₹,16,16
+TamilNadu,Chennai,DeviCineplexAnnaSalai,Tamil,19:30,Quartz,152₹,277,0
+TamilNadu,Chennai,DeviCineplexAnnaSalai,Tamil,19:30,Zircon,60₹,31,31
+TamilNadu,Coimbatore,InoxProzoneMallSathyRoad,Tamil,21:30,Club,190₹,134,0
+TamilNadu,Coimbatore,InoxProzoneMallSathyRoad,Tamil,21:30,Executive,60₹,22,0
