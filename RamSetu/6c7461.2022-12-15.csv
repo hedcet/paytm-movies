@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,GreaterNoida,PvrGaurCityGreaterNoida,Hindi,10:30,Classic,90₹,92,92
+UttarPradesh,GreaterNoida,PvrGaurCityGreaterNoida,Hindi,10:30,Prime,90₹,13,13
+Chhattisgarh,Raipur,ShyamTalkiesRaipur,Hindi,12:00,Balcony,70₹,140,100
+UttarPradesh,GreaterNoida,PvrGaurCityGreaterNoida,Hindi,12:15,Classic,90₹,160,160
+UttarPradesh,GreaterNoida,PvrGaurCityGreaterNoida,Hindi,12:15,Prime,90₹,110,110
+UttarPradesh,GreaterNoida,PvrGaurCityGreaterNoida,Hindi,12:15,Recliner,90₹,10,10
+Chhattisgarh,Raipur,ShyamTalkiesRaipur,Hindi,15:00,Balcony,70₹,140,100
+Chhattisgarh,Raipur,ShyamTalkiesRaipur,Hindi,18:00,Balcony,70₹,140,100
+Chhattisgarh,Raipur,ShyamTalkiesRaipur,Hindi,21:00,Balcony,70₹,140,100
