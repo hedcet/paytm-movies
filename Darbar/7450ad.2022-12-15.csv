@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Srivilliputhur,RevathiCinemasACDolbyAtmos4K3D,Tamil,10:00,Platinum,80₹,398,73
+Karnataka,Bengaluru,VinayakaTheatreChamarajpet,Tamil,10:45,Diamond,110₹,297,235
+Karnataka,Bengaluru,VinayakaTheatreChamarajpet,Tamil,10:45,Gold,100₹,704,644
+Karnataka,Bengaluru,VinayakaTheatreChamarajpet,Tamil,13:45,Diamond,110₹,297,235
+Karnataka,Bengaluru,VinayakaTheatreChamarajpet,Tamil,13:45,Gold,100₹,704,644
+TamilNadu,Srivilliputhur,RevathiCinemasACDolbyAtmos4K3D,Tamil,22:00,Platinum,80₹,398,73
