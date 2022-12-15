@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,11:30,Normal,150₹,22,0
+Haryana,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,11:30,DoubleSofa,150₹,24,0
+Haryana,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,11:30,Lounger,150₹,8,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,11:30,Kiddles,130₹,53,3
+MadhyaPradesh,Indore,Pvr4DxTreasureIslandIndore,English,13:30,4DxPrime,300₹,60,18
+MadhyaPradesh,Indore,Pvr4DxTreasureIslandIndore,English,13:30,4DxClassic,300₹,48,0
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,English,16:40,Kiddles,250₹,36,0
+Haryana,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,17:00,Normal,160₹,22,0
+Haryana,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,17:00,DoubleSofa,200₹,24,0
+Haryana,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,17:00,Lounger,180₹,8,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,17:00,Club,390₹,16,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,17:00,Royal,390₹,60,0
+Delhi,NewDelhi,PvrVegasDwarka,English,19:10,Recliner,340₹,8,0
+Delhi,NewDelhi,PvrVegasDwarka,English,19:10,Prime,270₹,14,0
+Delhi,NewDelhi,PvrVegasDwarka,English,19:10,Classic,240₹,36,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,19:40,Kiddles,200₹,53,53
