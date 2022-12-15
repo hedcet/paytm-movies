@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,EgaCinemasRgbLaserDolbyAudio,Tamil,22:30,Platinum,152₹,38,38
+TamilNadu,Chennai,EgaCinemasRgbLaserDolbyAudio,Tamil,22:30,Gold,111₹,183,0
+TamilNadu,Chennai,EgaCinemasRgbLaserDolbyAudio,Tamil,22:30,Copper,60₹,25,25
