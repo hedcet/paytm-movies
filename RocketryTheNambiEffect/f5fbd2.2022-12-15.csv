@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Gurgaon,PvrMgfMallGurgaon,Hindi,09:30,Classic,75₹,60,60
+Haryana,Gurgaon,PvrMgfMallGurgaon,Hindi,09:30,Prime,75₹,74,74
+Haryana,Gurgaon,PvrMgfMallGurgaon,Hindi,09:35,Prime,75₹,90,90
+Haryana,Gurgaon,PvrMgfMallGurgaon,Hindi,09:35,Classic,75₹,108,108
+Haryana,Gurgaon,PvrMgfMallGurgaon,Hindi,09:35,Recliner,75₹,6,6
