@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,13:30,NormalOffline,100₹,17,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,13:30,ExecutiveOffline,160₹,102,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,13:30,PremiumOffline,250₹,50,8
+Kerala,Trivandrum,CarnivalGreenfieldCinemaKaryavattom,Malayalam,16:30,ExecutiveOffline,160₹,132,3
+Kerala,Kochi,SaritaCinemasKacheripady,Malayalam,18:00,Saphire,150₹,42,42
+Kerala,Kochi,SaritaCinemasKacheripady,Malayalam,18:00,EmeraldCircle,150₹,370,342
+Kerala,Kochi,SaritaCinemasKacheripady,Malayalam,18:00,Ruby,150₹,821,821
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,18:50,NormalOffline,100₹,17,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,18:50,ExecutiveOffline,160₹,102,27
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,18:50,PremiumOffline,250₹,50,8
