@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Rajkot,InoxRelianceMegaMallRajkot,Gujarati,15:45,RoyalRecliners,170₹,6,2
+Gujarat,Rajkot,InoxRelianceMegaMallRajkot,Gujarati,15:45,Royal,170₹,29,0
+Gujarat,Rajkot,InoxRelianceMegaMallRajkot,Gujarati,15:45,Club,170₹,55,0
+Gujarat,Rajkot,InoxRelianceMegaMallRajkot,Gujarati,15:45,Executive,170₹,22,0
