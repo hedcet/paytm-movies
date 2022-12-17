@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,DeviMultiplexNaroda,Sindhi,06:45,Platinum,150₹,42,0
+Gujarat,Ahmedabad,DeviMultiplexNaroda,Sindhi,06:45,Gold,130₹,98,0
+Gujarat,Ahmedabad,DeviMultiplexNaroda,Sindhi,15:30,Platinum,150₹,42,0
+Gujarat,Ahmedabad,DeviMultiplexNaroda,Sindhi,15:30,Gold,130₹,98,0
+MadhyaPradesh,Satna,ImusicaEntertainmentVenusTreasureMall,Sindhi,15:45,RedCarpet,110₹,98,2
+MadhyaPradesh,Satna,ImusicaEntertainmentVenusTreasureMall,Sindhi,15:45,Gold,50₹,42,0
+MadhyaPradesh,Satna,ImusicaEntertainmentVenusTreasureMall,Sindhi,15:45,Royal,200₹,8,3
+Gujarat,Ahmedabad,DeviMultiplexNaroda,Sindhi,18:45,Platinum,150₹,42,0
+Gujarat,Ahmedabad,DeviMultiplexNaroda,Sindhi,18:45,Gold,130₹,98,0
+Gujarat,Godhra,SilverScreenMultiplexGodhra,Sindhi,21:45,Platinum,180₹,21,0
+Gujarat,Godhra,SilverScreenMultiplexGodhra,Sindhi,21:45,Gold,130₹,243,10
+Gujarat,Godhra,SilverScreenMultiplexGodhra,Sindhi,21:45,Silver,130₹,36,0
