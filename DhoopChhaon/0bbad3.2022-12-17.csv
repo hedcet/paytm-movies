@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Hisar,MgCinemasGeetaColony,Hindi,16:00,Premium,100₹,119,20
+Haryana,Sonipat,MaxxCinemaMgMallSector14,Hindi,16:00,Gold,200₹,12,1
+Haryana,Sonipat,MaxxCinemaMgMallSector14,Hindi,16:00,Premium,100₹,172,32
+Haryana,Jind,RSCinemaJind,Hindi,16:00,Gold,130₹,30,0
