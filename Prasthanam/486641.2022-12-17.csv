@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,Balasore,MovieExOtRoad,Odia,14:00,Executive,200₹,13,0
+Orissa,Balasore,MovieExOtRoad,Odia,14:00,Prime,120₹,109,0
+Orissa,Balasore,MovieExOtRoad,Odia,14:00,Standard,90₹,45,0
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,18:40,Vip,500₹,10,1
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,18:40,Premium,220₹,48,14
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,18:40,Executive,200₹,52,26
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,18:40,Normal,180₹,23,9
