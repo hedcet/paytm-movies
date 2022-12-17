@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Jamkhed,GorobaCinemasKumbharTal,Marathi,12:00,Diamond,130₹,140,0
+Maharashtra,Jamkhed,GorobaCinemasKumbharTal,Marathi,12:00,Golden,100₹,202,0
+Maharashtra,Pune,VaibhavChitramandirHadapsar,Marathi,13:15,Gold,120₹,337,0
+Maharashtra,Pune,VaibhavChitramandirHadapsar,Marathi,13:15,Silver,100₹,73,0
+Maharashtra,Mumbai,CarnivalMoviestarGoregaonW,Marathi,15:50,GoldOffline,130₹,55,2
+Maharashtra,Mumbai,CarnivalMoviestarGoregaonW,Marathi,15:50,SilverOffline,100₹,20,0
