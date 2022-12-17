@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Sambhal,TulsiCinemaSambhal,Hindi,12:30,BalconyGold,150₹,24,24
+UttarPradesh,Sambhal,TulsiCinemaSambhal,Hindi,12:30,BalconyPlatinum,80₹,131,96
+UttarPradesh,Sambhal,TulsiCinemaSambhal,Hindi,12:30,DcSilver,60₹,208,208
+UttarPradesh,Sambhal,TulsiCinemaSambhal,Hindi,18:30,BalconyGold,150₹,24,24
+UttarPradesh,Sambhal,TulsiCinemaSambhal,Hindi,18:30,BalconyPlatinum,80₹,131,96
+UttarPradesh,Sambhal,TulsiCinemaSambhal,Hindi,18:30,DcSilver,60₹,208,208
