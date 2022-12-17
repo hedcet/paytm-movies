@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bellary,RrCinemasBellary,Telugu,11:00,Gold,150₹,86,40
+Karnataka,Bellary,RrCinemasBellary,Telugu,11:00,Silver,100₹,86,0
+AndhraPradesh,Madhavaram,UdayaTalkiesMadhavaram,Telugu,11:15,Balcony,0₹,169,70
+Karnataka,Bellary,RrCinemasBellary,Telugu,14:00,Gold,150₹,86,40
+Karnataka,Bellary,RrCinemasBellary,Telugu,14:00,Silver,100₹,86,0
+AndhraPradesh,Madhavaram,UdayaTalkiesMadhavaram,Telugu,14:15,Balcony,0₹,169,70
+Karnataka,Bellary,RrCinemasBellary,Telugu,17:00,Gold,150₹,86,40
+Karnataka,Bellary,RrCinemasBellary,Telugu,17:00,Silver,100₹,86,0
+AndhraPradesh,Madhavaram,UdayaTalkiesMadhavaram,Telugu,18:15,Balcony,0₹,169,70
+Karnataka,Bellary,RrCinemasBellary,Telugu,20:00,Gold,150₹,86,40
+Karnataka,Bellary,RrCinemasBellary,Telugu,20:00,Silver,100₹,86,0
+AndhraPradesh,Madhavaram,UdayaTalkiesMadhavaram,Telugu,21:15,Balcony,0₹,169,70
