@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Yellandu,KalanjaliBhagyaNagarColony,Telugu,10:30,ABox,110₹,30,16
+AndhraPradesh,Yellandu,KalanjaliBhagyaNagarColony,Telugu,10:30,BBox,110₹,30,30
+AndhraPradesh,Yellandu,KalanjaliBhagyaNagarColony,Telugu,10:30,ReservedClass,110₹,270,178
+AndhraPradesh,Yellandu,KalanjaliBhagyaNagarColony,Telugu,10:30,FirstClass,80₹,104,104
+AndhraPradesh,Yellandu,KalanjaliBhagyaNagarColony,Telugu,10:30,SecondClass,50₹,75,75
