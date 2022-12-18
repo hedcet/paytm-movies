@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,FilmCityCinePlusVarachhaBHGitanjaliPetrolPump,Hindi,12:15,RoyalBalcony,80₹,54,0
+Gujarat,Surat,FilmCityCinePlusVarachhaBHGitanjaliPetrolPump,Hindi,12:15,Delux,60₹,118,0
+Gujarat,Surat,FilmCityCinePlusVarachhaBHGitanjaliPetrolPump,Hindi,15:00,RoyalBalcony,80₹,54,21
+Gujarat,Surat,FilmCityCinePlusVarachhaBHGitanjaliPetrolPump,Hindi,15:00,Delux,60₹,118,0
+Gujarat,Surat,AngelCinemaVarachha,Hindi,17:30,Gold,70₹,60,0
+Gujarat,Surat,AngelCinemaVarachha,Hindi,17:30,Silver,50₹,107,0
+Gujarat,Surat,AngelCinemaVarachha,Hindi,17:30,Maharaja,80₹,16,0
+Gujarat,Surat,FilmCityCinePlusVarachhaBHGitanjaliPetrolPump,Hindi,18:00,RoyalBalcony,80₹,54,12
+Gujarat,Surat,FilmCityCinePlusVarachhaBHGitanjaliPetrolPump,Hindi,18:00,Delux,60₹,118,1
+Gujarat,Surat,AngelCinemaVarachha,Hindi,21:30,Gold,70₹,60,0
+Gujarat,Surat,AngelCinemaVarachha,Hindi,21:30,Silver,50₹,107,0
+Gujarat,Surat,AngelCinemaVarachha,Hindi,21:30,Maharaja,80₹,16,0
+Gujarat,Surat,FilmCityCinePlusVarachhaBHGitanjaliPetrolPump,Hindi,21:40,RoyalBalcony,80₹,54,12
+Gujarat,Surat,FilmCityCinePlusVarachhaBHGitanjaliPetrolPump,Hindi,21:40,Delux,60₹,118,0
