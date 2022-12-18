@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,AppleMultiplexAhmedabad,Gujarati,15:30,UpperSofa,110₹,12,0
+Gujarat,Ahmedabad,AppleMultiplexAhmedabad,Gujarati,15:30,Platinum,110₹,96,0
+Gujarat,Ahmedabad,AppleMultiplexAhmedabad,Gujarati,15:30,LowerSofa,110₹,8,0
+Gujarat,Vadodara,BansalMovieplexGotri,Gujarati,16:00,Recliner,200₹,13,13
+Gujarat,Vadodara,BansalMovieplexGotri,Gujarati,16:00,Gold,100₹,110,110
+Gujarat,Vadodara,BansalMovieplexGotri,Gujarati,16:00,Silver,100₹,17,17
+Gujarat,Anand,InfinityCinemas,Gujarati,18:15,Recliner,250₹,19,0
+Gujarat,Anand,InfinityCinemas,Gujarati,18:15,Platinum,150₹,50,0
+Gujarat,Anand,InfinityCinemas,Gujarati,18:15,Gold,120₹,60,0
+Gujarat,Anand,ShaanCinemaAvFortuneMall,Gujarati,19:30,Recliner,50₹,13,0
+Gujarat,Anand,ShaanCinemaAvFortuneMall,Gujarati,19:30,Sofa,50₹,28,0
+Gujarat,Anand,ShaanCinemaAvFortuneMall,Gujarati,19:30,Platinum,50₹,66,0
+Gujarat,Anand,ShaanCinemaAvFortuneMall,Gujarati,19:30,Gold,50₹,45,0
