@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Chhattisgarh,Kawardha,EosKawardhaSidhivinayakPlaza,Hindi,15:30,Prime,150₹,24,0
+Chhattisgarh,Kawardha,EosKawardhaSidhivinayakPlaza,Hindi,15:30,Club,120₹,64,1
+Chhattisgarh,Kawardha,EosKawardhaSidhivinayakPlaza,Hindi,15:30,Premium,100₹,48,0
+Chhattisgarh,Kondagaon,RkCinemaBazaarPara,Hindi,21:00,Club,100₹,56,0
+Chhattisgarh,Kondagaon,RkCinemaBazaarPara,Hindi,21:00,Premium,100₹,76,0
+Chhattisgarh,Kondagaon,RkCinemaBazaarPara,Hindi,21:00,Prime,100₹,20,0
+Chhattisgarh,Kawardha,EosKawardhaSidhivinayakPlaza,Hindi,21:30,Prime,150₹,24,0
+Chhattisgarh,Kawardha,EosKawardhaSidhivinayakPlaza,Hindi,21:30,Club,120₹,64,1
+Chhattisgarh,Kawardha,EosKawardhaSidhivinayakPlaza,Hindi,21:30,Premium,100₹,48,0
