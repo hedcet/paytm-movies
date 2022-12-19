@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Vadodara,CinemarcVip,Sindhi,09:00,Premium,70₹,13,0
+Gujarat,Vadodara,CinemarcVip,Sindhi,09:00,Silver,70₹,87,68
+Gujarat,Vadodara,CinemarcVip,Sindhi,09:00,Gold,80₹,20,0
+Gujarat,Vadodara,CinemarcVip,Sindhi,09:00,Sofa,100₹,19,2
+Gujarat,Vadodara,CinemarcVip,Sindhi,19:10,Premium,100₹,13,0
+Gujarat,Vadodara,CinemarcVip,Sindhi,19:10,Silver,100₹,87,27
+Gujarat,Vadodara,CinemarcVip,Sindhi,19:10,Gold,100₹,20,19
+Gujarat,Vadodara,CinemarcVip,Sindhi,19:10,Sofa,130₹,19,14
