@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Thavanampalle,SvCinemasThavanampalle,Telugu,11:00,FirstClass,100₹,339,40
+AndhraPradesh,Thavanampalle,SvCinemasThavanampalle,Telugu,11:00,SecondClass,100₹,40,0
+AndhraPradesh,Thavanampalle,SvCinemasThavanampalle,Telugu,14:30,FirstClass,100₹,339,40
+AndhraPradesh,Thavanampalle,SvCinemasThavanampalle,Telugu,14:30,SecondClass,100₹,40,0
+AndhraPradesh,Thavanampalle,SvCinemasThavanampalle,Telugu,18:30,FirstClass,100₹,339,40
+AndhraPradesh,Thavanampalle,SvCinemasThavanampalle,Telugu,18:30,SecondClass,100₹,40,0
+AndhraPradesh,Vizag,ArunaPicturePalaceACDtsPedagantyada,Telugu,18:30,Premium,112₹,402,166
+AndhraPradesh,Vizag,ArunaPicturePalaceACDtsPedagantyada,Telugu,18:30,NonPremium,78₹,140,110
+AndhraPradesh,Thavanampalle,SvCinemasThavanampalle,Telugu,21:30,FirstClass,100₹,339,40
+AndhraPradesh,Thavanampalle,SvCinemasThavanampalle,Telugu,21:30,SecondClass,100₹,40,0
+AndhraPradesh,Vizag,ArunaPicturePalaceACDtsPedagantyada,Telugu,21:30,Premium,112₹,402,166
+AndhraPradesh,Vizag,ArunaPicturePalaceACDtsPedagantyada,Telugu,21:30,NonPremium,78₹,140,110
