@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kakkattil,AjanthaCinemasKakkattil,Malayalam,13:30,Executive,110₹,199,1
+Kerala,Kakkattil,AjanthaCinemasKakkattil,Malayalam,16:30,Executive,110₹,199,0
+Kerala,Kakkattil,AjanthaCinemasKakkattil,Malayalam,19:30,Executive,110₹,199,0
