@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Kalaburagi,ShettysMultiplexAlandRoad,Hindi,20:30,Platinum,150₹,16,14
+Karnataka,Kalaburagi,ShettysMultiplexAlandRoad,Hindi,20:30,Gold,100₹,180,107
+Karnataka,Kalaburagi,ShettysMultiplexAlandRoad,Hindi,20:30,Silver,80₹,135,79
