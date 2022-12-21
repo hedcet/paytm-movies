@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Ankola,SamarthTalkiesAnkola,Kannada,10:00,Balcony,150₹,120,64
+Karnataka,Ankola,SamarthTalkiesAnkola,Kannada,10:00,DressCircle,110₹,297,210
+Karnataka,Ankola,SamarthTalkiesAnkola,Kannada,13:00,Balcony,150₹,120,64
+Karnataka,Ankola,SamarthTalkiesAnkola,Kannada,13:00,DressCircle,110₹,297,210
+Karnataka,Dandeli,ShriHariTheatreDandeli,Kannada,14:30,Balcony,150₹,90,0
+Karnataka,Ankola,SamarthTalkiesAnkola,Kannada,16:00,Balcony,150₹,120,64
+Karnataka,Ankola,SamarthTalkiesAnkola,Kannada,16:00,DressCircle,110₹,297,210
+Karnataka,Dandeli,ShriHariTheatreDandeli,Kannada,17:30,Balcony,150₹,90,0
+Karnataka,Ankola,SamarthTalkiesAnkola,Kannada,19:00,Balcony,150₹,120,64
+Karnataka,Ankola,SamarthTalkiesAnkola,Kannada,19:00,DressCircle,110₹,297,210
+Karnataka,Dandeli,ShriHariTheatreDandeli,Kannada,20:30,Balcony,150₹,90,0
