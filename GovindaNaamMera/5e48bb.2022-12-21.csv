@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,AngelCinemaVarachha,Hindi,17:30,Gold,70₹,60,1
+Gujarat,Surat,AngelCinemaVarachha,Hindi,17:30,Silver,50₹,107,4
+Gujarat,Surat,AngelCinemaVarachha,Hindi,17:30,Maharaja,80₹,16,0
