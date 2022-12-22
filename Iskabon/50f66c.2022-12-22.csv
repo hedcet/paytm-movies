@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Bakhrahat,UmaTalkiesBakhrahat,Bengali,10:00,Box,220₹,46,24
+WestBengal,Bakhrahat,UmaTalkiesBakhrahat,Bengali,10:00,Balcony,70₹,102,54
+WestBengal,Bakhrahat,UmaTalkiesBakhrahat,Bengali,10:00,SpecialClass,70₹,80,80
+WestBengal,Bakhrahat,UmaTalkiesBakhrahat,Bengali,14:50,Box,220₹,46,24
+WestBengal,Bakhrahat,UmaTalkiesBakhrahat,Bengali,14:50,Balcony,70₹,102,54
+WestBengal,Bakhrahat,UmaTalkiesBakhrahat,Bengali,14:50,SpecialClass,70₹,80,80
