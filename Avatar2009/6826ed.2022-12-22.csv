@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,English,10:00,Insignia,400₹,43,5
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,English,17:50,Insignia,700₹,43,0
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHillsChennai,English,18:55,3DClassic,101₹,22,19
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHillsChennai,English,18:55,3DPrime,246₹,135,15
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,English,21:45,Insignia,700₹,43,6
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHillsChennai,English,22:55,3DClassic,101₹,22,19
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHillsChennai,English,22:55,3DPrime,246₹,135,15
