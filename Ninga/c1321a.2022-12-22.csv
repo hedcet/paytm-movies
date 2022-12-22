@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,10:00,Balcony,100₹,307,205
+Karnataka,Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,10:00,FirstClass,80₹,555,555
+Karnataka,Bengaluru,GoverdhanTheatreYeshwanthpur,Kannada,10:00,SecondClass,40₹,202,202
