@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Malda,RupkothaCinemaHallMalda,Hindi,10:30,SpecialAc,150₹,82,39
+WestBengal,Malda,RupkothaCinemaHallMalda,Hindi,10:30,DressCircle,80₹,99,59
+WestBengal,Malda,RupkothaCinemaHallMalda,Hindi,13:30,SpecialAc,150₹,82,35
+WestBengal,Malda,RupkothaCinemaHallMalda,Hindi,13:30,DressCircle,80₹,99,59
+WestBengal,Malda,RupkothaCinemaHallMalda,Hindi,16:30,SpecialAc,150₹,82,35
+WestBengal,Malda,RupkothaCinemaHallMalda,Hindi,16:30,DressCircle,80₹,99,59
