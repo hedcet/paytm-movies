@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,SaritaCinemasKacheripady,Malayalam,12:00,Deluxe,150₹,555,531
+Kerala,Kochi,SaritaCinemasKacheripady,Malayalam,12:00,RoseCircle,150₹,115,115
+Kerala,Kochi,SaritaCinemasKacheripady,Malayalam,21:00,Deluxe,150₹,555,531
+Kerala,Kochi,SaritaCinemasKacheripady,Malayalam,21:00,RoseCircle,150₹,115,115
