@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,AjantaCinemaBehala,Bengali,14:00,Balcony,150₹,106,86
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,14:00,Classic,140₹,80,37
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,14:00,Prime,200₹,11,9
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,14:00,Recliner,360₹,12,0
+WestBengal,Kolkata,CarnivalSaltLake,Bengali,15:00,Silver,99₹,166,13
+WestBengal,CoochBehar,NewCinemaBangchatraRoad,Bengali,15:45,Balcony,80₹,87,45
+WestBengal,Jiaganj,MahabirJainMunicipaltyCulturalJiaganj,Bengali,16:00,Boxa,120₹,14,0
+WestBengal,Jiaganj,MahabirJainMunicipaltyCulturalJiaganj,Bengali,16:00,Boxb,120₹,14,0
+WestBengal,Jiaganj,MahabirJainMunicipaltyCulturalJiaganj,Bengali,16:00,Balcony,100₹,90,42
+WestBengal,Jiaganj,MahabirJainMunicipaltyCulturalJiaganj,Bengali,16:00,RearStall,80₹,176,0
+WestBengal,Kolkata,RupMandirCinemaBelgharia,Bengali,16:30,Platinum,100₹,48,0
+WestBengal,Kolkata,RupMandirCinemaBelgharia,Bengali,16:30,Gold,80₹,102,56
+WestBengal,CoochBehar,NewCinemaBangchatraRoad,Bengali,18:45,Balcony,80₹,87,45
