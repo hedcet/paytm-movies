@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,09:55,Insignia,300₹,34,10
+Delhi,NewDelhi,PvrSelectCityWalkGoldDelhi,English,12:30,PlatinumSuperior,500₹,12,9
+Delhi,NewDelhi,PvrSelectCityWalkGoldDelhi,English,12:30,Platinum,500₹,24,17
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,13:55,Classic,276₹,92,32
+Karnataka,Bengaluru,PvrVegaBannerghattaRoad,English,14:35,Classic,276₹,69,3
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,19:30,Classic,250₹,78,9
+Haryana,Gurgaon,PvrDirectorsCutGurugramAmbienceMall,English,23:30,Platinum,700₹,32,0
+Haryana,Gurgaon,PvrDirectorsCutGurugramAmbienceMall,English,23:30,PlatinumSuperior,700₹,9,0
+Haryana,Gurgaon,PvrDirectorsCutGurugramAmbienceMall,English,23:30,DboxSeats,900₹,16,0
+Haryana,Gurgaon,PvrMgfMallGurgaon,English,23:40,Classic,250₹,59,2
+Haryana,Gurgaon,PvrMgfMallGurgaon,English,23:40,Prime,300₹,52,12
+Haryana,Gurgaon,PvrMgfMallGurgaon,English,23:40,Recliner,450₹,8,0
