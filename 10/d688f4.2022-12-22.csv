@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,Kannada,10:30,Gold,110₹,355,319
+Karnataka,Bengaluru,PrasannaDigital4KCinemaMagadiRoadTollgate,Kannada,10:30,Silver,100₹,748,748
+Karnataka,Bengaluru,FunCinemaSigmaMallVasanthaNagar,Kannada,15:00,Executive,140₹,263,0
+Karnataka,Bengaluru,FunCinemaSigmaMallVasanthaNagar,Kannada,15:00,Normal,120₹,66,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,18:25,Executive,130₹,69,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,18:25,Premium,130₹,29,0
+Karnataka,Mysuru,PvrGarudaMallAlbertVictorRoad,Kannada,18:55,Classic,140₹,102,0
