@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,SurendraTheatre,Bengali,13:30,DressCircle,110₹,24,12
+WestBengal,Kolkata,SurendraTheatre,Bengali,13:30,Balcony,50₹,46,0
+WestBengal,Kolkata,SurendraTheatre,Bengali,16:15,DressCircle,110₹,24,2
+WestBengal,Kolkata,SurendraTheatre,Bengali,16:15,Balcony,50₹,46,0
+WestBengal,Kolkata,SurendraTheatre,Bengali,16:30,DressCircle,110₹,24,2
+WestBengal,Kolkata,SurendraTheatre,Bengali,16:30,Balcony,50₹,46,0
