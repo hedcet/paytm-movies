@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,13:30,Executive,130₹,69,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,13:30,Premium,130₹,29,7
+Karnataka,Tumkur,SriKrishnaTalkiesMgRoadTumkur,Kannada,17:00,Balcony,120₹,221,144
+Karnataka,Tumkur,SriKrishnaTalkiesMgRoadTumkur,Kannada,17:00,Second,100₹,485,288
+Karnataka,Kalaburagi,ShettysMultiplexAlandRoad,Kannada,18:45,Platinum,150₹,16,14
+Karnataka,Kalaburagi,ShettysMultiplexAlandRoad,Kannada,18:45,Gold,100₹,180,88
+Karnataka,Kalaburagi,ShettysMultiplexAlandRoad,Kannada,18:45,Silver,80₹,135,82
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteSunkadakatteBengaluru,Kannada,19:55,Silver,170₹,34,0
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteSunkadakatteBengaluru,Kannada,19:55,Gold,190₹,145,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,19:55,Classic,180₹,85,29
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,19:55,Prime,200₹,20,20
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,19:55,Recliner,320₹,13,0
