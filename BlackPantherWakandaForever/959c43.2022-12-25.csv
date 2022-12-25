@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,08:55,Kiddles,210₹,53,46
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,English,12:20,Club,170₹,48,2
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,English,12:20,Executive,150₹,24,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,English,12:20,Royale,180₹,51,12
+Gujarat,Surat,TimeCinemaSuratGalaxyCircle,English,17:25,Sofa280,280₹,34,0
+Gujarat,Ahmedabad,TimeCinemaCgRoad,English,19:15,Standard330,330₹,108,8
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,22:30,Classic,340₹,87,18
