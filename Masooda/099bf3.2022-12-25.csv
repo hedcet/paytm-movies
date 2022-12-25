@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,11:30,Balcony,110₹,265,61
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,11:30,SecondClass,100₹,150,72
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,11:30,ThirdClass,78₹,154,79
+AndhraPradesh,Kakinada,DeviMultiplexKakinada,Telugu,14:30,FirstClass,112₹,214,40
+AndhraPradesh,Kakinada,DeviMultiplexKakinada,Telugu,14:30,SecondClass,75₹,60,0
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,14:45,Balcony,110₹,265,34
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,14:45,SecondClass,100₹,150,108
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,14:45,ThirdClass,78₹,154,112
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,18:30,Balcony,110₹,265,68
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,18:30,SecondClass,100₹,150,106
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,18:30,ThirdClass,78₹,154,86
+AndhraPradesh,Kakinada,DeviMultiplexKakinada,Telugu,21:30,FirstClass,112₹,214,34
+AndhraPradesh,Kakinada,DeviMultiplexKakinada,Telugu,21:30,SecondClass,75₹,60,0
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,21:45,Balcony,110₹,265,44
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,21:45,SecondClass,100₹,150,72
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,21:45,ThirdClass,78₹,154,74
