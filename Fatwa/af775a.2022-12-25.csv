@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Pune,CarnivalPremierPlazaChinchwad,Marathi,12:01,Platinum,140₹,36,24
+Maharashtra,Pune,CarnivalPremierPlazaChinchwad,Marathi,12:01,Gold,120₹,18,10
+Maharashtra,Pune,CarnivalPremierPlazaChinchwad,Marathi,12:01,Silver,100₹,9,6
