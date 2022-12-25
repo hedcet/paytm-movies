@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Jind,CinetimeCinemasCsrMall,Haryanvi,13:00,GoldC,100₹,19,0
+Haryana,Jind,CinetimeCinemasCsrMall,Haryanvi,13:00,SilverC,100₹,55,0
+Haryana,Jind,RSCinemaJind,Haryanvi,13:30,Gold,100₹,30,0
+Haryana,Jind,CinetimeCinemasCsrMall,Haryanvi,19:00,GoldC,100₹,21,3
+Haryana,Jind,CinetimeCinemasCsrMall,Haryanvi,19:00,SilverC,100₹,99,0
