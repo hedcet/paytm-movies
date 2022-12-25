@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,VelcoCinemasAnakaputhur,Tamil,09:00,VelcopattuBox,100₹,40,40
+TamilNadu,Chennai,VelcoCinemasAnakaputhur,Tamil,09:00,VelcopattuFirstClass,80₹,272,0
+TamilNadu,Chennai,VelcoCinemasAnakaputhur,Tamil,09:00,VelcopattuSecondClass,80₹,145,78
+TamilNadu,Chennai,VelcoCinemasAnakaputhur,Tamil,14:45,VelcopattuBox,100₹,40,40
+TamilNadu,Chennai,VelcoCinemasAnakaputhur,Tamil,14:45,VelcopattuFirstClass,80₹,272,0
+TamilNadu,Chennai,VelcoCinemasAnakaputhur,Tamil,14:45,VelcopattuSecondClass,80₹,145,78
+TamilNadu,Chennai,AgsCinemasMaduravoyal,Tamil,15:40,Pearl,60₹,0,0
+TamilNadu,Chennai,AgsCinemasMaduravoyal,Tamil,15:40,Diamond,190₹,205,12
