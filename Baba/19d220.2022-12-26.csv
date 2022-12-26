@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Tirupur,AlankarTheatreDolby71Palladam,Tamil,10:45,First,100₹,190,0
+TamilNadu,Tirupur,AlankarTheatreDolby71Palladam,Tamil,10:45,Second,100₹,211,41
+TamilNadu,Tirupur,AlankarTheatreDolby71Palladam,Tamil,10:45,Third,100₹,50,0
+TamilNadu,Tirupur,AlankarTheatreDolby71Palladam,Tamil,14:20,First,100₹,190,0
+TamilNadu,Tirupur,AlankarTheatreDolby71Palladam,Tamil,14:20,Second,100₹,211,41
+TamilNadu,Tirupur,AlankarTheatreDolby71Palladam,Tamil,14:20,Third,100₹,50,0
+TamilNadu,Tirupur,AlankarTheatreDolby71Palladam,Tamil,18:20,First,100₹,190,0
+TamilNadu,Tirupur,AlankarTheatreDolby71Palladam,Tamil,18:20,Second,100₹,211,41
+TamilNadu,Tirupur,AlankarTheatreDolby71Palladam,Tamil,18:20,Third,100₹,50,0
+TamilNadu,Tirupur,AlankarTheatreDolby71Palladam,Tamil,22:00,First,100₹,190,0
+TamilNadu,Tirupur,AlankarTheatreDolby71Palladam,Tamil,22:00,Second,100₹,211,41
+TamilNadu,Tirupur,AlankarTheatreDolby71Palladam,Tamil,22:00,Third,100₹,50,0
