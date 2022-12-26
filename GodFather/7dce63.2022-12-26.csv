@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Bodeli,TajCinemaBodeli,Hindi,15:00,Uper,80₹,250,222
+Gujarat,Bodeli,TajCinemaBodeli,Hindi,18:00,Uper,80₹,250,0
+Gujarat,Bodeli,TajCinemaBodeli,Hindi,21:00,Uper,80₹,250,0
