@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,TimeCinemaCgRoad,English,10:35,Standard200,200₹,108,8
+Gujarat,Surat,TimeCinemaSuratGalaxyCircle,English,12:15,Infinity300,300₹,22,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,12:30,Insignia,550₹,41,41
+Gujarat,Ahmedabad,TimeCinemaCgRoad,English,14:30,Infinity1100,"1,100₹",12,0
+Gujarat,Surat,TimeCinemaSuratGalaxyCircle,English,18:25,Infinity400,400₹,22,0
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,22:30,Classic,250₹,76,20
