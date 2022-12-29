@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Safidon,RsCinemaSafidon,Haryanvi,10:45,Gold,100₹,98,5
+Haryana,Jind,CinetimeCinemasCsrMall,Haryanvi,13:00,GoldC,100₹,19,1
+Haryana,Jind,CinetimeCinemasCsrMall,Haryanvi,13:00,SilverC,100₹,55,0
+Haryana,Jind,RSCinemaJind,Haryanvi,13:30,Gold,100₹,30,0
+Haryana,Safidon,RsCinemaSafidon,Haryanvi,16:30,Gold,100₹,98,0
+Haryana,Jind,CinetimeCinemasCsrMall,Haryanvi,19:00,GoldC,100₹,21,0
+Haryana,Jind,CinetimeCinemasCsrMall,Haryanvi,19:00,SilverC,100₹,99,0
