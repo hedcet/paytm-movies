@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,AlbertComplexEgmore,Tamil,10:30,FirstClass,99₹,158,60
+TamilNadu,Chennai,AlbertComplexEgmore,Tamil,10:30,SecondClass,79₹,84,0
+TamilNadu,Chennai,AlbertComplexEgmore,Tamil,10:30,ThirdClass,50₹,28,0
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHillsChennai,Tamil,12:00,Classic,60₹,16,14
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHillsChennai,Tamil,12:00,Prime,179₹,81,10
+TamilNadu,Chennai,AgsCinemasMaduravoyal,Tamil,14:00,Pearl,60₹,0,0
+TamilNadu,Chennai,AgsCinemasMaduravoyal,Tamil,14:00,Diamond,190₹,208,11
