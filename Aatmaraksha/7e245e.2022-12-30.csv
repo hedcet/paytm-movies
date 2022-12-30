@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Batala,SolitaireCinemasBatala,Hindi,10:00,SolitaireClassic,230₹,49,0
+Punjab,Batala,SolitaireCinemasBatala,Hindi,10:00,Gold,200₹,48,0
+Punjab,Batala,SolitaireCinemasBatala,Hindi,10:00,Silver,170₹,20,0
+Punjab,Batala,SolitaireCinemasBatala,Hindi,11:30,SolitaireClassic,230₹,49,0
+Punjab,Batala,SolitaireCinemasBatala,Hindi,11:30,Gold,200₹,48,0
+Punjab,Batala,SolitaireCinemasBatala,Hindi,11:30,Silver,170₹,20,0
+Punjab,Jalandhar,PvrFriendsJalandhar,Hindi,15:00,Classic,170₹,70,0
+Punjab,Jalandhar,PvrFriendsJalandhar,Hindi,15:00,Prime,200₹,80,20
+Punjab,Jalandhar,PvrFriendsJalandhar,Hindi,15:00,Recliner,420₹,14,0
