@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,WaterLand,TestCinemaOcl,Tamil,17:00,Executive,190₹,100,10
+WestBengal,WaterLand,TestCinemaOcl,Tamil,17:00,Corporate,160₹,6,0
+WestBengal,WaterLand,TestCinemaOcl,Tamil,20:05,Executive,190₹,100,10
+WestBengal,WaterLand,TestCinemaOcl,Tamil,20:05,Corporate,160₹,6,0
+WestBengal,WaterLand,TestCinemaOcl,Tamil,23:20,Executive,190₹,100,10
+WestBengal,WaterLand,TestCinemaOcl,Tamil,23:20,Corporate,160₹,6,0
