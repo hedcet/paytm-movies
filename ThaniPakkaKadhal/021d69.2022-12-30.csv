@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,UdhayamComplexJafferkhanpet,Tamil,11:45,FirstClass,112₹,213,31
+TamilNadu,Chennai,UdhayamComplexJafferkhanpet,Tamil,11:45,SecondClass,105₹,70,0
+TamilNadu,Chennai,UdhayamComplexJafferkhanpet,Tamil,11:45,ThirdClass,50₹,32,0
