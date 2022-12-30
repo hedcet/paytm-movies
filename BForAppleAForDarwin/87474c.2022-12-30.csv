@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,SaritaCinemasKacheripady,Malayalam,09:40,BlueCircle,150₹,227,218
+Kerala,Perinthalmanna,PlazaCinemasPerinthalmanna,Malayalam,10:00,Platinum,120₹,151,0
+Kerala,Manjeri,LadderCinemasIndianMall,Malayalam,11:00,Executive,150₹,74,0
+Kerala,Kattanam,GanamTheatreComplexACKattanam,Malayalam,12:45,FirstClass,140₹,202,89
+Kerala,Cheruvathur,PakkanarCinemasCheruvathur,Malayalam,22:30,Executive,100₹,322,10
