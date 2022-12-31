@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,GalaxyParadiseHongasandra,Malayalam,10:00,FirstClass,150₹,120,100
+Karnataka,Bengaluru,GalaxyParadiseHongasandra,Malayalam,13:00,FirstClass,150₹,100,80
+Karnataka,Bengaluru,GalaxyParadiseHongasandra,Malayalam,16:00,FirstClass,150₹,100,80
+Karnataka,Bengaluru,GalaxyParadiseHongasandra,Malayalam,16:00,FirstClass,150₹,120,112
+Karnataka,Bengaluru,InnovativeMultiplexMarathahalli,Malayalam,18:15,Premium,200₹,36,2
+Karnataka,Bengaluru,InnovativeMultiplexMarathahalli,Malayalam,22:00,Premium,200₹,89,12
+Karnataka,Bengaluru,GalaxyParadiseHongasandra,Malayalam,22:00,FirstClass,150₹,120,100
