@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,10:00,PlatinumSuperior,500₹,16,0
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,10:00,Platinum,500₹,28,0
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,10:00,Classic,300₹,38,7
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,10:15,Classic,150₹,54,39
+MadhyaPradesh,Indore,PvrTreasureIslandMallSouthTukoganj,Hindi,11:00,Prime,110₹,46,16
+MadhyaPradesh,Indore,PvrTreasureIslandMallSouthTukoganj,Hindi,11:00,Classic,110₹,26,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallSouthTukoganj,Hindi,11:00,Recliner,250₹,8,4
+Haryana,Gurgaon,PvrMgfMallGurgaon,English,11:05,Classic,200₹,59,0
+Haryana,Gurgaon,PvrMgfMallGurgaon,English,11:05,Prime,250₹,52,9
+Haryana,Gurgaon,PvrMgfMallGurgaon,English,11:05,Recliner,400₹,8,6
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,15:00,Classic,150₹,54,54
