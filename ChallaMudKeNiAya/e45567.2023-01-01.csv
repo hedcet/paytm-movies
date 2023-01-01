@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Amritsar,CinepolisNexusAmritsar,Punjabi,16:30,Vip,350₹,11,0
+Punjab,Amritsar,CinepolisNexusAmritsar,Punjabi,16:30,Executive,190₹,52,27
+Punjab,Amritsar,CinepolisNexusAmritsar,Punjabi,16:30,Normal,180₹,39,5
