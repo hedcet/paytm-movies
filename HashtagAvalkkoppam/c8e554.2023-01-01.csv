@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kottarakara,MinervaEmpireCinemazChandamukku,Malayalam,10:00,Executive,200₹,13,0
+Kerala,Kottarakara,MinervaEmpireCinemazChandamukku,Malayalam,10:00,Diamond,129₹,210,0
+Kerala,Kochi,PvrOberonMallErnakulam,Malayalam,14:05,Classic,120₹,36,0
+Kerala,Kochi,PvrOberonMallErnakulam,Malayalam,14:05,ClassicPlus,150₹,81,16
+Kerala,Angamaly,CarnivalKsrtComplexSalemErnakulamHighway,Malayalam,17:20,GoldOffline,150₹,202,27
