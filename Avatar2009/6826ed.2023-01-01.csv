@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Guntur,VCelluloidPlatenoCinemasVidyanagar,Telugu,11:10,GoldClass,175₹,146,0
+WestBengal,WaterLand,TpmcTest9002Malda,English,11:30,Corporate,200₹,538,86
+AndhraPradesh,Guntur,VCelluloidPlatenoCinemasVidyanagar,Telugu,14:50,GoldClass,175₹,146,0
+WestBengal,WaterLand,TpmcTest9002Malda,English,15:00,Corporate,200₹,538,86
+WestBengal,WaterLand,TpmcTest9002Malda,English,18:30,Corporate,200₹,538,86
+AndhraPradesh,Guntur,VCelluloidPlatenoCinemasVidyanagar,Telugu,18:30,GoldClass,175₹,146,0
+AndhraPradesh,Guntur,VCelluloidPlatenoCinemasVidyanagar,Telugu,22:20,GoldClass,175₹,146,0
