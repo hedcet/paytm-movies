@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,InoxShreeGarudaSwagathMallJayanagar,Kannada,12:35,Club,280₹,45,3
+Karnataka,Bengaluru,InoxShreeGarudaSwagathMallJayanagar,Kannada,12:35,Executive,270₹,133,0
+Karnataka,Bengaluru,RocklineCinemasJalahalliCross,Kannada,13:10,Gold,150₹,163,16
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,14:05,Executive,140₹,69,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,14:05,Premium,140₹,29,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,17:05,Classic,200₹,85,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,17:05,Prime,220₹,20,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,17:05,Recliner,350₹,13,0
+Karnataka,Bengaluru,SharadaCinemasACSPRoadBangalore,Kannada,18:15,Balcony,120₹,159,123
+Karnataka,Bengaluru,SharadaCinemasACSPRoadBangalore,Kannada,18:15,FirstClass,100₹,315,243
