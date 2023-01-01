@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Thiruppathur,ThangamaniTheatreTirupattur,Tamil,18:30,FirstClass,100₹,355,33
+WestBengal,WaterLand,MirajTestCinema,Hindi,19:30,Executive,200₹,190,0
+WestBengal,WaterLand,MirajTestCinema,Hindi,19:30,Special,150₹,21,1
