@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,RocklineCinemasJalahalliCross,Kannada,13:10,Gold,150₹,163,16
+Karnataka,Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Kannada,16:00,Classic,112₹,228,18
+Karnataka,Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Kannada,16:00,Recliner,230₹,12,7
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,17:05,Classic,112₹,85,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,17:05,Prime,140₹,20,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,17:05,Recliner,230₹,13,0
+Karnataka,Bengaluru,SharadaCinemasACSPRoadBangalore,Kannada,18:15,Balcony,120₹,159,123
+Karnataka,Bengaluru,SharadaCinemasACSPRoadBangalore,Kannada,18:15,FirstClass,100₹,315,243
