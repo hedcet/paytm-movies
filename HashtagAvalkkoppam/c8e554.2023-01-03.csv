@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,PvrOberonMallErnakulam,Malayalam,14:05,Classic,110₹,36,0
+Kerala,Kochi,PvrOberonMallErnakulam,Malayalam,14:05,ClassicPlus,140₹,81,16
+Kerala,Angamaly,CarnivalKsrtComplexSalemErnakulamHighway,Malayalam,17:00,GoldOffline,130₹,202,27
