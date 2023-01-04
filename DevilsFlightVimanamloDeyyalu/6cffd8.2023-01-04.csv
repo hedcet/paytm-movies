@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Vizag,ArunaPicturePalaceACDtsPedagantyada,Telugu,14:30,Premium,112₹,402,166
+AndhraPradesh,Vizag,ArunaPicturePalaceACDtsPedagantyada,Telugu,14:30,NonPremium,78₹,140,110
+AndhraPradesh,Vizag,ArunaPicturePalaceACDtsPedagantyada,Telugu,21:30,Premium,112₹,402,166
+AndhraPradesh,Vizag,ArunaPicturePalaceACDtsPedagantyada,Telugu,21:30,NonPremium,78₹,140,110
