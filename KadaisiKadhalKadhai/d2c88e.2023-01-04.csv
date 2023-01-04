@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,Tamil,11:00,Classic,60₹,11,11
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,Tamil,11:00,Prime,165₹,98,13
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHillsChennai,Tamil,12:00,Classic,60₹,16,16
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHillsChennai,Tamil,12:00,Prime,165₹,81,10
