@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Chhattisgarh,BalodaBazar,ShivaBollywoodTheater,Hindi,12:00,GoldClass,100₹,132,104
+WestBengal,Mathabhanga,ApsaraCinemaMathabhanga,Hindi,13:00,Specialclass,100₹,50,0
+WestBengal,Mathabhanga,ApsaraCinemaMathabhanga,Hindi,13:00,Upperclass,100₹,50,0
+Chhattisgarh,BalodaBazar,ShivaBollywoodTheater,Hindi,15:00,GoldClass,100₹,132,104
+WestBengal,Mathabhanga,ApsaraCinemaMathabhanga,Hindi,16:00,Specialclass,100₹,50,0
+WestBengal,Mathabhanga,ApsaraCinemaMathabhanga,Hindi,16:00,Upperclass,100₹,50,0
+Chhattisgarh,BalodaBazar,ShivaBollywoodTheater,Hindi,18:00,GoldClass,100₹,132,104
+WestBengal,Mathabhanga,ApsaraCinemaMathabhanga,Hindi,19:00,Specialclass,100₹,50,0
+WestBengal,Mathabhanga,ApsaraCinemaMathabhanga,Hindi,19:00,Upperclass,100₹,50,0
+Chhattisgarh,BalodaBazar,ShivaBollywoodTheater,Hindi,21:00,GoldClass,100₹,132,104
