@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Uttarakhand,Kotdwar,KayCinemasKotdwar,Garhwali,12:00,Gold,200₹,60,60
+Uttarakhand,Kotdwar,KayCinemasKotdwar,Garhwali,12:00,Silver,170₹,88,68
+Haryana,Ghaziabad,RrCinemaJaipuriaMall,Garhwali,13:40,Gold,150₹,240,35
+Haryana,Ghaziabad,RrCinemaJaipuriaMall,Garhwali,13:40,Silver,130₹,100,0
+Haryana,Ghaziabad,RrCinemaJaipuriaMall,Garhwali,13:40,PremiumSofa,300₹,21,3
