@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,Sandhya35Mm2KDolbyAtmosJawaharNagar,Telugu,10:00,Balcony,150₹,731,630
+Telangana,Hyderabad,Sandhya35Mm2KDolbyAtmosJawaharNagar,Telugu,10:00,FrontCircle,100₹,109,72
+Telangana,Hyderabad,Sandhya35Mm2KDolbyAtmosJawaharNagar,Telugu,10:00,ThirdClass,50₹,215,140
+Telangana,Hyderabad,Sandhya35Mm2KDolbyAtmosJawaharNagar,Telugu,14:00,Balcony,150₹,731,630
+Telangana,Hyderabad,Sandhya35Mm2KDolbyAtmosJawaharNagar,Telugu,14:00,FrontCircle,100₹,109,72
+Telangana,Hyderabad,Sandhya35Mm2KDolbyAtmosJawaharNagar,Telugu,14:00,ThirdClass,50₹,215,140
+Telangana,Hyderabad,Sandhya35Mm2KDolbyAtmosJawaharNagar,Telugu,18:00,Balcony,150₹,731,630
+Telangana,Hyderabad,Sandhya35Mm2KDolbyAtmosJawaharNagar,Telugu,18:00,FrontCircle,100₹,109,72
+Telangana,Hyderabad,Sandhya35Mm2KDolbyAtmosJawaharNagar,Telugu,18:00,ThirdClass,50₹,215,106
+Telangana,Secunderabad,TalluriTheatresKushaiguda,Telugu,18:15,Gold,150₹,288,216
+Telangana,Secunderabad,TalluriTheatresKushaiguda,Telugu,18:15,Silver,75₹,72,48
+Telangana,Hyderabad,Sandhya35Mm2KDolbyAtmosJawaharNagar,Telugu,21:00,Balcony,150₹,731,630
+Telangana,Hyderabad,Sandhya35Mm2KDolbyAtmosJawaharNagar,Telugu,21:00,FrontCircle,100₹,109,72
+Telangana,Hyderabad,Sandhya35Mm2KDolbyAtmosJawaharNagar,Telugu,21:00,ThirdClass,50₹,215,140
