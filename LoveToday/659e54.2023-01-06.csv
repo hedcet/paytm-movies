@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,Telugu,11:00,Premium,112₹,344,84
+AndhraPradesh,Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,Telugu,11:00,NonPemium,70₹,128,128
+TamilNadu,Chennai,SpiEscapeCinemasRoyapettah,Tamil,12:55,Elite,165₹,99,20
+TamilNadu,Chennai,SpiEscapeCinemasRoyapettah,Tamil,12:55,Budget,60₹,11,11
+TamilNadu,Chennai,OdiyanManiTheatre2K3DACDolbyDigitalThiruvottiyur,Tamil,14:30,Balcony,110₹,202,0
+TamilNadu,Chennai,OdiyanManiTheatre2K3DACDolbyDigitalThiruvottiyur,Tamil,14:30,FirstClass,100₹,504,0
+AndhraPradesh,Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,Telugu,14:30,Premium,112₹,344,84
+AndhraPradesh,Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,Telugu,14:30,NonPemium,70₹,128,128
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,15:10,Classic,60₹,16,16
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,15:10,Prime,165₹,110,32
+TamilNadu,Chennai,OdiyanManiTheatre2K3DACDolbyDigitalThiruvottiyur,Tamil,18:30,Balcony,110₹,202,202
+TamilNadu,Chennai,OdiyanManiTheatre2K3DACDolbyDigitalThiruvottiyur,Tamil,18:30,FirstClass,100₹,504,0
+AndhraPradesh,Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,Telugu,18:30,Premium,112₹,344,84
+AndhraPradesh,Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,Telugu,18:30,NonPemium,70₹,128,128
+AndhraPradesh,Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,Telugu,21:30,Premium,112₹,344,84
+AndhraPradesh,Anakapalle,SvcSriSatyaACDtsNearGowriParameswarTemple,Telugu,21:30,NonPemium,70₹,128,128
