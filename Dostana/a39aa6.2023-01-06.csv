@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Vizag,SriKanthiTheatreDtsVisakhapatnam,Bhojpuri,11:00,Premium,60₹,362,0
+AndhraPradesh,Vizag,SriKanthiTheatreDtsVisakhapatnam,Bhojpuri,11:00,NonPremium,40₹,247,247
+AndhraPradesh,Vizag,SriKanthiTheatreDtsVisakhapatnam,Bhojpuri,14:30,Premium,60₹,362,0
+AndhraPradesh,Vizag,SriKanthiTheatreDtsVisakhapatnam,Bhojpuri,14:30,NonPremium,40₹,247,247
+AndhraPradesh,Vizag,SriKanthiTheatreDtsVisakhapatnam,Bhojpuri,18:30,Premium,60₹,362,0
+AndhraPradesh,Vizag,SriKanthiTheatreDtsVisakhapatnam,Bhojpuri,18:30,NonPremium,40₹,247,247
+AndhraPradesh,Vizag,SriKanthiTheatreDtsVisakhapatnam,Bhojpuri,21:30,Premium,60₹,362,0
+AndhraPradesh,Vizag,SriKanthiTheatreDtsVisakhapatnam,Bhojpuri,21:30,NonPremium,40₹,247,247
