@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,MandiDabwali,CenturyCityCinemaMandiDabwali,Punjabi,10:00,Platinum,250₹,18,0
+Haryana,MandiDabwali,CenturyCityCinemaMandiDabwali,Punjabi,10:00,Gold,100₹,78,0
+Haryana,MandiDabwali,CenturyCityCinemaMandiDabwali,Punjabi,10:00,Silver,100₹,108,0
+Haryana,Kaithal,CineSquareCinemasPadmaCityMall,Punjabi,10:30,Royal,150₹,84,30
+Punjab,Firozepur,SilverBirdCinemasFerozepurMogaRoad,Punjabi,11:00,Box,400₹,10,0
+Punjab,Firozepur,SilverBirdCinemasFerozepurMogaRoad,Punjabi,11:00,Gold,150₹,139,56
+Haryana,Fatehabad,RkPalaceModelTown,Punjabi,12:00,Gold,200₹,102,26
+Haryana,Fatehabad,RkPalaceModelTown,Punjabi,12:00,Silver,150₹,96,16
+Punjab,Firozepur,SilverBirdCinemasFerozepurMogaRoad,Punjabi,16:30,Box,400₹,10,0
+Punjab,Firozepur,SilverBirdCinemasFerozepurMogaRoad,Punjabi,16:30,Gold,230₹,139,56
