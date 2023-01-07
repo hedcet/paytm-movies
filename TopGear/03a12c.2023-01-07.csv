@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kuppam,LakshmiMovielandKuppam,Telugu,10:30,Premium,110₹,344,1
+AndhraPradesh,Kuppam,LakshmiMovielandKuppam,Telugu,10:30,NonPremium,90₹,124,0
+AndhraPradesh,Pulivendula,VCelluloidMaruthi,Telugu,11:30,Gold,112₹,332,44
+AndhraPradesh,Pulivendula,VCelluloidMaruthi,Telugu,11:30,Executive,70₹,64,64
+AndhraPradesh,Kuppam,LakshmiMovielandKuppam,Telugu,14:00,Premium,110₹,344,0
+AndhraPradesh,Kuppam,LakshmiMovielandKuppam,Telugu,14:00,NonPremium,90₹,124,0
+AndhraPradesh,Pulivendula,VCelluloidMaruthi,Telugu,14:30,Gold,112₹,332,44
+AndhraPradesh,Pulivendula,VCelluloidMaruthi,Telugu,14:30,Executive,70₹,64,64
+AndhraPradesh,Kuppam,LakshmiMovielandKuppam,Telugu,18:00,Premium,110₹,344,0
+AndhraPradesh,Kuppam,LakshmiMovielandKuppam,Telugu,18:00,NonPremium,90₹,124,0
+AndhraPradesh,Pulivendula,VCelluloidMaruthi,Telugu,18:30,Gold,112₹,332,44
+AndhraPradesh,Pulivendula,VCelluloidMaruthi,Telugu,18:30,Executive,70₹,64,64
+AndhraPradesh,Kuppam,LakshmiMovielandKuppam,Telugu,21:00,Premium,110₹,344,0
+AndhraPradesh,Kuppam,LakshmiMovielandKuppam,Telugu,21:00,NonPremium,90₹,124,0
+AndhraPradesh,Pulivendula,VCelluloidMaruthi,Telugu,21:30,Gold,112₹,332,44
+AndhraPradesh,Pulivendula,VCelluloidMaruthi,Telugu,21:30,Executive,70₹,64,64
