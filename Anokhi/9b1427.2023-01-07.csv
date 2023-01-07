@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Bihar,Hajipur,DdCinemasCineKrishnaMallHajipur,Hindi,10:45,Platinum,120₹,100,0
+Bihar,Forbesganj,PremTalkies2KDolby71AC,Hindi,12:00,Platinum,200₹,42,6
+Bihar,Forbesganj,PremTalkies2KDolby71AC,Hindi,12:00,Gold,120₹,198,0
+Jharkhand,Giridih,SwarnCinemasGiridih,Hindi,12:00,Diamond,150₹,39,0
+Jharkhand,Giridih,SwarnCinemasGiridih,Hindi,12:00,Platinum,125₹,65,0
+Jharkhand,Giridih,SwarnCinemasGiridih,Hindi,12:00,Gold,100₹,26,0
+Jharkhand,Giridih,SwarnCinemasGiridih,Hindi,12:00,Silver,75₹,26,0
+Jharkhand,Hazaribagh,EylexCinemaHazaribagh,Hindi,12:10,Gl,120₹,39,0
+Jharkhand,Hazaribagh,EylexCinemaHazaribagh,Hindi,12:10,Pl,120₹,147,0
+Jharkhand,Hazaribagh,EylexCinemaHazaribagh,Hindi,12:10,Rl,250₹,5,0
+Jharkhand,Ranchi,EylexHinooRanchi,Hindi,12:30,Cl,120₹,21,2
+Jharkhand,Ranchi,EylexHinooRanchi,Hindi,12:30,Gl,120₹,44,0
+Jharkhand,Ranchi,EylexHinooRanchi,Hindi,12:30,Pl,120₹,88,0
+Bihar,Patna,CinepolisPMMallPatna,Hindi,13:10,Normal,200₹,186,110
+Bihar,Hajipur,DdCinemasCineKrishnaMallHajipur,Hindi,13:15,Platinum,120₹,308,0
