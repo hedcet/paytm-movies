@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Srivilliputhur,RevathiCinemasACDolbyAtmos4K3D,Tamil,10:00,Platinum,100₹,398,48
+WestBengal,Waterland,MirajTestCinema,Hindi,19:30,Executive,200₹,190,0
+WestBengal,Waterland,MirajTestCinema,Hindi,19:30,Special,150₹,21,1
+TamilNadu,Srivilliputhur,RevathiCinemasACDolbyAtmos4K3D,Tamil,22:00,Platinum,100₹,398,48
