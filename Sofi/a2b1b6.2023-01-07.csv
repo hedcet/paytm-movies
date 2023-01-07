@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Ashtamichira,MahalakshmiCinemasAshtamichira,Malayalam,10:00,Diamond,120₹,137,137
+Kerala,Ashtamichira,MahalakshmiCinemasAshtamichira,Malayalam,10:00,Gold,100₹,220,220
+Kerala,Payyanur,SumangaliCinemasAnnurRoad,Malayalam,10:30,GoldenCircle,130₹,192,10
+Kerala,Kattanam,GanamTheatreComplexACKattanam,Malayalam,10:45,FirstClass,110₹,129,67
+Kerala,Kozhinjampara,RavirajComplexACKozhinjampara,Malayalam,11:00,FirstClass,110₹,163,52
+Kerala,Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmosThoongamparaKattakada,Malayalam,11:00,DiamondSofa,200₹,4,0
+Kerala,Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmosThoongamparaKattakada,Malayalam,11:00,Gold,150₹,170,0
+Kerala,Mukkam,AbhilashCinemas4KMukkam,Malayalam,11:45,Executive,110₹,388,26
+Kerala,Kattanam,GanamTheatreComplexACKattanam,Malayalam,13:00,FirstClass,110₹,129,67
+Kerala,Kozhinjampara,RavirajComplexACKozhinjampara,Malayalam,16:05,FirstClass,110₹,163,52
+Kerala,Punalur,CarnivalDMallPunalur,Malayalam,16:45,Silver,130₹,140,0
+Kerala,Punalur,CarnivalDMallPunalur,Malayalam,16:45,Gold,200₹,12,0
+Kerala,Punalur,CarnivalDMallPunalur,Malayalam,16:45,Platinum,290₹,10,0
+Kerala,Kochi,SaritaCinemasKacheripady,Malayalam,18:00,BlueCircle,150₹,227,218
