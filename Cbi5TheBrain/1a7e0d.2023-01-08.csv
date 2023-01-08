@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chidambaram,LenaCinemas4KDolbyAtmosRgbLaser,Tamil,18:45,BoxAa,190₹,18,0
+TamilNadu,Chidambaram,LenaCinemas4KDolbyAtmosRgbLaser,Tamil,18:45,BoxBb,190₹,18,0
+TamilNadu,Chidambaram,LenaCinemas4KDolbyAtmosRgbLaser,Tamil,18:45,ElitePremium,190₹,21,0
+TamilNadu,Chidambaram,LenaCinemas4KDolbyAtmosRgbLaser,Tamil,18:45,Elite,150₹,484,75
+TamilNadu,Chidambaram,LenaCinemas4KDolbyAtmosRgbLaser,Tamil,22:30,BoxAa,190₹,18,0
+TamilNadu,Chidambaram,LenaCinemas4KDolbyAtmosRgbLaser,Tamil,22:30,BoxBb,190₹,18,0
+TamilNadu,Chidambaram,LenaCinemas4KDolbyAtmosRgbLaser,Tamil,22:30,ElitePremium,190₹,42,21
+TamilNadu,Chidambaram,LenaCinemas4KDolbyAtmosRgbLaser,Tamil,22:30,Elite,150₹,484,75
