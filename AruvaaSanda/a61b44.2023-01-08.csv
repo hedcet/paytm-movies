@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Madurai,ShaTheatre,Tamil,14:00,FirstClass,0₹,"1,126","1,026"
+TamilNadu,Madurai,ShaTheatre,Tamil,18:00,FirstClass,0₹,"1,126","1,026"
+TamilNadu,Chennai,SriVenkateswaraTheatreAC4KDolbyGuduvanchery,Tamil,21:45,GeneralClass,110₹,450,35
+TamilNadu,Madurai,ShaTheatre,Tamil,22:00,FirstClass,0₹,"1,126","1,026"
