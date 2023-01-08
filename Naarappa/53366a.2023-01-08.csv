@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Bhimavaram,KishoreCineHubPanugantiRayappaBazar,Telugu,21:20,Sofa,150₹,70,70
+AndhraPradesh,Bhimavaram,KishoreCineHubPanugantiRayappaBazar,Telugu,21:20,FirstClass,120₹,154,26
+AndhraPradesh,Bhimavaram,KishoreCineHubPanugantiRayappaBazar,Telugu,21:20,SecondClass,80₹,90,0
+AndhraPradesh,Bhimavaram,KishoreCineHubPanugantiRayappaBazar,Telugu,21:20,ThirdClass,50₹,89,0
