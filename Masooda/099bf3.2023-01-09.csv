@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Ponduru,KalanjaliTheatre2KACDolby71Ponduru,Telugu,11:00,FirstClass,100₹,287,23
+AndhraPradesh,Ponduru,KalanjaliTheatre2KACDolby71Ponduru,Telugu,11:00,SecondClass,70₹,87,87
+AndhraPradesh,Rajahmundry,AshokaTheaterRajahmundry,Telugu,11:00,PremuimCl,112₹,434,34
+AndhraPradesh,Rajahmundry,AshokaTheaterRajahmundry,Telugu,11:00,NonPremiumCl,75₹,145,110
+AndhraPradesh,Ponduru,KalanjaliTheatre2KACDolby71Ponduru,Telugu,14:30,FirstClass,100₹,287,23
+AndhraPradesh,Ponduru,KalanjaliTheatre2KACDolby71Ponduru,Telugu,14:30,SecondClass,70₹,87,87
+AndhraPradesh,Rajahmundry,AshokaTheaterRajahmundry,Telugu,14:30,PremuimCl,112₹,434,37
+AndhraPradesh,Rajahmundry,AshokaTheaterRajahmundry,Telugu,14:30,NonPremiumCl,75₹,145,110
+AndhraPradesh,Rajahmundry,AshokaTheaterRajahmundry,Telugu,18:15,PremuimCl,112₹,434,34
+AndhraPradesh,Rajahmundry,AshokaTheaterRajahmundry,Telugu,18:15,NonPremiumCl,75₹,145,110
+AndhraPradesh,Ponduru,KalanjaliTheatre2KACDolby71Ponduru,Telugu,18:30,FirstClass,100₹,287,23
+AndhraPradesh,Ponduru,KalanjaliTheatre2KACDolby71Ponduru,Telugu,18:30,SecondClass,70₹,87,87
+AndhraPradesh,Rajahmundry,AshokaTheaterRajahmundry,Telugu,21:30,PremuimCl,112₹,434,34
+AndhraPradesh,Rajahmundry,AshokaTheaterRajahmundry,Telugu,21:30,NonPremiumCl,75₹,145,110
+AndhraPradesh,Ponduru,KalanjaliTheatre2KACDolby71Ponduru,Telugu,21:45,FirstClass,100₹,287,23
+AndhraPradesh,Ponduru,KalanjaliTheatre2KACDolby71Ponduru,Telugu,21:45,SecondClass,70₹,87,87
