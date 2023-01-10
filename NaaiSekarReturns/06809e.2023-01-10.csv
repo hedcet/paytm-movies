@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Tirupur,TamilNaduCinemas,Tamil,14:15,BoxA,130₹,29,0
+TamilNadu,Tirupur,TamilNaduCinemas,Tamil,14:15,BoxB,130₹,28,28
+TamilNadu,Tirupur,TamilNaduCinemas,Tamil,14:15,GoldClass,120₹,"1,258",578
+TamilNadu,Tirupur,TamilNaduCinemas,Tamil,14:15,SilverClass,90₹,535,326
