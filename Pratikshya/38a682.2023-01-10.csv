@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,11:15,Vip,350₹,9,0
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,11:15,Premium,110₹,44,9
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,11:15,Executive,110₹,52,0
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,11:15,Normal,110₹,23,0
