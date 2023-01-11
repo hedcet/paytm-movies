@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Gurgaon,InoxDreamzMallGurgaon,Telugu,09:00,Club,210₹,86,1
+Haryana,Gurgaon,InoxDreamzMallGurgaon,Telugu,09:00,Executive,180₹,30,0
+Haryana,Gurgaon,InoxDreamzMallGurgaon,Telugu,09:00,RoyalRecliners,280₹,12,0
+Haryana,Gurgaon,InoxDreamzMallGurgaon,Telugu,14:45,Club,280₹,230,0
+Haryana,Gurgaon,InoxDreamzMallGurgaon,Telugu,14:45,Executive,250₹,44,0
+Haryana,Gurgaon,InoxDreamzMallGurgaon,Telugu,14:45,RoyalRecliners,420₹,11,0
+Haryana,Gurgaon,InoxDreamzMallGurgaon,Telugu,18:40,Club,280₹,86,0
+Haryana,Gurgaon,InoxDreamzMallGurgaon,Telugu,18:40,Executive,250₹,30,0
+Haryana,Gurgaon,InoxDreamzMallGurgaon,Telugu,18:40,RoyalRecliners,420₹,12,0
