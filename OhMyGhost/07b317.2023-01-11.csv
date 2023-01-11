@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,MeenakshiTheater2KAcManali,Tamil,11:30,FirstClass,100₹,431,0
+Kerala,Kollam,SmpTheatreKollam,Tamil,11:30,Balcony,90₹,119,0
+Kerala,Kollam,SmpTheatreKollam,Tamil,11:30,FirstClass,80₹,282,0
+TamilNadu,Chennai,SriVenkateswaraTheatreAC4KDolbyGuduvanchery,Tamil,11:30,GeneralClass,110₹,450,36
+Kerala,Kollam,SmpTheatreKollam,Tamil,14:30,Balcony,90₹,119,0
+Kerala,Kollam,SmpTheatreKollam,Tamil,14:30,FirstClass,80₹,282,0
+Kerala,Kollam,SmpTheatreKollam,Tamil,18:30,Balcony,90₹,119,0
+Kerala,Kollam,SmpTheatreKollam,Tamil,18:30,FirstClass,80₹,282,0
+Kerala,Kollam,SmpTheatreKollam,Tamil,21:15,Balcony,90₹,119,0
+Kerala,Kollam,SmpTheatreKollam,Tamil,21:15,FirstClass,80₹,282,0
+TamilNadu,Chennai,MeenakshiTheater2KAcManali,Tamil,21:30,FirstClass,100₹,431,0
