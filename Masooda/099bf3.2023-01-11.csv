@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Rajahmundry,AshokaTheaterRajahmundry,Telugu,11:00,PremuimCl,112₹,434,38
+AndhraPradesh,Rajahmundry,AshokaTheaterRajahmundry,Telugu,11:00,NonPremiumCl,75₹,145,110
+AndhraPradesh,Rajahmundry,AshokaTheaterRajahmundry,Telugu,14:30,PremuimCl,112₹,434,34
+AndhraPradesh,Rajahmundry,AshokaTheaterRajahmundry,Telugu,14:30,NonPremiumCl,75₹,145,110
+AndhraPradesh,Rajahmundry,AshokaTheaterRajahmundry,Telugu,18:15,PremuimCl,112₹,434,34
+AndhraPradesh,Rajahmundry,AshokaTheaterRajahmundry,Telugu,18:15,NonPremiumCl,75₹,145,110
+AndhraPradesh,Rajahmundry,AshokaTheaterRajahmundry,Telugu,21:30,PremuimCl,112₹,434,34
+AndhraPradesh,Rajahmundry,AshokaTheaterRajahmundry,Telugu,21:30,NonPremiumCl,75₹,145,110
