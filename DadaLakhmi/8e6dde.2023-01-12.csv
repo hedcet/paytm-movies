@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,Kumar70MmKachiguda,Haryanvi,14:30,Balcony,100₹,346,266
+Telangana,Hyderabad,Kumar70MmKachiguda,Haryanvi,14:30,DressCircle,70₹,170,127
+Haryana,Jind,RSCinemaJind,Haryanvi,15:30,Gold,100₹,30,0
+Telangana,Hyderabad,Kumar70MmKachiguda,Haryanvi,18:15,Balcony,100₹,346,266
+Telangana,Hyderabad,Kumar70MmKachiguda,Haryanvi,18:15,DressCircle,70₹,170,127
