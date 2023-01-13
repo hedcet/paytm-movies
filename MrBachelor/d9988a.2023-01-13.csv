@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Krishnarajanagara,SriVenkateshwaraChitramandiraMysoreRoad,Kannada,10:30,Balcony,100₹,109,0
+Karnataka,Krishnarajanagara,SriVenkateshwaraChitramandiraMysoreRoad,Kannada,10:30,First,80₹,600,392
+Karnataka,Krishnarajanagara,SriVenkateshwaraChitramandiraMysoreRoad,Kannada,13:30,Balcony,100₹,109,0
+Karnataka,Krishnarajanagara,SriVenkateshwaraChitramandiraMysoreRoad,Kannada,13:30,First,80₹,600,392
+Karnataka,Krishnarajanagara,SriVenkateshwaraChitramandiraMysoreRoad,Kannada,16:30,Balcony,100₹,109,0
+Karnataka,Krishnarajanagara,SriVenkateshwaraChitramandiraMysoreRoad,Kannada,16:30,First,80₹,600,392
+Karnataka,Krishnarajanagara,SriVenkateshwaraChitramandiraMysoreRoad,Kannada,19:30,Balcony,100₹,109,0
+Karnataka,Krishnarajanagara,SriVenkateshwaraChitramandiraMysoreRoad,Kannada,19:30,First,80₹,600,392
+Karnataka,Bengaluru,NarthakiSapnaTheatreGandhiNagar,Kannada,19:30,DeluxeClass,120₹,259,218
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,22:15,Classic,236₹,128,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,22:15,Prime,236₹,80,2
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,22:15,Recliner,450₹,13,0
