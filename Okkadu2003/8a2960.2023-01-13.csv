@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Nakrekal,SriRamakrishnaTheatreNakrekal,Telugu,11:00,Balcony,100₹,283,159
+Telangana,Nakrekal,SriRamakrishnaTheatreNakrekal,Telugu,11:00,ReservedClass,70₹,168,135
+Telangana,Nakrekal,SriRamakrishnaTheatreNakrekal,Telugu,11:00,ThirdClass,50₹,148,148
+Telangana,Nakrekal,SriRamakrishnaTheatreNakrekal,Telugu,14:00,Balcony,100₹,283,159
+Telangana,Nakrekal,SriRamakrishnaTheatreNakrekal,Telugu,14:00,ReservedClass,70₹,168,135
+Telangana,Nakrekal,SriRamakrishnaTheatreNakrekal,Telugu,14:00,ThirdClass,50₹,148,148
+Telangana,Nakrekal,SriRamakrishnaTheatreNakrekal,Telugu,18:00,Balcony,100₹,283,159
+Telangana,Nakrekal,SriRamakrishnaTheatreNakrekal,Telugu,18:00,ReservedClass,70₹,168,135
+Telangana,Nakrekal,SriRamakrishnaTheatreNakrekal,Telugu,18:00,ThirdClass,50₹,148,148
+Telangana,Nakrekal,SriRamakrishnaTheatreNakrekal,Telugu,21:00,Balcony,100₹,283,159
+Telangana,Nakrekal,SriRamakrishnaTheatreNakrekal,Telugu,21:00,ReservedClass,70₹,168,135
+Telangana,Nakrekal,SriRamakrishnaTheatreNakrekal,Telugu,21:00,ThirdClass,50₹,148,148
