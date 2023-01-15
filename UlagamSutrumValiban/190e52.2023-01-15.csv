@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Srivilliputhur,DeivamTheatre,Tamil,10:30,FirstClass,50₹,254,0
+TamilNadu,Srivilliputhur,DeivamTheatre,Tamil,10:30,SecondClass,50₹,234,234
+TamilNadu,Srivilliputhur,DeivamTheatre,Tamil,14:30,FirstClass,50₹,254,0
+TamilNadu,Srivilliputhur,DeivamTheatre,Tamil,14:30,SecondClass,50₹,234,234
+TamilNadu,Srivilliputhur,DeivamTheatre,Tamil,18:30,FirstClass,50₹,254,0
+TamilNadu,Srivilliputhur,DeivamTheatre,Tamil,18:30,SecondClass,50₹,234,234
+TamilNadu,Srivilliputhur,DeivamTheatre,Tamil,22:30,FirstClass,50₹,254,0
+TamilNadu,Srivilliputhur,DeivamTheatre,Tamil,22:30,SecondClass,50₹,234,234
