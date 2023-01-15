@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Falakata,GouriTalkiesFalakata,Bengali,13:00,Balcony,100₹,100,0
+WestBengal,Falakata,GouriTalkiesFalakata,Bengali,13:00,SpecialClass,100₹,200,0
+WestBengal,CoochBehar,NewCinemaBangchatraRoad,Bengali,15:00,Balcony,100₹,87,45
+WestBengal,Falakata,GouriTalkiesFalakata,Bengali,16:00,Balcony,100₹,100,0
+WestBengal,Falakata,GouriTalkiesFalakata,Bengali,16:00,SpecialClass,100₹,200,0
+WestBengal,Falakata,GouriTalkiesFalakata,Bengali,19:00,Balcony,100₹,100,0
+WestBengal,Falakata,GouriTalkiesFalakata,Bengali,19:00,SpecialClass,100₹,200,0
