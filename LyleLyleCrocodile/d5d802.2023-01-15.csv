@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Gurgaon,PvrAmbienceGurgaon,English,10:15,ClassicNormal,150₹,84,2
+Haryana,Gurgaon,PvrAmbienceGurgaon,English,10:15,Prime,200₹,38,11
+Delhi,NewDelhi,InoxInsigniaAtEpicuriaNehruPlace,English,13:30,Insignia,737₹,30,30
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,16:20,Classic,150₹,54,46
