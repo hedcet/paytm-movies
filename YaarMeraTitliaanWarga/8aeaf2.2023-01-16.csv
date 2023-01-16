@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,TalwandiBhai,FunCineplex,Punjabi,10:45,Royal,80₹,175,137
+Punjab,Doraha,NovaCinemazDoraha,Punjabi,12:30,Platinum,250₹,19,0
+Punjab,Doraha,NovaCinemazDoraha,Punjabi,12:30,Gold,200₹,82,0
+Punjab,Doraha,NovaCinemazDoraha,Punjabi,12:30,Silver,170₹,24,0
+Punjab,TalwandiBhai,FunCineplex,Punjabi,15:00,Royal,100₹,91,78
+Punjab,Hoshiarpur,KbpShirazCinemaHoshiarpur,Punjabi,15:30,Diamond,150₹,33,0
+Punjab,Hoshiarpur,KbpShirazCinemaHoshiarpur,Punjabi,15:30,Gold,150₹,44,0
+Punjab,Hoshiarpur,KbpShirazCinemaHoshiarpur,Punjabi,15:30,Silver,150₹,22,0
+Punjab,Doraha,NovaCinemazDoraha,Punjabi,18:35,Platinum,250₹,19,0
+Punjab,Doraha,NovaCinemazDoraha,Punjabi,18:35,Gold,200₹,82,0
+Punjab,Doraha,NovaCinemazDoraha,Punjabi,18:35,Silver,170₹,24,0
+Punjab,TalwandiBhai,FunCineplex,Punjabi,20:00,Royal,100₹,175,137
