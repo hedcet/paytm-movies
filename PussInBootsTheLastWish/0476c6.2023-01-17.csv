@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,PvrAerohubChennai,English,07:50,3DClassic,101₹,34,0
+TamilNadu,Chennai,PvrAerohubChennai,English,07:50,3DPrime,234₹,210,35
+Karnataka,Bengaluru,PvrVegaBannerghattaRoad,English,13:30,Classic,190₹,69,0
+Karnataka,Bengaluru,PvrVegaBannerghattaRoad,English,20:35,Classic,210₹,69,0
