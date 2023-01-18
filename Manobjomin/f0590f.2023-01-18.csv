@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,InoxCityCentreSaltlake,Bengali,13:45,DressCircle,140₹,140,50
+WestBengal,Kolkata,InoxCityCentreSaltlake,Bengali,13:45,Galleria,140₹,49,0
+WestBengal,Kolkata,InoxCityCentreSaltlake,Bengali,13:45,Royale,140₹,30,0
