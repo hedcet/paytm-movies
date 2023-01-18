@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Honnali,ShanthaChitramandira,Kannada,10:30,Balcony,101₹,172,48
+Karnataka,Honnali,ShanthaChitramandira,Kannada,10:30,FirstClass,81₹,532,482
+Karnataka,Huvinahadagali,GayathriTheatre,Kannada,10:30,FirstClass,81₹,200,0
+Karnataka,Honnali,ShanthaChitramandira,Kannada,13:30,Balcony,101₹,172,48
+Karnataka,Honnali,ShanthaChitramandira,Kannada,13:30,FirstClass,81₹,532,482
+Karnataka,Huvinahadagali,GayathriTheatre,Kannada,13:30,FirstClass,81₹,200,0
+Karnataka,Kalaburagi,ShettysMultiplexAlandRoad,Kannada,15:30,Platinum,150₹,16,14
+Karnataka,Kalaburagi,ShettysMultiplexAlandRoad,Kannada,15:30,Gold,100₹,180,107
+Karnataka,Kalaburagi,ShettysMultiplexAlandRoad,Kannada,15:30,Silver,80₹,135,79
+Karnataka,Honnali,ShanthaChitramandira,Kannada,17:30,Balcony,101₹,172,48
+Karnataka,Honnali,ShanthaChitramandira,Kannada,17:30,FirstClass,81₹,532,482
+Karnataka,Huvinahadagali,GayathriTheatre,Kannada,17:30,FirstClass,81₹,200,0
+Karnataka,Honnali,ShanthaChitramandira,Kannada,20:30,Balcony,101₹,172,48
+Karnataka,Honnali,ShanthaChitramandira,Kannada,20:30,FirstClass,81₹,532,482
+Karnataka,Huvinahadagali,GayathriTheatre,Kannada,20:30,FirstClass,81₹,200,0
