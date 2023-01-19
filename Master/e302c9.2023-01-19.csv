@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Waterland,MirajTestCinema,Hindi,11:30,Executive,200₹,190,5
+WestBengal,Waterland,MirajTestCinema,Hindi,11:30,Special,100₹,21,1
+WestBengal,Waterland,MirajTestCinema,Hindi,18:15,Executive,1₹,190,5
+WestBengal,Waterland,MirajTestCinema,Hindi,18:15,Special,1₹,21,1
