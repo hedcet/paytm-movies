@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Davanagere,GeethanjaliTheatreDavangare,Kannada,10:45,Balcony,150₹,184,184
+Karnataka,Davanagere,GeethanjaliTheatreDavangare,Kannada,10:45,Firstclass,100₹,613,514
+Karnataka,Davanagere,GeethanjaliTheatreDavangare,Kannada,10:45,Balcony,150₹,184,184
+Karnataka,Davanagere,GeethanjaliTheatreDavangare,Kannada,10:45,Firstclass,100₹,613,514
+Karnataka,Davanagere,GeethanjaliTheatreDavangare,Kannada,13:45,Balcony,150₹,184,184
+Karnataka,Davanagere,GeethanjaliTheatreDavangare,Kannada,13:45,Firstclass,100₹,613,514
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,16:00,Classic,150₹,108,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,16:00,Prime,170₹,99,8
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,16:00,Recliner,250₹,12,3
+Karnataka,Davanagere,GeethanjaliTheatreDavangare,Kannada,17:30,Balcony,150₹,184,184
+Karnataka,Davanagere,GeethanjaliTheatreDavangare,Kannada,17:30,Firstclass,100₹,613,514
+Karnataka,Davanagere,MovieTimeSsGardeniaMall,Kannada,18:30,Premier,180₹,160,0
+Karnataka,Davanagere,MovieTimeSsGardeniaMall,Kannada,18:30,Gold,200₹,41,0
