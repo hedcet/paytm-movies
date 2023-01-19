@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Udupi,DianaTheatreChitpady,Kannada,10:30,Balcony,80₹,112,0
+Karnataka,Gokak,BasaveshwaraTheatre,Kannada,12:00,Balcony,71₹,130,110
+Karnataka,Gokak,BasaveshwaraTheatre,Kannada,12:00,DressCircle,51₹,470,270
+Karnataka,Udupi,DianaTheatreChitpady,Kannada,13:30,Balcony,80₹,112,0
+Karnataka,Gokak,BasaveshwaraTheatre,Kannada,15:00,Balcony,71₹,130,110
+Karnataka,Gokak,BasaveshwaraTheatre,Kannada,15:00,DressCircle,51₹,470,270
+Karnataka,Udupi,DianaTheatreChitpady,Kannada,16:30,Balcony,80₹,112,0
+Karnataka,Gokak,BasaveshwaraTheatre,Kannada,18:00,Balcony,71₹,130,110
+Karnataka,Gokak,BasaveshwaraTheatre,Kannada,18:00,DressCircle,51₹,470,270
+Karnataka,Udupi,DianaTheatreChitpady,Kannada,19:15,Balcony,80₹,112,0
+Karnataka,Gokak,BasaveshwaraTheatre,Kannada,21:00,Balcony,71₹,130,110
+Karnataka,Gokak,BasaveshwaraTheatre,Kannada,21:00,DressCircle,51₹,470,270
