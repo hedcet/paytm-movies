@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Chhattisgarh,Kondagaon,KishoreCineplexRojgariPara,Chhattisgarhi,12:00,Platinum,100₹,62,0
+Chhattisgarh,Kondagaon,KishoreCineplexRojgariPara,Chhattisgarhi,12:00,Gold,70₹,143,0
+Chhattisgarh,Kondagaon,KishoreCineplexRojgariPara,Chhattisgarhi,12:00,Silver,70₹,30,0
+Chhattisgarh,Jagdalpur,AnupamaTheatreJaiswalColony,Chhattisgarhi,12:00,Balcony,60₹,120,100
+Chhattisgarh,Jagdalpur,AnupamaTheatreJaiswalColony,Chhattisgarhi,15:00,Balcony,60₹,120,100
+Chhattisgarh,Jagdalpur,AnupamaTheatreJaiswalColony,Chhattisgarhi,18:00,Balcony,60₹,120,100
+Chhattisgarh,Kondagaon,KishoreCineplexRojgariPara,Chhattisgarhi,21:00,Platinum,100₹,62,0
+Chhattisgarh,Kondagaon,KishoreCineplexRojgariPara,Chhattisgarhi,21:00,Gold,70₹,143,0
+Chhattisgarh,Kondagaon,KishoreCineplexRojgariPara,Chhattisgarhi,21:00,Silver,70₹,30,0
+Chhattisgarh,Jagdalpur,AnupamaTheatreJaiswalColony,Chhattisgarhi,21:00,Balcony,60₹,120,100
