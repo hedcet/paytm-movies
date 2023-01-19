@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Dhampur,ShielaTheatreDhampur,Hindi,12:30,Balcony,150₹,199,142
+UttarPradesh,Dhampur,ShielaTheatreDhampur,Hindi,15:15,Balcony,150₹,199,142
+UttarPradesh,Dhampur,ShielaTheatreDhampur,Hindi,18:15,Balcony,150₹,199,142
+UttarPradesh,Dhampur,ShielaTheatreDhampur,Hindi,21:15,Balcony,150₹,199,142
