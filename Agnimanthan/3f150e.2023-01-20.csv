@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Durgapur,DurgapurCinemaCityCenter,Bengali,12:00,Balcony,60₹,480,480
+WestBengal,Durgapur,DurgapurCinemaCityCenter,Bengali,12:00,DressCircle,70₹,92,77
+WestBengal,Durgapur,DurgapurCinemaCityCenter,Bengali,12:00,Box,70₹,32,32
+WestBengal,Durgapur,DurgapurCinemaCityCenter,Bengali,12:00,RareStall,50₹,640,608
+WestBengal,Jiaganj,MahabirJainMunicipaltyCulturalJiaganj,Bengali,19:00,Boxa,120₹,14,0
+WestBengal,Jiaganj,MahabirJainMunicipaltyCulturalJiaganj,Bengali,19:00,Boxb,120₹,14,0
+WestBengal,Jiaganj,MahabirJainMunicipaltyCulturalJiaganj,Bengali,19:00,Balcony,100₹,90,38
+WestBengal,Jiaganj,MahabirJainMunicipaltyCulturalJiaganj,Bengali,19:00,RearStall,80₹,176,0
