@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Hoshiarpur,TimeCinemasHoshiarpur,Punjabi,09:30,Vip,100₹,69,0
+Punjab,Hoshiarpur,TimeCinemasHoshiarpur,Punjabi,09:30,Gold,100₹,58,0
+Punjab,Hoshiarpur,TimeCinemasHoshiarpur,Punjabi,09:30,Silver,100₹,52,0
+Punjab,Mansa,DreamRealityCinemasGrandMall,Punjabi,11:00,Recliner,290₹,14,1
+Punjab,Mansa,DreamRealityCinemasGrandMall,Punjabi,11:00,Platinum,230₹,71,0
+Punjab,Mansa,DreamRealityCinemasGrandMall,Punjabi,11:00,Gold,190₹,72,0
+Punjab,Mansa,DreamRealityCinemasGrandMall,Punjabi,11:00,Silver,150₹,74,0
+Punjab,Mansa,DreamRealityCinemasGrandMall,Punjabi,11:00,Normal,120₹,42,0
+Punjab,Moga,NeelamNovaCinemazMoga,Punjabi,11:30,Gold,200₹,122,0
+Punjab,Sangrur,CinePlazaSunamSangrur,Punjabi,12:30,SofaClass,280₹,13,0
+Punjab,Sangrur,CinePlazaSunamSangrur,Punjabi,12:30,DiamondClass,75₹,128,18
+Punjab,Sangrur,CinePlazaSunamSangrur,Punjabi,12:30,GoldClass,75₹,33,0
+Punjab,Bathinda,FunCinemaMittalCityMallVishalNagar,Punjabi,13:15,Premium,180₹,134,0
+Punjab,Bathinda,FunCinemaMittalCityMallVishalNagar,Punjabi,13:15,Executive,180₹,86,0
+Punjab,Bathinda,FunCinemaMittalCityMallVishalNagar,Punjabi,13:15,Normal,180₹,66,0
+Punjab,Moga,NeelamNovaCinemazMoga,Punjabi,16:30,Gold,200₹,122,0
