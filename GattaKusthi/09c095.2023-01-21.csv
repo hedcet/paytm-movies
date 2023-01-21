@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Trichy,ArunaTheatre,Tamil,14:30,FirstClass,51₹,378,0
+TamilNadu,Trichy,ArunaTheatre,Tamil,18:30,FirstClass,51₹,378,0
+TamilNadu,Trichy,ArunaTheatre,Tamil,22:15,FirstClass,51₹,378,1
