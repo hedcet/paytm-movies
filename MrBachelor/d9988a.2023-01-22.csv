@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bellary,RrCinemasBellary,Kannada,11:00,Gold,150₹,86,40
+Karnataka,Bellary,RrCinemasBellary,Kannada,11:00,Silver,100₹,86,0
+Karnataka,Bellary,RrCinemasBellary,Kannada,14:00,Gold,150₹,86,40
+Karnataka,Bellary,RrCinemasBellary,Kannada,14:00,Silver,100₹,86,0
+Karnataka,Bellary,RrCinemasBellary,Kannada,17:00,Gold,150₹,86,40
+Karnataka,Bellary,RrCinemasBellary,Kannada,17:00,Silver,100₹,86,0
+Karnataka,Bellary,RrCinemasBellary,Kannada,20:00,Gold,150₹,86,40
+Karnataka,Bellary,RrCinemasBellary,Kannada,20:00,Silver,100₹,86,0
