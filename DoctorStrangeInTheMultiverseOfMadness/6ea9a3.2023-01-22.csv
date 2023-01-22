@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Gurgaon,PvrAmbienceIceGurgaon,English,16:00,ClassicNormal,150₹,90,0
+Haryana,Gurgaon,PvrAmbienceIceGurgaon,English,16:00,Prime,150₹,65,10
+Delhi,NewDelhi,PvrPromenadeVasantKunj,English,18:20,Classic,300₹,91,2
+Delhi,NewDelhi,PvrPromenadeVasantKunj,English,18:20,Prime,360₹,13,3
+Delhi,NewDelhi,PvrPromenadeVasantKunj,English,18:20,PrimePlus,410₹,10,4
