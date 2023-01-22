@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,CoochBehar,NewCinemaBangchatraRoad,Bengali,10:00,Balcony,100₹,87,45
+WestBengal,CoochBehar,NewCinemaBangchatraRoad,Bengali,12:30,Balcony,100₹,87,45
+WestBengal,Jalpaiguri,CinebazzUkilpara,Bengali,13:00,Premium,100₹,55,0
+WestBengal,Jalpaiguri,CinebazzUkilpara,Bengali,13:00,Regular,80₹,11,0
+WestBengal,Jalpaiguri,CinebazzUkilpara,Bengali,16:00,Premium,100₹,55,0
+WestBengal,Jalpaiguri,CinebazzUkilpara,Bengali,16:00,Regular,80₹,11,0
+WestBengal,Jalpaiguri,CinebazzUkilpara,Bengali,18:30,Premium,100₹,55,0
+WestBengal,Jalpaiguri,CinebazzUkilpara,Bengali,18:30,Regular,80₹,11,0
