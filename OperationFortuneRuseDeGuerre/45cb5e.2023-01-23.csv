@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Gurgaon,PvrMgfMallGurgaon,English,10:30,Classic,149₹,59,0
+Haryana,Gurgaon,PvrMgfMallGurgaon,English,10:30,Prime,149₹,52,0
+Haryana,Gurgaon,PvrMgfMallGurgaon,English,10:30,Recliner,299₹,8,0
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,16:10,Classic,215₹,84,2
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,17:00,Classic,150₹,152,17
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,English,17:10,Classic,150₹,135,32
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,English,17:10,Recliner,250₹,9,9
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,18:55,Platinum,400₹,28,0
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,18:55,PlatinumSuperior,400₹,16,4
+Maharashtra,Mumbai,InoxLaserplexCr2NarimanPoint,English,22:15,Insignia,399₹,70,4
+Haryana,Chandigarh,PvrElanteMallChandigarh,English,23:10,Classic,180₹,140,0
+Haryana,Chandigarh,PvrElanteMallChandigarh,English,23:10,Recliner,550₹,26,0
