@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Tirupur,CharanCinemas2K71Tirupur,Tamil,22:15,BoxA,150₹,22,0
+TamilNadu,Tirupur,CharanCinemas2K71Tirupur,Tamil,22:15,BoxB,150₹,24,0
+TamilNadu,Tirupur,CharanCinemas2K71Tirupur,Tamil,22:15,Elite,150₹,202,55
+TamilNadu,Tirupur,CharanCinemas2K71Tirupur,Tamil,22:15,FirstClass,120₹,364,0
