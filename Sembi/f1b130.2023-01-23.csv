@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Kumbakonam,SriVijayalakshmiCinemasAC4K3D,Tamil,11:00,FirstClass,120₹,414,198
+TamilNadu,Kumbakonam,SriVijayalakshmiCinemasAC4K3D,Tamil,11:00,SecondClass,120₹,66,66
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,13:10,Elite,165₹,210,0
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,13:10,Budget,60₹,27,1
+TamilNadu,Kumbakonam,SriVijayalakshmiCinemasAC4K3D,Tamil,14:00,FirstClass,120₹,414,198
+TamilNadu,Kumbakonam,SriVijayalakshmiCinemasAC4K3D,Tamil,14:00,SecondClass,120₹,66,66
+TamilNadu,Kumbakonam,SriVijayalakshmiCinemasAC4K3D,Tamil,18:00,FirstClass,120₹,414,198
+TamilNadu,Kumbakonam,SriVijayalakshmiCinemasAC4K3D,Tamil,18:00,SecondClass,120₹,66,66
+TamilNadu,Kumbakonam,SriVijayalakshmiCinemasAC4K3D,Tamil,22:00,FirstClass,120₹,414,198
+TamilNadu,Kumbakonam,SriVijayalakshmiCinemasAC4K3D,Tamil,22:00,SecondClass,120₹,66,66
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,22:20,Classic,60₹,34,34
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,22:20,Prime,179₹,142,34
