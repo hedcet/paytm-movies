@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Chhattisgarh,Durg,FunCinemasApsaraTalkiesAryaNagar,Chhattisgarhi,12:00,Balcony,80₹,165,0
+Chhattisgarh,Durg,FunCinemasApsaraTalkiesAryaNagar,Chhattisgarhi,12:00,Reserve,50₹,580,0
+Chhattisgarh,Raipur,PrabhatCinema,Chhattisgarhi,12:00,PrabhatCinema,80₹,221,177
+Chhattisgarh,Durg,FunCinemasApsaraTalkiesAryaNagar,Chhattisgarhi,15:00,Balcony,80₹,165,0
+Chhattisgarh,Durg,FunCinemasApsaraTalkiesAryaNagar,Chhattisgarhi,15:00,Reserve,50₹,580,0
+Chhattisgarh,Raipur,PrabhatCinema,Chhattisgarhi,15:00,PrabhatCinema,80₹,221,177
+Chhattisgarh,Durg,FunCinemasApsaraTalkiesAryaNagar,Chhattisgarhi,18:00,Balcony,80₹,165,0
+Chhattisgarh,Durg,FunCinemasApsaraTalkiesAryaNagar,Chhattisgarhi,18:00,Reserve,50₹,580,0
+Chhattisgarh,Raipur,PrabhatCinema,Chhattisgarhi,18:00,PrabhatCinema,80₹,221,177
+Chhattisgarh,Durg,FunCinemasApsaraTalkiesAryaNagar,Chhattisgarhi,21:00,Balcony,80₹,165,0
+Chhattisgarh,Durg,FunCinemasApsaraTalkiesAryaNagar,Chhattisgarhi,21:00,Reserve,50₹,580,0
+Chhattisgarh,Raipur,PrabhatCinema,Chhattisgarhi,21:00,PrabhatCinema,80₹,221,177
