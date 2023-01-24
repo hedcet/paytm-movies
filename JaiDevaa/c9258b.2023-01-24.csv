@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,Angul,DivyajyotiMovieplexHatisalapada,Hindi,13:00,DressCircle,200₹,49,37
+Orissa,Angul,DivyajyotiMovieplexHatisalapada,Hindi,13:00,Platinum,150₹,24,12
+Assam,Nagaon,DivyaJyotiCinemaNagaon,Hindi,13:00,Box,200₹,10,0
+Assam,Nagaon,DivyaJyotiCinemaNagaon,Hindi,13:00,Balcony,150₹,186,138
+Orissa,Angul,DivyajyotiMovieplexHatisalapada,Hindi,16:00,DressCircle,200₹,49,37
+Orissa,Angul,DivyajyotiMovieplexHatisalapada,Hindi,16:00,Platinum,150₹,24,12
+Assam,Nagaon,DivyaJyotiCinemaNagaon,Hindi,16:00,Box,200₹,10,0
+Assam,Nagaon,DivyaJyotiCinemaNagaon,Hindi,16:00,Balcony,150₹,186,138
+Orissa,Angul,DivyajyotiMovieplexHatisalapada,Hindi,19:00,DressCircle,200₹,49,37
+Orissa,Angul,DivyajyotiMovieplexHatisalapada,Hindi,19:00,Platinum,150₹,24,12
+Assam,Nagaon,DivyaJyotiCinemaNagaon,Hindi,19:00,Box,200₹,10,0
+Assam,Nagaon,DivyaJyotiCinemaNagaon,Hindi,19:00,Balcony,150₹,186,138
