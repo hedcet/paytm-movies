@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Thiruvalla,ChilankaTheatreACDts2KThiruvalla,Malayalam,10:30,Balcony,130₹,277,50
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,13:35,NormalOffline,100₹,17,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,13:35,ExecutiveOffline,160₹,102,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,13:35,PremiumOffline,250₹,50,8
+Kerala,Thiruvalla,ChilankaTheatreACDts2KThiruvalla,Malayalam,14:00,Balcony,130₹,277,50
+Kerala,Trivandrum,CarnivalGreenfieldCinemaKaryavattom,Malayalam,14:10,ExecutiveOffline,140₹,119,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,19:15,NormalOffline,100₹,17,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,19:15,ExecutiveOffline,160₹,102,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,19:15,PremiumOffline,250₹,50,8
