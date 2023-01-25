@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Siliguri,CarnivalCinemaSiliguri,Bengali,09:10,Special,110₹,28,0
+WestBengal,Siliguri,CarnivalCinemaSiliguri,Bengali,09:10,Executive,110₹,176,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,13:00,Classic,160₹,154,2
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,13:00,Prime,220₹,12,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,13:00,Recliner,420₹,14,0
