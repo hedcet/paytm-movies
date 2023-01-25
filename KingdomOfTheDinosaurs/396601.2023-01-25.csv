@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Muddebihal,ShriGirijashankarTalkies,Kannada,12:00,FirstClass,101₹,300,150
+Gujarat,Jamkhambhaliya,VijayCinemaYogeshwarNagar,Hindi,15:00,Balcony,70₹,100,19
+Gujarat,Jamkhambhaliya,VijayCinemaYogeshwarNagar,Hindi,15:00,First,60₹,227,18
+Karnataka,Muddebihal,ShriGirijashankarTalkies,Kannada,15:00,FirstClass,101₹,300,150
+Gujarat,Jamkhambhaliya,VijayCinemaYogeshwarNagar,Hindi,18:00,Balcony,70₹,100,19
+Gujarat,Jamkhambhaliya,VijayCinemaYogeshwarNagar,Hindi,18:00,First,60₹,227,18
+Karnataka,Muddebihal,ShriGirijashankarTalkies,Kannada,18:00,FirstClass,101₹,300,150
+Karnataka,Muddebihal,ShriGirijashankarTalkies,Kannada,21:00,FirstClass,101₹,300,150
+Gujarat,Jamkhambhaliya,VijayCinemaYogeshwarNagar,Hindi,21:30,Balcony,70₹,100,19
+Gujarat,Jamkhambhaliya,VijayCinemaYogeshwarNagar,Hindi,21:30,First,60₹,227,18
