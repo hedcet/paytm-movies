@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,AurangabadWestBengal,ShyamalTalkies,Hindi,14:00,AcRoom,100₹,22,22
+WestBengal,AurangabadWestBengal,ShyamalTalkies,Hindi,14:00,Balcony,50₹,220,180
+WestBengal,AurangabadWestBengal,ShyamalTalkies,Hindi,14:00,RearStall,30₹,460,420
+WestBengal,AurangabadWestBengal,ShyamalTalkies,Hindi,17:00,AcRoom,100₹,22,22
+WestBengal,AurangabadWestBengal,ShyamalTalkies,Hindi,17:00,Balcony,50₹,220,180
+WestBengal,AurangabadWestBengal,ShyamalTalkies,Hindi,17:00,RearStall,30₹,460,420
+WestBengal,AurangabadWestBengal,ShyamalTalkies,Hindi,20:00,AcRoom,100₹,22,22
+WestBengal,AurangabadWestBengal,ShyamalTalkies,Hindi,20:00,Balcony,50₹,220,180
+WestBengal,AurangabadWestBengal,ShyamalTalkies,Hindi,20:00,RearStall,30₹,460,420
