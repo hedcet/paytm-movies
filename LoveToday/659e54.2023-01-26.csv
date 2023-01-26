@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Rajahmundry,UrvasiComplexMangalavaripeta,Telugu,11:00,LowerBalcony,112₹,529,357
+AndhraPradesh,Rajahmundry,UrvasiComplexMangalavaripeta,Telugu,11:00,UpperBalcony,112₹,492,246
+AndhraPradesh,Rajahmundry,UrvasiComplexMangalavaripeta,Telugu,11:00,SecondCl,75₹,309,167
+AndhraPradesh,Rajahmundry,UrvasiComplexMangalavaripeta,Telugu,14:30,LowerBalcony,112₹,529,357
+AndhraPradesh,Rajahmundry,UrvasiComplexMangalavaripeta,Telugu,14:30,UpperBalcony,112₹,492,246
+AndhraPradesh,Rajahmundry,UrvasiComplexMangalavaripeta,Telugu,14:30,SecondCl,75₹,309,167
+AndhraPradesh,Rajahmundry,UrvasiComplexMangalavaripeta,Telugu,18:15,LowerBalcony,112₹,529,357
+AndhraPradesh,Rajahmundry,UrvasiComplexMangalavaripeta,Telugu,18:15,UpperBalcony,112₹,492,246
+AndhraPradesh,Rajahmundry,UrvasiComplexMangalavaripeta,Telugu,18:15,SecondCl,75₹,309,167
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,19:15,Classic,60₹,11,11
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,19:15,Prime,165₹,102,21
+AndhraPradesh,Rajahmundry,UrvasiComplexMangalavaripeta,Telugu,21:30,LowerBalcony,112₹,529,357
+AndhraPradesh,Rajahmundry,UrvasiComplexMangalavaripeta,Telugu,21:30,UpperBalcony,112₹,492,246
+AndhraPradesh,Rajahmundry,UrvasiComplexMangalavaripeta,Telugu,21:30,SecondCl,75₹,309,167
