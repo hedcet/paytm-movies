@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Jamkhambhaliya,VijayCinemaYogeshwarNagar,Hindi,15:00,Balcony,70₹,100,19
+Gujarat,Jamkhambhaliya,VijayCinemaYogeshwarNagar,Hindi,15:00,First,60₹,227,18
+Gujarat,Jamkhambhaliya,VijayCinemaYogeshwarNagar,Hindi,18:00,Balcony,70₹,100,19
+Gujarat,Jamkhambhaliya,VijayCinemaYogeshwarNagar,Hindi,18:00,First,60₹,227,18
+Gujarat,Jamkhambhaliya,VijayCinemaYogeshwarNagar,Hindi,21:30,Balcony,70₹,100,19
+Gujarat,Jamkhambhaliya,VijayCinemaYogeshwarNagar,Hindi,21:30,First,60₹,227,18
