@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Mohali,PvrVrPunjabMallMohali,Hindi,10:05,Classic,200₹,115,0
+Punjab,Mohali,PvrVrPunjabMallMohali,Hindi,10:05,Prime,230₹,95,0
+Gujarat,Ahmedabad,CityGoldAshramRoad,Hindi,10:15,Executive,150₹,130,20
+Haryana,Chandigarh,PvrElanteMallChandigarh,Hindi,10:20,Classic,180₹,157,2
+Haryana,Chandigarh,PvrElanteMallChandigarh,Hindi,10:20,Recliner,450₹,26,0
+Haryana,Gurgaon,PvrMgfMallGurgaon,Hindi,10:40,Prime,250₹,61,5
+Haryana,Gurgaon,PvrMgfMallGurgaon,Hindi,10:40,Classic,200₹,91,4
+UttarPradesh,Lucknow,PvrPhoenixUnitedMallAlambagh,Hindi,16:10,Classic,180₹,151,15
+UttarPradesh,Lucknow,PvrPhoenixUnitedMallAlambagh,Hindi,16:10,Prime,230₹,9,3
+Haryana,Gurgaon,PvrDirectorsCutGurugramAmbienceMall,Hindi,19:30,Platinum,600₹,32,7
+Haryana,Gurgaon,PvrDirectorsCutGurugramAmbienceMall,Hindi,19:30,PlatinumSuperior,800₹,9,5
