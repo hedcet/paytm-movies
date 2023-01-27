@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Agra,RajeevCinemaBhogipura,Hindi,12:15,Balcony,40₹,280,224
+UttarPradesh,Agra,RajeevCinemaBhogipura,Hindi,12:15,DressCircle,20₹,660,600
+UttarPradesh,Agra,RajeevCinemaBhogipura,Hindi,15:15,Balcony,40₹,280,224
+UttarPradesh,Agra,RajeevCinemaBhogipura,Hindi,15:15,DressCircle,20₹,660,600
+UttarPradesh,Agra,RajeevCinemaBhogipura,Hindi,18:15,Balcony,40₹,280,224
+UttarPradesh,Agra,RajeevCinemaBhogipura,Hindi,18:15,DressCircle,20₹,660,600
+AndhraPradesh,Vizag,SriKanthiTheatreDtsVisakhapatnam,Telugu,18:30,Premium,60₹,487,0
+AndhraPradesh,Vizag,SriKanthiTheatreDtsVisakhapatnam,Telugu,18:30,NonPremium,40₹,122,122
+AndhraPradesh,Vizag,SriKanthiTheatreDtsVisakhapatnam,Telugu,21:30,Premium,60₹,487,0
+AndhraPradesh,Vizag,SriKanthiTheatreDtsVisakhapatnam,Telugu,21:30,NonPremium,40₹,122,122
