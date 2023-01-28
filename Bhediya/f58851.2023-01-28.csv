@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Kanpur,JugulPalaceCinemaKrishnaNagar,Hindi,08:00,Balcony,110₹,20,0
+UttarPradesh,Kanpur,JugulPalaceCinemaKrishnaNagar,Hindi,11:00,Balcony,110₹,20,0
+UttarPradesh,Kanpur,JugulPalaceCinemaKrishnaNagar,Hindi,13:30,Balcony,110₹,20,0
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,Hindi,14:05,PlatinumSuperior,700₹,16,11
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,Hindi,14:05,Platinum,500₹,28,10
+UttarPradesh,Kanpur,JugulPalaceCinemaKrishnaNagar,Hindi,16:15,Balcony,110₹,20,0
+UttarPradesh,Kanpur,JugulPalaceCinemaKrishnaNagar,Hindi,18:45,Balcony,110₹,20,0
