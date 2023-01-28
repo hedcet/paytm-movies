@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,InoxSouthCityMall,Bengali,09:05,Premier,160₹,34,0
+WestBengal,Kolkata,InoxSouthCityMall,Bengali,09:05,Silver,160₹,157,0
+WestBengal,Kolkata,RupMandirCinemaBelgharia,Bengali,14:00,Platinum,100₹,48,0
+WestBengal,Kolkata,RupMandirCinemaBelgharia,Bengali,14:00,Gold,80₹,102,56
