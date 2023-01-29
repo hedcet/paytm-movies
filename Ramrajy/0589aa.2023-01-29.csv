@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Anand,VasantCinemaAnand,Gujarati,10:00,Upper,40₹,512,0
+Gujarat,Anand,VasantCinemaAnand,Gujarati,10:00,Balcony,40₹,218,0
+Gujarat,Nadiad,GlobeCinemaNadiad,Gujarati,10:00,Balcony,40₹,119,119
+Gujarat,Nadiad,GlobeCinemaNadiad,Gujarati,10:00,Uper,40₹,320,0
+Gujarat,Anand,VasantCinemaAnand,Gujarati,18:29,Upper,40₹,512,0
+Gujarat,Anand,VasantCinemaAnand,Gujarati,18:29,Balcony,40₹,218,0
+Gujarat,Nadiad,GlobeCinemaNadiad,Gujarati,18:29,Balcony,60₹,119,119
+Gujarat,Nadiad,GlobeCinemaNadiad,Gujarati,18:29,Uper,50₹,320,0
