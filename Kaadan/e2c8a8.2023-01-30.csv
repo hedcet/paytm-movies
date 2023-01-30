@@ -1,0 +1,3 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Waterland,MirajTestCinema,Tamil,12:15,3DExecutive,192₹,190,6
+WestBengal,Waterland,MirajTestCinema,Tamil,12:15,3DSpecial,100₹,21,1
