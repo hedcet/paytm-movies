@@ -1,0 +1,3 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Nandyal,RajTheatreNadyala,Telugu,21:30,Delux,80₹,252,60
+AndhraPradesh,Nandyal,RajTheatreNadyala,Telugu,21:30,NonDelux,80₹,270,0
