@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,12:20,Classic,59₹,11,3
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,12:20,Prime,165₹,102,17
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,16:00,Classic,59₹,11,1
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,16:00,Prime,165₹,102,8
