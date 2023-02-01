@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,Korean,12:40,Classic,160₹,158,2
+TamilNadu,Chennai,SpiEscapeCinemasRoyapettah,Korean,16:00,Elite,199₹,99,20
+TamilNadu,Chennai,SpiEscapeCinemasRoyapettah,Korean,16:00,Budget,66₹,11,11
+Karnataka,Bengaluru,PvrVegaBannerghattaRoad,Korean,17:00,Classic,150₹,73,2
+Karnataka,Bengaluru,PvrVegaBannerghattaRoad,Korean,17:00,Recliner,250₹,9,0
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Korean,19:10,Classic,190₹,63,3
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Korean,19:10,Recliner,290₹,7,0
