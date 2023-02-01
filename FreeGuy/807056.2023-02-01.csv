@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Waterland,MirajTestCinema,English,08:55,3DSpecial,96₹,38,0
+WestBengal,Waterland,MirajTestCinema,English,08:55,3DExecutive,198₹,232,0
+WestBengal,Waterland,MirajTestCinema,English,08:55,3DGold,241₹,20,5
+WestBengal,Waterland,MirajTestCinema,English,08:55,3DExecutive,198₹,190,5
+WestBengal,Waterland,MirajTestCinema,English,08:55,3DSpecial,96₹,21,1
+WestBengal,Waterland,MirajTestCinema,English,11:35,3DSpecial,96₹,38,0
+WestBengal,Waterland,MirajTestCinema,English,11:35,3DExecutive,198₹,232,0
+WestBengal,Waterland,MirajTestCinema,English,11:35,3DGold,241₹,20,5
+WestBengal,Waterland,MirajTestCinema,English,14:20,3DSpecial,96₹,38,0
+WestBengal,Waterland,MirajTestCinema,English,14:20,3DExecutive,198₹,232,0
+WestBengal,Waterland,MirajTestCinema,English,14:20,3DGold,241₹,20,5
+WestBengal,Waterland,MirajTestCinema,English,17:20,3DSpecial,96₹,38,0
+WestBengal,Waterland,MirajTestCinema,English,17:20,3DExecutive,198₹,232,0
+WestBengal,Waterland,MirajTestCinema,English,17:20,3DGold,241₹,20,5
+WestBengal,Waterland,MirajTestCinema,English,17:50,3DExecutive,198₹,190,5
+WestBengal,Waterland,MirajTestCinema,English,17:50,3DSpecial,96₹,21,1
