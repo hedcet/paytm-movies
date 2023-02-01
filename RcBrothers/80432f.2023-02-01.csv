@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,SantoshTheatreGandhinagar,Kannada,10:30,Balcony,110₹,272,200
+Karnataka,Bengaluru,SantoshTheatreGandhinagar,Kannada,10:30,SecondClass,100₹,720,612
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,12:45,Classic,150₹,108,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,12:45,Prime,170₹,99,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,12:45,Recliner,250₹,12,0
+Karnataka,Bengaluru,SantoshTheatreGandhinagar,Kannada,13:30,Balcony,110₹,272,200
+Karnataka,Bengaluru,SantoshTheatreGandhinagar,Kannada,13:30,SecondClass,100₹,720,612
+Karnataka,Bengaluru,SantoshTheatreGandhinagar,Kannada,16:30,Balcony,110₹,272,200
+Karnataka,Bengaluru,SantoshTheatreGandhinagar,Kannada,16:30,SecondClass,100₹,720,612
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteSunkadakatteBengaluru,Kannada,19:30,Silver,130₹,34,0
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteSunkadakatteBengaluru,Kannada,19:30,Gold,150₹,145,0
+Karnataka,Bengaluru,SantoshTheatreGandhinagar,Kannada,19:30,Balcony,110₹,272,200
+Karnataka,Bengaluru,SantoshTheatreGandhinagar,Kannada,19:30,SecondClass,100₹,720,612
