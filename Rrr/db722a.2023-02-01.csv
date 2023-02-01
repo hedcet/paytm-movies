@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Vizag,GlobexCinema2KDolbyGajuwaka,Telugu,11:30,Gold,177₹,193,0
+Telangana,Hyderabad,YakuthMahalHyderabad,Hindi,12:30,Balcony,90₹,196,124
+Telangana,Hyderabad,YakuthMahalHyderabad,Hindi,12:30,Dresscircle,60₹,192,120
+Telangana,Hyderabad,YakuthMahalHyderabad,Hindi,15:30,Balcony,90₹,196,126
+Telangana,Hyderabad,YakuthMahalHyderabad,Hindi,15:30,Dresscircle,60₹,192,120
+AndhraPradesh,Vizag,GlobexCinema2KDolbyGajuwaka,Telugu,16:00,Gold,177₹,193,0
+Telangana,Hyderabad,YakuthMahalHyderabad,Hindi,18:45,Balcony,90₹,196,124
+Telangana,Hyderabad,YakuthMahalHyderabad,Hindi,18:45,Dresscircle,60₹,192,120
+AndhraPradesh,Vizag,GlobexCinema2KDolbyGajuwaka,Telugu,19:30,Gold,177₹,193,0
+Telangana,Hyderabad,YakuthMahalHyderabad,Hindi,21:45,Balcony,90₹,196,124
+Telangana,Hyderabad,YakuthMahalHyderabad,Hindi,21:45,Dresscircle,60₹,192,120
