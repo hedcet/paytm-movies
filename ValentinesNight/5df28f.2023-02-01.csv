@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,CinepolisDslVirtueMallUppal,Telugu,10:40,Normal,150₹,25,0
+Telangana,Hyderabad,CinepolisDslVirtueMallUppal,Telugu,10:40,Executive,150₹,116,0
+Telangana,Hyderabad,CinepolisDslVirtueMallUppal,Telugu,10:40,Vip,250₹,10,0
+AndhraPradesh,Kurnool,InoxJyotiMallKurnool,Telugu,14:20,Executive,177₹,225,0
+AndhraPradesh,Kakinada,InoxSrmtMallRamanayyapeta,Telugu,14:50,Executive,112₹,131,0
+Telangana,Hyderabad,JpCinemasChandanagarHyderabad,Telugu,16:30,Gold,150₹,94,57
+Telangana,Hyderabad,MirajShaliniShivaniCinemasKothapet,Telugu,16:40,Executive,150₹,130,0
+Telangana,Hyderabad,PvrMallapurHyderabad,Telugu,16:55,Classic,150₹,196,14
+Telangana,Warangal,PvrMaddoxWarangal,Telugu,20:25,Classic,150₹,97,0
+Telangana,Hyderabad,PvrInorbitCyberabad,Telugu,20:25,Classic,150₹,147,16
+Telangana,Hyderabad,PvrPanjagutta,Telugu,20:35,Classic,150₹,141,13
