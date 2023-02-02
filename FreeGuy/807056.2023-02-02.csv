@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Waterland,MirajTestCinema,English,17:25,3DSpecial,96₹,38,0
+WestBengal,Waterland,MirajTestCinema,English,17:25,3DExecutive,198₹,232,0
+WestBengal,Waterland,MirajTestCinema,English,17:25,3DGold,241₹,20,0
+WestBengal,Waterland,MirajTestCinema,English,17:55,3DExecutive,198₹,190,0
+WestBengal,Waterland,MirajTestCinema,English,17:55,3DSpecial,96₹,21,1
