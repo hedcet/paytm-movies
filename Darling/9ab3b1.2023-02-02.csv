@@ -1,0 +1,3 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Waterland,MirajTestCinema,Marathi,20:55,Executive,200₹,190,0
+WestBengal,Waterland,MirajTestCinema,Marathi,20:55,Special,150₹,21,1
