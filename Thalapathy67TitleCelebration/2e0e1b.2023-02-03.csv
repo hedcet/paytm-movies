@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Tirunelveli,ARKRamMuthuramCinemasRgbDolbyAtmos,Tamil,17:00,PremiumA,50₹,22,22
+TamilNadu,Tirunelveli,ARKRamMuthuramCinemasRgbDolbyAtmos,Tamil,17:00,PremiumB,50₹,22,22
+TamilNadu,Tirunelveli,ARKRamMuthuramCinemasRgbDolbyAtmos,Tamil,17:00,Platinum,50₹,373,108
+TamilNadu,Tirunelveli,ARKRamMuthuramCinemasRgbDolbyAtmos,Tamil,17:00,Gold,50₹,350,35
