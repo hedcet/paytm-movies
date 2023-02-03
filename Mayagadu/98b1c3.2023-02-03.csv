@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,JpCinemasChandanagarHyderabad,Telugu,10:35,Gold,150₹,94,57
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Telugu,11:15,Classic,150₹,144,50
+Telangana,Hyderabad,JpCinemasChandanagarHyderabad,Telugu,16:35,Gold,150₹,94,57
+Telangana,Warangal,PvrMaddoxWarangal,Telugu,16:45,Classic,150₹,97,15
