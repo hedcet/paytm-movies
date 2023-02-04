@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,09:40,Platinum,400₹,28,28
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,09:40,PlatinumSuperior,400₹,8,8
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,16:25,Classic,150₹,54,29
+Delhi,NewDelhi,PvrVegasDwarka,English,16:45,Recliner,600₹,8,5
+Delhi,NewDelhi,PvrVegasDwarka,English,16:45,Prime,350₹,14,7
+Delhi,NewDelhi,PvrVegasDwarka,English,16:45,Classic,300₹,36,0
