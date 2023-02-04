@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Siliguri,NewCinemaPara,Hindi,11:00,Sofa,100₹,96,28
+WestBengal,Siliguri,NewCinemaPara,Hindi,11:00,Special,80₹,102,0
+WestBengal,Siliguri,NewCinemaPara,Hindi,11:00,FirstClass,50₹,285,285
+AndhraPradesh,Kakinada,ChanakyaChandraGuptaComplexSuryaRaoPeta,Telugu,11:30,FirstClass,112₹,334,334
+AndhraPradesh,Kakinada,ChanakyaChandraGuptaComplexSuryaRaoPeta,Telugu,11:30,ThirdLass,75₹,96,96
+AndhraPradesh,Kakinada,ChanakyaChandraGuptaComplexSuryaRaoPeta,Telugu,14:30,FirstClass,112₹,334,334
+AndhraPradesh,Kakinada,ChanakyaChandraGuptaComplexSuryaRaoPeta,Telugu,14:30,ThirdLass,75₹,96,96
+AndhraPradesh,Kakinada,ChanakyaChandraGuptaComplexSuryaRaoPeta,Telugu,18:30,FirstClass,112₹,334,334
+AndhraPradesh,Kakinada,ChanakyaChandraGuptaComplexSuryaRaoPeta,Telugu,18:30,ThirdLass,75₹,96,96
+AndhraPradesh,Kakinada,ChanakyaChandraGuptaComplexSuryaRaoPeta,Telugu,21:30,FirstClass,112₹,334,334
+AndhraPradesh,Kakinada,ChanakyaChandraGuptaComplexSuryaRaoPeta,Telugu,21:30,ThirdLass,75₹,96,96
