@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Chandigarh,PvrElanteMallChandigarh,Punjabi,10:00,Classic,180₹,138,7
+Haryana,Chandigarh,PvrElanteMallChandigarh,Punjabi,10:00,Recliner,450₹,13,4
+Punjab,Ludhiana,PvrSilverArcMallGurdevNagar,Punjabi,11:00,Prime,180₹,17,0
+Punjab,Ludhiana,PvrSilverArcMallGurdevNagar,Punjabi,11:00,Classic,160₹,106,6
+Punjab,Ludhiana,PvrPavilionMallLudhiana,Punjabi,13:45,Classic,200₹,64,4
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,18:50,Classic,280₹,84,2
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,18:50,Prime,320₹,38,2
+Punjab,Amritsar,PvrSctCityCentre,Punjabi,21:30,Classic,170₹,12,0
+Punjab,Amritsar,PvrSctCityCentre,Punjabi,21:30,Prime,180₹,40,11
