@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Karunagappally,CarnivalHJComplexLalajiJunction,Malayalam,10:00,ClassicOffline,100₹,194,15
+Kerala,Thalayolaparambu,CarnivalThalayolaparambu,Malayalam,13:15,Gold,110₹,204,8
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,13:40,NormalOffline,100₹,17,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,13:40,ExecutiveOffline,160₹,102,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,13:40,PremiumOffline,250₹,50,8
