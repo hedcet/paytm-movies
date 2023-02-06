@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Anand,VasantCinemaAnand,Gujarati,12:28,Upper,50₹,512,0
+Gujarat,Anand,VasantCinemaAnand,Gujarati,12:28,Balcony,60₹,218,0
+Gujarat,Surat,TheFridayCinemaMotaVarachha,Gujarati,15:30,PushBackSeat,150₹,119,0
+Gujarat,Surat,TheFridayCinemaMotaVarachha,Gujarati,15:30,Lounger,150₹,119,0
+Gujarat,Surat,TheFridayCinemaMotaVarachha,Gujarati,21:15,PushBackSeat,150₹,119,34
+Gujarat,Surat,TheFridayCinemaMotaVarachha,Gujarati,21:15,Lounger,150₹,119,34
