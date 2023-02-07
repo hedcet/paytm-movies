@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Rajam,SriSeetharamaTwinTheatresRajam,Telugu,14:30,Premium,110₹,220,124
+AndhraPradesh,Rajam,SriSeetharamaTwinTheatresRajam,Telugu,14:30,NonPremium,89₹,257,257
+AndhraPradesh,Rajam,SriSeetharamaTwinTheatresRajam,Telugu,18:30,Premium,110₹,220,124
+AndhraPradesh,Rajam,SriSeetharamaTwinTheatresRajam,Telugu,18:30,NonPremium,89₹,257,257
+AndhraPradesh,Rajam,SriSeetharamaTwinTheatresRajam,Telugu,21:30,Premium,110₹,220,124
+AndhraPradesh,Rajam,SriSeetharamaTwinTheatresRajam,Telugu,21:30,NonPremium,89₹,257,257
