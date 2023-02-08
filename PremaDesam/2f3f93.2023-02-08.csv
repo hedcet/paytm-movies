@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Vizag,RamachandraMaxLakshmikanthComplexDolbyAtmosGajuwaka,Telugu,11:30,Premium,145₹,192,0
+AndhraPradesh,Vizag,RamachandraMaxLakshmikanthComplexDolbyAtmosGajuwaka,Telugu,11:30,NonPremium,100₹,95,0
+AndhraPradesh,Vizag,RamachandraMaxLakshmikanthComplexDolbyAtmosGajuwaka,Telugu,18:30,Premium,145₹,192,0
+AndhraPradesh,Vizag,RamachandraMaxLakshmikanthComplexDolbyAtmosGajuwaka,Telugu,18:30,NonPremium,100₹,95,0
+Telangana,Hyderabad,PvrIconHitechMadhapur,Telugu,18:50,Classic,150₹,152,16
+Telangana,Hyderabad,PvrIconHitechMadhapur,Telugu,18:50,Recliner,250₹,9,4
