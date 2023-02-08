@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Sawarde,PlazaTheaterSawarde,Marathi,12:00,FirstClass,120₹,71,66
+Maharashtra,Pune,ViluxTalkiesKhadkiBazar,Marathi,12:30,Gold,100₹,224,0
+Maharashtra,Pune,ViluxTalkiesKhadkiBazar,Marathi,12:30,Silver,100₹,58,0
+Maharashtra,Pune,VaibhavChitramandirHadapsar,Marathi,14:00,Gold,100₹,142,0
+Maharashtra,Sawarde,PlazaTheaterSawarde,Marathi,15:00,FirstClass,120₹,71,66
+Maharashtra,Loni,NathgangaCinemaScreen3Loni,Marathi,18:00,DlxPush,150₹,24,0
+Maharashtra,Loni,NathgangaCinemaScreen3Loni,Marathi,18:00,Push,100₹,88,0
+Maharashtra,Chiplun,MKTheatreChiplun,Marathi,18:00,Special,180₹,57,5
+Maharashtra,Chiplun,MKTheatreChiplun,Marathi,18:00,UpperStall,150₹,160,7
+Maharashtra,Chiplun,MKTheatreChiplun,Marathi,18:00,Stall,100₹,64,0
+Maharashtra,Sawarde,PlazaTheaterSawarde,Marathi,21:00,FirstClass,120₹,71,66
