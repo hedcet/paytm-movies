@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Channarayapatna,GayatriTheatre,Kannada,10:15,Balcony,121₹,189,139
+Karnataka,Channarayapatna,GayatriTheatre,Kannada,10:15,FirstClass,101₹,500,400
+Karnataka,Channarayapatna,GayatriTheatre,Kannada,13:15,Balcony,121₹,189,0
+Karnataka,Channarayapatna,GayatriTheatre,Kannada,13:15,FirstClass,101₹,500,0
+Karnataka,Channarayapatna,GayatriTheatre,Kannada,16:15,Balcony,121₹,189,0
+Karnataka,Channarayapatna,GayatriTheatre,Kannada,16:15,FirstClass,101₹,500,0
+Karnataka,Channarayapatna,GayatriTheatre,Kannada,19:15,Balcony,121₹,189,0
+Karnataka,Channarayapatna,GayatriTheatre,Kannada,19:15,FirstClass,101₹,500,0
