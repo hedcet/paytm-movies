@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Tirupur,CharanCinemas2K71Tirupur,Tamil,14:30,BoxA,80₹,22,0
+TamilNadu,Tirupur,CharanCinemas2K71Tirupur,Tamil,14:30,BoxB,80₹,24,0
+TamilNadu,Tirupur,CharanCinemas2K71Tirupur,Tamil,14:30,Elite,70₹,202,55
+TamilNadu,Tirupur,CharanCinemas2K71Tirupur,Tamil,14:30,FirstClass,50₹,364,0
+TamilNadu,Tirupur,CharanCinemas2K71Tirupur,Tamil,18:30,BoxA,80₹,22,0
+TamilNadu,Tirupur,CharanCinemas2K71Tirupur,Tamil,18:30,BoxB,80₹,24,0
+TamilNadu,Tirupur,CharanCinemas2K71Tirupur,Tamil,18:30,Elite,70₹,202,55
+TamilNadu,Tirupur,CharanCinemas2K71Tirupur,Tamil,18:30,FirstClass,50₹,364,0
+TamilNadu,Tirupur,CharanCinemas2K71Tirupur,Tamil,22:15,BoxA,80₹,22,0
+TamilNadu,Tirupur,CharanCinemas2K71Tirupur,Tamil,22:15,BoxB,80₹,24,0
+TamilNadu,Tirupur,CharanCinemas2K71Tirupur,Tamil,22:15,Elite,70₹,202,55
+TamilNadu,Tirupur,CharanCinemas2K71Tirupur,Tamil,22:15,FirstClass,50₹,364,0
