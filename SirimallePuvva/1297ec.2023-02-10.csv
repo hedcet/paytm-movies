@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,11:30,FristClass,110₹,215,17
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,11:30,SecondClass,80₹,85,0
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,14:30,FristClass,110₹,215,17
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,14:30,SecondClass,80₹,85,0
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,18:30,FristClass,110₹,215,17
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,18:30,SecondClass,80₹,85,0
+AndhraPradesh,Vizag,SriKanthiTheatreDtsVisakhapatnam,Telugu,18:30,Premium,60₹,487,0
+AndhraPradesh,Vizag,SriKanthiTheatreDtsVisakhapatnam,Telugu,18:30,NonPremium,40₹,122,122
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,21:30,FristClass,110₹,215,17
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,21:30,SecondClass,80₹,85,0
+AndhraPradesh,Vizag,SriKanthiTheatreDtsVisakhapatnam,Telugu,21:30,Premium,60₹,487,0
+AndhraPradesh,Vizag,SriKanthiTheatreDtsVisakhapatnam,Telugu,21:30,NonPremium,40₹,122,122
