@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Gadag,ShriKrishnaTheatreDolbyDigital71TangaKoot,Telugu,15:00,Balcony,100₹,230,92
+Karnataka,Gadag,ShriKrishnaTheatreDolbyDigital71TangaKoot,Telugu,15:00,DressCircle,80₹,537,0
+Karnataka,Hubli,ShringarCinemaHubli,Telugu,18:00,Balcony,150₹,190,84
+Karnataka,Hubli,ShringarCinemaHubli,Telugu,18:00,DressCircle,100₹,504,112
+Karnataka,Gadag,ShriKrishnaTheatreDolbyDigital71TangaKoot,Telugu,18:00,Balcony,100₹,230,92
+Karnataka,Gadag,ShriKrishnaTheatreDolbyDigital71TangaKoot,Telugu,18:00,DressCircle,80₹,537,0
+Karnataka,Hubli,ShringarCinemaHubli,Telugu,21:00,Balcony,150₹,190,84
+Karnataka,Hubli,ShringarCinemaHubli,Telugu,21:00,DressCircle,100₹,504,112
+Karnataka,Gadag,ShriKrishnaTheatreDolbyDigital71TangaKoot,Telugu,21:00,Balcony,100₹,230,92
+Karnataka,Gadag,ShriKrishnaTheatreDolbyDigital71TangaKoot,Telugu,21:00,DressCircle,80₹,537,0
