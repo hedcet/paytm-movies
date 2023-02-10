@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Vellore,PvrVelocityGandhiNagar,Tamil,11:20,Classic,59₹,18,18
+TamilNadu,Vellore,PvrVelocityGandhiNagar,Tamil,11:20,Prime,151₹,125,4
+TamilNadu,Chennai,PvrAerohubChennai,Tamil,11:45,Classic,59₹,32,0
+TamilNadu,Chennai,PvrAerohubChennai,Tamil,11:45,Prime,119₹,150,37
+TamilNadu,Chennai,SpiEscapeCinemasRoyapettah,Tamil,14:40,Elite,155₹,99,39
+TamilNadu,Chennai,SpiEscapeCinemasRoyapettah,Tamil,14:40,Budget,61₹,11,11
+TamilNadu,Coimbatore,SpiTheCinemaBrookefieldsMall,Tamil,15:15,Elite,189₹,174,62
+TamilNadu,Coimbatore,SpiTheCinemaBrookefieldsMall,Tamil,15:15,Budget,59₹,20,19
