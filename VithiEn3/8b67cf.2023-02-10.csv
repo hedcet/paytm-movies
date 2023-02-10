@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Tuticorin,NewCleopatraTheatreSouthCottonRoad,Tamil,22:30,Box,100₹,32,32
+TamilNadu,Tuticorin,NewCleopatraTheatreSouthCottonRoad,Tamil,22:30,BalconyAC,100₹,100,7
+TamilNadu,Tuticorin,NewCleopatraTheatreSouthCottonRoad,Tamil,22:30,FirstClassAC,100₹,569,29
