@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Gorakhpur,UnitedTalkiesGolghar,Bhojpuri,12:45,Platinum,100₹,176,22
+UttarPradesh,Gorakhpur,UnitedTalkiesGolghar,Bhojpuri,12:45,Diamond,80₹,229,14
+UttarPradesh,Gorakhpur,UnitedTalkiesGolghar,Bhojpuri,12:45,Gold,60₹,144,0
+UttarPradesh,Gorakhpur,UnitedTalkiesGolghar,Bhojpuri,12:45,Silver,50₹,96,0
