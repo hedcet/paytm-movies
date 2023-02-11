@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Shadnagar,SvcRamaKrishna70MmAC,Telugu,11:00,Balcony,110₹,289,74
+Telangana,Shadnagar,SvcRamaKrishna70MmAC,Telugu,11:00,FirstClass,80₹,109,109
+Telangana,Shadnagar,SvcRamaKrishna70MmAC,Telugu,11:00,SecondClass,50₹,100,100
+Telangana,Sangareddi,NatarajTheatreVeerabhadraNagar,Telugu,11:15,BalconyClass,80₹,256,128
+Telangana,Sangareddi,NatarajTheatreVeerabhadraNagar,Telugu,11:15,DressCircleClass,50₹,216,113
+Telangana,Shadnagar,SvcRamaKrishna70MmAC,Telugu,14:00,Balcony,110₹,289,71
+Telangana,Shadnagar,SvcRamaKrishna70MmAC,Telugu,14:00,FirstClass,80₹,109,109
+Telangana,Shadnagar,SvcRamaKrishna70MmAC,Telugu,14:00,SecondClass,50₹,100,100
+Telangana,Sangareddi,NatarajTheatreVeerabhadraNagar,Telugu,14:15,BalconyClass,80₹,256,128
+Telangana,Sangareddi,NatarajTheatreVeerabhadraNagar,Telugu,14:15,DressCircleClass,50₹,216,113
+Telangana,Sangareddi,NatarajTheatreVeerabhadraNagar,Telugu,18:15,BalconyClass,80₹,256,128
+Telangana,Sangareddi,NatarajTheatreVeerabhadraNagar,Telugu,18:15,DressCircleClass,50₹,216,113
+Telangana,Sangareddi,NatarajTheatreVeerabhadraNagar,Telugu,21:15,BalconyClass,80₹,256,128
+Telangana,Sangareddi,NatarajTheatreVeerabhadraNagar,Telugu,21:15,DressCircleClass,50₹,216,113
