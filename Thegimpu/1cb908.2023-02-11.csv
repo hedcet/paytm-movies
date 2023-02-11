@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Rayavaram,RoyalTalkies,Telugu,14:00,FirstClass,0₹,292,230
+AndhraPradesh,Rayavaram,RoyalTalkies,Telugu,14:00,SecondClass,0₹,71,70
+Karnataka,Bengaluru,SandhyaDigital4KAtmosMadivala,Telugu,16:00,Gold,150₹,520,30
+Karnataka,Bengaluru,SandhyaDigital4KAtmosMadivala,Telugu,16:00,Silver,120₹,185,0
+Karnataka,Bengaluru,SandhyaDigital4KAtmosMadivala,Telugu,16:00,Vipboxa,150₹,21,0
+Karnataka,Bengaluru,SandhyaDigital4KAtmosMadivala,Telugu,16:00,Vipboxb,150₹,30,0
+AndhraPradesh,Rayavaram,RoyalTalkies,Telugu,21:00,FirstClass,0₹,292,230
+AndhraPradesh,Rayavaram,RoyalTalkies,Telugu,21:00,SecondClass,0₹,71,70
