@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Lucknow,PvrPhoenixUnitedMallAlambagh,Hindi,14:05,Classic,180₹,151,17
+UttarPradesh,Lucknow,PvrPhoenixUnitedMallAlambagh,Hindi,14:05,Prime,230₹,9,2
+WestBengal,Kolkata,LilaCinemaFultala,Hindi,16:00,Balcony,60₹,28,0
+WestBengal,Kolkata,LilaCinemaFultala,Hindi,18:45,Balcony,60₹,28,0
