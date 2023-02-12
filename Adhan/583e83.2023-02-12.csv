@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Solapur,CarnivalBhagwatSolapur,Marathi,15:30,Balcony,160₹,79,1
+Maharashtra,Solapur,CarnivalBhagwatSolapur,Marathi,15:30,Platinum,140₹,98,0
+Maharashtra,Solapur,CarnivalBhagwatSolapur,Marathi,15:30,Gold,120₹,95,0
+Maharashtra,Solapur,CarnivalBhagwatSolapur,Marathi,15:30,Silver,100₹,95,0
