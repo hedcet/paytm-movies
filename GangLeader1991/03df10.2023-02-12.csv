@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Vizag,KameswariDolbyAtmosAndKinneraTheatreVisakhapatnam,Telugu,11:00,PremiumCl,145₹,301,140
+AndhraPradesh,Vizag,KameswariDolbyAtmosAndKinneraTheatreVisakhapatnam,Telugu,11:00,NonPremiumCl,100₹,126,0
+AndhraPradesh,Vizag,KameswariDolbyAtmosAndKinneraTheatreVisakhapatnam,Telugu,14:30,PremiumCl,145₹,301,140
+AndhraPradesh,Vizag,KameswariDolbyAtmosAndKinneraTheatreVisakhapatnam,Telugu,14:30,NonPremiumCl,100₹,126,0
+AndhraPradesh,Vizag,KameswariDolbyAtmosAndKinneraTheatreVisakhapatnam,Telugu,18:15,PremiumCl,145₹,301,140
+AndhraPradesh,Vizag,KameswariDolbyAtmosAndKinneraTheatreVisakhapatnam,Telugu,18:15,NonPremiumCl,100₹,126,0
+AndhraPradesh,Vizag,KameswariDolbyAtmosAndKinneraTheatreVisakhapatnam,Telugu,21:45,PremiumCl,145₹,301,140
+AndhraPradesh,Vizag,KameswariDolbyAtmosAndKinneraTheatreVisakhapatnam,Telugu,21:45,NonPremiumCl,100₹,126,0
