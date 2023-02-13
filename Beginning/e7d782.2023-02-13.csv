@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Pudukkottai,VestTalkies,Tamil,11:00,FirstClass,120₹,191,2
+TamilNadu,Pudukkottai,VestTalkies,Tamil,11:00,SecondClass,120₹,33,0
+TamilNadu,Pudukkottai,VestTalkies,Tamil,14:30,FirstClass,120₹,191,2
+TamilNadu,Pudukkottai,VestTalkies,Tamil,14:30,SecondClass,120₹,33,0
+TamilNadu,Pudukkottai,VestTalkies,Tamil,18:30,FirstClass,120₹,191,0
+TamilNadu,Pudukkottai,VestTalkies,Tamil,18:30,SecondClass,120₹,33,0
+TamilNadu,Pudukkottai,VestTalkies,Tamil,22:00,FirstClass,120₹,191,0
+TamilNadu,Pudukkottai,VestTalkies,Tamil,22:00,SecondClass,120₹,33,0
