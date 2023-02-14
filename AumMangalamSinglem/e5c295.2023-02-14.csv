@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Veraval,SachiMultiplex,Gujarati,19:00,Captain,150₹,68,7
+Gujarat,Veraval,SachiMultiplex,Gujarati,19:00,Crew,120₹,60,0
+Gujarat,Veraval,SachiMultiplex,Gujarati,22:10,Captain,150₹,68,0
+Gujarat,Veraval,SachiMultiplex,Gujarati,22:10,Crew,120₹,60,0
