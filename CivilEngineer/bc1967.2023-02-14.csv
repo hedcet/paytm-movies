@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Muddebihal,ShriGirijashankarTalkies,Telugu,12:00,FirstClass,101₹,300,150
+Karnataka,Vijayapura,AlankarTheatreVijayapura,Telugu,12:00,Balcony,150₹,275,150
+Karnataka,Vijayapura,AlankarTheatreVijayapura,Telugu,12:00,DressCircle,100₹,40,20
+Karnataka,Muddebihal,ShriGirijashankarTalkies,Telugu,15:00,FirstClass,101₹,300,0
+Karnataka,Muddebihal,ShriGirijashankarTalkies,Telugu,18:00,FirstClass,101₹,300,150
+Karnataka,Muddebihal,ShriGirijashankarTalkies,Telugu,21:00,FirstClass,101₹,300,150
