@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,10:45,Balcony,50₹,264,33
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,10:45,FirstClass,30₹,513,30
+WestBengal,Jalpaiguri,CinebazzUkilpara,Bengali,13:00,Premium,100₹,55,0
+WestBengal,Jalpaiguri,CinebazzUkilpara,Bengali,13:00,Regular,80₹,11,0
+WestBengal,Jalpaiguri,CinebazzUkilpara,Bengali,15:45,Premium,100₹,55,0
+WestBengal,Jalpaiguri,CinebazzUkilpara,Bengali,15:45,Regular,80₹,11,0
+WestBengal,Jalpaiguri,CinebazzUkilpara,Bengali,18:30,Premium,100₹,55,0
+WestBengal,Jalpaiguri,CinebazzUkilpara,Bengali,18:30,Regular,80₹,11,0
