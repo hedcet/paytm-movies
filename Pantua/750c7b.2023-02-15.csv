@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,CoochBehar,NewCinemaBangchatraRoad,Bengali,10:00,Balcony,100₹,87,45
+WestBengal,Kolkata,LaliCinemaBarasat,Bengali,11:30,DressCircle,150₹,22,16
+WestBengal,Kolkata,LaliCinemaBarasat,Bengali,11:30,Balcony,110₹,169,142
+WestBengal,Kolkata,LaliCinemaBarasat,Bengali,11:30,RearStall,50₹,270,216
+WestBengal,Kolkata,LilaCinemaFultala,Bengali,13:00,Balcony,60₹,28,0
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,18:30,Balcony,50₹,264,33
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,18:30,FirstClass,30₹,513,30
+WestBengal,Kolkata,ChhabigharCinemaBaithakkhana,Bengali,19:15,Balcony,100₹,144,80
+WestBengal,Kolkata,ChhabigharCinemaBaithakkhana,Bengali,19:15,RearStall,80₹,502,432
+WestBengal,Kolkata,BijoliCinemaBhowanipore,Bengali,19:15,Balcony,100₹,188,147
+WestBengal,Kolkata,BijoliCinemaBhowanipore,Bengali,19:15,RearStall,80₹,614,418
+WestBengal,Kolkata,MinarCinemaACDolbyHatiBagan,Bengali,19:15,Balcony,100₹,274,224
+WestBengal,Kolkata,MinarCinemaACDolbyHatiBagan,Bengali,19:15,RearStall,80₹,575,445
