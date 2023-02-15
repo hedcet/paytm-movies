@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Chhattisgarh,Durg,FunCinemasApsaraTalkiesAryaNagar,Chhattisgarhi,12:00,Balcony,80₹,165,0
+Chhattisgarh,Durg,FunCinemasApsaraTalkiesAryaNagar,Chhattisgarhi,12:00,Reserve,50₹,580,0
+Chhattisgarh,Balod,VinayTalkiesBalod,Chhattisgarhi,12:00,Balcony,90₹,72,48
+Chhattisgarh,Raipur,ColorsCinemasColorsMall,Chhattisgarhi,14:00,Lounge,200₹,26,26
+Chhattisgarh,Raipur,ColorsCinemasColorsMall,Chhattisgarhi,14:00,Club,99₹,112,98
+Chhattisgarh,Raipur,ColorsCinemasColorsMall,Chhattisgarhi,14:00,Premium,99₹,100,80
+Chhattisgarh,Durg,FunCinemasApsaraTalkiesAryaNagar,Chhattisgarhi,15:00,Balcony,80₹,165,0
+Chhattisgarh,Durg,FunCinemasApsaraTalkiesAryaNagar,Chhattisgarhi,15:00,Reserve,50₹,580,0
+Chhattisgarh,Balod,VinayTalkiesBalod,Chhattisgarhi,15:00,Balcony,90₹,72,48
+Chhattisgarh,Durg,FunCinemasApsaraTalkiesAryaNagar,Chhattisgarhi,18:00,Balcony,80₹,165,0
+Chhattisgarh,Durg,FunCinemasApsaraTalkiesAryaNagar,Chhattisgarhi,18:00,Reserve,50₹,580,0
+Chhattisgarh,Balod,VinayTalkiesBalod,Chhattisgarhi,18:00,Balcony,90₹,72,48
+Chhattisgarh,Durg,FunCinemasApsaraTalkiesAryaNagar,Chhattisgarhi,21:00,Balcony,80₹,165,0
+Chhattisgarh,Durg,FunCinemasApsaraTalkiesAryaNagar,Chhattisgarhi,21:00,Reserve,50₹,580,0
