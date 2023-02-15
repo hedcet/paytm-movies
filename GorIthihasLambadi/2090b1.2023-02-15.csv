@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Sangareddi,NatarajTheatreVeerabhadraNagar,Banjari,11:15,BalconyClass,110₹,256,128
+Telangana,Sangareddi,NatarajTheatreVeerabhadraNagar,Banjari,11:15,DressCircleClass,80₹,216,113
+Telangana,Sangareddi,NatarajTheatreVeerabhadraNagar,Banjari,14:15,BalconyClass,110₹,256,128
+Telangana,Sangareddi,NatarajTheatreVeerabhadraNagar,Banjari,14:15,DressCircleClass,80₹,216,113
+Telangana,Sangareddi,NatarajTheatreVeerabhadraNagar,Banjari,18:15,BalconyClass,110₹,256,128
+Telangana,Sangareddi,NatarajTheatreVeerabhadraNagar,Banjari,18:15,DressCircleClass,80₹,216,113
+Telangana,Sangareddi,NatarajTheatreVeerabhadraNagar,Banjari,21:15,BalconyClass,110₹,256,128
+Telangana,Sangareddi,NatarajTheatreVeerabhadraNagar,Banjari,21:15,DressCircleClass,80₹,216,113
