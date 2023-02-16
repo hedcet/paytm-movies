@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Mandapeta,AmbicaTheatres2KACDtsGandhiNagar,Telugu,11:30,FirstClass,110₹,558,256
+AndhraPradesh,Mandapeta,AmbicaTheatres2KACDtsGandhiNagar,Telugu,14:30,FirstClass,110₹,558,256
+AndhraPradesh,Mandapeta,AmbicaTheatres2KACDtsGandhiNagar,Telugu,18:30,FirstClass,110₹,558,256
+AndhraPradesh,Mandapeta,AmbicaTheatres2KACDtsGandhiNagar,Telugu,21:30,FirstClass,110₹,558,256
+AndhraPradesh,Rajahmundry,SriSivajyothi2KCinema71DolbySeshayyaMetta,Telugu,21:45,ReservedClass,112₹,331,146
+AndhraPradesh,Rajahmundry,SriSivajyothi2KCinema71DolbySeshayyaMetta,Telugu,21:45,SecondClass,75₹,115,0
