@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Pithapuram,VenkateswaraAnaghaDattaKshetramRoad,Telugu,23:59,FirstClass,100₹,346,68
+AndhraPradesh,Pithapuram,VenkateswaraAnaghaDattaKshetramRoad,Telugu,23:59,SecondClass,100₹,74,74
+AndhraPradesh,Rajahmundry,AnusriCinemasSriSaikrishna2KDolbyMangalavaripeta,Telugu,23:59,ReservedCl,112₹,355,22
+AndhraPradesh,Rajahmundry,AnusriCinemasSriSaikrishna2KDolbyMangalavaripeta,Telugu,23:59,SecondCl,75₹,118,0
