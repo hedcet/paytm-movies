@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,KotaNellore,ArunaAC2KDolbyKotaNellore,Telugu,18:30,Sofa,250₹,52,18
+AndhraPradesh,KotaNellore,ArunaAC2KDolbyKotaNellore,Telugu,18:30,Platinum,200₹,116,24
+AndhraPradesh,KotaNellore,ArunaAC2KDolbyKotaNellore,Telugu,18:30,Gold,200₹,178,0
+AndhraPradesh,KotaNellore,ArunaAC2KDolbyKotaNellore,Telugu,18:30,Silver,200₹,104,0
