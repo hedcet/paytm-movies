@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Junnar,PlatinumCinema,Marathi,12:00,Flat,100₹,100,0
+Maharashtra,Sangli,AurumCinemasCenter1MallVijaynagarChowk,Marathi,12:15,Gl,150₹,108,0
+Maharashtra,Sangli,AurumCinemasCenter1MallVijaynagarChowk,Marathi,12:15,Sl,150₹,24,0
+Maharashtra,Thane,InoxKorumMallThaneW,Marathi,12:55,Club,200₹,119,11
+Maharashtra,Thane,InoxKorumMallThaneW,Marathi,12:55,Executive,180₹,51,19
+Maharashtra,Thane,InoxKorumMallThaneW,Marathi,12:55,Royal,310₹,18,10
+Maharashtra,Pune,VikasCinemaManchar,Marathi,15:00,1stClass,100₹,100,0
+Maharashtra,Pune,VikasCinemaManchar,Marathi,15:00,2ndClass,80₹,100,0
+Maharashtra,Rahuri,DnyaneshwarChitraMandirRahuri,Marathi,15:15,Balcony,90₹,155,0
+Maharashtra,Rahuri,DnyaneshwarChitraMandirRahuri,Marathi,15:15,DressCircule,60₹,364,0
+Maharashtra,Pune,VikasCinemaManchar,Marathi,18:10,1stClass,100₹,156,0
+Maharashtra,Pune,VikasCinemaManchar,Marathi,18:10,2ndClass,80₹,196,0
