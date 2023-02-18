@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Nakrekal,SriVenkateswaraTheatre70MmAc,Telugu,23:55,Balcony,100₹,262,206
+Telangana,Nakrekal,SriVenkateswaraTheatre70MmAc,Telugu,23:55,ReservedClass,70₹,347,346
+Telangana,Nakrekal,SriVenkateswaraTheatre70MmAc,Telugu,23:55,FirsClasss,50₹,103,102
