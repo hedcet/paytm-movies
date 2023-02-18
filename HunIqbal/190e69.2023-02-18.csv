@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Bhavnagar,TheEntertainmentParkNawapara,Gujarati,19:00,Royal,250₹,22,0
+Gujarat,Surat,CinepolisImperialSquareMallAdajan,Gujarati,19:50,Normal,150₹,22,0
+Gujarat,Surat,CinepolisImperialSquareMallAdajan,Gujarati,19:50,Premium,170₹,33,0
+Gujarat,Surat,CinepolisImperialSquareMallAdajan,Gujarati,19:50,Executive,150₹,67,0
+Gujarat,Bhuj,ModernCinema,Gujarati,21:50,Balcony,130₹,84,56
+Gujarat,Bhuj,ModernCinema,Gujarati,21:50,Box,110₹,28,21
+Gujarat,Bhuj,ModernCinema,Gujarati,21:50,Upper,100₹,224,154
+Gujarat,Bhuj,ModernCinema,Gujarati,21:50,Lower,80₹,64,64
