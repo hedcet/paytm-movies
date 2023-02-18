@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,English,16:05,Vip,400₹,5,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,English,16:05,Premium,200₹,61,5
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,English,16:05,Executive,200₹,22,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,English,16:05,Normal,200₹,22,0
+Rajasthan,Jaipur,InoxGtCentralMallMalviyaNagar,English,18:40,Executive,150₹,16,0
+Rajasthan,Jaipur,InoxGtCentralMallMalviyaNagar,English,18:40,Royale,150₹,42,10
+Maharashtra,Pune,InoxBundGarden,English,19:10,DressCircle,150₹,167,19
+Maharashtra,Pune,InoxBundGarden,English,19:10,Galleria,150₹,60,0
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,English,22:40,Normal,66₹,17,0
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,English,22:40,Executive,211₹,120,0
