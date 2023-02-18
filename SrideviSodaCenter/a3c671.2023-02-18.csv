@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,11:35,Gold,145₹,248,124
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,11:35,Silver,80₹,64,33
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,11:35,Executive,80₹,48,22
+Telangana,Hyderabad,PvrPrestonPrimeGachibowli,Telugu,13:20,Classic,150₹,217,36
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,14:40,Gold,145₹,248,124
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,14:40,Silver,80₹,64,33
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,14:40,Executive,80₹,48,22
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,18:30,Gold,145₹,248,124
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,18:30,Silver,80₹,64,33
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,18:30,Executive,80₹,48,22
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,21:40,Gold,145₹,248,124
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,21:40,Silver,80₹,64,33
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,21:40,Executive,80₹,48,22
