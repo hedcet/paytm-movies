@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Mysuru,InoxCentroMysore,Kannada,11:20,Club,140₹,38,0
+Karnataka,Mysuru,InoxCentroMysore,Kannada,11:20,Executive,130₹,46,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,12:45,Normal,140₹,10,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,12:45,Executive,140₹,81,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,12:45,Premium,140₹,33,0
+Karnataka,Bengaluru,AbhinayTheatre2KCinemaMajestic,Kannada,16:30,Balcony,150₹,369,312
+Karnataka,Bengaluru,AbhinayTheatre2KCinemaMajestic,Kannada,16:30,MiniBalcony,120₹,146,146
+Karnataka,Bengaluru,AbhinayTheatre2KCinemaMajestic,Kannada,16:30,Second,100₹,480,424
+Karnataka,Kalaburagi,ShettysMultiplexAlandRoad,Kannada,20:30,Platinum,180₹,16,14
+Karnataka,Kalaburagi,ShettysMultiplexAlandRoad,Kannada,20:30,Gold,130₹,180,107
+Karnataka,Kalaburagi,ShettysMultiplexAlandRoad,Kannada,20:30,Silver,100₹,135,79
