@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Noida,PvrLogixCityCentreNoida,Garhwali,11:45,Classic,200₹,89,17
+Delhi,NewDelhi,PvrVegasDwarka,Garhwali,12:55,Prime,200₹,15,12
+Delhi,NewDelhi,PvrVegasDwarka,Garhwali,12:55,Classic,200₹,105,82
+Delhi,NewDelhi,PvrSangamRKPuram,Garhwali,15:30,Classic,150₹,40,33
+Delhi,NewDelhi,PvrSangamRKPuram,Garhwali,15:30,Prime,150₹,39,38
+Delhi,NewDelhi,PvrSangamRKPuram,Garhwali,15:30,PrimePlus,150₹,13,12
