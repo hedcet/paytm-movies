@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Shivamogga,SriDeviTheatreAC4KKkRoadAnaveri,Kannada,11:30,Gold,100₹,297,0
+Karnataka,Shivamogga,SriDeviTheatreAC4KKkRoadAnaveri,Kannada,11:30,Silver,90₹,376,376
+Karnataka,Shivamogga,SriDeviTheatreAC4KKkRoadAnaveri,Kannada,14:30,Gold,100₹,297,0
+Karnataka,Shivamogga,SriDeviTheatreAC4KKkRoadAnaveri,Kannada,14:30,Silver,100₹,376,376
+Karnataka,Shivamogga,SriDeviTheatreAC4KKkRoadAnaveri,Kannada,18:00,Gold,100₹,297,0
+Karnataka,Shivamogga,SriDeviTheatreAC4KKkRoadAnaveri,Kannada,18:00,Silver,100₹,376,376
+Karnataka,Shivamogga,SriDeviTheatreAC4KKkRoadAnaveri,Kannada,21:00,Gold,100₹,297,0
+Karnataka,Shivamogga,SriDeviTheatreAC4KKkRoadAnaveri,Kannada,21:00,Silver,100₹,376,376
+Telangana,Nalgonda,TirumalaTheater,Telugu,23:55,Balcony,110₹,439,3
+Telangana,Nalgonda,TirumalaTheater,Telugu,23:55,FirstClass,50₹,133,5
