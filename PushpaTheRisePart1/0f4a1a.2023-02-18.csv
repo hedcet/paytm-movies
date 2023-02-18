@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,ShriKrishnaTalkiesUppal,Telugu,23:59,Upperbalcony,150₹,111,54
+Telangana,Hyderabad,ShriKrishnaTalkiesUppal,Telugu,23:59,Lowerbalcony,150₹,326,325
+Telangana,Hyderabad,ShriKrishnaTalkiesUppal,Telugu,23:59,FirstClass,100₹,316,260
+Telangana,Nalgonda,PvnCinemax,Telugu,23:59,1Balcony,110₹,473,93
+Telangana,Nalgonda,PvnCinemax,Telugu,23:59,2SecondClass,80₹,131,5
+Telangana,Nalgonda,PvnCinemax,Telugu,23:59,3ThirdClass,50₹,163,64
+AndhraPradesh,Nellore,MythiliTheatre,Telugu,23:59,FirstClass,80₹,168,24
+AndhraPradesh,Nellore,MythiliTheatre,Telugu,23:59,SecondClass,80₹,81,0
