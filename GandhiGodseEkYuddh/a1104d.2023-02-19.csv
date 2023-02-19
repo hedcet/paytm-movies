@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Jaipur,PvrMallOfJaipur,Hindi,12:25,Prime,200₹,43,13
+Rajasthan,Jaipur,PvrMallOfJaipur,Hindi,12:25,PrimePlus,200₹,26,4
+Rajasthan,Jaipur,PvrMallOfJaipur,Hindi,12:25,Recliner,350₹,8,0
+Rajasthan,Jaipur,PvrMallOfJaipur,Hindi,12:25,Classic,200₹,20,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,Hindi,17:25,Kiddles,310₹,53,32
