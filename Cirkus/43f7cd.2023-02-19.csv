@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,TriveniCinemaNavagam,Hindi,12:00,Balcony,100₹,45,35
+Gujarat,Surat,TriveniCinemaNavagam,Hindi,12:00,Upper,80₹,80,60
+Gujarat,Surat,TriveniCinemaNavagam,Hindi,15:00,Balcony,100₹,45,35
+Gujarat,Surat,TriveniCinemaNavagam,Hindi,15:00,Upper,80₹,80,60
+Gujarat,Surat,TriveniCinemaNavagam,Hindi,18:00,Balcony,100₹,45,35
+Gujarat,Surat,TriveniCinemaNavagam,Hindi,18:00,Upper,80₹,80,60
+Gujarat,Surat,TriveniCinemaNavagam,Hindi,21:00,Balcony,100₹,45,35
+Gujarat,Surat,TriveniCinemaNavagam,Hindi,21:00,Upper,80₹,80,60
