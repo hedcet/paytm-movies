@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,11:30,Balcony,110₹,265,0
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,11:30,SecondClass,110₹,150,72
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,11:30,ThirdClass,78₹,154,74
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,14:45,Balcony,110₹,265,0
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,14:45,SecondClass,110₹,150,72
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,14:45,ThirdClass,78₹,154,74
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,18:30,Balcony,110₹,265,5
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,18:30,SecondClass,110₹,150,72
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,18:30,ThirdClass,78₹,154,74
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,21:45,Balcony,110₹,265,0
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,21:45,SecondClass,110₹,150,72
+AndhraPradesh,Vijayawada,AnnapurnaSakuntalaAC2KDolbyAtmosVijayawada,Telugu,21:45,ThirdClass,78₹,154,74
