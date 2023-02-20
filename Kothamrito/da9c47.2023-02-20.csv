@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Malda,NatarajCinemaMalda,Bengali,13:30,AcUpperClass,120₹,20,0
+WestBengal,Malda,NatarajCinemaMalda,Bengali,13:30,AcSpecialDc,120₹,24,11
+WestBengal,Malda,NatarajCinemaMalda,Bengali,13:30,DressCircle,60₹,20,2
+WestBengal,Malda,NatarajCinemaMalda,Bengali,13:30,1stClass,40₹,150,0
+WestBengal,Malda,NatarajCinemaMalda,Bengali,13:30,2ndClass,30₹,100,0
