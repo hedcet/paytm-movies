@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Bhuj,ModernCinema,Gujarati,12:50,Balcony,130₹,84,56
+Gujarat,Bhuj,ModernCinema,Gujarati,12:50,Box,110₹,28,21
+Gujarat,Bhuj,ModernCinema,Gujarati,12:50,Upper,100₹,224,154
+Gujarat,Bhuj,ModernCinema,Gujarati,12:50,Lower,80₹,64,64
+Gujarat,Bhuj,ModernCinema,Gujarati,15:50,Balcony,130₹,84,56
+Gujarat,Bhuj,ModernCinema,Gujarati,15:50,Box,110₹,28,21
+Gujarat,Bhuj,ModernCinema,Gujarati,15:50,Upper,100₹,224,154
+Gujarat,Bhuj,ModernCinema,Gujarati,15:50,Lower,80₹,64,64
+Gujarat,Bhuj,ModernCinema,Gujarati,18:50,Balcony,130₹,84,56
+Gujarat,Bhuj,ModernCinema,Gujarati,18:50,Box,110₹,28,21
+Gujarat,Bhuj,ModernCinema,Gujarati,18:50,Upper,100₹,224,154
+Gujarat,Bhuj,ModernCinema,Gujarati,18:50,Lower,80₹,64,64
+Gujarat,Bhuj,ModernCinema,Gujarati,21:50,Balcony,130₹,84,56
+Gujarat,Bhuj,ModernCinema,Gujarati,21:50,Box,110₹,28,21
+Gujarat,Bhuj,ModernCinema,Gujarati,21:50,Upper,100₹,224,154
+Gujarat,Bhuj,ModernCinema,Gujarati,21:50,Lower,80₹,64,64
