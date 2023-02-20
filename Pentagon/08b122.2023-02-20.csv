@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Anand,VasantCinemaAnand,Gujarati,10:00,Upper,40₹,512,450
+Gujarat,Anand,VasantCinemaAnand,Gujarati,10:00,Balcony,40₹,218,216
+Gujarat,Sanand,ArthMultiplexSanand,Gujarati,11:35,Gold,40₹,79,0
+Gujarat,Sanand,ArthMultiplexSanand,Gujarati,11:35,Silver,40₹,46,0
+Gujarat,Anand,VasantCinemaAnand,Gujarati,18:29,Upper,40₹,512,450
+Gujarat,Anand,VasantCinemaAnand,Gujarati,18:29,Balcony,40₹,218,150
+Gujarat,Sanand,ArthMultiplexSanand,Gujarati,18:30,Gold,40₹,100,0
+Gujarat,Sanand,ArthMultiplexSanand,Gujarati,18:30,Silver,40₹,100,0
+Gujarat,Sanand,ArthMultiplexSanand,Gujarati,21:05,Gold,40₹,100,0
+Gujarat,Sanand,ArthMultiplexSanand,Gujarati,21:05,Silver,40₹,100,0
+Gujarat,Sanand,ArthMultiplexSanand,Gujarati,21:55,Gold,40₹,100,0
+Gujarat,Sanand,ArthMultiplexSanand,Gujarati,21:55,Silver,40₹,100,0
