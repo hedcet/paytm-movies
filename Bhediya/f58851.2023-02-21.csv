@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Hindaun,GeetaTalkiesKeshavPura,Hindi,12:00,FamilyBox,250₹,10,2
+Rajasthan,Hindaun,GeetaTalkiesKeshavPura,Hindi,12:00,Balcony,120₹,30,0
+Rajasthan,Hindaun,GeetaTalkiesKeshavPura,Hindi,12:00,Gold,100₹,35,0
+Rajasthan,Hindaun,GeetaTalkiesKeshavPura,Hindi,12:00,Classsic,80₹,10,0
+Rajasthan,Hindaun,GeetaTalkiesKeshavPura,Hindi,15:00,FamilyBox,250₹,10,0
+Rajasthan,Hindaun,GeetaTalkiesKeshavPura,Hindi,15:00,Balcony,120₹,30,0
+Rajasthan,Hindaun,GeetaTalkiesKeshavPura,Hindi,15:00,Gold,100₹,35,0
+Rajasthan,Hindaun,GeetaTalkiesKeshavPura,Hindi,15:00,Classsic,80₹,10,0
+Rajasthan,Hindaun,GeetaTalkiesKeshavPura,Hindi,18:00,FamilyBox,250₹,10,0
+Rajasthan,Hindaun,GeetaTalkiesKeshavPura,Hindi,18:00,Balcony,120₹,30,0
+Rajasthan,Hindaun,GeetaTalkiesKeshavPura,Hindi,18:00,Gold,100₹,35,0
+Rajasthan,Hindaun,GeetaTalkiesKeshavPura,Hindi,18:00,Classsic,80₹,10,0
+Rajasthan,Hindaun,GeetaTalkiesKeshavPura,Hindi,21:00,FamilyBox,250₹,10,0
+Rajasthan,Hindaun,GeetaTalkiesKeshavPura,Hindi,21:00,Balcony,120₹,30,0
+Rajasthan,Hindaun,GeetaTalkiesKeshavPura,Hindi,21:00,Gold,100₹,35,0
+Rajasthan,Hindaun,GeetaTalkiesKeshavPura,Hindi,21:00,Classsic,80₹,10,0
