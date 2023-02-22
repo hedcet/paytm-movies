@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,19:15,Classic,112₹,87,68
+Haryana,Gurgaon,InoxWorldMarkGurugram,English,19:30,RoyalRecliner,300₹,8,6
+Haryana,Gurgaon,InoxWorldMarkGurugram,English,19:30,Royal,112₹,35,17
+Haryana,Gurgaon,InoxWorldMarkGurugram,English,19:30,Club,112₹,65,1
+Haryana,Gurgaon,InoxWorldMarkGurugram,English,19:30,Executive,112₹,26,0
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,English,19:45,Classic,150₹,135,79
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,English,19:45,Recliner,250₹,9,8
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,English,19:45,Club,112₹,142,26
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,English,19:45,Executive,112₹,36,0
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,English,19:45,Royale,112₹,46,32
+Delhi,NewDelhi,PvrPacificSubhashNagarDelhi,English,19:55,Classic,150₹,52,5
+Delhi,NewDelhi,PvrPacificSubhashNagarDelhi,English,19:55,Prime,200₹,68,10
+MadhyaPradesh,Indore,PvrTreasureIslandMallSouthTukoganj,English,20:00,Prime,200₹,69,64
+MadhyaPradesh,Indore,PvrTreasureIslandMallSouthTukoganj,English,20:00,Classic,200₹,28,4
