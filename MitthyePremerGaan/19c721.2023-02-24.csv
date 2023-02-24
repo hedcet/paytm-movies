@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Asansol,CarnivalSentrumMallAsansol,Bengali,13:30,Premium,110₹,0,0
+WestBengal,Asansol,CarnivalSentrumMallAsansol,Bengali,13:30,Silver,110₹,150,0
+WestBengal,Asansol,CarnivalSentrumMallAsansol,Bengali,13:30,Gold,110₹,43,0
+WestBengal,Kolkata,InoxMetropolisMallHilandPark,Bengali,13:35,Premier,112₹,36,0
+WestBengal,Kolkata,InoxMetropolisMallHilandPark,Bengali,13:35,Royal,250₹,14,0
+WestBengal,Kolkata,InoxMetropolisMallHilandPark,Bengali,13:35,Silver,112₹,147,4
+WestBengal,Kolkata,CarnivalArtiSuncityMallBarasat,Bengali,14:30,Silver,99₹,40,0
+WestBengal,Kolkata,CarnivalArtiSuncityMallBarasat,Bengali,14:30,Gold,99₹,60,0
+WestBengal,Kolkata,CarnivalArtiSuncityMallBarasat,Bengali,14:30,Diamond,99₹,115,4
+WestBengal,Kolkata,CarnivalSaltLake,Bengali,15:30,Silver,99₹,166,2
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,15:35,Classic,210₹,252,4
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,15:35,Prime,250₹,11,3
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,15:35,Recliner,420₹,10,1
+WestBengal,Kolkata,InoxSouthCityMall,Bengali,16:00,Premier,112₹,34,0
+WestBengal,Kolkata,InoxSouthCityMall,Bengali,16:00,Silver,112₹,156,7
