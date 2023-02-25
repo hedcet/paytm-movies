@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,11:00,RearStall,40₹,600,570
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,11:00,Balcony,100₹,270,270
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,11:00,LowerStall,35₹,100,70
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,13:00,Balcony,50₹,264,33
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,13:00,FirstClass,30₹,513,30
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,16:00,RearStall,40₹,600,570
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,16:00,Balcony,100₹,270,270
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,16:00,LowerStall,35₹,100,70
