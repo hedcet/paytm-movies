@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Thane,CinepolisVivianaMallThaneW,English,18:00,Normal,150₹,27,0
+Maharashtra,Thane,CinepolisVivianaMallThaneW,English,18:00,Executive,150₹,104,0
+Maharashtra,Thane,CinepolisVivianaMallThaneW,English,18:00,Premium,150₹,46,18
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,English,18:05,Club,150₹,60,20
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,English,18:05,Executive,150₹,90,3
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,English,18:05,RoyaleRecliners,250₹,9,8
