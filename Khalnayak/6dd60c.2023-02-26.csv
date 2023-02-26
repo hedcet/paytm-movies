@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Warangal,DeviParadiseACDtsWarangal,Hindi,15:00,UpperBalcony,60₹,198,167
+Telangana,Warangal,DeviParadiseACDtsWarangal,Hindi,15:00,LowerBalcony,60₹,251,220
+Telangana,Warangal,DeviParadiseACDtsWarangal,Hindi,15:00,Reserved,40₹,285,285
+Telangana,Warangal,DeviParadiseACDtsWarangal,Hindi,15:00,FirstClass,20₹,103,103
