@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Noida,CinepolisModiMallFormerlySpiceMall,English,21:00,Classic,150₹,75,0
+UttarPradesh,Noida,CinepolisModiMallFormerlySpiceMall,English,21:00,Premium,150₹,113,4
+UttarPradesh,Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,English,22:15,Normal,150₹,25,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,English,22:15,Executive,150₹,68,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,English,22:15,Premium,150₹,35,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,English,22:15,Vip,450₹,10,0
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,English,22:15,Executive,330₹,168,8
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,English,22:15,Premium,370₹,56,3
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,English,22:15,Normal,300₹,39,0
