@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,GopiKrishnaComplexSilverScreenAyanavaram,Tamil,11:45,Balcony,100₹,224,65
+TamilNadu,Chennai,GopiKrishnaComplexSilverScreenAyanavaram,Tamil,11:45,FirstClass,80₹,320,0
+TamilNadu,Chennai,GopiKrishnaComplexSilverScreenAyanavaram,Tamil,11:45,SecondClass,80₹,389,40
+TamilNadu,Chennai,GopiKrishnaComplexSilverScreenAyanavaram,Tamil,11:45,ThirdClass,80₹,72,72
+TamilNadu,Chennai,GopiKrishnaComplexSilverScreenAyanavaram,Tamil,15:30,Balcony,100₹,224,65
+TamilNadu,Chennai,GopiKrishnaComplexSilverScreenAyanavaram,Tamil,15:30,FirstClass,80₹,320,0
+TamilNadu,Chennai,GopiKrishnaComplexSilverScreenAyanavaram,Tamil,15:30,SecondClass,80₹,389,40
+TamilNadu,Chennai,GopiKrishnaComplexSilverScreenAyanavaram,Tamil,15:30,ThirdClass,80₹,72,72
+TamilNadu,Chennai,GopiKrishnaComplexSilverScreenAyanavaram,Tamil,19:15,Balcony,100₹,224,65
+TamilNadu,Chennai,GopiKrishnaComplexSilverScreenAyanavaram,Tamil,19:15,FirstClass,80₹,320,1
+TamilNadu,Chennai,GopiKrishnaComplexSilverScreenAyanavaram,Tamil,19:15,SecondClass,80₹,389,40
+TamilNadu,Chennai,GopiKrishnaComplexSilverScreenAyanavaram,Tamil,19:15,ThirdClass,80₹,72,72
+TamilNadu,Chennai,GopiKrishnaComplexSilverScreenAyanavaram,Tamil,22:45,Balcony,100₹,224,65
+TamilNadu,Chennai,GopiKrishnaComplexSilverScreenAyanavaram,Tamil,22:45,FirstClass,80₹,320,0
+TamilNadu,Chennai,GopiKrishnaComplexSilverScreenAyanavaram,Tamil,22:45,SecondClass,80₹,389,40
+TamilNadu,Chennai,GopiKrishnaComplexSilverScreenAyanavaram,Tamil,22:45,ThirdClass,80₹,72,72
