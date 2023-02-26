@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,English,18:00,Normal,150₹,32,0
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,English,18:00,Executive,150₹,70,5
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,English,18:00,Premium,150₹,57,14
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,English,18:00,Vip,300₹,14,5
+Maharashtra,Pune,CinepolisSeasonsMallHadapsar,English,18:40,Normal,150₹,29,0
+Maharashtra,Pune,CinepolisSeasonsMallHadapsar,English,18:40,Executive,150₹,83,2
+Maharashtra,Pune,CinepolisSeasonsMallHadapsar,English,18:40,Premium,150₹,35,3
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,English,22:00,Normal,66₹,17,17
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,English,22:00,Executive,211₹,117,10
+Karnataka,Bengaluru,CinepolisRoyalMeenakshiMallBannerghattaRoad,English,22:00,Normal,150₹,30,0
+Karnataka,Bengaluru,CinepolisRoyalMeenakshiMallBannerghattaRoad,English,22:00,Executive,150₹,81,4
+Karnataka,Bengaluru,CinepolisRoyalMeenakshiMallBannerghattaRoad,English,22:00,Premium,150₹,47,5
