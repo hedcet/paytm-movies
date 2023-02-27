@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+HimachalPradesh,Pendra,PoojaShreeCineplexPendra,Chhattisgarhi,12:00,Diamond,170₹,93,78
+HimachalPradesh,Pendra,PoojaShreeCineplexPendra,Chhattisgarhi,12:00,Gold,120₹,60,60
+HimachalPradesh,Pendra,PoojaShreeCineplexPendra,Chhattisgarhi,12:00,Silver,100₹,60,60
+Chhattisgarh,Balod,VinayTalkiesBalod,Chhattisgarhi,12:00,Balcony,90₹,72,48
+HimachalPradesh,Pendra,PoojaShreeCineplexPendra,Chhattisgarhi,15:00,Diamond,170₹,93,78
+HimachalPradesh,Pendra,PoojaShreeCineplexPendra,Chhattisgarhi,15:00,Gold,120₹,60,60
+HimachalPradesh,Pendra,PoojaShreeCineplexPendra,Chhattisgarhi,15:00,Silver,100₹,60,60
+Chhattisgarh,Balod,VinayTalkiesBalod,Chhattisgarhi,15:00,Balcony,90₹,72,48
+Chhattisgarh,Balod,VinayTalkiesBalod,Chhattisgarhi,18:00,Balcony,90₹,72,48
