@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Jaipur,GolchaCinemaNewGate,Hindi,18:30,Excutive,100₹,136,0
+Rajasthan,Jaipur,GolchaCinemaNewGate,Hindi,18:30,RoyalBox,100₹,71,0
+Maharashtra,Mumbai,CarnivalHarmonyMallGoregaonW,Hindi,21:00,Gold,140₹,26,26
+Maharashtra,Mumbai,CarnivalHarmonyMallGoregaonW,Hindi,21:00,Executive,110₹,152,0
+Maharashtra,Mumbai,CarnivalHarmonyMallGoregaonW,Hindi,21:00,Silver,100₹,30,0
