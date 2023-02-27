@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Jaipur,InoxGtCentralMallMalviyaNagar,English,18:00,Executive,112₹,16,0
+Rajasthan,Jaipur,InoxGtCentralMallMalviyaNagar,English,18:00,Royale,112₹,42,0
+Maharashtra,Pune,CinepolisNexusWestend,English,18:15,Normal,150₹,21,0
+Maharashtra,Pune,CinepolisNexusWestend,English,18:15,Executive,150₹,48,0
+Maharashtra,Pune,CinepolisNexusWestend,English,18:15,Premium,150₹,45,0
+Rajasthan,Jaipur,InoxGtCentralMallMalviyaNagar,English,18:30,Executive,112₹,16,0
+Rajasthan,Jaipur,InoxGtCentralMallMalviyaNagar,English,18:30,Royale,112₹,42,0
+Maharashtra,Thane,CinepolisVivianaMallThaneW,English,18:40,Normal,150₹,27,0
+Maharashtra,Thane,CinepolisVivianaMallThaneW,English,18:40,Executive,150₹,104,0
+Maharashtra,Thane,CinepolisVivianaMallThaneW,English,18:40,Premium,150₹,46,18
+Haryana,Gurgaon,InoxWorldMarkGurugram,English,19:05,Club,112₹,65,0
+Haryana,Gurgaon,InoxWorldMarkGurugram,English,19:05,Executive,112₹,26,0
+Haryana,Gurgaon,InoxWorldMarkGurugram,English,19:05,RoyalRecliner,112₹,8,0
+Haryana,Gurgaon,InoxWorldMarkGurugram,English,19:05,Royal,112₹,35,0
