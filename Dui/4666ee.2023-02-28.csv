@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,LilaCinemaFultala,Bengali,13:00,Balcony,60₹,28,0
+WestBengal,Kolkata,JayantiCinemaBarrackpore,Bengali,14:15,SuperStall,200₹,183,171
+WestBengal,Kolkata,JayantiCinemaBarrackpore,Bengali,14:15,Stall,150₹,39,39
