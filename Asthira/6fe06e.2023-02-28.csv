@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Channarayapatna,GayatriTheatre,Kannada,10:15,Balcony,121₹,189,139
+Karnataka,Channarayapatna,GayatriTheatre,Kannada,10:15,FirstClass,101₹,500,400
+Karnataka,Bengaluru,NarthakiSapnaTheatreGandhiNagar,Kannada,10:30,DeluxeClass,120₹,259,215
+Karnataka,Lingasugur,EmpireCinemas,Kannada,11:00,FirstClass,101₹,302,0
+Karnataka,Channarayapatna,GayatriTheatre,Kannada,13:15,Balcony,121₹,189,0
+Karnataka,Channarayapatna,GayatriTheatre,Kannada,13:15,FirstClass,101₹,500,0
+Karnataka,Bengaluru,NarthakiSapnaTheatreGandhiNagar,Kannada,13:30,DeluxeClass,120₹,259,215
+Karnataka,Channarayapatna,GayatriTheatre,Kannada,16:15,Balcony,121₹,189,0
+Karnataka,Channarayapatna,GayatriTheatre,Kannada,16:15,FirstClass,101₹,500,0
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteSunkadakatteBengaluru,Kannada,18:45,Silver,130₹,34,0
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteSunkadakatteBengaluru,Kannada,18:45,Gold,150₹,173,0
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteSunkadakatteBengaluru,Kannada,18:45,PlatinumRecliner,250₹,20,0
+Karnataka,Channarayapatna,GayatriTheatre,Kannada,19:15,Balcony,121₹,189,139
+Karnataka,Channarayapatna,GayatriTheatre,Kannada,19:15,FirstClass,101₹,500,400
