@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Aruppukkottai,TamilmaniTheatreACDtsAruppukkottai,Tamil,14:30,Balcony,150₹,367,182
+TamilNadu,Aruppukkottai,TamilmaniTheatreACDtsAruppukkottai,Tamil,14:30,Box,200₹,24,0
+TamilNadu,Aruppukkottai,TamilmaniTheatreACDtsAruppukkottai,Tamil,14:30,Gold,100₹,185,0
+TamilNadu,Aruppukkottai,TamilmaniTheatreACDtsAruppukkottai,Tamil,14:30,Silver,100₹,124,124
