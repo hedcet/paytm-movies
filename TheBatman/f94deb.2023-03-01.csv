@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,English,15:15,Normal,150₹,32,0
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,English,15:15,Executive,150₹,70,1
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,English,15:15,Premium,150₹,57,5
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,English,15:15,Vip,300₹,14,4
+UttarPradesh,Noida,CinepolisModiMallFormerlySpiceMall,English,18:05,Classic,99₹,75,0
+UttarPradesh,Noida,CinepolisModiMallFormerlySpiceMall,English,18:05,Premium,99₹,113,0
+Maharashtra,Pune,CinepolisSeasonsMallHadapsar,English,18:25,Normal,110₹,31,0
+Maharashtra,Pune,CinepolisSeasonsMallHadapsar,English,18:25,Executive,110₹,104,0
+Maharashtra,Pune,CinepolisSeasonsMallHadapsar,English,18:25,Premium,110₹,34,1
+Telangana,Hyderabad,CinepolisDslVirtueMallUppal,English,19:00,Normal,150₹,35,0
+Telangana,Hyderabad,CinepolisDslVirtueMallUppal,English,19:00,Executive,150₹,196,11
+Telangana,Hyderabad,CinepolisDslVirtueMallUppal,English,19:00,Vip,250₹,9,3
+Kerala,Kochi,CinepolisCentreSquareMallKochi,English,22:15,Normal,160₹,20,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,English,22:15,Executive,190₹,43,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,English,22:15,Premium,220₹,44,0
