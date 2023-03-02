@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Kovilpatti,LakshmiMultiplexDolbyatmosKovilpatti,Tamil,14:30,Platinum,110₹,208,0
+TamilNadu,Chennai,DeviCineplexAnnaSalai,Tamil,19:15,Quartz,152₹,242,0
+TamilNadu,Chennai,DeviCineplexAnnaSalai,Tamil,19:15,Zircon,60₹,27,27
+TamilNadu,Chennai,DeviCineplexAnnaSalai,Tamil,22:30,Quartz,152₹,242,0
+TamilNadu,Chennai,DeviCineplexAnnaSalai,Tamil,22:30,Zircon,60₹,27,27
