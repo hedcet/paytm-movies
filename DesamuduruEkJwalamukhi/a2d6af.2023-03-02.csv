@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,CoochBehar,NewCinemaBangchatraRoad,Hindi,10:00,Balcony,100₹,87,45
+WestBengal,CoochBehar,NewCinemaBangchatraRoad,Hindi,12:30,Balcony,100₹,87,45
+WestBengal,Siliguri,VishalCinemaSevokeRoad,Hindi,12:40,DressCircle,100₹,25,0
+WestBengal,Siliguri,VishalCinemaSevokeRoad,Hindi,12:40,Balcony,70₹,25,0
+WestBengal,Siliguri,VishalCinemaSevokeRoad,Hindi,16:00,DressCircle,100₹,25,0
+WestBengal,Siliguri,VishalCinemaSevokeRoad,Hindi,16:00,Balcony,70₹,25,0
+WestBengal,Siliguri,VishalCinemaSevokeRoad,Hindi,19:00,DressCircle,100₹,25,0
+WestBengal,Siliguri,VishalCinemaSevokeRoad,Hindi,19:00,Balcony,70₹,25,0
