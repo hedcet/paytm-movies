@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,CinepolisSjrSpectrumCentralMallBannerghattaRoad,Kannada,12:55,Normal,110₹,30,0
+Karnataka,Bengaluru,CinepolisSjrSpectrumCentralMallBannerghattaRoad,Kannada,12:55,Executive,110₹,63,0
+Karnataka,Bengaluru,CinepolisSjrSpectrumCentralMallBannerghattaRoad,Kannada,12:55,Premium,110₹,44,0
+Karnataka,Bengaluru,CinepolisSjrSpectrumCentralMallBannerghattaRoad,Kannada,12:55,Vip,250₹,12,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,13:25,Normal,112₹,9,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,13:25,Executive,112₹,78,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,13:25,Premium,112₹,33,0
+Karnataka,Bengaluru,InoxCentralMantriJunctionJpNagar,Kannada,13:40,Club,112₹,234,1
+Karnataka,Bengaluru,InoxCentralMantriJunctionJpNagar,Kannada,13:40,Royal,200₹,4,0
+Karnataka,Mysuru,InoxCentroMysore,Kannada,15:15,Club,112₹,54,2
+Karnataka,Mysuru,InoxCentroMysore,Kannada,15:15,Executive,112₹,65,0
+Karnataka,Tumakuru,InoxSMallTumakuru,Kannada,15:50,Club,112₹,56,0
+Karnataka,Tumakuru,InoxSMallTumakuru,Kannada,15:50,Executive,112₹,76,0
