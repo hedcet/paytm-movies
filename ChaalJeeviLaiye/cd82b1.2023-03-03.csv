@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Gujarati,09:15,Executive,150₹,168,0
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Gujarati,09:15,Premium,200₹,56,0
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Gujarati,09:15,Normal,130₹,39,0
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Gujarati,12:30,Executive,180₹,168,4
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Gujarati,12:30,Premium,220₹,56,2
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Gujarati,12:30,Normal,150₹,39,0
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Gujarati,15:40,Executive,200₹,168,0
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Gujarati,15:40,Premium,250₹,56,0
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Gujarati,15:40,Normal,180₹,39,0
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Gujarati,22:05,Executive,120₹,168,0
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Gujarati,22:05,Premium,120₹,56,4
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Gujarati,22:05,Normal,120₹,39,0
