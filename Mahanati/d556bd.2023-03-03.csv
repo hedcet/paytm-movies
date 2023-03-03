@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,Telugu,12:00,Platinum,500₹,40,10
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,Telugu,12:00,PlatinumSuperior,500₹,10,0
+Karnataka,Bengaluru,InoxNexusWhitefield,Telugu,12:00,Premiere,112₹,78,0
+Karnataka,Bengaluru,InoxNexusWhitefield,Telugu,12:00,Silver,112₹,67,1
+Telangana,Hyderabad,InoxGsmMallMadinaguda,Telugu,12:25,Executive,112₹,175,0
+Telangana,Hyderabad,InoxGsmMallMadinaguda,Telugu,12:25,Royal,200₹,8,0
+AndhraPradesh,Narsipatnam,PvrSreekanyaNarsipatnam,Telugu,12:45,Classic,60₹,29,0
+AndhraPradesh,Narsipatnam,PvrSreekanyaNarsipatnam,Telugu,12:45,ClassicPlus,150₹,171,19
+AndhraPradesh,Guntur,PvrGuntur,Telugu,13:00,Premium,295₹,13,0
+AndhraPradesh,Guntur,PvrGuntur,Telugu,13:00,Deluxe,177₹,146,18
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Telugu,13:15,Classic,112₹,181,19
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Telugu,13:15,Recliner,250₹,9,9
+Telangana,Warangal,PvrMaddoxWarangal,Telugu,13:15,Classic,112₹,97,0
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,Telugu,16:15,Classic,112₹,244,75
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,Telugu,16:15,Recliner,250₹,13,3
+Telangana,Hyderabad,PvrIconHitechMadhapur,Telugu,16:45,Classic,112₹,143,18
