@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Jharkhand,Jamshedpur,PjpCinepolisCityCentreMallMauja,Hindi,12:10,Normal,110₹,22,0
+Jharkhand,Jamshedpur,PjpCinepolisCityCentreMallMauja,Hindi,12:10,Executive,110₹,33,0
+Jharkhand,Jamshedpur,PjpCinepolisCityCentreMallMauja,Hindi,12:10,Premium,110₹,59,2
