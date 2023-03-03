@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Assam,Tinsukia,RanggharCinema,Assamese,10:00,Gold,230₹,75,25
+Assam,Guwahati,GoldCinemaPaltanbazar,Assamese,11:00,Gold,150₹,100,0
+Assam,Guwahati,GoldCinemaPaltanbazar,Assamese,11:00,Silver,120₹,100,0
+Assam,Guwahati,PvrCityCentreGuwahati,Assamese,14:45,Classic,112₹,40,0
+Assam,Guwahati,PvrCityCentreGuwahati,Assamese,14:45,Prime,112₹,82,14
+Assam,Guwahati,PvrCityCentreGuwahati,Assamese,14:45,PrimePlus,112₹,13,0
+Assam,Nagaon,DivyaJyotiCinemaNagaon,Assamese,15:00,Box,200₹,10,0
+Assam,Nagaon,DivyaJyotiCinemaNagaon,Assamese,15:00,Balcony,150₹,186,138
+Assam,Guwahati,GalleriaCinemaHubMallGSRoad,Assamese,19:45,Silver,99₹,30,0
+Assam,Guwahati,GalleriaCinemaHubMallGSRoad,Assamese,19:45,Gold,129₹,90,0
+Assam,Guwahati,GalleriaCinemaHubMallGSRoad,Assamese,19:45,Business,179₹,60,4
+Assam,Guwahati,GalleriaCinemaHubMallGSRoad,Assamese,19:45,Platinum,149₹,75,4
