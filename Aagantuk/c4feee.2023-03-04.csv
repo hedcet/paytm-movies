@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,MirajCityPulseManiNagar,Gujarati,15:00,Gold,180₹,66,2
+Gujarat,Surat,RajhansMultiplexAdajan,Gujarati,17:30,Business,200₹,94,31
+Gujarat,Navsari,RajhansCinemasNavsari,Gujarati,20:00,Marvel,140₹,32,0
+Gujarat,Navsari,RajhansCinemasNavsari,Gujarati,20:00,Royal,160₹,96,40
+Gujarat,Navsari,RajhansCinemasNavsari,Gujarati,20:00,Platinum,200₹,59,13
+Gujarat,Navsari,RajhansCinemasNavsari,Gujarati,20:00,Executive,180₹,96,18
+Gujarat,Surat,MirajCinemasKsbOlympiaSurat,Gujarati,20:30,Executive,100₹,44,0
+Gujarat,Surat,MirajCinemasKsbOlympiaSurat,Gujarati,20:30,Gold,100₹,72,0
