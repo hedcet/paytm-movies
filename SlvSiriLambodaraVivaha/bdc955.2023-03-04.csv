@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrVegaBannerghattaRoad,Kannada,22:00,Classic,250₹,107,10
+UttarPradesh,Waterland,MirajTestCinema,Kannada,23:00,Special,100₹,70,0
+UttarPradesh,Waterland,MirajTestCinema,Kannada,23:00,Executive,110₹,105,0
+UttarPradesh,Waterland,MirajTestCinema,Kannada,23:00,Gold,130₹,30,0
