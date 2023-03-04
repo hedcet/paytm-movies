@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Bihar,EkmaChapra,JaiShankarCinemaRahulNagar,Bhojpuri,12:00,SpecialPlatinum,100₹,25,0
+Bihar,EkmaChapra,JaiShankarCinemaRahulNagar,Bhojpuri,12:00,UpperClass,100₹,36,36
+Bihar,EkmaChapra,JaiShankarCinemaRahulNagar,Bhojpuri,12:00,SpecialGold,100₹,22,0
+Bihar,EkmaChapra,JaiShankarCinemaRahulNagar,Bhojpuri,12:00,LowerClass,70₹,44,44
+Bihar,EkmaChapra,JaiShankarCinemaRahulNagar,Bhojpuri,15:00,SpecialPlatinum,100₹,25,0
+Bihar,EkmaChapra,JaiShankarCinemaRahulNagar,Bhojpuri,15:00,UpperClass,100₹,36,36
+Bihar,EkmaChapra,JaiShankarCinemaRahulNagar,Bhojpuri,15:00,SpecialGold,100₹,22,0
+Bihar,EkmaChapra,JaiShankarCinemaRahulNagar,Bhojpuri,15:00,LowerClass,70₹,44,44
+Bihar,EkmaChapra,JaiShankarCinemaRahulNagar,Bhojpuri,18:00,SpecialPlatinum,100₹,25,0
+Bihar,EkmaChapra,JaiShankarCinemaRahulNagar,Bhojpuri,18:00,UpperClass,100₹,36,36
+Bihar,EkmaChapra,JaiShankarCinemaRahulNagar,Bhojpuri,18:00,SpecialGold,100₹,22,0
+Bihar,EkmaChapra,JaiShankarCinemaRahulNagar,Bhojpuri,18:00,LowerClass,70₹,44,44
+Bihar,EkmaChapra,JaiShankarCinemaRahulNagar,Bhojpuri,21:00,SpecialPlatinum,100₹,25,0
+Bihar,EkmaChapra,JaiShankarCinemaRahulNagar,Bhojpuri,21:00,UpperClass,100₹,36,36
+Bihar,EkmaChapra,JaiShankarCinemaRahulNagar,Bhojpuri,21:00,SpecialGold,100₹,22,0
+Bihar,EkmaChapra,JaiShankarCinemaRahulNagar,Bhojpuri,21:00,LowerClass,70₹,44,44
