@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxRCityGhatkoparW,Hindi,16:35,Club,400₹,111,111
+Maharashtra,Mumbai,InoxRCityGhatkoparW,Hindi,16:35,Executive,400₹,53,53
+Maharashtra,Mumbai,InoxRCityGhatkoparW,Hindi,16:35,RoyalRecliner,400₹,16,16
+Maharashtra,Mumbai,InoxRCityGhatkoparW,Hindi,16:35,Royal,400₹,51,51
+Gujarat,Anand,InoxCityPulseMallAnand,Hindi,18:00,Executive,250₹,131,131
+Gujarat,Anand,InoxCityPulseMallAnand,Hindi,18:00,Silver,250₹,51,51
