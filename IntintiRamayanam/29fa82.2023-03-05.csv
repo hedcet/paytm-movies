@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Karimnagar,PrathimaMultiplex,Telugu,14:00,FirstClass,200₹,12,12
+Telangana,Karimnagar,PrathimaMultiplex,Telugu,14:00,SecondClass,150₹,220,220
+Telangana,Karimnagar,PrathimaMultiplex,Telugu,14:00,LastClass,112₹,80,80
