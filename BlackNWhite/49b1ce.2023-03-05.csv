@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Assam,Tinsukia,RanggharCinema,Assamese,13:00,Gold,230₹,75,25
+Assam,Guwahati,PvrCityCentreGuwahati,Assamese,17:30,Classic,190₹,40,0
+Assam,Guwahati,PvrCityCentreGuwahati,Assamese,17:30,Prime,220₹,82,15
+Assam,Guwahati,PvrCityCentreGuwahati,Assamese,17:30,PrimePlus,260₹,13,0
