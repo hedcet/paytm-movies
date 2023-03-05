@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Mysuru,PvrGarudaMallAlbertVictorRoad,Kannada,12:30,Classic,140₹,102,0
+Karnataka,Bengaluru,InoxCentralMantriJunctionJpNagar,Kannada,13:40,Club,250₹,234,0
+Karnataka,Bengaluru,InoxCentralMantriJunctionJpNagar,Kannada,13:40,Royal,420₹,4,0
+Karnataka,Mysuru,InoxCentroMysore,Kannada,15:15,Club,150₹,54,0
+Karnataka,Mysuru,InoxCentroMysore,Kannada,15:15,Executive,140₹,65,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,16:05,Classic,200₹,85,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,16:05,Prime,220₹,31,21
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,16:05,Recliner,350₹,9,0
