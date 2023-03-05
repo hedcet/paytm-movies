@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Saharanpur,PrabhatCinemaSaharanpur,Hindi,12:30,Familygold,110₹,93,77
+UttarPradesh,Saharanpur,PrabhatCinemaSaharanpur,Hindi,12:30,Gold,110₹,64,48
+UttarPradesh,Saharanpur,PrabhatCinemaSaharanpur,Hindi,12:30,Silver,110₹,48,48
+UttarPradesh,Saharanpur,PrabhatCinemaSaharanpur,Hindi,15:30,Familygold,110₹,93,77
+UttarPradesh,Saharanpur,PrabhatCinemaSaharanpur,Hindi,15:30,Gold,110₹,64,48
+UttarPradesh,Saharanpur,PrabhatCinemaSaharanpur,Hindi,15:30,Silver,110₹,48,48
+UttarPradesh,Saharanpur,PrabhatCinemaSaharanpur,Hindi,18:30,Familygold,110₹,93,77
+UttarPradesh,Saharanpur,PrabhatCinemaSaharanpur,Hindi,18:30,Gold,110₹,64,48
+UttarPradesh,Saharanpur,PrabhatCinemaSaharanpur,Hindi,18:30,Silver,110₹,48,48
+UttarPradesh,Saharanpur,PrabhatCinemaSaharanpur,Hindi,21:30,Familygold,110₹,93,77
+UttarPradesh,Saharanpur,PrabhatCinemaSaharanpur,Hindi,21:30,Gold,110₹,64,48
+UttarPradesh,Saharanpur,PrabhatCinemaSaharanpur,Hindi,21:30,Silver,110₹,48,48
