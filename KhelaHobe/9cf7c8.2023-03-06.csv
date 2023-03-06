@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Varanasi,IpCinemasIpSigraMallShastriNagar,Hindi,14:35,Recliner,600₹,12,2
+UttarPradesh,Varanasi,IpCinemasIpSigraMallShastriNagar,Hindi,14:35,Gold,150₹,81,12
+UttarPradesh,Varanasi,IpCinemasIpSigraMallShastriNagar,Hindi,14:35,Silver,110₹,75,0
+WestBengal,CoochBehar,BhavaniCinemaKeshavRoad,Hindi,18:30,Special,100₹,316,158
+WestBengal,CoochBehar,BhavaniCinemaKeshavRoad,Hindi,18:30,1stClass,60₹,0,0
