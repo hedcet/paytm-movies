@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Durgapur,CarnivalCityCenterDreamplexBuilding,Bengali,16:20,Economy,99₹,34,0
+WestBengal,Durgapur,CarnivalCityCenterDreamplexBuilding,Bengali,16:20,Regular,99₹,65,0
+WestBengal,Durgapur,CarnivalCityCenterDreamplexBuilding,Bengali,16:20,Executive,99₹,168,12
+WestBengal,Asansol,CarnivalSentrumMallAsansol,Bengali,16:20,Premium,99₹,0,0
+WestBengal,Asansol,CarnivalSentrumMallAsansol,Bengali,16:20,Silver,99₹,150,2
+WestBengal,Asansol,CarnivalSentrumMallAsansol,Bengali,16:20,Gold,99₹,43,0
+WestBengal,Kolkata,CarnivalArtiSuncityMallBarasat,Bengali,16:30,Silver,99₹,40,0
+WestBengal,Kolkata,CarnivalArtiSuncityMallBarasat,Bengali,16:30,Gold,99₹,120,0
+WestBengal,Kolkata,CarnivalArtiSuncityMallBarasat,Bengali,16:30,Diamond,99₹,132,4
+WestBengal,Durgapur,CarnivalCityCenterDreamplexBuilding,Bengali,19:10,Economy,99₹,34,0
+WestBengal,Durgapur,CarnivalCityCenterDreamplexBuilding,Bengali,19:10,Regular,99₹,65,0
+WestBengal,Durgapur,CarnivalCityCenterDreamplexBuilding,Bengali,19:10,Executive,99₹,168,0
