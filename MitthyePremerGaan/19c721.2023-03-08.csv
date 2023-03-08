@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,CarnivalSaltLake,Bengali,14:40,Silver,99₹,166,9
+WestBengal,Durgapur,CarnivalCityCenterDreamplexBuilding,Bengali,16:50,Economy,99₹,34,0
+WestBengal,Durgapur,CarnivalCityCenterDreamplexBuilding,Bengali,16:50,Regular,99₹,65,0
+WestBengal,Durgapur,CarnivalCityCenterDreamplexBuilding,Bengali,16:50,Executive,99₹,168,4
