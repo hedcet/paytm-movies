@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,PvrInorbitCyberabad,English,16:00,Classic,150₹,147,20
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,English,19:00,Classic,190₹,66,2
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,English,19:00,Recliner,290₹,7,0
