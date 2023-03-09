@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Nizamabad,SvcDeviCinemasPragathiNagar,Telugu,18:00,Balcony,80₹,472,336
+Telangana,Nizamabad,SvcDeviCinemasPragathiNagar,Telugu,18:00,SecondClass,80₹,64,64
+Telangana,Nizamabad,SvcDeviCinemasPragathiNagar,Telugu,18:00,ThirdClass,80₹,134,134
