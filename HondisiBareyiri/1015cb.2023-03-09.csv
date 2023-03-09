@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrVegaBannerghattaRoad,Kannada,15:25,Classic,150₹,73,0
+Karnataka,Bengaluru,PvrVegaBannerghattaRoad,Kannada,15:25,Recliner,250₹,9,0
+Karnataka,Kushalnagar,CoorgCineplex,Kannada,17:00,Box,150₹,34,0
+Karnataka,Kushalnagar,CoorgCineplex,Kannada,17:00,RegularClass,120₹,330,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,18:40,Classic,170₹,128,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,18:40,Prime,190₹,90,2
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,18:40,Recliner,300₹,10,0
+Karnataka,Kushalnagar,CoorgCineplex,Kannada,20:00,Box,150₹,34,0
+Karnataka,Kushalnagar,CoorgCineplex,Kannada,20:00,RegularClass,120₹,330,0
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteSunkadakatteBengaluru,Kannada,21:45,Silver,130₹,34,0
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteSunkadakatteBengaluru,Kannada,21:45,Gold,150₹,162,0
