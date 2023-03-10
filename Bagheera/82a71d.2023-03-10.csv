@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Perundalaiyur,VijayanTheatrePerundalaiyur,Tamil,10:30,Balcony,120₹,28,0
+TamilNadu,Perundalaiyur,VijayanTheatrePerundalaiyur,Tamil,10:30,Firstclass,100₹,392,0
+TamilNadu,Ambur,RajkamalCinemas2KACDtsAmbur,Tamil,11:20,Gold,110₹,177,30
+TamilNadu,Ambur,RajkamalCinemas2KACDtsAmbur,Tamil,11:20,Silver,110₹,21,21
+TamilNadu,Perundalaiyur,VijayanTheatrePerundalaiyur,Tamil,14:15,Balcony,120₹,28,0
+TamilNadu,Perundalaiyur,VijayanTheatrePerundalaiyur,Tamil,14:15,Firstclass,100₹,392,0
+TamilNadu,Ambur,RajkamalCinemas2KACDtsAmbur,Tamil,14:20,Gold,110₹,177,30
+TamilNadu,Ambur,RajkamalCinemas2KACDtsAmbur,Tamil,14:20,Silver,110₹,21,21
+TamilNadu,Perundalaiyur,VijayanTheatrePerundalaiyur,Tamil,18:15,Balcony,120₹,28,0
+TamilNadu,Perundalaiyur,VijayanTheatrePerundalaiyur,Tamil,18:15,Firstclass,100₹,392,0
+TamilNadu,Ambur,RajkamalCinemas2KACDtsAmbur,Tamil,18:20,Gold,110₹,177,30
+TamilNadu,Ambur,RajkamalCinemas2KACDtsAmbur,Tamil,18:20,Silver,110₹,21,21
+TamilNadu,Ambur,RajkamalCinemas2KACDtsAmbur,Tamil,21:20,Gold,110₹,177,30
+TamilNadu,Ambur,RajkamalCinemas2KACDtsAmbur,Tamil,21:20,Silver,110₹,21,21
+TamilNadu,Perundalaiyur,VijayanTheatrePerundalaiyur,Tamil,21:30,Balcony,120₹,28,0
+TamilNadu,Perundalaiyur,VijayanTheatrePerundalaiyur,Tamil,21:30,Firstclass,100₹,392,0
