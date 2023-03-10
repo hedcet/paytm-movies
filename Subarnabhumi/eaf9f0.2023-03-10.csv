@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,13:00,Balcony,50₹,264,33
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,13:00,FirstClass,30₹,513,30
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,13:00,Balcony,50₹,264,33
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,13:00,FirstClass,30₹,513,30
+WestBengal,Kolkata,BijoliCinemaBhowanipore,Bengali,18:30,Balcony,100₹,188,188
+WestBengal,Kolkata,BijoliCinemaBhowanipore,Bengali,18:30,RearStall,80₹,614,418
+WestBengal,Kolkata,BijoliCinemaBhowanipore,Bengali,19:15,Balcony,100₹,188,188
+WestBengal,Kolkata,BijoliCinemaBhowanipore,Bengali,19:15,RearStall,80₹,614,418
+WestBengal,Kolkata,ChhabigharCinemaBaithakkhana,Bengali,19:15,Balcony,100₹,144,80
+WestBengal,Kolkata,ChhabigharCinemaBaithakkhana,Bengali,19:15,RearStall,80₹,502,432
+WestBengal,Kolkata,MinarCinemaACDolbyHatiBagan,Bengali,19:15,Balcony,100₹,274,224
+WestBengal,Kolkata,MinarCinemaACDolbyHatiBagan,Bengali,19:15,RearStall,80₹,575,445
