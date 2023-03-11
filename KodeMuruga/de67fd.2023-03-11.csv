@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,Vinayaka2KDolbyTheatreHarohalli,Kannada,10:30,Gold,100₹,452,352
+Karnataka,Bengaluru,SriVajreshwariTheatre2KUllal,Kannada,10:30,Balcony,120₹,200,172
+Karnataka,Bengaluru,SriVajreshwariTheatre2KUllal,Kannada,10:30,Second,100₹,676,612
+Karnataka,Bhadravati,TrsCinemasSatyaNetravathiTheatresCNRoad,Kannada,11:30,GoldClass,120₹,175,54
+Karnataka,Bengaluru,Vinayaka2KDolbyTheatreHarohalli,Kannada,13:30,Gold,100₹,452,352
