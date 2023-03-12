@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,13:30,NormalOffline,100₹,18,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,13:30,ExecutiveOffline,180₹,72,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,13:30,SilverOffline,210₹,103,6
+Kerala,Angamaly,CarnivalKsrtComplexSalemErnakulamHighway,Malayalam,16:00,GoldOffline,130₹,202,29
+Kerala,Kochi,PvrOberonMallErnakulam,Malayalam,16:35,Classic,120₹,36,0
+Kerala,Kochi,PvrOberonMallErnakulam,Malayalam,16:35,ClassicPlus,150₹,81,48
+Kerala,Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,17:45,ExecutiveOffline,100₹,13,0
+Kerala,Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,17:45,SilverOffline,150₹,151,16
+Kerala,Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,17:45,GoldOffline,300₹,13,3
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,19:15,NormalOffline,100₹,18,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,19:15,ExecutiveOffline,180₹,72,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,19:15,SilverOffline,210₹,103,31
+Kerala,Karunagappally,CarnivalHJComplexLalajiJunction,Malayalam,19:15,ClassicOffline,170₹,118,40
+Kerala,Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,21:45,ExecutiveOffline,100₹,13,0
+Kerala,Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,21:45,SilverOffline,150₹,151,16
+Kerala,Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,21:45,GoldOffline,300₹,13,0
