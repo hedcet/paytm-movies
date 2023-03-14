@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Darjeeling,InoxRinkMallLadenLaRoad,Nepali,12:50,Box,190₹,4,0
+WestBengal,Darjeeling,InoxRinkMallLadenLaRoad,Nepali,12:50,Economy,112₹,53,0
+WestBengal,Darjeeling,InoxRinkMallLadenLaRoad,Nepali,12:50,Executive,112₹,160,0
+WestBengal,Darjeeling,InoxRinkMallLadenLaRoad,Nepali,12:50,Royal,140₹,53,0
+WestBengal,Siliguri,InoxVegaCircleMallSevokeRoad,Nepali,14:20,Club,150₹,68,0
+WestBengal,Siliguri,InoxVegaCircleMallSevokeRoad,Nepali,14:20,Executive,150₹,34,0
+WestBengal,Siliguri,InoxVegaCircleMallSevokeRoad,Nepali,14:20,Royal,150₹,148,2
+Sikkim,Melli,DazomCinema,Nepali,17:00,Executive,250₹,64,0
+Sikkim,Melli,DazomCinema,Nepali,17:00,Rear,200₹,64,0
+Sikkim,Melli,DazomCinema,Nepali,17:00,Front,150₹,22,0
