@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Gurgaon,PvrAmbienceGurgaon,English,10:00,ClassicNormal,150₹,84,0
+Haryana,Gurgaon,PvrAmbienceGurgaon,English,10:00,Prime,150₹,38,0
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,11:00,Classic,170₹,38,0
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,17:35,Classic,150₹,54,54
