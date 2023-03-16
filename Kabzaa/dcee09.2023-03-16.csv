@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,VimalTheatreBalaNagar,Telugu,11:15,DaimondCircle,150₹,582,373
+Telangana,Hyderabad,VimalTheatreBalaNagar,Telugu,11:15,FirstClass,100₹,226,226
+Telangana,Hyderabad,VimalTheatreBalaNagar,Telugu,11:15,ThirdClass,50₹,152,152
+Telangana,Hyderabad,VimalTheatreBalaNagar,Telugu,14:15,DaimondCircle,150₹,582,372
+Telangana,Hyderabad,VimalTheatreBalaNagar,Telugu,14:15,FirstClass,100₹,226,226
+Telangana,Hyderabad,VimalTheatreBalaNagar,Telugu,14:15,ThirdClass,50₹,152,152
+Telangana,Hyderabad,VimalTheatreBalaNagar,Telugu,18:15,DaimondCircle,150₹,582,372
+Telangana,Hyderabad,VimalTheatreBalaNagar,Telugu,18:15,FirstClass,100₹,226,226
+Telangana,Hyderabad,VimalTheatreBalaNagar,Telugu,18:15,ThirdClass,50₹,152,152
+Telangana,Hyderabad,VimalTheatreBalaNagar,Telugu,21:15,DaimondCircle,150₹,582,372
+Telangana,Hyderabad,VimalTheatreBalaNagar,Telugu,21:15,FirstClass,100₹,226,226
+Telangana,Hyderabad,VimalTheatreBalaNagar,Telugu,21:15,ThirdClass,50₹,152,152
