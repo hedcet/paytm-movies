@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,NarthakiSapnaTheatreGandhiNagar,Kannada,10:30,DeluxeClass,120₹,259,215
+Karnataka,Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,Kannada,12:10,Classic,150₹,90,0
+Karnataka,Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,Kannada,12:10,Prime,170₹,19,0
+Karnataka,Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,Kannada,12:10,Recliner,250₹,11,0
+Karnataka,Bengaluru,NarthakiSapnaTheatreGandhiNagar,Kannada,13:30,DeluxeClass,120₹,259,215
+Karnataka,Mangalore,PvrNexusMallPandeshwarMangalore,Kannada,21:00,Classic,112₹,79,0
+Karnataka,Raichur,MirajCinemasRaichur,Kannada,22:50,Silver,130₹,30,0
+Karnataka,Raichur,MirajCinemasRaichur,Kannada,22:50,Executive,150₹,90,0
+Karnataka,Raichur,MirajCinemasRaichur,Kannada,22:50,Gold,170₹,61,0
