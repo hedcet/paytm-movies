@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,PvrRahulRaj4DxDumasRoad,Japanese,07:15,4DxPrime,310₹,60,8
+Gujarat,Surat,PvrRahulRaj4DxDumasRoad,Japanese,07:15,4DxClassic,290₹,24,0
+Gujarat,Surat,PvrRahulRaj4DxDumasRoad,Japanese,09:30,4DxPrime,310₹,60,8
+Gujarat,Surat,PvrRahulRaj4DxDumasRoad,Japanese,09:30,4DxClassic,290₹,24,0
+Karnataka,Bengaluru,InoxGalleriaMallYelahanka,Japanese,11:30,Club,280₹,59,0
+Karnataka,Bengaluru,InoxGalleriaMallYelahanka,Japanese,11:30,Executive,250₹,256,0
+Gujarat,Surat,PvrRahulRaj4DxDumasRoad,Japanese,14:55,4DxPrime,390₹,60,8
+Gujarat,Surat,PvrRahulRaj4DxDumasRoad,Japanese,14:55,4DxClassic,370₹,24,0
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,English,17:25,Club,190₹,258,2
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,English,17:25,Royal,380₹,9,2
+Gujarat,Surat,PvrRahulRaj4DxDumasRoad,Japanese,20:20,4DxPrime,440₹,60,8
+Gujarat,Surat,PvrRahulRaj4DxDumasRoad,Japanese,20:20,4DxClassic,420₹,24,0
