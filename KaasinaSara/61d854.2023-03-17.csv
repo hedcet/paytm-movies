@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Chamarajanagara,SimhaMovieParadiseNanjanagudRoad,Kannada,10:00,RoyalBalcony,100₹,103,0
+Karnataka,Chamarajanagara,SimhaMovieParadiseNanjanagudRoad,Kannada,10:00,DeluxeBalcony,80₹,511,307
+Karnataka,Chamarajanagara,SimhaMovieParadiseNanjanagudRoad,Kannada,13:00,RoyalBalcony,100₹,103,0
+Karnataka,Chamarajanagara,SimhaMovieParadiseNanjanagudRoad,Kannada,13:00,DeluxeBalcony,80₹,511,307
+Karnataka,Chamarajanagara,SimhaMovieParadiseNanjanagudRoad,Kannada,16:00,RoyalBalcony,100₹,103,0
+Karnataka,Chamarajanagara,SimhaMovieParadiseNanjanagudRoad,Kannada,16:00,DeluxeBalcony,80₹,511,307
+Karnataka,Chamarajanagara,SimhaMovieParadiseNanjanagudRoad,Kannada,19:00,RoyalBalcony,100₹,103,0
+Karnataka,Chamarajanagara,SimhaMovieParadiseNanjanagudRoad,Kannada,19:00,DeluxeBalcony,80₹,511,307
