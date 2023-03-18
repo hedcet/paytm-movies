@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NewDelhi,PvrVegasDwarka,Hindi,10:25,Classic,150₹,89,89
+UttarPradesh,Noida,PvrLogixCityCentreNoida,Hindi,10:35,Classic,112₹,78,17
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,Hindi,11:35,Insignia,300₹,34,9
+Maharashtra,Mumbai,InoxRCityGhatkoparW,Hindi,11:50,Club,112₹,65,3
+Maharashtra,Mumbai,InoxRCityGhatkoparW,Hindi,11:50,Executive,112₹,35,0
+Maharashtra,Mumbai,InoxRCityGhatkoparW,Hindi,11:50,RoyalRecliner,200₹,14,10
+Maharashtra,Mumbai,InoxRCityGhatkoparW,Hindi,11:50,Royal,112₹,40,15
+Delhi,NewDelhi,InoxPatelNagar,Hindi,12:10,Club,112₹,96,18
+Delhi,NewDelhi,InoxPatelNagar,Hindi,12:10,Executive,112₹,105,2
+Delhi,NewDelhi,InoxPatelNagar,Hindi,12:10,Royal,112₹,30,23
+Maharashtra,NaviMumbai,InoxRaghuleelaMallVashi,Hindi,12:25,Executive,112₹,22,0
+Maharashtra,NaviMumbai,InoxRaghuleelaMallVashi,Hindi,12:25,Premier,112₹,85,6
+Maharashtra,NaviMumbai,InoxRaghuleelaMallVashi,Hindi,12:25,Silver,112₹,26,18
+UttarPradesh,Noida,PvrLogixCityCentreNoida,Hindi,16:40,Classic,112₹,89,72
