@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kozhikode,CinepolisGokulamGalleriaMall,English,19:40,Normal,180₹,38,0
+Kerala,Kozhikode,CinepolisGokulamGalleriaMall,English,19:40,Executive,200₹,65,0
+Kerala,Kozhikode,CinepolisGokulamGalleriaMall,English,19:40,Premium,220₹,57,10
