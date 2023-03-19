@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,09:30,Classic,340₹,38,0
+Maharashtra,Mumbai,InoxRCityGhatkoparW,English,09:45,Insignia,370₹,42,12
+Delhi,NewDelhi,PvrVegasDwarka,English,11:00,Recliner,350₹,8,7
+Delhi,NewDelhi,PvrVegasDwarka,English,11:00,Prime,250₹,14,13
+Delhi,NewDelhi,PvrVegasDwarka,English,11:00,Classic,200₹,36,7
+MadhyaPradesh,Indore,PvrTreasureIslandMallSouthTukoganj,Hindi,14:20,Prime,280₹,46,17
+MadhyaPradesh,Indore,PvrTreasureIslandMallSouthTukoganj,Hindi,14:20,Classic,250₹,26,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallSouthTukoganj,Hindi,14:20,Recliner,400₹,8,4
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,14:25,Classic,150₹,54,34
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,English,14:30,Kiddles,360₹,36,9
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,16:55,Classic,150₹,54,45
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,19:20,Classic,150₹,54,33
+MadhyaPradesh,Indore,PvrTreasureIslandMallSouthTukoganj,English,19:40,Prime,290₹,46,26
+MadhyaPradesh,Indore,PvrTreasureIslandMallSouthTukoganj,English,19:40,Classic,270₹,26,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallSouthTukoganj,English,19:40,Recliner,500₹,8,4
