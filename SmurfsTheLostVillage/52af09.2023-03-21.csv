@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Ghaziabad,NewUsCinemasAdityaMall,English,12:15,Luxury,110₹,130,0
+UttarPradesh,Ghaziabad,NewUsCinemasAdityaMall,English,12:15,LuxuryPlus,140₹,132,11
+UttarPradesh,Ghaziabad,NewUsCinemasAdityaMall,English,19:40,Luxury,110₹,130,0
+UttarPradesh,Ghaziabad,NewUsCinemasAdityaMall,English,19:40,LuxuryPlus,140₹,132,11
+UttarPradesh,Ghaziabad,NewUsCinemasAdityaMall,English,22:20,Luxury,110₹,130,0
+UttarPradesh,Ghaziabad,NewUsCinemasAdityaMall,English,22:20,LuxuryPlus,140₹,132,11
