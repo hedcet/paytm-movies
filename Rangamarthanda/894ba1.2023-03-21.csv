@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Rajahmundry,SriSivajyothi2KCinema71DolbySeshayyaMetta,Telugu,18:30,ReservedClass,145₹,331,209
+AndhraPradesh,Rajahmundry,SriSivajyothi2KCinema71DolbySeshayyaMetta,Telugu,18:30,SecondClass,75₹,115,69
+AndhraPradesh,Kakinada,SpAnandCinemasKakinada,Telugu,19:15,Reclinear,295₹,35,35
+AndhraPradesh,Kakinada,SpAnandCinemasKakinada,Telugu,19:15,PremiumClass,148₹,513,114
+AndhraPradesh,Nellore,M1CinemasEarlierS2Pogathota,Telugu,22:00,177Elite,177₹,550,21
+AndhraPradesh,Nellore,M1CinemasEarlierS2Pogathota,Telugu,22:00,295Gold,295₹,12,12
