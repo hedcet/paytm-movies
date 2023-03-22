@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Pune,CinepolisSeasonsMallHadapsar,Korean,11:25,Normal,130₹,17,0
+Maharashtra,Pune,CinepolisSeasonsMallHadapsar,Korean,11:25,Executive,130₹,49,0
+Maharashtra,Pune,CinepolisSeasonsMallHadapsar,Korean,11:25,Premium,130₹,22,0
+Haryana,Gurgaon,PvrDirectorsCutGurugramAmbienceMall,Korean,14:25,Platinum,600₹,45,2
+Haryana,Gurgaon,PvrDirectorsCutGurugramAmbienceMall,Korean,14:25,PlatinumSuperior,600₹,16,0
+Karnataka,Bengaluru,CinepolisLuluGlobalMall,Korean,16:10,Normal,220₹,29,0
+Karnataka,Bengaluru,CinepolisLuluGlobalMall,Korean,16:10,Executive,240₹,105,4
+Karnataka,Bengaluru,CinepolisLuluGlobalMall,Korean,16:10,Premium,270₹,50,19
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,Korean,16:25,Normal,180₹,30,0
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,Korean,16:25,Executive,200₹,86,7
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,Korean,16:25,Premium,220₹,76,5
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,Korean,16:25,Vip,420₹,14,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,Korean,16:30,Vip,400₹,10,2
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,Korean,16:30,Premium,190₹,61,4
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,Korean,16:30,Executive,170₹,24,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,Korean,16:30,Normal,150₹,24,0
