@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Hindi,15:25,Normal,112₹,9,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Hindi,15:25,Executive,112₹,73,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Hindi,15:25,Premium,112₹,52,10
+UttarPradesh,Noida,PvrLogixCityCentreNoida,Hindi,22:45,Classic,112₹,76,0
