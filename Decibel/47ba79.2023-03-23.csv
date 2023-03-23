@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Gurgaon,PvrDirectorsCutGurugramAmbienceMall,Korean,13:25,Platinum,600₹,36,0
+Haryana,Gurgaon,PvrDirectorsCutGurugramAmbienceMall,Korean,13:25,PlatinumSuperior,600₹,7,4
+Karnataka,Bengaluru,CinepolisLuluGlobalMall,Korean,16:10,Normal,130₹,29,0
+Karnataka,Bengaluru,CinepolisLuluGlobalMall,Korean,16:10,Executive,150₹,105,0
+Karnataka,Bengaluru,CinepolisLuluGlobalMall,Korean,16:10,Premium,170₹,50,21
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,Korean,16:25,Normal,180₹,30,1
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,Korean,16:25,Executive,200₹,86,5
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,Korean,16:25,Premium,220₹,76,8
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,Korean,16:25,Vip,420₹,14,1
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,Korean,16:30,Vip,300₹,10,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,Korean,16:30,Premium,170₹,61,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,Korean,16:30,Executive,150₹,24,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,Korean,16:30,Normal,130₹,24,0
