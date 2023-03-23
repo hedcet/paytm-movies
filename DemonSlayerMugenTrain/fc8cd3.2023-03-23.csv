@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,InoxGvkOneBanjaraHills,English,11:45,Executive,200₹,126,2
+Telangana,Hyderabad,InoxGvkOneBanjaraHills,English,11:45,Royal,300₹,6,0
+MadhyaPradesh,Indore,InoxC21MallSheetalNagar,English,16:10,Insignia,280₹,38,2
+Telangana,Hyderabad,InoxGvkOneBanjaraHills,English,17:20,Executive,200₹,156,25
+Telangana,Hyderabad,InoxGvkOneBanjaraHills,English,17:20,Royal,300₹,11,11
