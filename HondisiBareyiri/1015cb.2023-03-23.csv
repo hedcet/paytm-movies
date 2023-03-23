@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrVegaBannerghattaRoad,Kannada,11:00,Classic,112₹,78,2
+Karnataka,Bengaluru,PvrVegaBannerghattaRoad,Kannada,11:00,Recliner,220₹,9,0
+Karnataka,Bhadravati,TrsCinemasSatyaNetravathiTheatresCNRoad,Kannada,11:30,GoldClass,120₹,175,54
+Karnataka,Dharwad,SrinivasTalkiesSubhasRoad,Kannada,12:00,Balcony,110₹,150,58
+Karnataka,Dharwad,SrinivasTalkiesSubhasRoad,Kannada,12:00,DressCircle,80₹,671,173
+Karnataka,Bhadravati,TrsCinemasSatyaNetravathiTheatresCNRoad,Kannada,14:30,GoldClass,120₹,175,54
+Karnataka,Shivamogga,VeerabhadreshwaraTalkiesShivamogga,Kannada,18:00,Balcony,150₹,223,192
+Karnataka,Shivamogga,VeerabhadreshwaraTalkiesShivamogga,Kannada,18:00,FirstClass,100₹,650,618
+Karnataka,Bhadravati,TrsCinemasSatyaNetravathiTheatresCNRoad,Kannada,18:30,GoldClass,120₹,175,54
+Karnataka,Shivamogga,VeerabhadreshwaraTalkiesShivamogga,Kannada,21:00,Balcony,150₹,223,192
+Karnataka,Shivamogga,VeerabhadreshwaraTalkiesShivamogga,Kannada,21:00,FirstClass,100₹,650,618
+Karnataka,Bhadravati,TrsCinemasSatyaNetravathiTheatresCNRoad,Kannada,21:30,GoldClass,120₹,175,54
