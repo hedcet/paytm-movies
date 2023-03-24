@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Anthiyur,SindhuMultiplexDolbyAtmosDtsXAnthiyur,Tamil,10:45,Platinum,190₹,136,16
+TamilNadu,Anthiyur,SindhuMultiplexDolbyAtmosDtsXAnthiyur,Tamil,10:45,Gold,150₹,36,0
+TamilNadu,Anthiyur,SindhuMultiplexDolbyAtmosDtsXAnthiyur,Tamil,10:45,Silver,100₹,18,18
+TamilNadu,Kanchipuram,KarthikeyanCinemasACPillaiyarpalayam,Tamil,11:00,Elite,120₹,435,27
+TamilNadu,Kanchipuram,KarthikeyanCinemasACPillaiyarpalayam,Tamil,14:30,Elite,120₹,435,27
+TamilNadu,Kanchipuram,KarthikeyanCinemasACPillaiyarpalayam,Tamil,14:30,Elite,120₹,156,11
+TamilNadu,Kanchipuram,KarthikeyanCinemasACPillaiyarpalayam,Tamil,18:00,Elite,120₹,435,27
+TamilNadu,Kanchipuram,KarthikeyanCinemasACPillaiyarpalayam,Tamil,21:30,Elite,120₹,435,27
+TamilNadu,Kanchipuram,KarthikeyanCinemasACPillaiyarpalayam,Tamil,21:30,Elite,120₹,156,11
