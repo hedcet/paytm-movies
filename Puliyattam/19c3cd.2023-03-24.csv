@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Amballur,ChandVsreeramaMoviesPudukkad,Malayalam,19:00,Platinum,180₹,25,0
+Kerala,Amballur,ChandVsreeramaMoviesPudukkad,Malayalam,19:00,Gold,129₹,182,6
+Kerala,Chalakudy,DCinemas4KChalakudy,Malayalam,19:30,Platinum,270₹,5,5
+Kerala,Chalakudy,DCinemas4KChalakudy,Malayalam,19:30,Gold,129₹,239,239
