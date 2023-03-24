@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NewDelhi,PvrVegasDwarka,Garhwali,13:30,Classic,250₹,76,0
+Maharashtra,Thane,CinepolisVivianaMallThaneW,Garhwali,13:50,Normal,140₹,24,0
+Maharashtra,Thane,CinepolisVivianaMallThaneW,Garhwali,13:50,Executive,140₹,72,0
+Maharashtra,Thane,CinepolisVivianaMallThaneW,Garhwali,13:50,Premium,140₹,12,12
