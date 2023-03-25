@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Vadodara,CinemarcAkota,Hindi,22:30,Premier,130₹,12,2
+Gujarat,Vadodara,CinemarcAkota,Hindi,22:30,Silver,130₹,87,25
+Gujarat,Vadodara,CinemarcAkota,Hindi,22:30,Sofa,130₹,25,25
