@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Mettur,TheGalaxyCinemasKarpagamTheatreAC,Tamil,11:00,BoxLeft,100₹,20,20
+TamilNadu,Mettur,TheGalaxyCinemasKarpagamTheatreAC,Tamil,11:00,BoxRight,100₹,20,20
+TamilNadu,Mettur,TheGalaxyCinemasKarpagamTheatreAC,Tamil,11:00,GoldClass,100₹,251,21
+TamilNadu,Mettur,TheGalaxyCinemasKarpagamTheatreAC,Tamil,11:00,SilverClass,100₹,92,0
+TamilNadu,Mettur,TheGalaxyCinemasKarpagamTheatreAC,Tamil,14:15,BoxLeft,100₹,20,20
+TamilNadu,Mettur,TheGalaxyCinemasKarpagamTheatreAC,Tamil,14:15,BoxRight,100₹,20,20
+TamilNadu,Mettur,TheGalaxyCinemasKarpagamTheatreAC,Tamil,14:15,GoldClass,100₹,251,21
+TamilNadu,Mettur,TheGalaxyCinemasKarpagamTheatreAC,Tamil,14:15,SilverClass,100₹,92,0
+TamilNadu,Mettur,TheGalaxyCinemasKarpagamTheatreAC,Tamil,18:15,BoxLeft,100₹,20,20
+TamilNadu,Mettur,TheGalaxyCinemasKarpagamTheatreAC,Tamil,18:15,BoxRight,100₹,20,20
+TamilNadu,Mettur,TheGalaxyCinemasKarpagamTheatreAC,Tamil,18:15,GoldClass,100₹,251,21
+TamilNadu,Mettur,TheGalaxyCinemasKarpagamTheatreAC,Tamil,18:15,SilverClass,100₹,92,0
+TamilNadu,Mettur,TheGalaxyCinemasKarpagamTheatreAC,Tamil,21:45,BoxLeft,100₹,20,20
+TamilNadu,Mettur,TheGalaxyCinemasKarpagamTheatreAC,Tamil,21:45,BoxRight,100₹,20,20
+TamilNadu,Mettur,TheGalaxyCinemasKarpagamTheatreAC,Tamil,21:45,GoldClass,100₹,251,21
+TamilNadu,Mettur,TheGalaxyCinemasKarpagamTheatreAC,Tamil,21:45,SilverClass,100₹,92,0
