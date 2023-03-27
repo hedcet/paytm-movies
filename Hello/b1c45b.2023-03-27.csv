@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Vadodara,BansalMovieplexGotri,Hindi,20:00,Sofa,150₹,14,0
+Gujarat,Vadodara,BansalMovieplexGotri,Hindi,20:00,Platinium,90₹,124,1
+Gujarat,Vadodara,BansalMovieplexGotri,Hindi,20:00,Gold,90₹,51,0
+Gujarat,Vadodara,BansalMovieplexGotri,Hindi,20:00,Silver,90₹,3,0
