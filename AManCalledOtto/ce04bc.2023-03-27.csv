@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Chandigarh,PvrElanteMallChandigarh,English,16:10,Classic,180₹,155,0
+Haryana,Chandigarh,PvrElanteMallChandigarh,English,16:10,Recliner,550₹,27,0
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,20:10,PlatinumSuperior,700₹,8,2
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,20:10,Platinum,500₹,28,0
