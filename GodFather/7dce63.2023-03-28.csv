@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Udupi,DianaTheatreChitpady,Telugu,10:30,Balcony,80₹,112,0
+Karnataka,Udupi,DianaTheatreChitpady,Telugu,13:30,Balcony,80₹,112,0
+Karnataka,Bengaluru,SharadaCinemasACSPRoadBangalore,Telugu,16:15,Balcony,120₹,159,123
+Karnataka,Bengaluru,SharadaCinemasACSPRoadBangalore,Telugu,16:15,FirstClass,100₹,315,243
+Karnataka,Udupi,DianaTheatreChitpady,Telugu,16:30,Balcony,80₹,112,0
+Karnataka,Bengaluru,SharadaCinemasACSPRoadBangalore,Telugu,19:15,Balcony,120₹,159,123
+Karnataka,Bengaluru,SharadaCinemasACSPRoadBangalore,Telugu,19:15,FirstClass,100₹,315,243
+Karnataka,Udupi,DianaTheatreChitpady,Telugu,19:15,Balcony,80₹,112,0
