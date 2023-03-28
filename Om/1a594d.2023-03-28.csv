@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,SoundaryaMahalAC4KDolbyAtmos,Kannada,10:15,Balcony,120₹,127,40
+Karnataka,Bengaluru,SoundaryaMahalAC4KDolbyAtmos,Kannada,10:15,Second,100₹,562,208
+Karnataka,Mysuru,PadmaTalkiesMysore,Kannada,10:30,Balcony,120₹,151,106
+Karnataka,Mysuru,PadmaTalkiesMysore,Kannada,10:30,Second,100₹,506,353
+Karnataka,Bengaluru,SoundaryaMahalAC4KDolbyAtmos,Kannada,13:15,Balcony,120₹,127,40
+Karnataka,Bengaluru,SoundaryaMahalAC4KDolbyAtmos,Kannada,13:15,Second,100₹,562,208
+Karnataka,Mysuru,PadmaTalkiesMysore,Kannada,13:30,Balcony,120₹,151,106
+Karnataka,Mysuru,PadmaTalkiesMysore,Kannada,13:30,Second,100₹,506,353
+Karnataka,Bengaluru,SoundaryaMahalAC4KDolbyAtmos,Kannada,16:15,Balcony,120₹,127,40
+Karnataka,Bengaluru,SoundaryaMahalAC4KDolbyAtmos,Kannada,16:15,Second,100₹,562,208
+Karnataka,Mysuru,PadmaTalkiesMysore,Kannada,16:30,Balcony,120₹,151,106
+Karnataka,Mysuru,PadmaTalkiesMysore,Kannada,16:30,Second,100₹,506,353
+Karnataka,Bengaluru,SoundaryaMahalAC4KDolbyAtmos,Kannada,19:15,Balcony,120₹,127,40
+Karnataka,Bengaluru,SoundaryaMahalAC4KDolbyAtmos,Kannada,19:15,Second,100₹,562,208
+Karnataka,Mysuru,PadmaTalkiesMysore,Kannada,19:30,Balcony,120₹,151,106
+Karnataka,Mysuru,PadmaTalkiesMysore,Kannada,19:30,Second,100₹,506,353
