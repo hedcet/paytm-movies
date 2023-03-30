@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,LaliCinemaBarasat,Bengali,16:45,DeluxAc,175₹,22,16
+WestBengal,Kolkata,LaliCinemaBarasat,Bengali,16:45,DiamondAc,150₹,76,57
+WestBengal,Kolkata,LaliCinemaBarasat,Bengali,16:45,DressCircle,110₹,26,20
+WestBengal,Kolkata,LaliCinemaBarasat,Bengali,16:45,UpperCircle,70₹,127,100
+WestBengal,Kolkata,LaliCinemaBarasat,Bengali,16:45,RearStall,50₹,351,297
