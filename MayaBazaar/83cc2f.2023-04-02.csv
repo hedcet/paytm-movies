@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,BhoomikaTheatre2KMajestic,Telugu,16:30,Balcony,150₹,318,263
+Karnataka,Bengaluru,BhoomikaTheatre2KMajestic,Telugu,16:30,Middle,120₹,576,512
+Karnataka,Bengaluru,BhoomikaTheatre2KMajestic,Telugu,19:30,Balcony,150₹,318,262
+Karnataka,Bengaluru,BhoomikaTheatre2KMajestic,Telugu,19:30,Middle,120₹,576,512
