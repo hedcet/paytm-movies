@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Waterland,MovieMaxTestCinema,Marathi,13:10,Platinum,110₹,111,0
+WestBengal,Waterland,MovieMaxTestCinema,Marathi,13:10,Gold,100₹,88,0
+Maharashtra,Mumbai,MovieTimeHubMallGoregaonE,Marathi,19:30,Gold,100₹,63,9
