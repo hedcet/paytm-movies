@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Waterland,MirajTestCinema,Gujarati,12:15,Special,150₹,70,0
+WestBengal,Waterland,MirajTestCinema,Gujarati,12:15,Executive,170₹,105,0
+WestBengal,Waterland,MirajTestCinema,Gujarati,12:15,Gold,190₹,30,5
+WestBengal,Waterland,MirajTestCinema,Gujarati,23:15,Special,150₹,70,0
+WestBengal,Waterland,MirajTestCinema,Gujarati,23:15,Executive,170₹,105,0
+WestBengal,Waterland,MirajTestCinema,Gujarati,23:15,Gold,190₹,30,5
