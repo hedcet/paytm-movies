@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,Hindi,16:20,Classic,180₹,60,0
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,Hindi,16:20,PrimeSuperior,200₹,40,10
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,Hindi,16:20,Prime,200₹,180,0
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,Hindi,16:20,Recliner,400₹,16,0
