@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,CoochBehar,BhavaniCinemaKeshavRoad,Bengali,10:30,Special,100₹,316,158
+WestBengal,CoochBehar,BhavaniCinemaKeshavRoad,Bengali,10:30,1stClass,60₹,0,0
+WestBengal,CoochBehar,BhavaniCinemaKeshavRoad,Bengali,13:00,Special,100₹,316,158
+WestBengal,CoochBehar,BhavaniCinemaKeshavRoad,Bengali,13:00,1stClass,60₹,0,0
