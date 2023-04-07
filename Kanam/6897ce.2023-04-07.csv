@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,MetroTheatre70MmBahadurpura,Tamil,21:00,Balcony,120₹,412,344
+Telangana,Hyderabad,MetroTheatre70MmBahadurpura,Tamil,21:00,Silver,80₹,228,228
+Telangana,Hyderabad,MetroTheatre70MmBahadurpura,Tamil,21:00,Bronze,50₹,144,144
