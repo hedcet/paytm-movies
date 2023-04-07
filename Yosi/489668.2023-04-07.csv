@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Tamil,11:40,Normal,160₹,13,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Tamil,11:40,Executive,190₹,26,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Tamil,11:40,Premium,210₹,67,10
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,13:30,Normal,60₹,17,17
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,13:30,Executive,152₹,117,19
+Kerala,Thalassery,CarnivalDowntownThalassery,Tamil,16:30,ExecutiveOffline,160₹,136,13
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Tamil,20:00,NormalOffline,100₹,18,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Tamil,20:00,ExecutiveOffline,180₹,72,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Tamil,20:00,SilverOffline,210₹,103,6
