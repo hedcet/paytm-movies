@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,PvrAcropolisMallThaltej,Gujarati,14:30,PrimePlus,225₹,66,16
+Gujarat,Ahmedabad,PvrAcropolisMallThaltej,Gujarati,14:30,Prime,175₹,65,0
+Gujarat,Ahmedabad,PvrAcropolisMallThaltej,Gujarati,14:30,Classic,150₹,39,0
+Gujarat,Ahmedabad,PvrAcropolisMallThaltej,Gujarati,14:30,Recliner,425₹,8,2
+Gujarat,Ahmedabad,PvrArvedTranscube,Gujarati,21:45,Classic,190₹,60,0
+Gujarat,Ahmedabad,PvrArvedTranscube,Gujarati,21:45,Prime,250₹,238,20
+Gujarat,Ahmedabad,PvrArvedTranscube,Gujarati,21:45,Recliner,380₹,6,1
+Gujarat,Vadodara,PvrTransCubeVadodara,Gujarati,21:45,Classic,180₹,39,0
+Gujarat,Vadodara,PvrTransCubeVadodara,Gujarati,21:45,Prime,190₹,90,30
+Gujarat,Vadodara,PvrTransCubeVadodara,Gujarati,21:45,Recliner,370₹,8,0
