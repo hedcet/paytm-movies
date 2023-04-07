@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Puducherry,Puducherry,ShanmugaCinemasRgbLaserDolbyAtmos,Tamil,09:00,Platinum,100₹,110,107
+Puducherry,Puducherry,ShanmugaCinemasRgbLaserDolbyAtmos,Tamil,09:00,Gold,75₹,22,13
+TamilNadu,Chennai,AgsCinemasTNagar,Tamil,10:00,Pearl,60₹,24,24
+TamilNadu,Chennai,AgsCinemasTNagar,Tamil,10:00,Diamond,190₹,197,70
