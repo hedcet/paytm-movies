@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,11:05,Normal,160₹,25,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,11:05,Executive,190₹,39,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,11:05,Premium,210₹,54,5
+Karnataka,Bengaluru,GalaxyParadiseHongasandra,Malayalam,14:00,FirstClass,150₹,120,100
+Karnataka,Bengaluru,GalaxyParadiseHongasandra,Malayalam,18:00,FirstClass,150₹,120,100
+Karnataka,Bengaluru,GalaxyParadiseHongasandra,Malayalam,21:00,FirstClass,150₹,120,100
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,22:45,NormalOffline,100₹,17,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,22:45,ExecutiveOffline,180₹,102,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,22:45,PremiumOffline,300₹,50,8
