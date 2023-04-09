@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarati,11:30,Recliner,280₹,20,7
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarati,11:30,ClassicPlus,130₹,12,0
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarati,11:30,Prime,140₹,111,32
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarati,11:30,Classic,120₹,26,2
+Gujarat,Vadodara,PvrTransCubeVadodara,Gujarati,13:00,Classic,130₹,34,0
+Gujarat,Vadodara,PvrTransCubeVadodara,Gujarati,13:00,Prime,130₹,100,4
+Gujarat,Vadodara,PvrTransCubeVadodara,Gujarati,13:00,Recliner,200₹,8,0
+Gujarat,Ahmedabad,PvrArvedTranscube,Gujarati,13:00,Classic,130₹,33,0
+Gujarat,Ahmedabad,PvrArvedTranscube,Gujarati,13:00,Prime,130₹,100,31
