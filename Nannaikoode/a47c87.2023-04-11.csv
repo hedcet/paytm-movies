@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Pandalam,ThrilokCinemas,Malayalam,14:00,ExecutiveClass,160₹,26,14
+Kerala,Pandalam,ThrilokCinemas,Malayalam,14:00,ExecutiveClass1,150₹,124,61
+Kerala,Pandalam,ThrilokCinemas,Malayalam,18:30,ExecutiveClass,160₹,26,14
+Kerala,Pandalam,ThrilokCinemas,Malayalam,18:30,ExecutiveClass1,150₹,124,61
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,20:15,NormalOffline,100₹,17,10
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,20:15,ExecutiveOffline,160₹,102,10
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,20:15,PremiumOffline,250₹,50,8
