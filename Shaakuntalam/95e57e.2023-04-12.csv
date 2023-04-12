@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,SangeethaTheatreRcPuramFormerlySvcSangeetha,Telugu,11:00,Box,150₹,44,44
+Telangana,Hyderabad,SangeethaTheatreRcPuramFormerlySvcSangeetha,Telugu,11:00,Platinum,150₹,486,122
+Telangana,Hyderabad,SangeethaTheatreRcPuramFormerlySvcSangeetha,Telugu,11:00,Gold,100₹,52,0
+Telangana,Hyderabad,SangeethaTheatreRcPuramFormerlySvcSangeetha,Telugu,11:00,Silver,50₹,154,0
+Telangana,Hyderabad,SangeethaTheatreRcPuramFormerlySvcSangeetha,Telugu,14:30,Box,150₹,44,44
+Telangana,Hyderabad,SangeethaTheatreRcPuramFormerlySvcSangeetha,Telugu,14:30,Platinum,150₹,486,124
+Telangana,Hyderabad,SangeethaTheatreRcPuramFormerlySvcSangeetha,Telugu,14:30,Gold,100₹,52,0
+Telangana,Hyderabad,SangeethaTheatreRcPuramFormerlySvcSangeetha,Telugu,14:30,Silver,50₹,154,0
+Telangana,Hyderabad,SangeethaTheatreRcPuramFormerlySvcSangeetha,Telugu,18:00,Box,150₹,44,44
+Telangana,Hyderabad,SangeethaTheatreRcPuramFormerlySvcSangeetha,Telugu,18:00,Platinum,150₹,486,126
+Telangana,Hyderabad,SangeethaTheatreRcPuramFormerlySvcSangeetha,Telugu,18:00,Gold,100₹,52,0
+Telangana,Hyderabad,SangeethaTheatreRcPuramFormerlySvcSangeetha,Telugu,18:00,Silver,50₹,154,1
+Telangana,Hyderabad,SangeethaTheatreRcPuramFormerlySvcSangeetha,Telugu,21:30,Box,150₹,44,44
+Telangana,Hyderabad,SangeethaTheatreRcPuramFormerlySvcSangeetha,Telugu,21:30,Platinum,150₹,486,122
+Telangana,Hyderabad,SangeethaTheatreRcPuramFormerlySvcSangeetha,Telugu,21:30,Gold,100₹,52,0
+Telangana,Hyderabad,SangeethaTheatreRcPuramFormerlySvcSangeetha,Telugu,21:30,Silver,50₹,154,0
