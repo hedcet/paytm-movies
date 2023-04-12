@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Mizoram,Waterland,A1TestCinemaOcl,Tamil,07:00,Balcony,11₹,131,65
+Mizoram,Waterland,A1TestCinemaOcl,Tamil,07:00,FirstClass,11₹,142,71
+Mizoram,Waterland,A1TestCinemaOcl,Tamil,10:45,Balcony,11₹,131,65
+Mizoram,Waterland,A1TestCinemaOcl,Tamil,10:45,FirstClass,11₹,142,71
+Mizoram,Waterland,A1TestCinemaOcl,Tamil,14:15,Balcony,11₹,131,65
+Mizoram,Waterland,A1TestCinemaOcl,Tamil,14:15,FirstClass,11₹,142,71
+Mizoram,Waterland,A1TestCinemaOcl,Tamil,18:15,Balcony,11₹,131,65
+Mizoram,Waterland,A1TestCinemaOcl,Tamil,18:15,FirstClass,11₹,142,71
+Mizoram,Waterland,TpmcOms,Tamil,22:00,Corporate,10₹,307,69
+Mizoram,Waterland,A1TestCinemaOcl,Tamil,22:30,Balcony,11₹,131,65
+Mizoram,Waterland,A1TestCinemaOcl,Tamil,22:30,FirstClass,11₹,142,71
