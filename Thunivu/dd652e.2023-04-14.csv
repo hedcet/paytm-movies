@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Mizoram,Waterland,A1TestCinemaOcl,Tamil,09:20,Premium,142₹,40,24
+Mizoram,Waterland,A1TestCinemaOcl,Tamil,09:20,Standard,136₹,70,0
+Mizoram,Waterland,A1TestCinemaOcl,Tamil,13:25,Premium,142₹,40,24
+Mizoram,Waterland,A1TestCinemaOcl,Tamil,13:25,Standard,136₹,70,0
+Mizoram,Waterland,A1TestCinemaOcl,Tamil,18:30,Premium,142₹,40,24
+Mizoram,Waterland,A1TestCinemaOcl,Tamil,18:30,Standard,136₹,70,0
+Mizoram,Waterland,A1TestCinemaOcl,Tamil,22:35,Premium,142₹,40,24
+Mizoram,Waterland,A1TestCinemaOcl,Tamil,22:35,Standard,136₹,70,0
