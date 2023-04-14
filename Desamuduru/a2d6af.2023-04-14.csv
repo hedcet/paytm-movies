@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kakinada,PadmapriyaSripriyaComplexKondayyaPalem,Telugu,11:30,Diplomat,112₹,254,45
+AndhraPradesh,Kakinada,PadmapriyaSripriyaComplexKondayyaPalem,Telugu,11:30,FirstClass,75₹,16,0
+AndhraPradesh,Kakinada,PadmapriyaSripriyaComplexKondayyaPalem,Telugu,11:30,FirstClass1,75₹,70,0
+AndhraPradesh,Kakinada,PadmapriyaSripriyaComplexKondayyaPalem,Telugu,14:30,Diplomat,112₹,254,45
+AndhraPradesh,Kakinada,PadmapriyaSripriyaComplexKondayyaPalem,Telugu,14:30,FirstClass,75₹,16,0
+AndhraPradesh,Kakinada,PadmapriyaSripriyaComplexKondayyaPalem,Telugu,14:30,FirstClass1,75₹,70,0
+AndhraPradesh,Kakinada,PadmapriyaSripriyaComplexKondayyaPalem,Telugu,18:30,Diplomat,112₹,254,45
+AndhraPradesh,Kakinada,PadmapriyaSripriyaComplexKondayyaPalem,Telugu,18:30,FirstClass,75₹,16,0
+AndhraPradesh,Kakinada,PadmapriyaSripriyaComplexKondayyaPalem,Telugu,18:30,FirstClass1,75₹,70,0
+AndhraPradesh,Kakinada,PadmapriyaSripriyaComplexKondayyaPalem,Telugu,21:30,Diplomat,112₹,254,45
+AndhraPradesh,Kakinada,PadmapriyaSripriyaComplexKondayyaPalem,Telugu,21:30,FirstClass,75₹,16,0
+AndhraPradesh,Kakinada,PadmapriyaSripriyaComplexKondayyaPalem,Telugu,21:30,FirstClass1,75₹,70,0
