@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Kotma,JoyCinemaKotma,Chhattisgarhi,14:00,Platinum,250₹,12,12
+MadhyaPradesh,Kotma,JoyCinemaKotma,Chhattisgarhi,14:00,Gold,150₹,70,0
+MadhyaPradesh,Kotma,JoyCinemaKotma,Chhattisgarhi,14:00,Silver,100₹,28,0
+MadhyaPradesh,Kotma,JoyCinemaKotma,Chhattisgarhi,17:00,Platinum,250₹,12,0
+MadhyaPradesh,Kotma,JoyCinemaKotma,Chhattisgarhi,17:00,Gold,150₹,70,0
+MadhyaPradesh,Kotma,JoyCinemaKotma,Chhattisgarhi,17:00,Silver,100₹,28,0
+MadhyaPradesh,Kotma,JoyCinemaKotma,Chhattisgarhi,20:00,Platinum,250₹,12,0
+MadhyaPradesh,Kotma,JoyCinemaKotma,Chhattisgarhi,20:00,Gold,150₹,70,0
+MadhyaPradesh,Kotma,JoyCinemaKotma,Chhattisgarhi,20:00,Silver,100₹,28,0
