@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Manjeri,LadderCinemasIndianMall,Malayalam,10:30,Executive,150₹,74,0
+Kerala,Puthoor,ChellamTheatrePuthoor,Malayalam,12:30,Balcony,150₹,390,0
+Kerala,Puthoor,ChellamTheatrePuthoor,Malayalam,12:30,Reserved,125₹,610,0
+Kerala,Puthoor,ChellamTheatrePuthoor,Malayalam,16:30,Balcony,150₹,390,63
+Kerala,Puthoor,ChellamTheatrePuthoor,Malayalam,16:30,Reserved,125₹,610,340
