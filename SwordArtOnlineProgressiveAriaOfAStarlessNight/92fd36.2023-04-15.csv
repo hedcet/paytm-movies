@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,Japanese,10:45,Club,190₹,78,0
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,Japanese,10:45,Executive,180₹,115,0
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,Japanese,10:45,RoyaleRecliners,330₹,8,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,Japanese,11:00,Normal,300₹,78,7
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,Japanese,12:20,Club,350₹,48,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,Japanese,12:20,Executive,350₹,12,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,Japanese,12:20,Royale,350₹,53,0
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,Japanese,15:40,Club,250₹,78,0
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,Japanese,15:40,Executive,230₹,115,0
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,Japanese,15:40,RoyaleRecliners,460₹,8,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,Japanese,17:00,Club,390₹,48,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,Japanese,17:00,Executive,340₹,12,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,Japanese,17:00,Royale,410₹,53,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,Japanese,19:00,Normal,400₹,78,2
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,Japanese,21:15,Normal,450₹,78,0
