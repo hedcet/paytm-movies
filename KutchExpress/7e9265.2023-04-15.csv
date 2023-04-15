@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Bhuj,NyCinemasBhuj,Gujarati,15:00,Ebony,150₹,12,12
+Gujarat,Bhuj,NyCinemasBhuj,Gujarati,15:00,Executive,150₹,54,54
+Gujarat,Bhuj,NyCinemasBhuj,Gujarati,15:00,Normal,150₹,36,36
+Gujarat,Bhuj,NyCinemasBhuj,Gujarati,15:00,Premium,150₹,68,68
+Gujarat,Bhuj,NyCinemasBhuj,Gujarati,15:15,Platinum,150₹,35,35
+Gujarat,Bhuj,NyCinemasBhuj,Gujarati,15:15,Diamond,150₹,189,189
+Gujarat,Bhuj,NyCinemasBhuj,Gujarati,15:15,Gold,150₹,54,54
+Gujarat,Bhuj,NyCinemasBhuj,Gujarati,15:15,Silver,150₹,72,72
