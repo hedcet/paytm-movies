@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,Japanese,10:45,Club,200₹,78,0
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,Japanese,10:45,Executive,190₹,115,0
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,Japanese,10:45,RoyaleRecliners,330₹,8,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,Japanese,12:20,Royale,350₹,53,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,Japanese,12:20,Club,350₹,48,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,Japanese,12:20,Executive,350₹,12,0
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,Japanese,15:40,Club,270₹,78,0
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,Japanese,15:40,Executive,250₹,115,0
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,Japanese,15:40,RoyaleRecliners,490₹,8,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,Japanese,17:00,Club,390₹,48,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,Japanese,17:00,Executive,340₹,12,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,Japanese,17:00,Royale,410₹,53,0
+WestBengal,Kolkata,InoxQuestMallBallygunge,Japanese,17:40,Club,350₹,112,1
+WestBengal,Kolkata,InoxQuestMallBallygunge,Japanese,17:40,Executive,330₹,24,0
+WestBengal,Kolkata,InoxQuestMallBallygunge,Japanese,17:40,RoyalRecliner,580₹,8,0
+WestBengal,Kolkata,InoxQuestMallBallygunge,Japanese,17:40,Royal,360₹,28,0
