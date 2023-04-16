@@ -1,0 +1,137 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NewDelhi,PvrRivoliConnaughtPlace,Indian Sign Language,09:00,BalconyPrimePlus,150₹,39,24
+Delhi,NewDelhi,PvrRivoliConnaughtPlace,Indian Sign Language,09:00,Prime,99₹,120,37
+Delhi,NewDelhi,PvrRivoliConnaughtPlace,Indian Sign Language,09:00,Classic,99₹,158,5
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Indian Sign Language,09:00,Classic,99₹,30,4
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Indian Sign Language,09:00,Prime,99₹,54,2
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Indian Sign Language,09:00,Recliner,149₹,10,0
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Indian Sign Language,09:00,ClassicPlus,99₹,105,0
+Chhattisgarh,Raipur,PvrMagnetoTheMallRaipur,Indian Sign Language,09:00,Classic,99₹,38,0
+Chhattisgarh,Raipur,PvrMagnetoTheMallRaipur,Indian Sign Language,09:00,Prime,99₹,192,42
+Chhattisgarh,Raipur,PvrMagnetoTheMallRaipur,Indian Sign Language,09:00,Recliner,149₹,22,22
+Gujarat,Bhuj,NyCinemasBhuj,Gujarati,09:00,Vip,200₹,14,3
+Gujarat,Bhuj,NyCinemasBhuj,Gujarati,09:00,Premium,110₹,88,7
+Gujarat,Bhuj,NyCinemasBhuj,Gujarati,09:00,Executive,110₹,72,0
+Gujarat,Bhuj,NyCinemasBhuj,Gujarati,09:00,Normal,110₹,72,0
+MadhyaPradesh,Gwalior,InoxDbMallRaceCourseRoad,Indian Sign Language,09:10,Club,99₹,72,6
+MadhyaPradesh,Gwalior,InoxDbMallRaceCourseRoad,Indian Sign Language,09:10,Executive,99₹,24,0
+MadhyaPradesh,Gwalior,InoxDbMallRaceCourseRoad,Indian Sign Language,09:10,RoyaleRecliners,99₹,6,4
+MadhyaPradesh,Gwalior,InoxDbMallRaceCourseRoad,Indian Sign Language,09:10,Royale,99₹,67,47
+Maharashtra,Mumbai,PvrOdeonGhatkopar,Indian Sign Language,09:15,Classic,112₹,52,25
+Maharashtra,Mumbai,PvrOdeonGhatkopar,Indian Sign Language,09:15,Prime,112₹,115,115
+Maharashtra,Mumbai,PvrOdeonGhatkopar,Indian Sign Language,09:15,PrimePlus,112₹,124,124
+Maharashtra,Mumbai,PvrOdeonGhatkopar,Indian Sign Language,09:15,Recliner,250₹,28,28
+UttarPradesh,Prayagraj,PvrVinayakPrayagraj,Indian Sign Language,09:20,Classic,170₹,161,0
+UttarPradesh,Prayagraj,PvrVinayakPrayagraj,Indian Sign Language,09:20,Prime,190₹,98,4
+UttarPradesh,Prayagraj,PvrVinayakPrayagraj,Indian Sign Language,09:20,Recliner,320₹,9,0
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,Indian Sign Language,09:30,Classic,99₹,52,0
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,Indian Sign Language,09:30,Prime,99₹,130,2
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,Indian Sign Language,09:30,PrimePlus,99₹,72,18
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,Indian Sign Language,09:30,Recliner,199₹,33,0
+Chhattisgarh,Bhilai,PvrTreasureIslandBhilai,Indian Sign Language,09:30,Classic,99₹,36,0
+Chhattisgarh,Bhilai,PvrTreasureIslandBhilai,Indian Sign Language,09:30,Prime,99₹,120,6
+Chhattisgarh,Bhilai,PvrTreasureIslandBhilai,Indian Sign Language,09:30,PrimePlus,99₹,49,24
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Indian Sign Language,09:45,Recliner,199₹,24,5
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Indian Sign Language,09:45,Prime,99₹,87,22
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Indian Sign Language,09:45,Classic,99₹,30,0
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Indian Sign Language,09:45,ClassicPlus,99₹,30,4
+AndhraPradesh,Guntur,PvrGuntur,Indian Sign Language,10:00,Premium,295₹,10,5
+AndhraPradesh,Guntur,PvrGuntur,Indian Sign Language,10:00,Deluxe,177₹,170,25
+Gujarat,Bhavnagar,TheEntertainmentParkNawapara,Indian Sign Language,10:00,Silver,100₹,34,0
+Gujarat,Bhavnagar,TheEntertainmentParkNawapara,Indian Sign Language,10:00,Gold,100₹,156,4
+Gujarat,Bhavnagar,TheEntertainmentParkNawapara,Indian Sign Language,10:00,Platinum,100₹,34,0
+Gujarat,Bhavnagar,TheEntertainmentParkNawapara,Indian Sign Language,10:00,Royal,100₹,14,0
+Rajasthan,SriGanganagar,PvrRidhiSidhiMall,Indian Sign Language,10:00,Classic,99₹,39,0
+Rajasthan,SriGanganagar,PvrRidhiSidhiMall,Indian Sign Language,10:00,Prime,99₹,108,16
+Gujarat,Vadodara,PvrTransCubeVadodara,Indian Sign Language,10:00,Classic,99₹,47,0
+Gujarat,Vadodara,PvrTransCubeVadodara,Indian Sign Language,10:00,Prime,99₹,168,30
+Gujarat,Vadodara,PvrTransCubeVadodara,Indian Sign Language,10:00,Recliner,220₹,10,1
+Telangana,Hyderabad,PvrMusarambaghNewMalakpet,Indian Sign Language,10:00,Classic,112₹,150,72
+Maharashtra,Kolhapur,PvrDypCityMallKavalaNaka,Indian Sign Language,10:00,Prime,99₹,187,26
+Maharashtra,Kolhapur,PvrDypCityMallKavalaNaka,Indian Sign Language,10:00,Recliner,200₹,12,1
+Maharashtra,Kolhapur,PvrDypCityMallKavalaNaka,Indian Sign Language,10:00,Classic,99₹,48,0
+Rajasthan,Jaipur,PvrMallOfJaipur,Indian Sign Language,10:00,Prime,99₹,96,17
+Rajasthan,Jaipur,PvrMallOfJaipur,Indian Sign Language,10:00,PrimePlus,99₹,30,18
+Rajasthan,Jaipur,PvrMallOfJaipur,Indian Sign Language,10:00,Recliner,199₹,11,11
+Rajasthan,Jaipur,PvrMallOfJaipur,Indian Sign Language,10:00,Classic,99₹,24,0
+Gujarat,Rajkot,InoxRWorldRajkot,Indian Sign Language,10:00,Gold,100₹,133,69
+Gujarat,Rajkot,InoxRWorldRajkot,Indian Sign Language,10:00,Silver,100₹,41,0
+Maharashtra,Nashik,CinemaxCityCenterNasik,Indian Sign Language,10:00,Recliner,250₹,33,9
+Maharashtra,Nashik,CinemaxCityCenterNasik,Indian Sign Language,10:00,Prime,99₹,135,16
+Maharashtra,Nashik,CinemaxCityCenterNasik,Indian Sign Language,10:00,Classic,99₹,34,0
+HimachalPradesh,Bilaspur,PvrRamaMagnetoMallBilaspur,Indian Sign Language,10:00,Classic,99₹,40,0
+HimachalPradesh,Bilaspur,PvrRamaMagnetoMallBilaspur,Indian Sign Language,10:00,Prime,99₹,116,4
+HimachalPradesh,Bilaspur,PvrRamaMagnetoMallBilaspur,Indian Sign Language,10:00,PrimePlus,99₹,13,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallSouthTukoganj,Indian Sign Language,10:00,Prime,99₹,135,53
+MadhyaPradesh,Indore,PvrTreasureIslandMallSouthTukoganj,Indian Sign Language,10:00,Classic,99₹,168,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallSouthTukoganj,Indian Sign Language,10:00,Recliner,200₹,21,9
+AndhraPradesh,Vijayawada,PvrRipplesMallVijaywada,Indian Sign Language,10:10,Classic,177₹,182,27
+AndhraPradesh,Vijayawada,PvrRipplesMallVijaywada,Indian Sign Language,10:10,Recliner,295₹,13,3
+Punjab,Patiala,PvrVrcPatiala,Indian Sign Language,10:15,Classic,99₹,22,0
+Punjab,Patiala,PvrVrcPatiala,Indian Sign Language,10:15,Prime,99₹,94,5
+Haryana,Panipat,PvrFunCityPanipat,Gujarati,10:20,Classic,99₹,68,0
+Haryana,Panipat,PvrFunCityPanipat,Gujarati,10:20,Prime,99₹,69,0
+Haryana,Panipat,PvrFunCityPanipat,Gujarati,10:20,PrimePlus,99₹,12,0
+Haryana,Chandigarh,PvrElanteMallChandigarh,Indian Sign Language,10:20,Classic,180₹,138,5
+Haryana,Chandigarh,PvrElanteMallChandigarh,Indian Sign Language,10:20,Recliner,450₹,13,0
+UttarPradesh,Noida,PvrLogixCityCentreNoida,Indian Sign Language,10:45,Classic,99₹,78,8
+UttarPradesh,Lucknow,PvrPhoenixUnitedMallAlambagh,Indian Sign Language,11:00,Classic,99₹,117,65
+UttarPradesh,Lucknow,PvrPhoenixUnitedMallAlambagh,Indian Sign Language,11:00,Prime,99₹,7,7
+Uttarakhand,Dehradun,PvrPacificMallDehradun,Indian Sign Language,11:05,Prime,200₹,72,4
+Uttarakhand,Dehradun,PvrPacificMallDehradun,Indian Sign Language,11:05,Classic,160₹,24,0
+Gujarat,Umreth,AprCinemaUmreth,Gujarati,12:00,Platinum,150₹,10,0
+Gujarat,Umreth,AprCinemaUmreth,Gujarati,12:00,Gold,130₹,48,0
+Gujarat,Umreth,AprCinemaUmreth,Gujarati,12:00,Silver,110₹,48,0
+Gujarat,Gandhinagar,InoxR21Gandhinagar,Gujarati,12:15,Gold,130₹,92,0
+Gujarat,Gandhinagar,InoxR21Gandhinagar,Gujarati,12:15,Platinum,130₹,14,2
+Gujarat,Gandhinagar,InoxR21Gandhinagar,Gujarati,12:15,Silver,130₹,32,0
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarati,13:15,Recliner,220₹,20,7
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarati,13:15,ClassicPlus,130₹,12,0
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarati,13:15,Prime,130₹,111,61
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarati,13:15,Classic,130₹,26,0
+Gujarat,Ahmedabad,PvrAcropolisMallThaltej,Gujarati,13:15,PrimePlus,130₹,66,29
+Gujarat,Ahmedabad,PvrAcropolisMallThaltej,Gujarati,13:15,Prime,130₹,65,0
+Gujarat,Ahmedabad,PvrAcropolisMallThaltej,Gujarati,13:15,Classic,130₹,39,0
+Gujarat,Ahmedabad,PvrAcropolisMallThaltej,Gujarati,13:15,Recliner,450₹,9,7
+Gujarat,Umreth,AprCinemaUmreth,Gujarati,15:00,Platinum,150₹,10,0
+Gujarat,Umreth,AprCinemaUmreth,Gujarati,15:00,Gold,130₹,48,0
+Gujarat,Umreth,AprCinemaUmreth,Gujarati,15:00,Silver,110₹,48,0
+Gujarat,Gandhinagar,InoxR21Gandhinagar,Gujarati,15:25,Gold,130₹,92,9
+Gujarat,Gandhinagar,InoxR21Gandhinagar,Gujarati,15:25,Platinum,130₹,14,13
+Gujarat,Gandhinagar,InoxR21Gandhinagar,Gujarati,15:25,Silver,130₹,32,0
+Gujarat,Bhavnagar,TheEntertainmentParkNawapara,Gujarati,16:15,Silver,119₹,30,0
+Gujarat,Bhavnagar,TheEntertainmentParkNawapara,Gujarati,16:15,Gold,149₹,170,9
+Gujarat,Bhavnagar,TheEntertainmentParkNawapara,Gujarati,16:15,Platinum,199₹,29,6
+Gujarat,Bhavnagar,TheEntertainmentParkNawapara,Gujarati,16:15,Royal,249₹,13,0
+Gujarat,Vadodara,PvrTransCubeVadodara,Gujarati,17:00,Classic,130₹,42,0
+Gujarat,Vadodara,PvrTransCubeVadodara,Gujarati,17:00,Prime,130₹,99,13
+Gujarat,Vadodara,PvrTransCubeVadodara,Gujarati,17:00,Recliner,220₹,8,3
+Gujarat,Ahmedabad,PvrArvedTranscube,Gujarati,18:00,Classic,130₹,30,0
+Gujarat,Ahmedabad,PvrArvedTranscube,Gujarati,18:00,Prime,130₹,107,65
+Gujarat,Umreth,AprCinemaUmreth,Gujarati,18:00,Platinum,150₹,10,0
+Gujarat,Umreth,AprCinemaUmreth,Gujarati,18:00,Gold,130₹,48,0
+Gujarat,Umreth,AprCinemaUmreth,Gujarati,18:00,Silver,110₹,48,0
+Gujarat,Anjar,CarnivalJalsaTalkiesAnjar,Gujarati,18:30,Sofa,150₹,11,5
+Gujarat,Anjar,CarnivalJalsaTalkiesAnjar,Gujarati,18:30,Gold,130₹,36,25
+Gujarat,Anjar,CarnivalJalsaTalkiesAnjar,Gujarati,18:30,Silver,110₹,70,6
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarati,18:30,Recliner,340₹,24,13
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarati,18:30,Prime,200₹,87,52
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarati,18:30,Classic,160₹,30,0
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarati,18:30,ClassicPlus,180₹,30,0
+Gujarat,Vadodara,MovieTimeSSquareMallElloraPark,Gujarati,19:30,Premium,100₹,120,3
+Gujarat,Vadodara,MovieTimeSSquareMallElloraPark,Gujarati,19:30,Recliner,150₹,8,0
+Gujarat,Vadodara,MovieTimeSSquareMallElloraPark,Gujarati,19:30,Executive,100₹,48,0
+Gujarat,Umreth,AprCinemaUmreth,Gujarati,21:00,Platinum,150₹,10,0
+Gujarat,Umreth,AprCinemaUmreth,Gujarati,21:00,Gold,130₹,48,0
+Gujarat,Umreth,AprCinemaUmreth,Gujarati,21:00,Silver,110₹,48,0
+Gujarat,Anjar,CarnivalJalsaTalkiesAnjar,Gujarati,21:30,Sofa,150₹,11,7
+Gujarat,Anjar,CarnivalJalsaTalkiesAnjar,Gujarati,21:30,Gold,130₹,36,25
+Gujarat,Anjar,CarnivalJalsaTalkiesAnjar,Gujarati,21:30,Silver,110₹,70,6
+Gujarat,Ahmedabad,PvrAcropolisMallThaltej,Gujarati,21:45,Prime,130₹,42,30
+Gujarat,Ahmedabad,PvrAcropolisMallThaltej,Gujarati,21:45,Classic,130₹,42,0
+Gujarat,Ahmedabad,PvrAcropolisMallThaltej,Gujarati,21:45,Recliner,500₹,11,7
+Gujarat,Ahmedabad,PvrAcropolisMallThaltej,Gujarati,21:45,PrimePlus,130₹,70,66
+Gujarat,Bhavnagar,TheEntertainmentParkNawapara,Gujarati,22:00,Silver,179₹,34,0
+Gujarat,Bhavnagar,TheEntertainmentParkNawapara,Gujarati,22:00,Gold,199₹,156,2
+Gujarat,Bhavnagar,TheEntertainmentParkNawapara,Gujarati,22:00,Platinum,249₹,34,0
+Gujarat,Bhavnagar,TheEntertainmentParkNawapara,Gujarati,22:00,Royal,299₹,14,0
