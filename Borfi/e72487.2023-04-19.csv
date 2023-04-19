@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,CoochBehar,NewCinemaBangchatraRoad,Bengali,10:00,Balcony,100₹,87,45
+WestBengal,CoochBehar,NewCinemaBangchatraRoad,Bengali,12:30,Balcony,100₹,87,45
+WestBengal,CoochBehar,NewCinemaBangchatraRoad,Bengali,20:00,Balcony,80₹,87,45
