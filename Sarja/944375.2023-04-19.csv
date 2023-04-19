@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Sangli,MeenakshiCinemaPalus,Marathi,12:00,Balcony,100₹,100,10
+Maharashtra,Sangli,MeenakshiCinemaPalus,Marathi,12:00,Stall,80₹,200,12
+Maharashtra,Shirur,DigiGoldNovaCinema,Marathi,12:15,Gold,150₹,80,0
+Maharashtra,Shirur,DigiGoldNovaCinema,Marathi,12:15,Silver,130₹,64,0
+Maharashtra,Pune,VaibhavChitramandirHadapsar,Marathi,12:30,Gold,100₹,142,0
+Maharashtra,Thane,GoldCinemaThaneW,Marathi,12:45,Box,300₹,22,0
+Maharashtra,Thane,GoldCinemaThaneW,Marathi,12:45,Gold,110₹,253,0
+Maharashtra,Thane,GoldCinemaThaneW,Marathi,12:45,Silver,110₹,42,0
+Maharashtra,Sangli,AurumCinemasCenter1MallVijaynagarChowk,Marathi,17:15,Gl,150₹,108,0
+Maharashtra,Sangli,AurumCinemasCenter1MallVijaynagarChowk,Marathi,17:15,Sl,150₹,24,0
+Maharashtra,Pune,ViluxTalkiesKhadkiBazar,Marathi,18:30,Gold,100₹,224,0
+Maharashtra,Pune,ViluxTalkiesKhadkiBazar,Marathi,18:30,Silver,100₹,58,0
+Maharashtra,Sangli,MeenakshiCinemaPalus,Marathi,21:00,Balcony,100₹,100,10
+Maharashtra,Sangli,MeenakshiCinemaPalus,Marathi,21:00,Stall,80₹,200,12
