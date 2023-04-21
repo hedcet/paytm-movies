@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,11:50,Classic,200₹,84,0
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,11:50,Prime,220₹,38,0
+Punjab,Hoshiarpur,SwarnTheatreHoshiarpur,Punjabi,12:30,Box2,150₹,9,9
+Punjab,Hoshiarpur,SwarnTheatreHoshiarpur,Punjabi,12:30,GoldC,150₹,129,45
+Punjab,Hoshiarpur,SwarnTheatreHoshiarpur,Punjabi,12:30,SilverC,150₹,60,0
+Punjab,Hoshiarpur,SwarnTheatreHoshiarpur,Punjabi,15:00,Box2,150₹,9,9
+Punjab,Hoshiarpur,SwarnTheatreHoshiarpur,Punjabi,15:00,GoldC,150₹,129,45
+Punjab,Hoshiarpur,SwarnTheatreHoshiarpur,Punjabi,15:00,SilverC,150₹,60,0
+Punjab,Hoshiarpur,SwarnTheatreHoshiarpur,Punjabi,18:00,Box2,150₹,9,9
+Punjab,Hoshiarpur,SwarnTheatreHoshiarpur,Punjabi,18:00,GoldC,150₹,129,45
+Punjab,Hoshiarpur,SwarnTheatreHoshiarpur,Punjabi,18:00,SilverC,150₹,60,0
+Punjab,Ludhiana,PvrPavilionMallLudhiana,Punjabi,20:25,Classic,230₹,64,0
+Punjab,Hoshiarpur,SwarnTheatreHoshiarpur,Punjabi,20:30,Box2,150₹,9,9
+Punjab,Hoshiarpur,SwarnTheatreHoshiarpur,Punjabi,20:30,GoldC,150₹,129,45
+Punjab,Hoshiarpur,SwarnTheatreHoshiarpur,Punjabi,20:30,SilverC,150₹,60,0
