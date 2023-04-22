@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,InoxCentralMantriJunctionJpNagar,Kannada,10:10,Club,200₹,234,0
+Karnataka,Bengaluru,InoxCentralMantriJunctionJpNagar,Kannada,10:10,Royal,340₹,4,0
+Karnataka,Mudhol,SuryavanshiMultiplexRocklineCinemas,Kannada,12:00,GoldClass,150₹,154,36
+Karnataka,Vijayapura,AlankarTheatreVijayapura,Kannada,12:00,Balcony,150₹,275,150
+Karnataka,Vijayapura,AlankarTheatreVijayapura,Kannada,12:00,DressCircle,100₹,40,20
+Karnataka,Dharwad,SrinivasTalkiesSubhasRoad,Kannada,12:00,Balcony,110₹,150,58
+Karnataka,Dharwad,SrinivasTalkiesSubhasRoad,Kannada,12:00,DressCircle,80₹,671,173
+Karnataka,Muddebihal,ShriGirijashankarTalkies,Kannada,12:00,FirstClass,81₹,300,0
+Karnataka,Hubli,ShringarCinemaHubli,Kannada,12:00,Balcony,150₹,190,84
+Karnataka,Hubli,ShringarCinemaHubli,Kannada,12:00,DressCircle,100₹,504,112
+Karnataka,Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Kannada,14:00,Recliner,330₹,10,0
+Karnataka,Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Kannada,14:00,Classic,170₹,172,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,16:45,Classic,220₹,108,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,16:45,Prime,240₹,99,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,16:45,Recliner,410₹,12,0
+Karnataka,Mudhol,SuryavanshiMultiplexRocklineCinemas,Kannada,21:00,GoldClass,150₹,154,38
