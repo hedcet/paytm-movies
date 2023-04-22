@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NewDelhi,InoxPatelNagar,Hindi,11:00,Club,330₹,81,81
+Delhi,NewDelhi,InoxPatelNagar,Hindi,11:00,Executive,330₹,105,105
+Delhi,NewDelhi,InoxPatelNagar,Hindi,11:00,Royal,330₹,30,30
+MadhyaPradesh,Bhopal,InoxCapitalMallHoshangabadRoad,Hindi,13:15,Club,280₹,185,185
+MadhyaPradesh,Bhopal,InoxCapitalMallHoshangabadRoad,Hindi,13:15,Executive,280₹,30,30
+MadhyaPradesh,Bhopal,InoxCapitalMallHoshangabadRoad,Hindi,13:15,Royal,280₹,55,55
+Maharashtra,Mumbai,InoxRCityGhatkoparW,Hindi,15:30,Club,490₹,63,63
+Maharashtra,Mumbai,InoxRCityGhatkoparW,Hindi,15:30,Executive,490₹,36,36
+Maharashtra,Mumbai,InoxRCityGhatkoparW,Hindi,15:30,RoyalRecliner,490₹,13,13
+Maharashtra,Mumbai,InoxRCityGhatkoparW,Hindi,15:30,Royal,490₹,37,37
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,Hindi,17:00,Amplix,480₹,16,16
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,Hindi,17:00,Executive,480₹,32,32
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,Hindi,17:00,Premiere,480₹,101,101
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,Hindi,17:00,Silver,480₹,76,76
