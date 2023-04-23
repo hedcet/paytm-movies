@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,CinepolisImperialSquareMallAdajan,Gujarati,12:25,Normal,150₹,32,0
+Gujarat,Surat,CinepolisImperialSquareMallAdajan,Gujarati,12:25,Executive,150₹,94,14
+Gujarat,Surat,CinepolisImperialSquareMallAdajan,Gujarati,12:25,Premium,170₹,43,11
+Maharashtra,Mumbai,PvrMilapKandivaliW,Gujarati,15:20,Classic,130₹,103,37
+Maharashtra,Mumbai,PvrMilapKandivaliW,Gujarati,15:20,Prime,130₹,57,54
+Maharashtra,Nagpur,CinepolisVrNagpurMall,Gujarati,17:00,Vip,150₹,10,10
+Maharashtra,Nagpur,CinepolisVrNagpurMall,Gujarati,17:00,Premium,150₹,69,69
+Maharashtra,Nagpur,CinepolisVrNagpurMall,Gujarati,17:00,Executive,150₹,73,73
+Maharashtra,Nagpur,CinepolisVrNagpurMall,Gujarati,17:00,Normal,150₹,29,29
+Maharashtra,Nagpur,CinepolisVrNagpurMall,Gujarati,18:10,Vip,150₹,14,14
+Maharashtra,Nagpur,CinepolisVrNagpurMall,Gujarati,18:10,Premium,150₹,66,66
+Maharashtra,Nagpur,CinepolisVrNagpurMall,Gujarati,18:10,Executive,150₹,90,90
+Maharashtra,Nagpur,CinepolisVrNagpurMall,Gujarati,18:10,Normal,150₹,35,35
+Gujarat,Surat,CinepolisImperialSquareMallAdajan,Gujarati,22:20,Premium,190₹,42,0
+Gujarat,Surat,CinepolisImperialSquareMallAdajan,Gujarati,22:20,Normal,170₹,29,0
+Gujarat,Surat,CinepolisImperialSquareMallAdajan,Gujarati,22:20,Executive,170₹,92,0
