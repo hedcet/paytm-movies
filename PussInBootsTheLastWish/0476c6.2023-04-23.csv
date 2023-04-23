@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NewDelhi,PvrVegasDwarka,English,12:30,Recliner,500₹,8,3
+Delhi,NewDelhi,PvrVegasDwarka,English,12:30,Prime,330₹,14,5
+Delhi,NewDelhi,PvrVegasDwarka,English,12:30,Classic,300₹,36,0
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,13:35,Classic,150₹,54,52
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,16:30,Classic,360₹,38,19
