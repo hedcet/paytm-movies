@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Jodhpur,InoxAnsalRoyalPlazaJodhpur,Hindi,14:00,Club,300₹,102,102
+Rajasthan,Jodhpur,InoxAnsalRoyalPlazaJodhpur,Hindi,14:00,Executive,300₹,43,43
+Rajasthan,Jodhpur,InoxAnsalRoyalPlazaJodhpur,Hindi,14:00,Royale,300₹,17,17
