@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,Bhubaneswar,InoxDnRegaliaMallPatrapada,Odia,12:10,Club,147₹,50,0
+Orissa,Bhubaneswar,InoxDnRegaliaMallPatrapada,Odia,12:10,Executive,147₹,20,0
+Orissa,Bhubaneswar,InoxDnRegaliaMallPatrapada,Odia,12:10,Royal,147₹,59,6
+Orissa,Cuttack,InoxSgblSquareMallCuttack,Odia,13:35,Club,138₹,88,0
+Orissa,Cuttack,InoxSgblSquareMallCuttack,Odia,13:35,Executive,138₹,28,0
+Orissa,Cuttack,InoxSgblSquareMallCuttack,Odia,13:35,RoyalRecliner,230₹,8,2
+Orissa,Cuttack,InoxSgblSquareMallCuttack,Odia,13:35,Royal,138₹,62,24
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,22:15,Vip,500₹,11,2
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,22:15,Premium,150₹,45,10
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,22:15,Executive,150₹,51,11
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,22:15,Normal,150₹,24,0
