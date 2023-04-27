@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,Telugu,10:05,Classic,150₹,250,47
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,Telugu,10:05,Recliner,250₹,12,0
+AndhraPradesh,Kakinada,InoxSrmtMallRamanayyapeta,Telugu,16:50,Executive,112₹,131,0
+AndhraPradesh,Kakinada,InoxSrmtMallRamanayyapeta,Telugu,22:20,Executive,112₹,131,0
