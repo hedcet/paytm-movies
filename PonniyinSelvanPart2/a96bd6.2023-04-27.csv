@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Mandapeta,SapthagiriComplexACDtsSatyasriRoad,Telugu,11:30,DressCircle,150₹,19,18
+AndhraPradesh,Mandapeta,SapthagiriComplexACDtsSatyasriRoad,Telugu,11:30,FirstClass,150₹,153,51
+AndhraPradesh,Mandapeta,SapthagiriComplexACDtsSatyasriRoad,Telugu,11:30,SecondClass,100₹,50,49
+AndhraPradesh,Mandapeta,SapthagiriComplexACDtsSatyasriRoad,Telugu,14:30,DressCircle,150₹,19,18
+AndhraPradesh,Mandapeta,SapthagiriComplexACDtsSatyasriRoad,Telugu,14:30,FirstClass,150₹,153,51
+AndhraPradesh,Mandapeta,SapthagiriComplexACDtsSatyasriRoad,Telugu,14:30,SecondClass,100₹,50,49
+AndhraPradesh,Mandapeta,SapthagiriComplexACDtsSatyasriRoad,Telugu,18:15,DressCircle,150₹,19,18
+AndhraPradesh,Mandapeta,SapthagiriComplexACDtsSatyasriRoad,Telugu,18:15,FirstClass,150₹,153,51
+AndhraPradesh,Mandapeta,SapthagiriComplexACDtsSatyasriRoad,Telugu,18:15,SecondClass,100₹,50,49
+AndhraPradesh,Mandapeta,SapthagiriComplexACDtsSatyasriRoad,Telugu,21:30,DressCircle,150₹,19,18
+AndhraPradesh,Mandapeta,SapthagiriComplexACDtsSatyasriRoad,Telugu,21:30,FirstClass,150₹,153,51
+AndhraPradesh,Mandapeta,SapthagiriComplexACDtsSatyasriRoad,Telugu,21:30,SecondClass,100₹,50,49
