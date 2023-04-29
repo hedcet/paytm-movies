@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,14:45,Classic,300₹,105,2
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,14:45,Prime,330₹,42,2
+Punjab,Jalandhar,PvrMbdNeopolisMallJalandhar,Punjabi,19:05,Recliner,540₹,12,5
+Punjab,Jalandhar,PvrMbdNeopolisMallJalandhar,Punjabi,19:05,Prime,370₹,12,3
+Punjab,Jalandhar,PvrMbdNeopolisMallJalandhar,Punjabi,19:05,Classic,240₹,112,0
+Punjab,Jalandhar,PvrMbdNeopolisMallJalandhar,Punjabi,19:05,ClassicPlus,290₹,37,0
