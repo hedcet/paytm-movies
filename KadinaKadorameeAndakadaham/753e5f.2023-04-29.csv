@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kozhikode,ArcCoronationDolbyAtmosCalicut,Malayalam,16:00,Elite,160₹,146,19
+Kerala,Kozhikode,MallikaPlexDolbyAtmosCalicut,Malayalam,16:15,Executive,140₹,244,47
+Kerala,Mukkam,AbhilashCinemas4KMukkam,Malayalam,18:00,Executive,110₹,300,28
+Kerala,Kochi,PvrLuluKochi,Malayalam,19:15,Classic,140₹,39,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,19:15,ClassicPlus,160₹,91,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,19:15,Prime,190₹,64,28
+Kerala,Kochi,PvrLuluKochi,Malayalam,19:15,Recliner,350₹,9,7
+Kerala,Mukkam,AbhilashCinemas4KMukkam,Malayalam,21:00,Executive,110₹,300,26
