@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,English,10:00,Kiddles,210₹,36,36
+Delhi,NewDelhi,PvrSelectCityWalkSaket,English,10:00,ClassicNormal,70₹,112,112
+Delhi,NewDelhi,PvrSelectCityWalkSaket,English,10:00,ClassicSuperior,70₹,47,47
+Delhi,NewDelhi,PvrSelectCityWalkSaket,English,10:00,ReclinersNormal,70₹,9,9
+Haryana,Gurgaon,PvrMgfMallGurgaon,English,11:45,Classic,210₹,59,59
+Haryana,Gurgaon,PvrMgfMallGurgaon,English,11:45,Prime,260₹,52,52
+Haryana,Gurgaon,PvrMgfMallGurgaon,English,11:45,Recliner,420₹,8,8
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,13:30,Classic,360₹,38,2
+Haryana,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,15:00,Normal,240₹,22,0
+Haryana,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,15:00,DoubleSofa,360₹,24,4
+Haryana,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,15:00,Lounger,360₹,8,0
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,16:20,Classic,150₹,54,52
