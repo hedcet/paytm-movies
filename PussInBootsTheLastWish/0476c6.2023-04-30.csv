@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,14:20,Normal,240₹,22,13
+Haryana,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,14:20,DoubleSofa,360₹,24,14
+Haryana,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,14:20,Lounger,360₹,8,4
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,15:50,Classic,360₹,38,2
