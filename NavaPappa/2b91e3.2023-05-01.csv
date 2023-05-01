@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Vadodara,CinemarcAkota,Gujarati,09:25,Premier,70₹,15,0
+Gujarat,Vadodara,CinemarcAkota,Gujarati,09:25,Silver,70₹,88,0
+Gujarat,Vadodara,CinemarcAkota,Gujarati,09:25,Sofa,80₹,19,0
+Gujarat,Ahmedabad,RajhansCinemaVastral,Gujarati,13:30,Marvel,110₹,24,0
+Gujarat,Ahmedabad,RajhansCinemaVastral,Gujarati,13:30,Royal,130₹,28,0
+Gujarat,Ahmedabad,RajhansCinemaVastral,Gujarati,13:30,Executive,150₹,103,6
+Gujarat,Ahmedabad,RajhansCinemaVastral,Gujarati,13:30,Recliner,300₹,17,6
+Gujarat,Vadodara,CinemarcVip,Gujarati,18:45,Premium,100₹,13,0
+Gujarat,Vadodara,CinemarcVip,Gujarati,18:45,Silver,100₹,87,0
+Gujarat,Vadodara,CinemarcVip,Gujarati,18:45,Gold,100₹,20,0
+Gujarat,Vadodara,CinemarcVip,Gujarati,18:45,Sofa,120₹,19,0
+Gujarat,Ahmedabad,CityGoldSatellite,Gujarati,20:20,Executive,170₹,123,0
