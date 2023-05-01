@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Mukkam,AbhilashCinemas4KMukkam,Malayalam,18:00,Executive,110₹,300,28
+Kerala,Kochi,PvrLuluKochi,Malayalam,19:15,Classic,140₹,39,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,19:15,ClassicPlus,160₹,91,4
+Kerala,Kochi,PvrLuluKochi,Malayalam,19:15,Prime,190₹,64,16
+Kerala,Kochi,PvrLuluKochi,Malayalam,19:15,Recliner,350₹,9,0
+Kerala,Mukkam,AbhilashCinemas4KMukkam,Malayalam,21:00,Executive,110₹,300,27
