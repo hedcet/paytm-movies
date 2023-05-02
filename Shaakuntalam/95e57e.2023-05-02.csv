@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kakinada,SpAnandCinemasKakinada,Telugu,13:30,Reclinear,295₹,19,0
+AndhraPradesh,Kakinada,SpAnandCinemasKakinada,Telugu,13:30,PremiumClass,148₹,298,2
+AndhraPradesh,Kurnool,SvcCinemasCitySquareMall,Telugu,13:50,Platinum,295₹,9,0
+AndhraPradesh,Kurnool,SvcCinemasCitySquareMall,Telugu,13:50,Sliders,177₹,77,0
