@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Noida,PvrSuperplexMallOfIndiaNoida,Hindi,15:25,Classic,225₹,169,19
+UttarPradesh,Noida,PvrSuperplexMallOfIndiaNoida,Hindi,15:25,Prime,250₹,105,19
+Maharashtra,Mumbai,PvrKotakImaxWithLaserPhoenixPalladiumLowerParelMumbai,Hindi,19:30,Classic,410₹,57,57
+Maharashtra,Mumbai,PvrKotakImaxWithLaserPhoenixPalladiumLowerParelMumbai,Hindi,19:30,Prime,520₹,329,329
+Maharashtra,Mumbai,PvrKotakImaxWithLaserPhoenixPalladiumLowerParelMumbai,Hindi,19:30,Recliner,990₹,16,16
