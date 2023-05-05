@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,KamalaCinemasVadapalani,English,09:00,Lounge1,152₹,17,8
+TamilNadu,Chennai,KamalaCinemasVadapalani,English,09:00,Lounge2,152₹,17,0
+TamilNadu,Chennai,KamalaCinemasVadapalani,English,09:00,Elite,118₹,294,0
+TamilNadu,Chennai,KamalaCinemasVadapalani,English,09:00,Premium,60₹,5,0
