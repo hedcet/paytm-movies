@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,13:20,Classic,230₹,154,2
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,13:20,Prime,280₹,12,6
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,13:20,Recliner,460₹,14,0
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Bengali,19:00,Elite,202₹,216,48
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Bengali,19:00,Budget,63₹,28,0
