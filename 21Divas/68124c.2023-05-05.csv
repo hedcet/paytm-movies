@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Deesa,RMandirMultiplexDeesa,Gujarati,20:45,Gold,110₹,136,0
+Gujarat,Deesa,RMandirMultiplexDeesa,Gujarati,20:45,Silver,110₹,60,0
+Gujarat,Vadodara,PvrTransCubeVadodara,Gujarati,21:30,Classic,190₹,42,0
+Gujarat,Vadodara,PvrTransCubeVadodara,Gujarati,21:30,Prime,190₹,137,19
+Gujarat,Vadodara,PvrTransCubeVadodara,Gujarati,21:30,Recliner,370₹,8,0
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarati,21:30,Recliner,380₹,24,5
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarati,21:30,ClassicPlus,200₹,38,0
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarati,21:30,Prime,220₹,76,11
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarati,21:30,Classic,180₹,38,0
