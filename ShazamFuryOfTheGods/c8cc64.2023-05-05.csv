@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,17:00,Classic,290₹,49,49
+Haryana,Gurgaon,InoxGurgaonArdeeMall,English,17:30,Platinum,500₹,12,12
+Haryana,Gurgaon,InoxGurgaonArdeeMall,English,17:30,PlatinumSuperior,500₹,12,12
