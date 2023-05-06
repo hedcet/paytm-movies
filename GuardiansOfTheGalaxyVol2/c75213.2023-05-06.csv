@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,PvrArvedTranscube,Hindi,10:00,Classic,200₹,60,0
+Gujarat,Ahmedabad,PvrArvedTranscube,Hindi,10:00,Prime,200₹,238,20
+Gujarat,Ahmedabad,PvrArvedTranscube,Hindi,10:00,Recliner,350₹,6,0
+Gujarat,Ahmedabad,PvrMotera,Hindi,16:00,Classic,230₹,69,0
+Gujarat,Ahmedabad,PvrMotera,Hindi,16:00,Prime,280₹,212,23
+Gujarat,Ahmedabad,PvrMotera,Hindi,16:00,Recliner,430₹,27,0
+Karnataka,Bengaluru,SiddalingeshwaraAC4K3DJpNagar,Hindi,19:00,Diamond,150₹,245,145
+Karnataka,Bengaluru,SiddalingeshwaraAC4K3DJpNagar,Hindi,19:00,Gold,110₹,356,178
