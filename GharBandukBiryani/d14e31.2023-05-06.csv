@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Waterland,MirajTestCinema,Marathi,09:00,Special,10₹,70,0
+Rajasthan,Waterland,MirajTestCinema,Marathi,09:00,Executive,20₹,105,0
+Rajasthan,Waterland,MirajTestCinema,Marathi,09:00,Gold,50₹,30,5
+Rajasthan,Waterland,MirajTestCinema,Marathi,16:00,Special,10₹,70,0
+Rajasthan,Waterland,MirajTestCinema,Marathi,16:00,Executive,20₹,105,0
+Rajasthan,Waterland,MirajTestCinema,Marathi,16:00,Gold,50₹,30,6
