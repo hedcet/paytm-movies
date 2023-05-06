@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Jaipur,InoxGtCentralMallMalviyaNagar,English,16:00,Executive,250₹,16,0
+Rajasthan,Jaipur,InoxGtCentralMallMalviyaNagar,English,16:00,Royale,250₹,42,5
+Haryana,Chandigarh,PvrElanteMallChandigarh,English,16:35,Classic,230₹,140,22
+Haryana,Chandigarh,PvrElanteMallChandigarh,English,16:35,Recliner,650₹,26,8
