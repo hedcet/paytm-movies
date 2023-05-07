@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrVegaBannerghattaRoad,English,13:10,Classic,340₹,77,55
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,21:40,PlatinumSuperior,"1,100₹",8,0
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,21:40,Platinum,900₹,28,0
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,22:15,Classic,152₹,95,9
