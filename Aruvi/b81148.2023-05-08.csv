@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Waterland,A1TestCinemaOcl,Tamil,07:00,Balcony,1₹,131,65
+Rajasthan,Waterland,A1TestCinemaOcl,Tamil,07:00,FirstClass,1₹,142,71
+Rajasthan,Waterland,A1TestCinemaOcl,Tamil,10:45,Balcony,50₹,131,65
+Rajasthan,Waterland,A1TestCinemaOcl,Tamil,10:45,FirstClass,50₹,142,71
+Rajasthan,Waterland,A1TestCinemaOcl,Tamil,14:15,Balcony,50₹,131,65
+Rajasthan,Waterland,A1TestCinemaOcl,Tamil,14:15,FirstClass,50₹,142,71
+Rajasthan,Waterland,A1TestCinemaOcl,Tamil,18:15,Balcony,1₹,131,65
+Rajasthan,Waterland,A1TestCinemaOcl,Tamil,18:15,FirstClass,1₹,142,71
+Rajasthan,Waterland,A1TestCinemaOcl,Tamil,22:30,Balcony,50₹,131,65
+Rajasthan,Waterland,A1TestCinemaOcl,Tamil,22:30,FirstClass,50₹,142,71
