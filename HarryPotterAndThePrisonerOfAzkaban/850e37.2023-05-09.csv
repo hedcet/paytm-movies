@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,InoxPhoenixMarketCityVelacheryFormerlyJazzCinemas,English,15:30,Budget,66₹,16,6
+TamilNadu,Chennai,InoxPhoenixMarketCityVelacheryFormerlyJazzCinemas,English,15:30,Elite,211₹,136,16
+Delhi,NewDelhi,InoxRCubeMonadMall,English,16:10,Insignia,400₹,24,13
+Delhi,NewDelhi,PvrPromenadeVasantKunj,English,16:30,Classic,150₹,84,27
+Delhi,NewDelhi,PvrPromenadeVasantKunj,English,16:30,Prime,150₹,17,15
+Maharashtra,Mumbai,InoxRCityGhatkoparW,English,16:45,Club,150₹,80,5
+Maharashtra,Mumbai,InoxRCityGhatkoparW,English,16:45,Executive,150₹,47,0
+Maharashtra,Mumbai,InoxRCityGhatkoparW,English,16:45,RoyalRecliner,250₹,12,5
+Maharashtra,Mumbai,InoxRCityGhatkoparW,English,16:45,Royal,150₹,47,23
