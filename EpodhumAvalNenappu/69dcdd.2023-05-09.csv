@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,AlbertComplexEgmore,Tamil,12:00,FirstClass,99₹,158,46
+TamilNadu,Chennai,AlbertComplexEgmore,Tamil,12:00,SecondClass,79₹,84,0
+TamilNadu,Chennai,AlbertComplexEgmore,Tamil,12:00,ThirdClass,50₹,28,0
