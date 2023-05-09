@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrVegaBannerghattaRoad,English,13:10,Classic,200₹,77,8
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,English,18:40,Normal,200₹,57,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,English,18:40,DoubleSofa,300₹,24,2
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,English,18:40,SingleSofa,270₹,6,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,English,18:40,Lounger,250₹,9,0
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,21:40,PlatinumSuperior,800₹,8,2
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,21:40,Platinum,600₹,28,1
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,22:15,Classic,230₹,95,34
