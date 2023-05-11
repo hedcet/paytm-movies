@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,CoochBehar,NewCinemaBangchatraRoad,Bengali,10:15,Balcony,100₹,87,45
+WestBengal,Bakhrahat,UmaTalkiesBakhrahat,Bengali,10:35,Box,200₹,46,24
+WestBengal,Bakhrahat,UmaTalkiesBakhrahat,Bengali,10:35,Balcony,100₹,102,82
+WestBengal,Bakhrahat,UmaTalkiesBakhrahat,Bengali,10:35,SpecialClass,100₹,80,80
+WestBengal,Kolkata,InoxSouthCityMall,Bengali,11:35,Premier,140₹,32,0
+WestBengal,Kolkata,InoxSouthCityMall,Bengali,11:35,RoyalRecliner,280₹,16,0
+WestBengal,Kolkata,InoxSouthCityMall,Bengali,11:35,Silver,140₹,151,2
+WestBengal,Burdwan,InoxBurdwanArcadeBBGhoshRoad,Bengali,12:40,Club,160₹,72,0
+WestBengal,Burdwan,InoxBurdwanArcadeBBGhoshRoad,Bengali,12:40,Executive,160₹,36,0
+WestBengal,Burdwan,InoxBurdwanArcadeBBGhoshRoad,Bengali,12:40,Royal,160₹,40,2
+WestBengal,Kolkata,JayantiCinemaBarrackpore,Bengali,17:30,SuperStall,100₹,183,171
+WestBengal,Kolkata,JayantiCinemaBarrackpore,Bengali,17:30,Stall,100₹,39,39
+WestBengal,Kolkata,JayantiCinemaBarrackpore,Bengali,17:30,SuperStall,100₹,183,171
+WestBengal,Kolkata,JayantiCinemaBarrackpore,Bengali,17:30,Stall,100₹,39,39
