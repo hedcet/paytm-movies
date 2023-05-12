@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Perundurai,CosmoCinemasACDolbyAtmosRgbLaser,Tamil,11:00,Platinum,150₹,16,0
+TamilNadu,Perundurai,CosmoCinemasACDolbyAtmosRgbLaser,Tamil,11:00,Gold,120₹,94,1
+TamilNadu,Chennai,SpiEscapeCinemasRoyapettah,Tamil,12:15,Elite,165₹,99,21
+TamilNadu,Chennai,SpiEscapeCinemasRoyapettah,Tamil,12:15,Budget,60₹,11,11
+TamilNadu,Perundurai,CosmoCinemasACDolbyAtmosRgbLaser,Tamil,14:30,Platinum,150₹,16,0
+TamilNadu,Perundurai,CosmoCinemasACDolbyAtmosRgbLaser,Tamil,14:30,Gold,120₹,94,1
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,15:40,Elite,165₹,210,58
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,15:40,Budget,60₹,27,6
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,22:25,Classic,60₹,34,34
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,22:25,Prime,179₹,142,36
