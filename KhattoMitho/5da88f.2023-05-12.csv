@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Vadodara,CinemarcVip,Sindhi,19:10,Premium,100₹,13,0
+Gujarat,Vadodara,CinemarcVip,Sindhi,19:10,Silver,110₹,87,0
+Gujarat,Vadodara,CinemarcVip,Sindhi,19:10,Gold,110₹,20,3
+Gujarat,Vadodara,CinemarcVip,Sindhi,19:10,Sofa,130₹,19,8
+Maharashtra,Nagpur,InoxJaswantTuliMallKampteeRoad,Sindhi,20:00,Club,160₹,114,85
+Maharashtra,Nagpur,InoxJaswantTuliMallKampteeRoad,Sindhi,20:00,Executive,100₹,53,1
+Maharashtra,Nagpur,InoxJaswantTuliMallKampteeRoad,Sindhi,20:00,Royale,190₹,56,22
+Maharashtra,Ulhasnagar,MirajAshokAnilMultiplexUlhasnagar,Sindhi,20:55,Silver,160₹,40,0
+Maharashtra,Ulhasnagar,MirajAshokAnilMultiplexUlhasnagar,Sindhi,20:55,Gold,180₹,197,14
