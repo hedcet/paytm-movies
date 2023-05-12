@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Lucknow,WaveLucknow,Hindi,15:15,Classic,180₹,128,0
+UttarPradesh,Lucknow,WaveLucknow,Hindi,15:15,Premium,200₹,48,4
+UttarPradesh,Ghaziabad,WaveKaushambi,Hindi,15:15,Classic,220₹,201,0
