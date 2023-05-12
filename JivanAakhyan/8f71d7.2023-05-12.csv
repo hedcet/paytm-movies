@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Jamnagar,PvrUtsavJcrEntertainmentWorldJamnagar,Gujarati,21:00,Classic,112₹,32,0
+Gujarat,Jamnagar,PvrUtsavJcrEntertainmentWorldJamnagar,Gujarati,21:00,Prime,112₹,80,27
+Gujarat,Jamnagar,PvrUtsavJcrEntertainmentWorldJamnagar,Gujarati,21:00,PrimePlus,112₹,32,32
+Gujarat,Jamnagar,PvrUtsavJcrEntertainmentWorldJamnagar,Gujarati,21:00,Recliner,112₹,21,21
