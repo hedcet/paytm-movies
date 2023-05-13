@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Tirunelveli,SreeRathnaTalkiesTirunelveli,Tamil,10:00,Balcony,150₹,237,16
+TamilNadu,Tirunelveli,SreeRathnaTalkiesTirunelveli,Tamil,10:00,FirstClass,130₹,406,149
+TamilNadu,Nagercoil,SriRamaTheatreVellichanthai,Tamil,10:30,FirstClass,120₹,66,0
+TamilNadu,Nagercoil,SriRamaTheatreVellichanthai,Tamil,10:30,SecondClass,50₹,172,0
+TamilNadu,Chennai,AgsCinemasMaduravoyal,Tamil,15:30,Pearl,60₹,0,0
+TamilNadu,Chennai,AgsCinemasMaduravoyal,Tamil,15:30,Diamond,190₹,205,38
+TamilNadu,Nagercoil,KavalkinaruChakravarthyCinemas,Tamil,18:30,Gold,150₹,119,57
