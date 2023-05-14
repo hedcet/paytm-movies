@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Ambasamudram,ThaiCinesACDtsAmbasamudram,Tamil,11:30,BalconyNonAC,80₹,213,0
+TamilNadu,Ambasamudram,ThaiCinesACDtsAmbasamudram,Tamil,11:30,ACClass,100₹,136,0
+TamilNadu,Ambasamudram,ThaiCinesACDtsAmbasamudram,Tamil,14:30,BalconyNonAC,80₹,213,0
+TamilNadu,Ambasamudram,ThaiCinesACDtsAmbasamudram,Tamil,14:30,ACClass,100₹,136,0
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,15:50,Classic0000000001,60₹,30,30
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,15:50,Prime0000000002,165₹,158,158
+TamilNadu,Ambasamudram,ThaiCinesACDtsAmbasamudram,Tamil,18:30,BalconyNonAC10,80₹,213,0
+TamilNadu,Ambasamudram,ThaiCinesACDtsAmbasamudram,Tamil,18:30,ACClass20,100₹,136,0
+TamilNadu,Madurai,InoxVishaalDeMallMadurai,Tamil,18:55,ClubCl,178₹,136,38
+TamilNadu,Madurai,InoxVishaalDeMallMadurai,Tamil,18:55,ExecutiveEx,60₹,12,12
+TamilNadu,Coimbatore,InoxProzoneMallSathyRoad,Tamil,22:00,ClubCl,190₹,159,28
+TamilNadu,Coimbatore,InoxProzoneMallSathyRoad,Tamil,22:00,ExecutiveEx,60₹,21,20
+TamilNadu,Chennai,InoxPhoenixMarketCityVelacheryFormerlyJazzCinemas,Tamil,22:25,BudgetBu,60₹,14,7
+TamilNadu,Chennai,InoxPhoenixMarketCityVelacheryFormerlyJazzCinemas,Tamil,22:25,EliteEl,190₹,119,33
+TamilNadu,Ambasamudram,ThaiCinesACDtsAmbasamudram,Tamil,22:30,BalconyNonAC10,80₹,213,0
+TamilNadu,Ambasamudram,ThaiCinesACDtsAmbasamudram,Tamil,22:30,ACClass20,100₹,136,0
