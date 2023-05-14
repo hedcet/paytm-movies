@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Jalgaon,InoxKhandeshCentralMallPratapNagar,Hindi,10:25,Club,180₹,114,6
+Maharashtra,Jalgaon,InoxKhandeshCentralMallPratapNagar,Hindi,10:25,Executive,180₹,42,0
+Maharashtra,Jalgaon,InoxKhandeshCentralMallPratapNagar,Hindi,10:25,Royal,180₹,53,0
+Karnataka,Bengaluru,SiddalingeshwaraAC4K3DJpNagar,Hindi,19:00,Diamond10,150₹,245,147
+Karnataka,Bengaluru,SiddalingeshwaraAC4K3DJpNagar,Hindi,19:00,Gold20,110₹,356,178
+Maharashtra,Jalgaon,InoxKhandeshCentralMallPratapNagar,Hindi,19:30,ClubCl,190₹,114,2
+Maharashtra,Jalgaon,InoxKhandeshCentralMallPratapNagar,Hindi,19:30,ExecutiveEx,190₹,42,0
+Maharashtra,Jalgaon,InoxKhandeshCentralMallPratapNagar,Hindi,19:30,RoyalRy,190₹,53,2
