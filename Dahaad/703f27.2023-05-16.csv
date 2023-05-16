@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,PratapgarhUttarPradesh,NirmalDdPlexStationRoad,Bhojpuri,12:00,Diamond1997Diamond,200₹,45,0
+UttarPradesh,PratapgarhUttarPradesh,NirmalDdPlexStationRoad,Bhojpuri,12:00,Gold1998Gold,150₹,194,0
+UttarPradesh,Gauriganj,JamoDdCinemaGauriganj,Bhojpuri,12:30,DiamondClass,200₹,9,9
+UttarPradesh,Gauriganj,JamoDdCinemaGauriganj,Bhojpuri,12:30,GoldClass,150₹,98,70
+UttarPradesh,Gauriganj,JamoDdCinemaGauriganj,Bhojpuri,12:30,DiamondClass30,200₹,9,9
+UttarPradesh,Gauriganj,JamoDdCinemaGauriganj,Bhojpuri,12:30,GoldClass40,150₹,98,70
