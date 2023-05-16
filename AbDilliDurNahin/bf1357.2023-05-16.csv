@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Noida,CinepolisModiMallFormerlySpiceMall,Hindi,16:00,Classic,190₹,75,0
+UttarPradesh,Noida,CinepolisModiMallFormerlySpiceMall,Hindi,16:00,Premium,200₹,113,0
+Bihar,Patna,CinepolisPMMallPatna,Hindi,16:10,Normal,230₹,186,0
+Jharkhand,Hazaribagh,EylexCinemaHazaribagh,Hindi,17:00,Gl16117,150₹,39,0
+Jharkhand,Hazaribagh,EylexCinemaHazaribagh,Hindi,17:00,Pl16118,150₹,147,0
+Jharkhand,Hazaribagh,EylexCinemaHazaribagh,Hindi,17:00,Rl16119,250₹,5,0
+Jharkhand,Ranchi,EylexHinooRanchi,Hindi,17:15,Cl16120,150₹,22,0
+Jharkhand,Ranchi,EylexHinooRanchi,Hindi,17:15,Gl16121,100₹,48,0
+Jharkhand,Ranchi,EylexHinooRanchi,Hindi,17:15,Pl16122,130₹,87,0
+Jharkhand,Ranchi,EylexHinooRanchi,Hindi,17:15,Bx16123,150₹,11,0
+Jharkhand,Bokaro,PvrBokaro,Hindi,17:25,Classic0000000006,140₹,84,0
+Jharkhand,Bokaro,PvrBokaro,Hindi,17:25,Prime0000000007,170₹,109,15
