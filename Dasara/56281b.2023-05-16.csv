@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Guntur,VenkataKrishnaTheatreGuntur,Telugu,11:15,FirstClassFirstClass,100₹,236,0
+AndhraPradesh,Guntur,VenkataKrishnaTheatreGuntur,Telugu,11:15,SecondClassSecondClass,60₹,59,0
+AndhraPradesh,Guntur,VenkataKrishnaTheatreGuntur,Telugu,11:15,ThirdClassThirdClass,40₹,68,0
+Rajasthan,Waterland,MirajTestCinema,Telugu,13:45,3DSpecial0000000004,20₹,70,0
+Rajasthan,Waterland,MirajTestCinema,Telugu,13:45,3DExecutive0000000005,30₹,105,0
+Rajasthan,Waterland,MirajTestCinema,Telugu,13:45,3DGold0000000002,60₹,30,5
+AndhraPradesh,Guntur,VenkataKrishnaTheatreGuntur,Telugu,14:15,FirstClassFirstClass,100₹,236,0
+AndhraPradesh,Guntur,VenkataKrishnaTheatreGuntur,Telugu,14:15,SecondClassSecondClass,60₹,59,0
+AndhraPradesh,Guntur,VenkataKrishnaTheatreGuntur,Telugu,14:15,ThirdClassThirdClass,40₹,68,0
+AndhraPradesh,Guntur,VenkataKrishnaTheatreGuntur,Telugu,18:15,FirstClassFirstClass,100₹,236,0
+AndhraPradesh,Guntur,VenkataKrishnaTheatreGuntur,Telugu,18:15,SecondClassSecondClass,60₹,59,0
+AndhraPradesh,Guntur,VenkataKrishnaTheatreGuntur,Telugu,18:15,ThirdClassThirdClass,40₹,68,0
+AndhraPradesh,Guntur,VenkataKrishnaTheatreGuntur,Telugu,21:15,FirstClassFirstClass,100₹,236,0
+AndhraPradesh,Guntur,VenkataKrishnaTheatreGuntur,Telugu,21:15,SecondClassSecondClass,60₹,59,0
+AndhraPradesh,Guntur,VenkataKrishnaTheatreGuntur,Telugu,21:15,ThirdClassThirdClass,40₹,68,0
