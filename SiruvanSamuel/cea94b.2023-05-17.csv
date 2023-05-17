@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Kuzhithurai,LakshmiTheatreDolbyAtmosKuzhithurai,Tamil,11:00,BoxA1,150₹,50,25
+TamilNadu,Kuzhithurai,LakshmiTheatreDolbyAtmosKuzhithurai,Tamil,11:00,BoxB2,150₹,50,25
+TamilNadu,Kuzhithurai,LakshmiTheatreDolbyAtmosKuzhithurai,Tamil,11:00,FirstClass3,100₹,774,385
+TamilNadu,Chennai,AgsCinemasMaduravoyal,Tamil,15:30,Pearl0000000002,60₹,0,0
+TamilNadu,Chennai,AgsCinemasMaduravoyal,Tamil,15:30,Diamond0000000001,190₹,205,1
+TamilNadu,Nagercoil,KavalkinaruChakravarthyCinemas,Tamil,18:30,Gold10,150₹,119,0
