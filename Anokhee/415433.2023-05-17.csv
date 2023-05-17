@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,CityGoldSatellite,Gujarati,11:45,Executive143Executive,170₹,124,0
+Gujarat,Ahmedabad,MirajCinemasCinePrideKrishnaNagar,Gujarati,15:30,Platinum0000000004,150₹,98,0
+Gujarat,Ahmedabad,MirajCinemasCinePrideKrishnaNagar,Gujarati,15:30,Gold0000000005,130₹,25,0
+Gujarat,Ahmedabad,MirajCityPulseManiNagar,Gujarati,17:00,Gold0000000001,150₹,66,0
+Gujarat,Ahmedabad,MirajCityPulseManiNagar,Gujarati,17:45,Silver0000000002,100₹,75,75
+Gujarat,Ahmedabad,MirajCityPulseManiNagar,Gujarati,17:45,Gold0000000001,100₹,108,108
+Gujarat,Ahmedabad,CityGoldBopal,Gujarati,19:00,Executive142Executive,150₹,117,0
+Gujarat,Ahmedabad,PvrAcropolisMallThaltej,Gujarati,19:55,PrimePlus0000000009,260₹,66,65
+Gujarat,Ahmedabad,PvrAcropolisMallThaltej,Gujarati,19:55,Prime0000000002,210₹,65,0
+Gujarat,Ahmedabad,PvrAcropolisMallThaltej,Gujarati,19:55,Classic0000000007,190₹,39,7
+Gujarat,Ahmedabad,PvrAcropolisMallThaltej,Gujarati,19:55,Recliner0000000008,470₹,9,0
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarati,21:30,Recliner0000000007,340₹,24,5
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarati,21:30,Prime0000000002,210₹,87,11
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarati,21:30,Classic0000000006,170₹,30,0
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarati,21:30,ClassicPlus0000000009,190₹,30,0
