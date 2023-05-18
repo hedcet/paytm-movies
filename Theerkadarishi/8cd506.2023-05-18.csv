@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,SpiEscapeCinemasRoyapettah,Tamil,12:15,Elite0000000002,165₹,99,16
+TamilNadu,Chennai,SpiEscapeCinemasRoyapettah,Tamil,12:15,Budget0000000004,60₹,11,11
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,15:40,Elite0000000001,165₹,210,3
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,15:40,Budget0000000002,60₹,27,23
+TamilNadu,Chennai,SpiSathyamCinemasRoyapettah,Tamil,18:45,Elite0000000002,179₹,72,6
+TamilNadu,Chennai,SpiSathyamCinemasRoyapettah,Tamil,18:45,Budget0000000004,60₹,12,10
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,22:40,Classic0000000001,60₹,34,34
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,22:40,Prime0000000002,165₹,142,38
