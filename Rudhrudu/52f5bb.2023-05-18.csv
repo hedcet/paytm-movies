@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Nandyal,AbhiramTheatreNandyal,Telugu,11:30,FristClass10,110₹,235,16
+AndhraPradesh,Nandyal,AbhiramTheatreNandyal,Telugu,11:30,SecondClass20,80₹,80,0
+AndhraPradesh,Nandyal,AbhiramTheatreNandyal,Telugu,14:30,FristClass10,110₹,235,16
+AndhraPradesh,Nandyal,AbhiramTheatreNandyal,Telugu,14:30,SecondClass20,80₹,80,0
+AndhraPradesh,Nandyal,AbhiramTheatreNandyal,Telugu,18:30,FristClass10,110₹,235,16
+AndhraPradesh,Nandyal,AbhiramTheatreNandyal,Telugu,18:30,SecondClass20,80₹,80,0
+AndhraPradesh,Nandyal,AbhiramTheatreNandyal,Telugu,21:30,FristClass10,110₹,235,16
+AndhraPradesh,Nandyal,AbhiramTheatreNandyal,Telugu,21:30,SecondClass20,80₹,80,0
