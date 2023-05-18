@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrGoldNexusFormerlyForumKoramangala,English,18:50,Gold0000000007,650₹,20,10
+Karnataka,Bengaluru,PvrGoldNexusFormerlyForumKoramangala,English,18:50,GoldPrime0000000011,700₹,8,4
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,English,21:45,Platinum0000000004,800₹,32,0
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,English,21:45,PlatinumSuperior0000000001,800₹,16,2
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,23:00,Classic0000000003,150₹,144,89
+Delhi,NewDelhi,PvrVegasDwarka,English,23:00,Classic0000000003,300₹,89,3
