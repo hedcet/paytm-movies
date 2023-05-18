@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,DeviCineplexAnnaSalai,Tamil,12:45,Quartz,152₹,242,0
+TamilNadu,Chennai,DeviCineplexAnnaSalai,Tamil,12:45,Zircon,60₹,27,27
+TamilNadu,Chennai,DeviCineplexAnnaSalai,Tamil,13:00,Quartz1,152₹,277,0
+TamilNadu,Chennai,DeviCineplexAnnaSalai,Tamil,13:00,Zircon3,60₹,31,31
+TamilNadu,Chennai,SpiEscapeCinemasRoyapettah,Hindi,15:50,Elite0000000002,189₹,99,20
+TamilNadu,Chennai,SpiEscapeCinemasRoyapettah,Hindi,15:50,Budget0000000004,63₹,11,11
+TamilNadu,Chennai,DeviCineplexAnnaSalai,Tamil,16:00,Quartz,152₹,242,0
+TamilNadu,Chennai,DeviCineplexAnnaSalai,Tamil,16:00,Zircon,60₹,27,27
+TamilNadu,Chennai,DeviCineplexAnnaSalai,Tamil,16:15,Quartz,152₹,277,0
+TamilNadu,Chennai,DeviCineplexAnnaSalai,Tamil,16:15,Zircon,60₹,31,31
+TamilNadu,Chennai,AgsCinemasTNagar,Hindi,21:55,Pearl0000000002,63₹,24,24
+TamilNadu,Chennai,AgsCinemasTNagar,Hindi,21:55,Diamond0000000001,200₹,197,22
