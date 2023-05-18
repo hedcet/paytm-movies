@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Malda,NatarajCinemaMalda,Bengali,13:30,AcUpperClass10,120₹,20,0
+WestBengal,Malda,NatarajCinemaMalda,Bengali,13:30,AcSpecialDc20,120₹,24,11
+WestBengal,Malda,NatarajCinemaMalda,Bengali,13:30,DressCircle30,60₹,20,2
+WestBengal,Malda,NatarajCinemaMalda,Bengali,13:30,1stClass40,40₹,150,0
+WestBengal,Malda,NatarajCinemaMalda,Bengali,13:30,2ndClass50,30₹,100,0
+WestBengal,Malda,NatarajCinemaMalda,Bengali,16:30,AcUpperClass10,120₹,20,0
+WestBengal,Malda,NatarajCinemaMalda,Bengali,16:30,AcSpecialDc20,120₹,24,11
+WestBengal,Malda,NatarajCinemaMalda,Bengali,16:30,DressCircle30,60₹,20,2
+WestBengal,Malda,NatarajCinemaMalda,Bengali,16:30,1stClass40,40₹,150,0
+WestBengal,Malda,NatarajCinemaMalda,Bengali,16:30,2ndClass50,30₹,100,0
+WestBengal,Malda,NatarajCinemaMalda,Bengali,19:30,AcUpperClass10,120₹,20,0
+WestBengal,Malda,NatarajCinemaMalda,Bengali,19:30,AcSpecialDc20,120₹,24,11
+WestBengal,Malda,NatarajCinemaMalda,Bengali,19:30,DressCircle30,60₹,20,2
+WestBengal,Malda,NatarajCinemaMalda,Bengali,19:30,1stClass40,40₹,150,0
+WestBengal,Malda,NatarajCinemaMalda,Bengali,19:30,2ndClass50,30₹,100,0
