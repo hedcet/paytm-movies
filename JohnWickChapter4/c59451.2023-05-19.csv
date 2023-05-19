@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrGoldNexusFormerlyForumKoramangala,English,12:30,Gold0000000007,650₹,20,1
+Karnataka,Bengaluru,PvrGoldNexusFormerlyForumKoramangala,English,12:30,GoldPrime0000000011,700₹,8,3
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,English,15:00,Platinum0000000004,850₹,32,4
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,English,15:00,PlatinumSuperior0000000001,"1,050₹",16,0
