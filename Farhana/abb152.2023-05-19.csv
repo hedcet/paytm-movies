@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,12:00,Elite0000000001,165₹,210,5
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,12:00,Budget0000000002,60₹,27,25
+TamilNadu,Chennai,InoxPhoenixMarketCityVelacheryFormerlyJazzCinemas,Tamil,12:40,BudgetBu,60₹,24,1
+TamilNadu,Chennai,InoxPhoenixMarketCityVelacheryFormerlyJazzCinemas,Tamil,12:40,EliteEl,190₹,122,15
+TamilNadu,Chennai,SpiEscapeCinemasRoyapettah,Tamil,15:00,Elite0000000002,165₹,99,26
+TamilNadu,Chennai,SpiEscapeCinemasRoyapettah,Tamil,15:00,Budget0000000004,60₹,11,11
