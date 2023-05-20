@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,InoxVrSuratDumasRoad,Japanese,09:10,ClubCl,150₹,122,0
+Gujarat,Surat,InoxVrSuratDumasRoad,Japanese,09:10,ExecutiveEx,150₹,34,0
+Gujarat,Surat,InoxVrSuratDumasRoad,Japanese,09:10,RoyalRo,150₹,54,0
+Gujarat,Surat,InoxVrSuratDumasRoad,Japanese,09:10,RoyalReclinerRr,250₹,12,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,Japanese,10:15,AmplixAm,150₹,16,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,Japanese,10:15,ExecutiveEx,150₹,32,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,Japanese,10:15,PremierePr,150₹,101,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,Japanese,10:15,SilverSl,150₹,76,0
+AndhraPradesh,Vizag,InoxVarunBeachMaharanipet,Japanese,10:25,ExcutiveEx,177₹,130,0
+AndhraPradesh,Vizag,InoxVarunBeachMaharanipet,Japanese,16:10,ExcutiveEx,177₹,130,2
+Gujarat,Surat,InoxVrSuratDumasRoad,Japanese,17:15,ClubCl,150₹,102,0
+Gujarat,Surat,InoxVrSuratDumasRoad,Japanese,17:15,ExecutiveEx,150₹,34,0
+Gujarat,Surat,InoxVrSuratDumasRoad,Japanese,17:15,RoyalRo,150₹,54,0
+Gujarat,Surat,InoxVrSuratDumasRoad,Japanese,17:15,RoyalReclinerRr,250₹,12,0
