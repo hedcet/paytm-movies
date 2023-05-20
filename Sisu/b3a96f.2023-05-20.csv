@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,CinepolisCentreSquareMallKochi,English,15:30,Normal0000000000,140₹,20,1
+Kerala,Kochi,CinepolisCentreSquareMallKochi,English,15:30,Executive0000000002,170₹,43,22
+Kerala,Kochi,CinepolisCentreSquareMallKochi,English,15:30,Premium0000000001,200₹,44,27
+TamilNadu,Chennai,SpiEscapeCinemasRoyapettah,English,22:20,Elite0000000002,185₹,108,93
+TamilNadu,Chennai,SpiEscapeCinemasRoyapettah,English,22:20,Budget0000000004,66₹,12,12
