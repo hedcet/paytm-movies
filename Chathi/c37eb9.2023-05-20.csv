@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,SultanBathery,AiswaryaAthulyaAiswaryaCineplexSulthanBathery,Malayalam,16:30,SofaSeat10,170₹,16,0
+Kerala,SultanBathery,AiswaryaAthulyaAiswaryaCineplexSulthanBathery,Malayalam,16:30,GoldClass20,110₹,147,17
+Kerala,SultanBathery,AiswaryaAthulyaAiswaryaCineplexSulthanBathery,Malayalam,19:00,SofaSeat10,170₹,16,0
+Kerala,SultanBathery,AiswaryaAthulyaAiswaryaCineplexSulthanBathery,Malayalam,19:00,GoldClass20,110₹,147,2
