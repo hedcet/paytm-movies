@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Nabadwip,AlochayaCinemaBanerjeeParaRoad,Bengali,13:30,Special10,50₹,107,65
+WestBengal,Nabadwip,AlochayaCinemaBanerjeeParaRoad,Bengali,13:30,RearStall20,40₹,252,68
+WestBengal,Nabadwip,AlochayaCinemaBanerjeeParaRoad,Bengali,13:30,FrontStall30,40₹,196,196
+WestBengal,Nabadwip,AlochayaCinemaBanerjeeParaRoad,Bengali,16:30,Special10,50₹,107,65
+WestBengal,Nabadwip,AlochayaCinemaBanerjeeParaRoad,Bengali,16:30,RearStall20,40₹,252,68
+WestBengal,Nabadwip,AlochayaCinemaBanerjeeParaRoad,Bengali,16:30,FrontStall30,40₹,196,196
+WestBengal,Kolkata,InoxSouthCityMall,Bengali,19:00,PremierPr,150₹,32,0
+WestBengal,Kolkata,InoxSouthCityMall,Bengali,19:00,RoyalReclinerRr,200₹,16,7
+WestBengal,Kolkata,InoxSouthCityMall,Bengali,19:00,SilverSl,150₹,151,11
+WestBengal,Nabadwip,AlochayaCinemaBanerjeeParaRoad,Bengali,19:30,Special10,50₹,107,65
+WestBengal,Nabadwip,AlochayaCinemaBanerjeeParaRoad,Bengali,19:30,RearStall20,40₹,252,68
+WestBengal,Nabadwip,AlochayaCinemaBanerjeeParaRoad,Bengali,19:30,FrontStall30,40₹,196,196
