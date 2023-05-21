@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,11:20,Classic0000000005,180₹,85,2
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,11:20,Prime0000000006,200₹,31,14
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,11:20,Recliner0000000007,310₹,9,2
+Karnataka,Davanagere,MovieTimeSsGardeniaMall,Kannada,14:30,Premier0000000005,180₹,180,0
+Karnataka,Davanagere,MovieTimeSsGardeniaMall,Kannada,14:30,Gold0000000003,200₹,79,2
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,Kannada,15:35,ClubCl,270₹,206,129
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,19:00,Classic0000000011,250₹,128,9
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,19:00,Prime0000000003,270₹,100,38
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,19:00,Recliner0000000015,480₹,14,2
