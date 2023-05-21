@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmosThoongamparaKattakada,Tamil,11:00,PlatinumRecliner20,300₹,17,1
+Kerala,Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmosThoongamparaKattakada,Tamil,11:00,Gold25,150₹,332,0
+Kerala,Manjeri,LadderCinemasIndianMall,Tamil,11:15,Executive10,150₹,80,1
+Kerala,Angamaly,CarnivalKsrtComplexSalemErnakulamHighway,Tamil,12:40,GoldOffline0000000001,130₹,202,1
+Kerala,Thalayolaparambu,CarnivalThalayolaparambu,Tamil,13:30,Gold0000000001,110₹,144,6
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Tamil,17:35,Normal0000000000,140₹,20,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Tamil,17:35,Executive0000000002,170₹,43,7
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Tamil,17:35,Premium0000000001,200₹,44,12
+Kerala,Angamaly,CarnivalKsrtComplexSalemErnakulamHighway,Tamil,22:30,GoldOffline0000000001,130₹,202,28
