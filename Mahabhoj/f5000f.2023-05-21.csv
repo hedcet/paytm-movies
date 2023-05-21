@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Asansol,CarnivalSentrumMallAsansol,Bengali,15:00,Premium0000000006,89₹,0,0
+WestBengal,Asansol,CarnivalSentrumMallAsansol,Bengali,15:00,Silver0000000004,89₹,150,0
+WestBengal,Asansol,CarnivalSentrumMallAsansol,Bengali,15:00,Gold0000000005,89₹,43,2
