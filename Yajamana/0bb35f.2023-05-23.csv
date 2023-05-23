@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Tumakuru,InoxSMallTumakuru,Kannada,15:55,ClubCl,99₹,56,0
+Karnataka,Tumakuru,InoxSMallTumakuru,Kannada,15:55,ExecutiveEx,99₹,76,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,16:35,Classic0000000005,112₹,85,2
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,16:35,Prime0000000006,112₹,31,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYashwantpur,Kannada,16:35,Recliner0000000007,200₹,13,0
