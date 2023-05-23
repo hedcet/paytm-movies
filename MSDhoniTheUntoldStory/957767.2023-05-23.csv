@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrVegaBannerghattaRoad,Hindi,12:00,Classic0000000005,112₹,86,7
+Karnataka,Bengaluru,PvrVegaBannerghattaRoad,Hindi,12:00,Recliner0000000007,200₹,9,5
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,Hindi,22:20,Classic0000000008,150₹,150,2
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,Hindi,22:20,Recliner0000000012,250₹,12,0
