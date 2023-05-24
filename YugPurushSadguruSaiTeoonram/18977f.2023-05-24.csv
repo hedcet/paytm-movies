@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Ajmer,MayaMandirMultiplexDolbyAtmosSound,Sindhi,12:00,LoungeA,1₹,32,32
+Rajasthan,Ajmer,MayaMandirMultiplexDolbyAtmosSound,Sindhi,12:00,LoungeB,1₹,32,32
+Rajasthan,Ajmer,MayaMandirMultiplexDolbyAtmosSound,Sindhi,12:00,Elite,1₹,49,49
+Rajasthan,Ajmer,MayaMandirMultiplexDolbyAtmosSound,Sindhi,12:00,Club,1₹,66,66
+Rajasthan,Ajmer,MayaMandirMultiplexDolbyAtmosSound,Sindhi,12:00,Premium,1₹,84,84
+Rajasthan,Ajmer,MayaMandirMultiplexDolbyAtmosSound,Sindhi,12:00,Classic,1₹,52,52
