@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Tittagudi,PeriyasamyACTittagudi,Tamil,11:00,BoxA,150₹,9,9
+TamilNadu,Tittagudi,PeriyasamyACTittagudi,Tamil,11:00,BoxB,150₹,9,9
+TamilNadu,Tittagudi,PeriyasamyACTittagudi,Tamil,11:00,Balcony,150₹,58,58
+TamilNadu,Tittagudi,PeriyasamyACTittagudi,Tamil,11:00,FirstClass,100₹,418,18
+TamilNadu,Thanjavur,GvComplexThanjavur,Tamil,11:00,I,100₹,138,14
+TamilNadu,Chennai,SpiEscapeCinemasRoyapettah,Tamil,12:05,Elite,165₹,99,18
+TamilNadu,Chennai,SpiEscapeCinemasRoyapettah,Tamil,12:05,Budget,60₹,11,11
+TamilNadu,Madurai,ShaTheatre,Tamil,14:00,FirstClass,0₹,"1,126","1,026"
+TamilNadu,Thanjavur,GvComplexThanjavur,Tamil,14:30,I,100₹,138,12
+TamilNadu,Madurai,ShaTheatre,Tamil,18:00,FirstClass,0₹,"1,126","1,026"
+TamilNadu,Madurai,ShaTheatre,Tamil,22:00,FirstClass,0₹,"1,126","1,026"
