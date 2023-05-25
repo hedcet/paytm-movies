@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,JpCinemasChandanagar,Telugu,13:25,Gl,150₹,230,4
+Telangana,Hyderabad,JpCinemasChandanagar,Telugu,13:25,Re,200₹,23,0
+Telangana,Hyderabad,JpCinemasChandanagar,Telugu,19:40,Gl,150₹,230,0
+Telangana,Hyderabad,JpCinemasChandanagar,Telugu,19:40,Re,200₹,23,6
