@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Asansol,ManojTalkiesKumarpur,Hindi,11:00,Balcony,70₹,483,358
+WestBengal,Asansol,ManojTalkiesKumarpur,Hindi,11:00,DressCircle,80₹,113,113
+WestBengal,Asansol,ManojTalkiesKumarpur,Hindi,11:00,RearStall,60₹,693,547
+WestBengal,Durgapur,DurgapurCinemaCityCenter,Hindi,12:00,Balcony,60₹,480,480
+WestBengal,Durgapur,DurgapurCinemaCityCenter,Hindi,12:00,DressCircle,70₹,92,77
+WestBengal,Durgapur,DurgapurCinemaCityCenter,Hindi,12:00,Box,70₹,32,32
+WestBengal,Durgapur,DurgapurCinemaCityCenter,Hindi,12:00,RareStall,50₹,640,608
+WestBengal,Kolkata,LaliCinemaBarasat,Hindi,19:30,DeluxAc,175₹,22,16
+WestBengal,Kolkata,LaliCinemaBarasat,Hindi,19:30,DiamondAc,150₹,76,57
+WestBengal,Kolkata,LaliCinemaBarasat,Hindi,19:30,DressCircle,110₹,26,20
+WestBengal,Kolkata,LaliCinemaBarasat,Hindi,19:30,UpperCircle,70₹,127,100
+WestBengal,Kolkata,LaliCinemaBarasat,Hindi,19:30,RearStall,50₹,351,297
