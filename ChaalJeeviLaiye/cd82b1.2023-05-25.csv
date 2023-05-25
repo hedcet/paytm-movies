@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,PvrAcropolisMallThaltej,Gujarati,11:30,PrimePlus,112₹,66,21
+Gujarat,Ahmedabad,PvrAcropolisMallThaltej,Gujarati,11:30,Prime,112₹,65,0
+Gujarat,Ahmedabad,PvrAcropolisMallThaltej,Gujarati,11:30,Classic,112₹,39,0
+Gujarat,Ahmedabad,PvrAcropolisMallThaltej,Gujarati,11:30,Recliner,350₹,9,0
