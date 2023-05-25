@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,InoxCentralMantriJunctionJpNagar,Kannada,12:40,Club,170₹,234,0
+Karnataka,Bengaluru,InoxCentralMantriJunctionJpNagar,Kannada,12:40,Royal,240₹,4,0
+Karnataka,Hubli,CinepolisUrbanOasisMallHubli,Kannada,15:15,Normal,180₹,38,0
+Karnataka,Hubli,CinepolisUrbanOasisMallHubli,Kannada,15:15,Executive,180₹,103,0
+Karnataka,Hubli,CinepolisUrbanOasisMallHubli,Kannada,15:15,Premium,180₹,62,10
+Karnataka,Kalaburagi,ShettysMultiplexAlandRoad,Kannada,17:00,Platinum,100₹,16,14
+Karnataka,Kalaburagi,ShettysMultiplexAlandRoad,Kannada,17:00,Gold,80₹,180,88
+Karnataka,Kalaburagi,ShettysMultiplexAlandRoad,Kannada,17:00,Silver,60₹,135,82
+Karnataka,Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Kannada,21:55,Recliner,290₹,10,3
+Karnataka,Bengaluru,PvrTheCinemaGtWorldMagadiRoad,Kannada,21:55,Classic,180₹,172,0
