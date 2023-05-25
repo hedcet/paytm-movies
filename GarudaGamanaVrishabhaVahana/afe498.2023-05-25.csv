@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,12:00,Classic,112₹,108,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,12:00,Prime,112₹,99,9
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,12:00,Recliner,112₹,12,10
+Karnataka,Bengaluru,PvrBhartiyaMallOfBengaluru,Kannada,18:30,Classic,112₹,70,0
+Karnataka,Bengaluru,PvrBhartiyaMallOfBengaluru,Kannada,18:30,Prime,112₹,60,9
+Karnataka,Bengaluru,PvrBhartiyaMallOfBengaluru,Kannada,18:30,Recliner,200₹,18,5
+Karnataka,Belagavi,InoxCampRoadBelgaum,Kannada,18:31,Royal,99₹,5,0
+Karnataka,Belagavi,InoxCampRoadBelgaum,Kannada,18:31,Club,99₹,56,0
+Karnataka,Belagavi,InoxCampRoadBelgaum,Kannada,18:31,Executive,99₹,14,0
