@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Ghaziabad,ApsaraCinemaDilshadGardenBorder,Hindi,09:00,Gold,110₹,340,146
+UttarPradesh,Ghaziabad,ApsaraCinemaDilshadGardenBorder,Hindi,12:00,Gold,110₹,340,149
+Gujarat,Anand,KalpanaTalkiesAnand,Hindi,12:30,Box,150₹,100,0
+Gujarat,Anand,KalpanaTalkiesAnand,Hindi,12:30,Balcony,100₹,100,0
+Gujarat,Anand,KalpanaTalkiesAnand,Hindi,12:30,Executive,90₹,100,0
+UttarPradesh,Ghaziabad,ApsaraCinemaDilshadGardenBorder,Hindi,15:00,Gold,110₹,340,146
+Gujarat,Anand,KalpanaTalkiesAnand,Hindi,15:30,Box,150₹,100,0
+Gujarat,Anand,KalpanaTalkiesAnand,Hindi,15:30,Balcony,100₹,100,0
+Gujarat,Anand,KalpanaTalkiesAnand,Hindi,15:30,Executive,90₹,100,0
+UttarPradesh,Ghaziabad,ApsaraCinemaDilshadGardenBorder,Hindi,18:00,Gold,110₹,340,146
+Gujarat,Anand,KalpanaTalkiesAnand,Hindi,18:30,Box,150₹,8,0
+Gujarat,Anand,KalpanaTalkiesAnand,Hindi,18:30,Balcony,100₹,101,0
+Gujarat,Anand,KalpanaTalkiesAnand,Hindi,18:30,Executive,90₹,106,0
+Gujarat,Anand,KalpanaTalkiesAnand,Hindi,21:30,Box,150₹,8,0
+Gujarat,Anand,KalpanaTalkiesAnand,Hindi,21:30,Balcony,100₹,101,0
+Gujarat,Anand,KalpanaTalkiesAnand,Hindi,21:30,Executive,90₹,106,0
