@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kozhikode,ArcCoronationDolbyAtmosCalicut,Malayalam,10:45,Elite,160₹,146,18
+Kerala,Mannarkkad,ShivasakthiCinemasDolbyAtmosMannarkkad,Malayalam,11:00,Executive,110₹,256,0
+Kerala,Kozhikode,ArcCoronationDolbyAtmosCalicut,Malayalam,11:00,Elite,160₹,146,18
+Kerala,Mukkam,AbhilashCinemas4KMukkam,Malayalam,11:45,Executive,110₹,600,329
+Kerala,Perinthalmanna,VismayaCinemasPerinthalmanna,Malayalam,13:00,Platinum,100₹,111,13
+Kerala,Mannarkkad,ShivasakthiCinemasDolbyAtmosMannarkkad,Malayalam,14:30,Executive,110₹,256,0
+Kerala,Manjeri,LadderCinemasIndianMall,Malayalam,17:00,Executive,150₹,114,2
+Kerala,Mannarkkad,ShivasakthiCinemasDolbyAtmosMannarkkad,Malayalam,18:30,Executive,110₹,256,0
