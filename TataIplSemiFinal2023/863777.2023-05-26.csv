@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,TriveniCinemaNavagam,English,19:30,Balcony,120₹,45,35
+Gujarat,Surat,TriveniCinemaNavagam,English,19:30,Upper,100₹,80,60
+Gujarat,Surat,FilmCityCinePlusVarachhaBHGitanjaliPetrolPump,English,19:30,RoyalBalcony,120₹,54,12
+Gujarat,Surat,FilmCityCinePlusVarachhaBHGitanjaliPetrolPump,English,19:30,Delux,100₹,118,0
+Gujarat,Surat,FilmCityCinePlusVarachhaBHGitanjaliPetrolPump,Hindi,19:30,RoyalBalcony,120₹,54,12
+Gujarat,Surat,FilmCityCinePlusVarachhaBHGitanjaliPetrolPump,Hindi,19:30,Delux,80₹,118,0
+Gujarat,Surat,FilmCityCinePlusVarachhaBHGitanjaliPetrolPump,English,19:30,RoyalBalcony,120₹,54,18
+Gujarat,Surat,FilmCityCinePlusVarachhaBHGitanjaliPetrolPump,English,19:30,Delux,80₹,118,33
