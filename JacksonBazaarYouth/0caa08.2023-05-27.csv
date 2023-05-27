@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kozhikode,ArcCoronationDolbyAtmosCalicut,Malayalam,10:45,Elite,160₹,146,2
+Kerala,Manjeri,LadderCinemasIndianMall,Malayalam,10:45,Executive,150₹,114,0
+Kerala,Mannarkkad,ShivasakthiCinemasDolbyAtmosMannarkkad,Malayalam,11:00,Executive,110₹,256,0
+Kerala,Mukkam,AbhilashCinemas4KMukkam,Malayalam,11:45,Executive,110₹,600,326
+Kerala,Perinthalmanna,VismayaCinemasPerinthalmanna,Malayalam,13:00,Platinum,100₹,111,12
+Kerala,Mannarkkad,ShivasakthiCinemasDolbyAtmosMannarkkad,Malayalam,14:30,Executive,110₹,256,0
+Kerala,Mukkam,AbhilashCinemas4KMukkam,Malayalam,14:45,Executive,110₹,388,28
+Kerala,Manjeri,LadderCinemasIndianMall,Malayalam,17:00,Executive,150₹,114,0
+Kerala,Manjeri,LadderCinemasIndianMall,Malayalam,17:30,Executive,150₹,114,0
+Kerala,Mannarkkad,ShivasakthiCinemasDolbyAtmosMannarkkad,Malayalam,18:30,Executive,110₹,256,0
+Kerala,Trivandrum,PvrLuluThiruvananthapuram,Malayalam,22:35,Classic,220₹,77,4
+Kerala,Trivandrum,PvrLuluThiruvananthapuram,Malayalam,22:35,Prime,250₹,60,18
+Kerala,Trivandrum,PvrLuluThiruvananthapuram,Malayalam,22:35,Recliner,500₹,7,0
