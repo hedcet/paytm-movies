@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Ludhiana,CinepolisMbdNeopolisMallLudhiana,Punjabi,09:35,Premium,170₹,84,10
+Punjab,Amritsar,CinepolisNexusAmritsar,Punjabi,09:40,Vip,200₹,12,0
+Punjab,Amritsar,CinepolisNexusAmritsar,Punjabi,09:40,Executive,190₹,65,0
+Punjab,Amritsar,CinepolisNexusAmritsar,Punjabi,09:40,Normal,180₹,48,10
+Punjab,Mohali,CinepolisBestechSquareMallMohali,Punjabi,09:45,Normal,180₹,22,0
+Punjab,Mohali,CinepolisBestechSquareMallMohali,Punjabi,09:45,Executive,200₹,59,0
+Punjab,Mohali,CinepolisBestechSquareMallMohali,Punjabi,09:45,Premium,220₹,41,9
+Punjab,Mohali,CinepolisBestechSquareMallMohali,Punjabi,09:45,Vip,400₹,9,2
+Punjab,Dasuya,PresidentCinemasAdarshNagar,Punjabi,10:00,Diamond,200₹,77,2
+Punjab,Malout,CcpCineplexMalout,Punjabi,12:40,RoyalClass,320₹,4,0
+Punjab,Malout,CcpCineplexMalout,Punjabi,12:40,GoldClass,100₹,95,0
+Punjab,Malout,CcpCineplexMalout,Punjabi,17:40,RoyalClass,320₹,4,0
+Punjab,Malout,CcpCineplexMalout,Punjabi,17:40,GoldClass,100₹,95,0
+Punjab,Ludhiana,CinepolisMbdNeopolisMallLudhiana,Punjabi,17:50,Premium,210₹,84,0
