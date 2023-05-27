@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Jalandhar,PvrFriendsJalandhar,Punjabi,11:00,Classic,150₹,32,2
+Punjab,Jalandhar,PvrFriendsJalandhar,Punjabi,11:00,Prime,190₹,56,21
+Punjab,Jalandhar,PvrFriendsJalandhar,Punjabi,11:00,Recliner,400₹,8,0
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,15:30,Classic,300₹,84,0
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,15:30,Prime,350₹,38,2
+Haryana,Chandigarh,PvrElanteMallChandigarh,Punjabi,16:30,Classic,230₹,140,37
+Haryana,Chandigarh,PvrElanteMallChandigarh,Punjabi,16:30,Recliner,650₹,26,5
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,18:55,Classic,310₹,84,0
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,18:55,Prime,340₹,38,0
+Punjab,Jalandhar,PvrMbdNeopolisMallJalandhar,Punjabi,22:00,Recliner,500₹,8,0
+Punjab,Jalandhar,PvrMbdNeopolisMallJalandhar,Punjabi,22:00,Prime,310₹,10,0
+Punjab,Jalandhar,PvrMbdNeopolisMallJalandhar,Punjabi,22:00,Classic,200₹,95,0
+Punjab,Jalandhar,PvrMbdNeopolisMallJalandhar,Punjabi,22:00,ClassicPlus,230₹,146,16
