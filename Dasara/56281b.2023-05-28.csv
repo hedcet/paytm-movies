@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,Rayagada,AshokaTalkiesACDtsRayagada,Telugu,10:30,Balcony,150₹,355,0
+Orissa,Rayagada,AshokaTalkiesACDtsRayagada,Telugu,10:30,FirstClass,100₹,222,0
+Orissa,Rayagada,AshokaTalkiesACDtsRayagada,Telugu,10:30,SecondClass,60₹,57,0
+Orissa,Rayagada,AshokaTalkiesACDtsRayagada,Telugu,14:00,Balcony,150₹,355,0
+Orissa,Rayagada,AshokaTalkiesACDtsRayagada,Telugu,14:00,FirstClass,100₹,222,4
+Orissa,Rayagada,AshokaTalkiesACDtsRayagada,Telugu,14:00,SecondClass,60₹,57,2
+Orissa,Rayagada,AshokaTalkiesACDtsRayagada,Telugu,17:30,Balcony,150₹,355,0
+Orissa,Rayagada,AshokaTalkiesACDtsRayagada,Telugu,17:30,FirstClass,100₹,222,1
+Orissa,Rayagada,AshokaTalkiesACDtsRayagada,Telugu,17:30,SecondClass,60₹,57,0
+Orissa,Rayagada,AshokaTalkiesACDtsRayagada,Telugu,20:30,Balcony,150₹,355,0
+Orissa,Rayagada,AshokaTalkiesACDtsRayagada,Telugu,20:30,FirstClass,100₹,222,0
+Orissa,Rayagada,AshokaTalkiesACDtsRayagada,Telugu,20:30,SecondClass,60₹,57,0
