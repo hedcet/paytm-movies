@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,11:50,Classic,250₹,128,6
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,11:50,Prime,270₹,100,12
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,11:50,Recliner,480₹,14,8
+Karnataka,Davanagere,MovieTimeSsGardeniaMall,Kannada,13:45,Premier,180₹,180,10
+Karnataka,Davanagere,MovieTimeSsGardeniaMall,Kannada,13:45,Gold,200₹,79,6
+Karnataka,Davanagere,MovieTimeSsGardeniaMall,Kannada,19:00,Premier,180₹,180,25
+Karnataka,Davanagere,MovieTimeSsGardeniaMall,Kannada,19:00,Gold,200₹,79,12
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,19:05,Classic,250₹,140,6
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,19:05,Prime,270₹,108,46
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,19:05,Recliner,480₹,28,22
