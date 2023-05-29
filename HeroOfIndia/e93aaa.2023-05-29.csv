@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,PvrPanjagutta,Telugu,11:15,Classic,150₹,141,13
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,11:30,FristClass,110₹,215,17
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,11:30,SecondClass,80₹,85,0
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,14:30,FristClass,110₹,215,17
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,14:30,SecondClass,80₹,85,0
+Karnataka,Bengaluru,AbhinayTheatre2KCinemaMajestic,Telugu,16:30,Balcony,150₹,369,312
+Karnataka,Bengaluru,AbhinayTheatre2KCinemaMajestic,Telugu,16:30,MiniBalcony,120₹,146,146
+Karnataka,Bengaluru,AbhinayTheatre2KCinemaMajestic,Telugu,16:30,Second,100₹,480,424
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,18:30,FristClass,110₹,215,17
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,18:30,SecondClass,80₹,85,0
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,21:30,FristClass,110₹,215,17
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,21:30,SecondClass,80₹,85,0
