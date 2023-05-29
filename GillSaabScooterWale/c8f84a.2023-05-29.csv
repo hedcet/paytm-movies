@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,TalwandiBhai,FunCineplex,Punjabi,10:00,Royal,80₹,91,78
+Punjab,Doraha,CineSquareCinemasRoyaltonCity,Punjabi,10:15,Royal,150₹,89,42
+Haryana,Sardulgarh,GoldenCinemasRoriRoad,Punjabi,15:00,Platinum,350₹,14,9
+Haryana,Sardulgarh,GoldenCinemasRoriRoad,Punjabi,15:00,Royal,300₹,8,4
+Haryana,Sardulgarh,GoldenCinemasRoriRoad,Punjabi,15:00,Gold,220₹,16,11
+Haryana,Sardulgarh,GoldenCinemasRoriRoad,Punjabi,15:00,Silver,200₹,33,22
+Haryana,Sardulgarh,GoldenCinemasRoriRoad,Punjabi,15:00,NormalClass,180₹,11,11
+Punjab,Jalandhar,PvrFriendsJalandhar,Punjabi,18:45,Classic,140₹,33,0
+Punjab,Jalandhar,PvrFriendsJalandhar,Punjabi,18:45,Prime,170₹,53,12
+Punjab,Ludhiana,PvrPavilionMallLudhiana,Punjabi,18:50,Classic,190₹,64,0
+Punjab,Amritsar,PvrSctCityCentre,Punjabi,20:10,Classic,170₹,12,0
+Punjab,Amritsar,PvrSctCityCentre,Punjabi,20:10,Prime,180₹,40,0
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,21:45,Classic,190₹,84,0
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,21:45,Prime,220₹,38,1
