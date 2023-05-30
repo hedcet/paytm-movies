@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Ludhiana,CinepolisMbdNeopolisMallLudhiana,Punjabi,09:50,Premium,170₹,94,0
+Punjab,Mohali,CinepolisBestechSquareMallMohali,Punjabi,15:35,Normal,180₹,22,0
+Punjab,Mohali,CinepolisBestechSquareMallMohali,Punjabi,15:35,Executive,200₹,59,0
+Punjab,Mohali,CinepolisBestechSquareMallMohali,Punjabi,15:35,Premium,220₹,31,3
+Punjab,Mohali,CinepolisBestechSquareMallMohali,Punjabi,15:35,Vip,400₹,9,0
+Punjab,Ludhiana,CinepolisMbdNeopolisMallLudhiana,Punjabi,18:05,Premium,180₹,84,0
