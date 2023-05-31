@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,CinepolisLakeMallRashbehari,Bengali,11:55,Normal,130₹,22,0
+WestBengal,Kolkata,CinepolisLakeMallRashbehari,Bengali,11:55,Executive,130₹,55,0
+WestBengal,Kolkata,CinepolisLakeMallRashbehari,Bengali,11:55,Premium,130₹,22,0
+WestBengal,Kolkata,CinepolisAcropolisMallRajdangaRoad,Bengali,12:35,Normal,150₹,34,0
+WestBengal,Kolkata,CinepolisAcropolisMallRajdangaRoad,Bengali,12:35,Executive,150₹,134,0
+WestBengal,Kolkata,CinepolisAcropolisMallRajdangaRoad,Bengali,12:35,Premium,150₹,42,0
+WestBengal,Kolkata,InoxMetropolisMallHilandPark,Bengali,13:30,Premier,150₹,36,0
+WestBengal,Kolkata,InoxMetropolisMallHilandPark,Bengali,13:30,Royal,320₹,14,0
+WestBengal,Kolkata,InoxMetropolisMallHilandPark,Bengali,13:30,Silver,150₹,147,4
+WestBengal,Kolkata,CinepolisAcropolisMallRajdangaRoad,Bengali,16:25,Normal,150₹,22,0
+WestBengal,Kolkata,CinepolisAcropolisMallRajdangaRoad,Bengali,16:25,Executive,170₹,64,3
+WestBengal,Kolkata,CinepolisAcropolisMallRajdangaRoad,Bengali,16:25,Premium,190₹,20,18
+WestBengal,Kolkata,CinepolisLakeMallRashbehari,Bengali,20:10,Normal,170₹,40,0
+WestBengal,Kolkata,CinepolisLakeMallRashbehari,Bengali,20:10,Executive,170₹,188,0
+WestBengal,Kolkata,CinepolisLakeMallRashbehari,Bengali,20:10,Premium,170₹,20,0
+WestBengal,Kolkata,CinepolisLakeMallRashbehari,Bengali,20:10,Vip,350₹,12,0
