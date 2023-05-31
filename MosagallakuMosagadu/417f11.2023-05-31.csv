@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,InnovativeMultiplexMarathahalli,Telugu,18:00,Gold,230₹,112,14
+Karnataka,Bengaluru,InnovativeMultiplexMarathahalli,Telugu,18:00,Silver,180₹,240,15
+AndhraPradesh,Kuppam,MahalakshmiTheatreKuppam,Telugu,18:00,Premium,90₹,216,0
+AndhraPradesh,Kuppam,MahalakshmiTheatreKuppam,Telugu,18:00,NonPremium,67₹,84,0
+Karnataka,Bengaluru,InnovativeMultiplexMarathahalli,Telugu,21:00,Gold,230₹,112,14
+Karnataka,Bengaluru,InnovativeMultiplexMarathahalli,Telugu,21:00,Silver,180₹,240,15
+AndhraPradesh,Kuppam,MahalakshmiTheatreKuppam,Telugu,21:00,Premium,90₹,216,0
+AndhraPradesh,Kuppam,MahalakshmiTheatreKuppam,Telugu,21:00,NonPremium,67₹,84,0
+AndhraPradesh,Guntur,KrishnaMahalSambasivaPet,Telugu,21:30,Balcony,110₹,118,0
+AndhraPradesh,Guntur,KrishnaMahalSambasivaPet,Telugu,21:30,Sofa,110₹,88,0
+AndhraPradesh,Guntur,KrishnaMahalSambasivaPet,Telugu,21:30,LowerBalcony,110₹,144,0
+AndhraPradesh,Guntur,KrishnaMahalSambasivaPet,Telugu,21:30,Chair,80₹,140,0
+AndhraPradesh,Guntur,KrishnaMahalSambasivaPet,Telugu,21:30,ThirdClass,50₹,140,0
