@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kothapeta,SatyaChandraKothapeta,Telugu,11:00,ReservedClass,100₹,255,0
+Kerala,Irinjalakuda,ChembakasseryCinemas4K3DDolbyAtmos,English,12:00,HeavenlyCircle3DChargesInclusive,260₹,18,0
+Kerala,Irinjalakuda,ChembakasseryCinemas4K3DDolbyAtmos,English,12:00,RoyalCircle3DChargesInclusive,159₹,356,0
+AndhraPradesh,Kothapeta,SatyaChandraKothapeta,Telugu,14:00,ReservedClass,100₹,255,0
+AndhraPradesh,Kothapeta,SatyaChandraKothapeta,Telugu,18:00,ReservedClass,100₹,255,0
+Kerala,Irinjalakuda,ChembakasseryCinemas4K3DDolbyAtmos,English,18:30,HeavenlyCircle3DChargesInclusive,260₹,18,0
+Kerala,Irinjalakuda,ChembakasseryCinemas4K3DDolbyAtmos,English,18:30,RoyalCircle3DChargesInclusive,159₹,356,1
+AndhraPradesh,Kothapeta,SatyaChandraKothapeta,Telugu,21:00,ReservedClass,100₹,255,0
