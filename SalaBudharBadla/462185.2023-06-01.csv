@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,Rourkela,PvrForumRourkela,Odia,11:30,Classic,130₹,28,0
+Orissa,Rourkela,PvrForumRourkela,Odia,11:30,Prime,140₹,98,14
+Orissa,Rourkela,PvrForumRourkela,Odia,11:30,PrimePlus,180₹,13,0
+Orissa,Jharsuguda,EylexCinemaJharsuguda,Odia,13:55,Dm,140₹,13,0
+Orissa,Jharsuguda,EylexCinemaJharsuguda,Odia,13:55,Pl,140₹,84,0
+Orissa,JajpurRoad,SaraswatiMultiplexJajpurRoad,Odia,15:15,Box,200₹,21,15
+Orissa,JajpurRoad,SaraswatiMultiplexJajpurRoad,Odia,15:15,Platinum,150₹,160,112
+Orissa,JajpurRoad,SaraswatiMultiplexJajpurRoad,Odia,15:15,Sapphire,120₹,40,40
+Orissa,Jharsuguda,EylexCinemaJharsuguda,Odia,18:15,Dm,140₹,13,0
+Orissa,Jharsuguda,EylexCinemaJharsuguda,Odia,18:15,Pl,140₹,84,0
