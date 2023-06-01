@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kuppam,MahalakshmiTheatreKuppam,Telugu,10:45,Premium,90₹,216,0
+AndhraPradesh,Kuppam,MahalakshmiTheatreKuppam,Telugu,10:45,NonPremium,67₹,84,0
+AndhraPradesh,Kuppam,MahalakshmiTheatreKuppam,Telugu,14:00,Premium,90₹,216,0
+AndhraPradesh,Kuppam,MahalakshmiTheatreKuppam,Telugu,14:00,NonPremium,67₹,84,0
+Karnataka,Bengaluru,InnovativeMultiplexMarathahalli,Telugu,18:00,Gold,230₹,112,14
+Karnataka,Bengaluru,InnovativeMultiplexMarathahalli,Telugu,18:00,Silver,180₹,240,15
+AndhraPradesh,Kuppam,MahalakshmiTheatreKuppam,Telugu,18:00,Premium,90₹,216,0
+AndhraPradesh,Kuppam,MahalakshmiTheatreKuppam,Telugu,18:00,NonPremium,67₹,84,0
+Karnataka,Bengaluru,InnovativeMultiplexMarathahalli,Telugu,21:00,Gold,230₹,112,14
+Karnataka,Bengaluru,InnovativeMultiplexMarathahalli,Telugu,21:00,Silver,180₹,240,15
+AndhraPradesh,Kuppam,MahalakshmiTheatreKuppam,Telugu,21:00,Premium,90₹,216,0
+AndhraPradesh,Kuppam,MahalakshmiTheatreKuppam,Telugu,21:00,NonPremium,67₹,84,0
