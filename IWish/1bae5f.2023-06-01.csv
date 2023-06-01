@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,RajhansMultiplexAdajan,Gujarati,17:00,Executive,180₹,291,249
+Gujarat,Surat,RajhansMultiplexAdajan,Gujarati,17:15,Box,180₹,6,0
+Gujarat,Surat,RajhansMultiplexAdajan,Gujarati,17:15,Executive,180₹,292,250
+Gujarat,Surat,RajhansMultiplexAdajan,Gujarati,17:30,Box,180₹,14,0
+Gujarat,Surat,RajhansMultiplexAdajan,Gujarati,17:30,Recliner,180₹,25,24
+Gujarat,Surat,RajhansMultiplexAdajan,Gujarati,17:30,Sofaclass,180₹,444,392
+Gujarat,Surat,RajhansMultiplexAdajan,Gujarati,19:30,Executive,200₹,291,249
+Gujarat,Surat,RajhansMultiplexAdajan,Gujarati,19:45,Box,200₹,6,0
+Gujarat,Surat,RajhansMultiplexAdajan,Gujarati,19:45,Executive,200₹,292,250
+Gujarat,Surat,RajhansMultiplexAdajan,Gujarati,20:00,Box,200₹,14,0
+Gujarat,Surat,RajhansMultiplexAdajan,Gujarati,20:00,Recliner,200₹,25,24
+Gujarat,Surat,RajhansMultiplexAdajan,Gujarati,20:00,Sofaclass,200₹,444,392
+Gujarat,Surat,RajhansMultiplexAdajan,Gujarati,20:00,Business,200₹,94,71
+Gujarat,Surat,RajhansMultiplexAdajan,Gujarati,22:10,Executive,200₹,291,249
