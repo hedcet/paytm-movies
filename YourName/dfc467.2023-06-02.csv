@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NewDelhi,PvrPacificSubhashNagarDelhi,Japanese,10:00,Classic,150₹,52,0
+Delhi,NewDelhi,PvrPacificSubhashNagarDelhi,Japanese,10:00,Prime,150₹,68,1
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,Japanese,10:30,Classic,150₹,250,8
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,Japanese,10:30,Recliner,250₹,12,4
+UttarPradesh,Noida,PvrLogixCityCentreNoida,Japanese,10:30,Classic,150₹,78,78
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Japanese,11:00,Classic,150₹,54,16
+AndhraPradesh,Vizag,InoxVarunBeachMaharanipet,Japanese,11:05,Excutive,177₹,137,1
+Telangana,Hyderabad,InoxSattvaNecklaceMallKavadiguda,Japanese,14:45,Executive,150₹,122,10
+Telangana,Hyderabad,InoxSattvaNecklaceMallKavadiguda,Japanese,14:45,Royal,250₹,10,2
