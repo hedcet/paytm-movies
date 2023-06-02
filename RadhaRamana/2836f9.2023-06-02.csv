@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,InoxCentralMantriJunctionJpNagar,Kannada,10:10,Club,180₹,219,10
+Karnataka,Bengaluru,InoxCentralMantriJunctionJpNagar,Kannada,10:10,Royal,270₹,10,0
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteSunkadakatteBengaluru,Kannada,11:00,Silver,90₹,34,0
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteSunkadakatteBengaluru,Kannada,11:00,Gold,110₹,145,0
+Karnataka,Muddebihal,ShriGirijashankarTalkies,Kannada,12:00,FirstClass,101₹,300,150
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,12:50,Executive,150₹,69,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,12:50,Premium,150₹,29,2
+Karnataka,Muddebihal,ShriGirijashankarTalkies,Kannada,15:00,FirstClass,101₹,300,150
+Karnataka,Muddebihal,ShriGirijashankarTalkies,Kannada,18:00,FirstClass,101₹,300,150
+Karnataka,Muddebihal,ShriGirijashankarTalkies,Kannada,21:00,FirstClass,101₹,300,150
