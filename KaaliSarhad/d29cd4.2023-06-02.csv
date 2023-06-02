@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Amritsar,MovietimeOmaxeNoveltyMallLawrenceRoad,Punjabi,11:00,Platinum,150₹,88,0
+Punjab,Amritsar,MovietimeOmaxeNoveltyMallLawrenceRoad,Punjabi,11:00,Gold,150₹,72,20
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,13:25,Classic,300₹,105,0
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,13:25,Prime,340₹,42,0
+Punjab,Ludhiana,PvrPavilionMallLudhiana,Punjabi,17:50,Classic,200₹,64,6
+Punjab,Amritsar,PvrSctCityCentre,Punjabi,20:30,Classic,190₹,105,0
+Punjab,Amritsar,PvrSctCityCentre,Punjabi,20:30,Prime,200₹,60,50
+Punjab,Amritsar,PvrSctCityCentre,Punjabi,20:30,Recliner,400₹,12,0
