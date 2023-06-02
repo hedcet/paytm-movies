@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kozhikode,ArcCoronationDolbyAtmosCalicut,Malayalam,10:00,Elite,100₹,146,4
+Kerala,Manjeri,LadderCinemasIndianMall,Malayalam,12:45,Executive,150₹,74,0
+Kerala,Kozhikode,ArcCoronationDolbyAtmosCalicut,Malayalam,15:45,Elite,160₹,146,18
