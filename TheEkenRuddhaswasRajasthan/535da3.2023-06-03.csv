@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,RupMandirCinemaBelgharia,Bengali,11:45,Platinum,100₹,48,0
+WestBengal,Kolkata,RupMandirCinemaBelgharia,Bengali,11:45,Gold,80₹,102,56
+WestBengal,Kolkata,CinepolisLakeMallRashbehari,Bengali,13:00,Normal,180₹,22,0
+WestBengal,Kolkata,CinepolisLakeMallRashbehari,Bengali,13:00,Executive,180₹,55,12
+WestBengal,Kolkata,CinepolisLakeMallRashbehari,Bengali,13:00,Premium,180₹,22,17
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,19:50,Classic,240₹,176,103
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,19:50,Prime,290₹,12,12
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,19:50,Recliner,480₹,14,13
