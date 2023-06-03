@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NewDelhi,CinepolisV3SMallLaxmiNagar,Garhwali,14:55,Normal,200₹,84,41
+Delhi,NewDelhi,CinepolisV3SMallLaxmiNagar,Garhwali,14:55,Executive,200₹,114,114
+Delhi,NewDelhi,PvrVegasDwarka,Garhwali,16:30,Prime,250₹,74,65
+Delhi,NewDelhi,PvrVegasDwarka,Garhwali,16:30,Classic,250₹,108,52
+Delhi,NewDelhi,PvrSangamRKPuram,Garhwali,16:30,Classic,250₹,135,4
+Delhi,NewDelhi,PvrSangamRKPuram,Garhwali,16:30,Prime,250₹,131,16
+Delhi,NewDelhi,PvrSangamRKPuram,Garhwali,16:30,PrimePlus,250₹,34,17
+UttarPradesh,Ghaziabad,RrCinemaJaipuriaMall,Garhwali,17:15,Gold,200₹,240,88
+UttarPradesh,Ghaziabad,RrCinemaJaipuriaMall,Garhwali,17:15,Silver,150₹,100,6
+UttarPradesh,Ghaziabad,RrCinemaJaipuriaMall,Garhwali,17:15,PremiumSofa,300₹,21,7
