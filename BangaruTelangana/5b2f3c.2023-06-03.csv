@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,SensationComplexHyderabad,Telugu,11:30,ColosseumClass,110₹,112,40
+Telangana,Hyderabad,SensationComplexHyderabad,Telugu,11:30,EcstasyClass,110₹,152,116
+Telangana,Hyderabad,SensationComplexHyderabad,Telugu,11:30,AscropolisClass,80₹,189,143
+Telangana,Hyderabad,SensationComplexHyderabad,Telugu,11:30,ThirdClass,50₹,122,122
+Telangana,Hyderabad,SensationComplexHyderabad,Telugu,14:30,ColosseumClass,110₹,112,40
+Telangana,Hyderabad,SensationComplexHyderabad,Telugu,14:30,EcstasyClass,110₹,152,116
+Telangana,Hyderabad,SensationComplexHyderabad,Telugu,14:30,AscropolisClass,80₹,189,143
+Telangana,Hyderabad,SensationComplexHyderabad,Telugu,14:30,ThirdClass,50₹,122,122
+Telangana,Hyderabad,SensationComplexHyderabad,Telugu,18:30,ColosseumClass,110₹,112,40
+Telangana,Hyderabad,SensationComplexHyderabad,Telugu,18:30,EcstasyClass,110₹,152,116
+Telangana,Hyderabad,SensationComplexHyderabad,Telugu,18:30,AscropolisClass,80₹,189,143
+Telangana,Hyderabad,SensationComplexHyderabad,Telugu,18:30,ThirdClass,50₹,122,122
+Telangana,Hyderabad,SensationComplexHyderabad,Telugu,21:30,ColosseumClass,110₹,112,40
+Telangana,Hyderabad,SensationComplexHyderabad,Telugu,21:30,EcstasyClass,110₹,152,116
+Telangana,Hyderabad,SensationComplexHyderabad,Telugu,21:30,AscropolisClass,80₹,189,143
+Telangana,Hyderabad,SensationComplexHyderabad,Telugu,21:30,ThirdClass,50₹,122,122
