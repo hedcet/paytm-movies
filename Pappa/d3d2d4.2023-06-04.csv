@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Manjeri,LadderCinemasIndianMall,Malayalam,11:00,Executive,150₹,114,0
+Kerala,Thalayolaparambu,CarnivalThalayolaparambu,Malayalam,11:00,Gold,110₹,204,8
+Kerala,Angamaly,CarnivalKsrtComplexSalemErnakulamHighway,Malayalam,17:00,Platinum,130₹,110,31
+Kerala,Angamaly,CarnivalKsrtComplexSalemErnakulamHighway,Malayalam,17:00,GoldOffline,110₹,188,10
