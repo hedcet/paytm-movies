@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrDynamicJuhu,English,12:45,Prime,360₹,72,58
+Maharashtra,Mumbai,PvrDynamicJuhu,English,12:45,Classic,340₹,40,6
+Maharashtra,Pune,PvrIconPavillionMallShivajinagar,English,13:25,Classic,210₹,28,2
+Maharashtra,Pune,PvrIconPavillionMallShivajinagar,English,13:25,Prime,240₹,148,40
+Maharashtra,Pune,PvrIconPavillionMallShivajinagar,English,13:25,Recliner,660₹,8,1
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,English,14:00,Platinum,800₹,32,19
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,English,14:00,PlatinumSuperior,"1,000₹",16,13
+Delhi,NewDelhi,PvrPromenadeVasantKunj,English,21:55,Classic,440₹,150,11
+Delhi,NewDelhi,PvrPromenadeVasantKunj,English,21:55,Prime,490₹,44,17
+Haryana,Gurgaon,PvrDirectorsCutGurugramAmbienceMall,English,21:55,Platinum,"1,300₹",36,36
+Haryana,Gurgaon,PvrDirectorsCutGurugramAmbienceMall,English,21:55,PlatinumSuperior,"1,500₹",7,7
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,22:15,Classic,150₹,193,30
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,22:15,Recliner,250₹,10,0
+Maharashtra,Mumbai,PvrIconOberoiGoregaonE,English,22:45,Classic,260₹,45,4
+Maharashtra,Mumbai,PvrIconOberoiGoregaonE,English,22:45,Prime,300₹,147,42
+Maharashtra,Mumbai,PvrIconOberoiGoregaonE,English,22:45,Recliner,520₹,34,6
