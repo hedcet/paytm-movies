@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,RevolutionMultiplexCtm,Gujarati,12:45,PlatinumClass,180₹,15,0
+Gujarat,Ahmedabad,RevolutionMultiplexCtm,Gujarati,12:45,GoldenClass,160₹,40,0
+Gujarat,Ahmedabad,RevolutionMultiplexCtm,Gujarati,12:45,SilverClass,140₹,20,0
+Gujarat,Patan,SaneliteCinemasPatan,Gujarati,17:15,FamilySofa1Admit,250₹,12,0
+Gujarat,Patan,SaneliteCinemasPatan,Gujarati,17:15,FamilyLounger2Admit,600₹,15,0
+Gujarat,Ahmedabad,SaneliteCinemasScienceCity,Gujarati,21:30,Miller,220₹,41,0
+Gujarat,Surendranagar,MahalaxmiMultiplexSurendranagar,Gujarati,21:30,Gold,100₹,122,122
+Gujarat,Surendranagar,MahalaxmiMultiplexSurendranagar,Gujarati,21:30,Silver,100₹,60,60
+Gujarat,Patan,SaneliteCinemasPatan,Gujarati,22:45,FamilySofa1Admit,250₹,12,0
+Gujarat,Patan,SaneliteCinemasPatan,Gujarati,22:45,FamilyLounger2Admit,600₹,15,0
