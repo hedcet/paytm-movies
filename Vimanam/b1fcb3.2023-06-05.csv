@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Vijayawada,G3TheatresRajYuvraj,Telugu,18:30,Recliner,295₹,27,15
+AndhraPradesh,Vijayawada,G3TheatresRajYuvraj,Telugu,18:30,Gold,177₹,293,228
+Telangana,Vizag,JagadambaComplex,Telugu,18:30,Premium,140₹,163,0
+Telangana,Vizag,JagadambaComplex,Telugu,18:30,NonPremium,70₹,39,0
+Telangana,Vizag,JagadambaComplex,Telugu,18:30,NonPremium,70₹,76,0
