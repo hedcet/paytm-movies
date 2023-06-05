@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,GoldCinemaSantacruzW,Gujarati,13:00,Club,112₹,362,362
+Maharashtra,Mumbai,GoldCinemaSantacruzW,Gujarati,13:00,Executive,112₹,58,58
+Gujarat,Anand,ShaanCinemaAvFortuneMall,Gujarati,17:30,Recliner,350₹,13,0
+Gujarat,Anand,ShaanCinemaAvFortuneMall,Gujarati,17:30,Sofa,150₹,28,0
+Gujarat,Anand,ShaanCinemaAvFortuneMall,Gujarati,17:30,Platinum,100₹,66,0
+Gujarat,Anand,ShaanCinemaAvFortuneMall,Gujarati,17:30,Gold,100₹,45,0
+Gujarat,Vadodara,MovieTimeSSquareMallElloraPark,Gujarati,20:00,Recliner,150₹,9,0
+Gujarat,Vadodara,MovieTimeSSquareMallElloraPark,Gujarati,20:00,Premium,100₹,104,0
+Gujarat,Vadodara,MovieTimeSSquareMallElloraPark,Gujarati,20:00,Executive,100₹,48,0
