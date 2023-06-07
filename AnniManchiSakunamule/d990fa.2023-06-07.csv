@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Rajahmundry,UrvasiComplexMangalavaripeta,Telugu,11:00,ReservedCl,112₹,695,224
+AndhraPradesh,Rajahmundry,UrvasiComplexMangalavaripeta,Telugu,11:00,SecondCl,75₹,296,170
+AndhraPradesh,Kakinada,SpAnandCinemasKakinada,Telugu,11:45,Reclinear,295₹,19,0
+AndhraPradesh,Kakinada,SpAnandCinemasKakinada,Telugu,11:45,PremiumClass,148₹,296,0
+AndhraPradesh,Kakinada,InoxSrmtMallRamanayyapeta,Telugu,12:45,Executive,112₹,131,35
+AndhraPradesh,Kakinada,SpAnandCinemasKakinada,Telugu,14:55,Reclinear,295₹,19,0
+AndhraPradesh,Kakinada,SpAnandCinemasKakinada,Telugu,14:55,PremiumClass,148₹,296,2
+AndhraPradesh,Vijayawada,CapitalCinemasTrendsetMallKalaNagar,Telugu,17:00,Gold,295₹,27,7
+AndhraPradesh,Vijayawada,CapitalCinemasTrendsetMallKalaNagar,Telugu,17:00,Silver,177₹,21,0
+AndhraPradesh,Rajahmundry,UrvasiComplexMangalavaripeta,Telugu,18:15,ReservedCl,112₹,695,225
+AndhraPradesh,Rajahmundry,UrvasiComplexMangalavaripeta,Telugu,18:15,SecondCl,75₹,296,170
+AndhraPradesh,Kakinada,InoxSrmtMallRamanayyapeta,Telugu,18:40,Executive,112₹,131,35
