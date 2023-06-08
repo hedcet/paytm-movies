@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Noida,PvrLogixCityCentreNoida,Japanese,10:35,Classic,150₹,78,8
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,Japanese,10:45,Classic,150₹,250,50
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,Japanese,10:45,Recliner,250₹,12,7
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Japanese,11:00,Classic,150₹,54,9
+Telangana,Vizag,InoxVarunBeachMaharanipet,Japanese,14:00,Excutive,177₹,137,8
