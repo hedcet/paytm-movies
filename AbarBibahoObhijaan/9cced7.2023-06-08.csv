@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,CoochBehar,NewCinemaBangchatraRoad,Bengali,15:45,Balcony,100₹,87,45
+WestBengal,Kolkata,RupMandirCinemaBelgharia,Bengali,18:30,Platinum,100₹,48,8
+WestBengal,Kolkata,RupMandirCinemaBelgharia,Bengali,18:30,Gold,80₹,102,56
+WestBengal,Kolkata,CinepolisAcropolisMallRajdangaRoad,Bengali,18:50,Normal,160₹,34,0
+WestBengal,Kolkata,CinepolisAcropolisMallRajdangaRoad,Bengali,18:50,Executive,180₹,134,3
+WestBengal,Kolkata,CinepolisAcropolisMallRajdangaRoad,Bengali,18:50,Premium,200₹,42,10
