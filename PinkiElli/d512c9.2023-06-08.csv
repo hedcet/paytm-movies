@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,InoxGarudaYelahanka,Kannada,12:50,Club,160₹,111,2
+Karnataka,Bengaluru,InoxGarudaYelahanka,Kannada,12:50,Executive,150₹,60,0
+Karnataka,Hubli,PvrLaxmiMallCoenRoad,Kannada,19:10,Classic,110₹,68,0
+Karnataka,Hubli,PvrLaxmiMallCoenRoad,Kannada,19:10,Prime,210₹,10,0
+Karnataka,Hubli,PvrLaxmiMallCoenRoad,Kannada,19:10,ClassicPlus,110₹,124,2
