@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Gurgaon,PvrAmbienceGurgaon,Japanese,09:35,ClassicNormal,180₹,105,3
+Haryana,Gurgaon,PvrAmbienceGurgaon,Japanese,09:35,Prime,210₹,38,3
+UttarPradesh,Noida,PvrLogixCityCentreNoida,Japanese,10:15,Classic,180₹,78,21
+Maharashtra,Mumbai,InoxRCityGhatkoparW,Hindi,10:30,Club,130₹,63,0
+Maharashtra,Mumbai,InoxRCityGhatkoparW,Hindi,10:30,Executive,100₹,36,0
+Maharashtra,Mumbai,InoxRCityGhatkoparW,Hindi,10:30,RoyalRecliner,240₹,9,0
+Maharashtra,Mumbai,InoxRCityGhatkoparW,Hindi,10:30,Royal,130₹,37,2
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,Japanese,10:30,Classic,150₹,135,34
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,Japanese,10:30,Recliner,350₹,9,0
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,Japanese,10:35,Classic,140₹,150,14
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,Japanese,10:35,Recliner,260₹,12,6
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Japanese,11:15,Classic,150₹,181,23
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Japanese,11:15,Recliner,350₹,9,0
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Japanese,13:30,Classic,66₹,16,16
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Japanese,13:30,Prime,185₹,110,33
