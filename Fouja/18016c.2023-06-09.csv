@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Rewari,BmgCinemaBmgMallLeoChowk,Haryanvi,13:40,Gold,110₹,229,51
+Haryana,Gurgaon,PvrElanTownCentreGurgaon,Haryanvi,16:55,Classic,210₹,54,0
+Haryana,Gurgaon,PvrElanTownCentreGurgaon,Haryanvi,16:55,Prime,230₹,63,53
+Haryana,Gurgaon,PvrElanTownCentreGurgaon,Haryanvi,16:55,Recliner,400₹,11,0
