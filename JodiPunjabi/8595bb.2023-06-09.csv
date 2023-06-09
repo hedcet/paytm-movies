@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Ludhiana,PvrPavilionMallLudhiana,Punjabi,13:00,Classic,215₹,63,13
+UttarPradesh,Chandigarh,PvrElanteMallChandigarh,Punjabi,15:00,Classic,230₹,138,6
+UttarPradesh,Chandigarh,PvrElanteMallChandigarh,Punjabi,15:00,Recliner,650₹,13,3
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,22:00,Classic,300₹,105,2
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,22:00,Prime,350₹,42,0
