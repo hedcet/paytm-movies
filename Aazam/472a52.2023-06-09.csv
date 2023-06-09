@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Hindi,17:00,Normal,300₹,36,0
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Hindi,17:00,Executive,300₹,78,0
+Gujarat,Ahmedabad,CinepolisNexusOneAhmedabad,Hindi,17:00,Premium,300₹,60,40
