@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,PvrPanjagutta,Telugu,11:40,Classic,150₹,141,18
+Telangana,Hyderabad,InoxGsmMallMadinaguda,Telugu,13:55,Executive,150₹,100,0
+Telangana,Hyderabad,InoxGsmMallMadinaguda,Telugu,13:55,Royal,250₹,7,2
