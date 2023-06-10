@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Tekkali,SudarshanTheatreAyodhyapuram,Telugu,14:15,Balcony,100₹,277,44
+AndhraPradesh,Tekkali,SudarshanTheatreAyodhyapuram,Telugu,14:15,Reserved,80₹,22,22
+AndhraPradesh,Tekkali,SudarshanTheatreAyodhyapuram,Telugu,14:15,FloarClass,80₹,76,76
+AndhraPradesh,Tekkali,SudarshanTheatreAyodhyapuram,Telugu,21:15,Balcony,100₹,277,44
+AndhraPradesh,Tekkali,SudarshanTheatreAyodhyapuram,Telugu,21:15,Reserved,80₹,22,22
+AndhraPradesh,Tekkali,SudarshanTheatreAyodhyapuram,Telugu,21:15,FloarClass,80₹,76,76
