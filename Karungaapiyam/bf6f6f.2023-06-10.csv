@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Kumbakonam,SriLakshmiCinemasACUfo2KDolby71,Tamil,12:00,Balcony,120₹,34,34
+TamilNadu,Kumbakonam,SriLakshmiCinemasACUfo2KDolby71,Tamil,12:00,FirstClass,100₹,212,212
+TamilNadu,Kumbakonam,SriLakshmiCinemasACUfo2KDolby71,Tamil,12:00,SecondClass,100₹,44,44
+TamilNadu,Kumbakonam,SriLakshmiCinemasACUfo2KDolby71,Tamil,14:30,Balcony,120₹,34,34
+TamilNadu,Kumbakonam,SriLakshmiCinemasACUfo2KDolby71,Tamil,14:30,FirstClass,100₹,212,212
+TamilNadu,Kumbakonam,SriLakshmiCinemasACUfo2KDolby71,Tamil,14:30,SecondClass,100₹,44,44
+TamilNadu,Kumbakonam,SriLakshmiCinemasACUfo2KDolby71,Tamil,18:15,Balcony,120₹,34,34
+TamilNadu,Kumbakonam,SriLakshmiCinemasACUfo2KDolby71,Tamil,18:15,FirstClass,100₹,212,0
+TamilNadu,Kumbakonam,SriLakshmiCinemasACUfo2KDolby71,Tamil,18:15,SecondClass,100₹,44,0
+TamilNadu,Kumbakonam,SriLakshmiCinemasACUfo2KDolby71,Tamil,22:15,Balcony,120₹,34,34
+TamilNadu,Kumbakonam,SriLakshmiCinemasACUfo2KDolby71,Tamil,22:15,FirstClass,100₹,212,0
+TamilNadu,Kumbakonam,SriLakshmiCinemasACUfo2KDolby71,Tamil,22:15,SecondClass,100₹,44,0
