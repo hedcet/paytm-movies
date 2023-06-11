@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,10:20,Classic,180₹,140,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,10:20,Prime,200₹,108,1
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,10:20,Recliner,360₹,28,0
