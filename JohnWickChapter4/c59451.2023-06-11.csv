@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,English,15:15,Platinum,850₹,32,10
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,English,15:15,PlatinumSuperior,"1,050₹",16,11
+TamilNadu,Chennai,PvrVrMallAnnaNagar,English,18:50,Classic,66₹,16,16
+TamilNadu,Chennai,PvrVrMallAnnaNagar,English,18:50,Prime,211₹,110,42
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,22:00,Classic,240₹,160,15
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,22:00,Recliner,430₹,12,7
