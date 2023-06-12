@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Amravati,PriyaTalkiesAmravati,Hindi,12:15,Balcony,100₹,169,0
+Maharashtra,Amravati,PriyaTalkiesAmravati,Hindi,12:15,UpperClass,70₹,230,0
+Maharashtra,Amravati,PriyaTalkiesAmravati,Hindi,12:15,LowerClass,50₹,100,0
+Maharashtra,Amravati,PriyaTalkiesAmravati,Hindi,15:15,Balcony,100₹,169,3
+Maharashtra,Amravati,PriyaTalkiesAmravati,Hindi,15:15,UpperClass,70₹,230,0
+Maharashtra,Amravati,PriyaTalkiesAmravati,Hindi,15:15,LowerClass,50₹,100,0
+Maharashtra,Amravati,PriyaTalkiesAmravati,Hindi,18:15,Balcony,100₹,169,2
+Maharashtra,Amravati,PriyaTalkiesAmravati,Hindi,18:15,UpperClass,70₹,230,0
+Maharashtra,Amravati,PriyaTalkiesAmravati,Hindi,18:15,LowerClass,50₹,100,0
+Maharashtra,Amravati,PriyaTalkiesAmravati,Hindi,21:15,Balcony,100₹,169,0
+Maharashtra,Amravati,PriyaTalkiesAmravati,Hindi,21:15,UpperClass,70₹,230,0
+Maharashtra,Amravati,PriyaTalkiesAmravati,Hindi,21:15,LowerClass,50₹,100,0
