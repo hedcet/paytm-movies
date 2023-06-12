@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Fatehabad,RkPalaceModelTown,Punjabi,09:00,Gold,200₹,102,26
+Haryana,Fatehabad,RkPalaceModelTown,Punjabi,09:00,Silver,150₹,96,16
+Punjab,Doraha,CineSquareCinemasRoyaltonCity,Punjabi,10:00,Royal,150₹,89,42
+Punjab,Moga,OrbitMultiplexZiraRoad,Punjabi,12:40,Recliner,300₹,12,0
+Punjab,Moga,OrbitMultiplexZiraRoad,Punjabi,12:40,Diamond,250₹,12,0
+Punjab,Moga,OrbitMultiplexZiraRoad,Punjabi,12:40,Gold,200₹,127,0
+Haryana,MandiDabwali,CenturyCityCinemaMandiDabwali,Punjabi,14:55,Platinum,250₹,18,0
+Haryana,MandiDabwali,CenturyCityCinemaMandiDabwali,Punjabi,14:55,Gold,190₹,78,0
+Haryana,MandiDabwali,CenturyCityCinemaMandiDabwali,Punjabi,14:55,Silver,170₹,108,0
+Haryana,Sardulgarh,GoldenCinemasRoriRoad,Punjabi,17:15,Platinum,350₹,13,7
+Haryana,Sardulgarh,GoldenCinemasRoriRoad,Punjabi,17:15,Royal,300₹,16,9
+Haryana,Sardulgarh,GoldenCinemasRoriRoad,Punjabi,17:15,Gold,220₹,56,42
+Haryana,Sardulgarh,GoldenCinemasRoriRoad,Punjabi,17:15,Silver,200₹,64,48
+Haryana,Sardulgarh,GoldenCinemasRoriRoad,Punjabi,17:15,NormalClass,180₹,32,16
