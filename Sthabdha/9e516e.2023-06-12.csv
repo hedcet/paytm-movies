@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteSunkadakatteBengaluru,Kannada,12:40,Silver,90₹,34,0
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteSunkadakatteBengaluru,Kannada,12:40,Gold,110₹,145,0
+Karnataka,Bengaluru,InoxNexusWhitefield,Kannada,13:10,Premiere,170₹,78,0
+Karnataka,Bengaluru,InoxNexusWhitefield,Kannada,13:10,Silver,190₹,67,12
+Karnataka,Bengaluru,PvrOrionUptownOldMadrasRoadBengaluru,Kannada,15:15,Classic,150₹,122,0
