@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,Japanese,10:05,Classic,140₹,160,7
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,Japanese,10:05,Recliner,260₹,12,0
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,Japanese,10:25,Classic,150₹,250,49
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,Japanese,10:25,Recliner,350₹,12,0
+Karnataka,Bengaluru,PvrVegaBannerghattaRoad,Japanese,10:35,Classic,112₹,144,3
+Haryana,Gurgaon,PvrAmbienceGurgaon,Japanese,11:05,ClassicNormal,180₹,84,2
+Haryana,Gurgaon,PvrAmbienceGurgaon,Japanese,11:05,Prime,210₹,68,0
+WestBengal,Kolkata,InoxSouthCityMall,Japanese,12:45,Silver,230₹,151,3
+WestBengal,Kolkata,InoxSouthCityMall,Japanese,12:45,Premier,210₹,32,0
+WestBengal,Kolkata,InoxSouthCityMall,Japanese,12:45,RoyalRecliner,410₹,16,0
+UttarPradesh,Noida,PvrLogixCityCentreNoida,Japanese,14:10,Classic,225₹,84,7
