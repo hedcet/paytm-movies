@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,SurendraTheatre,Hindi,11:00,DressCircle,110₹,24,2
+WestBengal,Kolkata,SurendraTheatre,Hindi,11:00,Balcony,50₹,46,0
+Maharashtra,Nanded,LibertyTalkiesGadipura,Hindi,12:00,Gold,60₹,207,0
+Maharashtra,Nanded,LibertyTalkiesGadipura,Hindi,12:00,Silver,60₹,116,0
+Maharashtra,Nanded,LibertyTalkiesGadipura,Hindi,15:00,Gold,60₹,207,0
+Maharashtra,Nanded,LibertyTalkiesGadipura,Hindi,15:00,Silver,60₹,116,0
+Maharashtra,Nanded,LibertyTalkiesGadipura,Hindi,18:00,Gold,60₹,207,0
+Maharashtra,Nanded,LibertyTalkiesGadipura,Hindi,18:00,Silver,60₹,116,0
+Maharashtra,Nanded,LibertyTalkiesGadipura,Hindi,21:00,Gold,60₹,207,0
+Maharashtra,Nanded,LibertyTalkiesGadipura,Hindi,21:00,Silver,60₹,116,0
