@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Arakkonam,SindhuCinemasArakkonam,Tamil,10:00,Executive,120₹,290,26
+TamilNadu,Arakkonam,SindhuCinemasArakkonam,Tamil,13:00,Executive,120₹,290,26
+TamilNadu,Arakkonam,SindhuCinemasArakkonam,Tamil,16:00,Executive,120₹,290,26
+TamilNadu,Arakkonam,SindhuCinemasArakkonam,Tamil,19:00,Executive,120₹,290,26
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,21:50,Classic,152₹,97,6
