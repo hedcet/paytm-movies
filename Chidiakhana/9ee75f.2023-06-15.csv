@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Bihar,Muzaffarpur,PjpCinemasMuzaffarpur,Hindi,10:30,Normal,130₹,30,0
+Bihar,Muzaffarpur,PjpCinemasMuzaffarpur,Hindi,10:30,Executive,130₹,102,5
+Bihar,Muzaffarpur,PjpCinemasMuzaffarpur,Hindi,10:30,Premium,130₹,81,26
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,Hindi,15:40,Classic,170₹,45,12
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,Hindi,15:40,Prime,200₹,179,106
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,Hindi,15:40,Recliner,420₹,12,0
