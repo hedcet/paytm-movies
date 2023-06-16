@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Dharwad,SrinivasTalkiesSubhasRoad,Kannada,12:00,Balcony,110₹,150,58
+Karnataka,Dharwad,SrinivasTalkiesSubhasRoad,Kannada,12:00,DressCircle,80₹,671,173
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,13:05,Executive,150₹,69,0
+Karnataka,Bengaluru,CinepolisEtaNammaMallBinnyPete,Kannada,13:05,Premium,150₹,29,2
