@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Vuyyuru,SanthiCinemaKaturuRd,Telugu,11:30,Sofa,150₹,14,14
+AndhraPradesh,Vuyyuru,SanthiCinemaKaturuRd,Telugu,11:30,Balcony,100₹,284,78
+AndhraPradesh,Vuyyuru,SanthiCinemaKaturuRd,Telugu,11:30,SecondClass,78₹,97,21
+AndhraPradesh,Vuyyuru,SanthiCinemaKaturuRd,Telugu,14:30,Sofa,150₹,14,0
+AndhraPradesh,Vuyyuru,SanthiCinemaKaturuRd,Telugu,14:30,Balcony,100₹,284,27
+AndhraPradesh,Vuyyuru,SanthiCinemaKaturuRd,Telugu,14:30,SecondClass,78₹,97,21
+AndhraPradesh,Vuyyuru,SanthiCinemaKaturuRd,Telugu,18:30,Sofa,150₹,14,0
+AndhraPradesh,Vuyyuru,SanthiCinemaKaturuRd,Telugu,18:30,Balcony,100₹,284,24
+AndhraPradesh,Vuyyuru,SanthiCinemaKaturuRd,Telugu,18:30,SecondClass,78₹,97,21
+AndhraPradesh,Vuyyuru,SanthiCinemaKaturuRd,Telugu,21:30,Sofa,150₹,14,0
+AndhraPradesh,Vuyyuru,SanthiCinemaKaturuRd,Telugu,21:30,Balcony,100₹,284,24
+AndhraPradesh,Vuyyuru,SanthiCinemaKaturuRd,Telugu,21:30,SecondClass,78₹,97,21
