@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Manjeri,LadderCinemasIndianMall,Malayalam,20:30,Executive,150₹,74,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,20:55,Normal,140₹,20,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,20:55,Executive,160₹,43,5
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,20:55,Premium,190₹,44,4
+Kerala,Manjeri,LadderCinemasIndianMall,Malayalam,21:30,Executive,150₹,74,0
