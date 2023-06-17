@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,12:10,Classic,60₹,16,15
+TamilNadu,Chennai,PvrVrMallAnnaNagar,Tamil,12:10,Prime,190₹,110,46
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,15:40,Normal,60₹,17,17
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,15:40,Executive,190₹,117,70
+TamilNadu,Chennai,VaradarajaCinemas4KDolbyAtmos,Tamil,18:20,Lounge,190₹,96,60
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,18:30,Elite,190₹,210,165
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,18:30,Budget,60₹,27,21
+TamilNadu,Chennai,InoxPhoenixMarketCityVelacheryFormerlyJazzCinemas,Tamil,22:05,Budget,60₹,24,22
+TamilNadu,Chennai,InoxPhoenixMarketCityVelacheryFormerlyJazzCinemas,Tamil,22:05,Elite,190₹,122,60
