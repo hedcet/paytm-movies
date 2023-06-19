@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,InoxPhoenixMarketCityVelacheryFormerlyJazzCinemas,English,11:45,Budget,96₹,20,20
+TamilNadu,Chennai,InoxPhoenixMarketCityVelacheryFormerlyJazzCinemas,English,11:45,Elite,241₹,170,14
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,12:05,PlatinumSuperior,550₹,8,7
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,12:05,Platinum,550₹,28,7
+WestBengal,Waterland,DemoCinemaCinesyncWaterland,English,15:30,SeniorCitizen,14₹,100,0
