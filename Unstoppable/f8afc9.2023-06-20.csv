@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,11:30,FirstClass,112₹,404,54
+AndhraPradesh,Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,11:30,SecondClass,75₹,108,0
+AndhraPradesh,Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,11:30,Reclinear,295₹,23,23
+AndhraPradesh,Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,14:30,FirstClass,112₹,404,55
+AndhraPradesh,Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,14:30,SecondClass,75₹,108,0
+AndhraPradesh,Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,14:30,Reclinear,295₹,23,23
+AndhraPradesh,Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,18:30,FirstClass,112₹,404,54
+AndhraPradesh,Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,18:30,SecondClass,75₹,108,0
+AndhraPradesh,Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,18:30,Reclinear,295₹,23,23
+AndhraPradesh,Pileru,SvMahalPileruPiler,Telugu,18:30,Platinum,100₹,224,31
+AndhraPradesh,Pileru,SvMahalPileruPiler,Telugu,18:30,Gold,100₹,64,64
+AndhraPradesh,Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,21:30,FirstClass,112₹,404,54
+AndhraPradesh,Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,21:30,SecondClass,75₹,108,0
+AndhraPradesh,Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,21:30,Reclinear,295₹,23,23
+AndhraPradesh,Pileru,SvMahalPileruPiler,Telugu,21:30,Platinum,100₹,224,31
+AndhraPradesh,Pileru,SvMahalPileruPiler,Telugu,21:30,Gold,100₹,64,64
