@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,14:45,Gold,145₹,248,128
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,14:45,Silver,80₹,64,35
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,14:45,Executive,80₹,48,23
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,18:15,Gold,145₹,248,124
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,18:15,Silver,80₹,64,33
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,18:15,Executive,80₹,48,23
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,21:45,Gold,145₹,248,124
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,21:45,Silver,80₹,64,33
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,21:45,Executive,80₹,48,23
