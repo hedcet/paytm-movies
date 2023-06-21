@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Markapuram,SaiBalajiTheatreMarkapuram,Telugu,11:00,Balcony,100₹,329,69
+AndhraPradesh,Markapuram,SaiBalajiTheatreMarkapuram,Telugu,11:00,FristClass,100₹,156,0
+AndhraPradesh,Markapuram,SaiBalajiTheatreMarkapuram,Telugu,14:30,Balcony,100₹,329,71
+AndhraPradesh,Markapuram,SaiBalajiTheatreMarkapuram,Telugu,14:30,FristClass,100₹,156,0
+AndhraPradesh,Markapuram,SaiBalajiTheatreMarkapuram,Telugu,18:30,Balcony,100₹,329,69
+AndhraPradesh,Markapuram,SaiBalajiTheatreMarkapuram,Telugu,18:30,FristClass,100₹,156,0
+AndhraPradesh,Markapuram,SaiBalajiTheatreMarkapuram,Telugu,21:30,Balcony,100₹,329,69
+AndhraPradesh,Markapuram,SaiBalajiTheatreMarkapuram,Telugu,21:30,FristClass,100₹,156,0
