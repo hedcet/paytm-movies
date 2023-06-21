@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,MeenakshiCinemasACRgbLaserDtsXManali,Tamil,21:45,Sofa,50₹,16,0
+TamilNadu,Chennai,MeenakshiCinemasACRgbLaserDtsXManali,Tamil,21:45,FirstClass,50₹,393,18
+TamilNadu,Chennai,VettriTheatresRgbLaserChrompet,Tamil,22:00,BoxA,190₹,13,12
+TamilNadu,Chennai,VettriTheatresRgbLaserChrompet,Tamil,22:00,BoxB,190₹,13,12
+TamilNadu,Chennai,VettriTheatresRgbLaserChrompet,Tamil,22:00,Balcony,190₹,125,124
+TamilNadu,Chennai,VettriTheatresRgbLaserChrompet,Tamil,22:00,Gold,110₹,344,343
+TamilNadu,Chennai,VettriTheatresRgbLaserChrompet,Tamil,22:00,Silver,110₹,208,207
+TamilNadu,Chennai,KamalaCinemasVadapalani,Tamil,22:45,Lounge1,152₹,21,18
+TamilNadu,Chennai,KamalaCinemasVadapalani,Tamil,22:45,Lounge2,152₹,21,21
+TamilNadu,Chennai,KamalaCinemasVadapalani,Tamil,22:45,CoupleSeat,152₹,8,8
+TamilNadu,Chennai,KamalaCinemasVadapalani,Tamil,22:45,Elite,98₹,512,492
+TamilNadu,Chennai,KamalaCinemasVadapalani,Tamil,22:45,Budget,60₹,38,26
