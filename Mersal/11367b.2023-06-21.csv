@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,SriShanmugaAC4KDolbyAtmosChennai,Tamil,22:00,FirstClass,110₹,682,43
+TamilNadu,Chennai,VidyaTheatre4KDolbyAtmosTambaramW,Tamil,22:15,Balcony,130₹,64,16
+TamilNadu,Chennai,VidyaTheatre4KDolbyAtmosTambaramW,Tamil,22:15,FirstClass,110₹,560,137
