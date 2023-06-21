@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,EgaCinemasRgbLaserDolbyAudio,Tamil,22:30,Platinum,152₹,268,26
+TamilNadu,Chennai,EgaCinemasRgbLaserDolbyAudio,Tamil,22:30,Gold,111₹,558,34
+TamilNadu,Chennai,EgaCinemasRgbLaserDolbyAudio,Tamil,22:30,Copper,60₹,92,92
+TamilNadu,Chennai,KamalaCinemasVadapalani,Tamil,22:45,Lounge1,152₹,21,0
+TamilNadu,Chennai,KamalaCinemasVadapalani,Tamil,22:45,Lounge2,152₹,21,0
+TamilNadu,Chennai,KamalaCinemasVadapalani,Tamil,22:45,CoupleSeat,152₹,8,2
+TamilNadu,Chennai,KamalaCinemasVadapalani,Tamil,22:45,Elite,98₹,512,120
+TamilNadu,Chennai,KamalaCinemasVadapalani,Tamil,22:45,Budget,60₹,38,1
+TamilNadu,Tirunelveli,ARKRamMuthuramCinemasRgbDolbyAtmos,Tamil,22:45,PremiumA,120₹,22,22
+TamilNadu,Tirunelveli,ARKRamMuthuramCinemasRgbDolbyAtmos,Tamil,22:45,PremiumB,120₹,22,22
+TamilNadu,Tirunelveli,ARKRamMuthuramCinemasRgbDolbyAtmos,Tamil,22:45,Platinum,120₹,373,373
+TamilNadu,Tirunelveli,ARKRamMuthuramCinemasRgbDolbyAtmos,Tamil,22:45,Gold,120₹,350,350
