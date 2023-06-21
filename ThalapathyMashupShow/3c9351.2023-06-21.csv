@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Tuticorin,KspsGanapathyKalaiarangam4K3DDolbyAtmosBoltenpuram,Tamil,22:15,RedBox1,50₹,23,23
+TamilNadu,Tuticorin,KspsGanapathyKalaiarangam4K3DDolbyAtmosBoltenpuram,Tamil,22:15,RebBox2,50₹,23,23
+TamilNadu,Tuticorin,KspsGanapathyKalaiarangam4K3DDolbyAtmosBoltenpuram,Tamil,22:15,PremiumElite,50₹,365,211
+TamilNadu,Tuticorin,KspsGanapathyKalaiarangam4K3DDolbyAtmosBoltenpuram,Tamil,22:15,Elite,50₹,0,0
+TamilNadu,Tuticorin,KspsGanapathyKalaiarangam4K3DDolbyAtmosBoltenpuram,Tamil,22:15,Standard,50₹,55,18
