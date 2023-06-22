@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,InoxPhoenixMarketCityVelacheryFormerlyJazzCinemas,English,11:45,Budget,96₹,20,10
+TamilNadu,Chennai,InoxPhoenixMarketCityVelacheryFormerlyJazzCinemas,English,11:45,Elite,241₹,170,9
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,12:05,PlatinumSuperior,550₹,8,5
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,12:05,Platinum,550₹,28,8
+WestBengal,Asansol,CarnivalSentrumMallAsansol,Hindi,14:00,Premium,110₹,63,0
+WestBengal,Asansol,CarnivalSentrumMallAsansol,Hindi,14:00,Silver,110₹,150,9
+WestBengal,Asansol,CarnivalSentrumMallAsansol,Hindi,14:00,Gold,130₹,43,5
+WestBengal,Asansol,CarnivalSentrumMallAsansol,Hindi,17:00,Premium,110₹,63,0
+WestBengal,Asansol,CarnivalSentrumMallAsansol,Hindi,17:00,Silver,110₹,150,1
+WestBengal,Asansol,CarnivalSentrumMallAsansol,Hindi,17:00,Gold,130₹,43,0
+WestBengal,Asansol,CarnivalSentrumMallAsansol,Hindi,20:00,Premium,110₹,63,0
+WestBengal,Asansol,CarnivalSentrumMallAsansol,Hindi,20:00,Silver,110₹,150,0
+WestBengal,Asansol,CarnivalSentrumMallAsansol,Hindi,20:00,Gold,130₹,43,0
