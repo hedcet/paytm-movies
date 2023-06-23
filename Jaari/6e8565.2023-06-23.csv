@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,CinepolisSudhaCinemasRajpalNagar,Nepali,13:55,Normal,150₹,71,0
+Telangana,Hyderabad,CinepolisSudhaCinemasRajpalNagar,Nepali,13:55,Executive,150₹,93,9
+WestBengal,Siliguri,InoxVegaCircleMallSevokeRoad,Nepali,16:40,Club,160₹,68,0
+WestBengal,Siliguri,InoxVegaCircleMallSevokeRoad,Nepali,16:40,Executive,160₹,34,0
+WestBengal,Siliguri,InoxVegaCircleMallSevokeRoad,Nepali,16:40,Royal,200₹,148,16
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,Nepali,21:15,Vip,650₹,10,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,Nepali,21:15,Premium,270₹,32,3
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,Nepali,21:15,Executive,250₹,56,2
+Karnataka,Bengaluru,CinepolisNexusShantiniketanThigalarapalya,Nepali,21:15,Normal,230₹,23,0
