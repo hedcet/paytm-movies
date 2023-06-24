@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,PvrMusarambaghNewMalakpet,Telugu,11:20,Classic,150₹,116,15
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,Telugu,11:25,Classic,150₹,134,31
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,Telugu,11:25,Recliner,250₹,9,9
+AndhraPradesh,Kakinada,InoxSrmtMallRamanayyapeta,Telugu,13:35,Executive,112₹,131,4
+AndhraPradesh,Bhimavaram,KishoreCineHubPanugantiRayappaBazar,Telugu,14:15,Sofa,200₹,38,0
+AndhraPradesh,Bhimavaram,KishoreCineHubPanugantiRayappaBazar,Telugu,14:15,FirstClass,170₹,60,12
+AndhraPradesh,Bhimavaram,KishoreCineHubPanugantiRayappaBazar,Telugu,14:15,SecondClass,130₹,26,0
+AndhraPradesh,Bhimavaram,KishoreCineHubPanugantiRayappaBazar,Telugu,14:15,ThirdClass,100₹,36,1
+AndhraPradesh,Guntur,PvrGuntur,Telugu,17:00,Premium,295₹,10,0
+AndhraPradesh,Guntur,PvrGuntur,Telugu,17:00,Deluxe,177₹,169,14
+AndhraPradesh,Bhimavaram,KishoreCineHubPanugantiRayappaBazar,Telugu,21:15,Sofa,150₹,38,0
+AndhraPradesh,Bhimavaram,KishoreCineHubPanugantiRayappaBazar,Telugu,21:15,FirstClass,120₹,60,12
+AndhraPradesh,Bhimavaram,KishoreCineHubPanugantiRayappaBazar,Telugu,21:15,SecondClass,80₹,26,0
+AndhraPradesh,Bhimavaram,KishoreCineHubPanugantiRayappaBazar,Telugu,21:15,ThirdClass,50₹,36,0
