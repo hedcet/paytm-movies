@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Ludhiana,PvrPavilionMallLudhiana,Punjabi,13:15,Classic,260₹,64,40
+UttarPradesh,Gorakhpur,PvrVenusGorakhpur,Punjabi,14:20,Classic,180₹,39,39
+UttarPradesh,Gorakhpur,PvrVenusGorakhpur,Punjabi,14:20,Prime,180₹,31,31
+UttarPradesh,Gorakhpur,PvrVenusGorakhpur,Punjabi,14:20,ClassicPlus,180₹,90,90
+UttarPradesh,Gorakhpur,PvrVenusGorakhpur,Punjabi,14:20,Classic,180₹,39,39
+UttarPradesh,Gorakhpur,PvrVenusGorakhpur,Punjabi,14:20,Prime,180₹,29,29
+UttarPradesh,Gorakhpur,PvrVenusGorakhpur,Punjabi,14:20,ClassicPlus,180₹,69,69
