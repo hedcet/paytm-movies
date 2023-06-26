@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kakinada,SpAnandCinemasKakinada,Telugu,19:00,Reclinear,295₹,19,19
+AndhraPradesh,Kakinada,SpAnandCinemasKakinada,Telugu,19:00,PremiumClass,148₹,298,210
+AndhraPradesh,Nellore,SpiceCinemasEarlierTheCinemaMgMgbFelicityMall,Telugu,19:30,177Elite,177₹,226,177
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,19:30,Gold,145₹,248,248
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,19:30,Silver,80₹,64,64
+AndhraPradesh,Guntur,VCelluloidBhaskarCinemasKothapet,Telugu,19:30,Executive,80₹,48,40
+AndhraPradesh,Eluru,SaiBalajiComplex,Telugu,19:30,1FirstClass,150₹,266,169
+AndhraPradesh,Eluru,SaiBalajiComplex,Telugu,19:30,2SecondClass,80₹,41,12
+AndhraPradesh,Eluru,SaiBalajiComplex,Telugu,19:30,3ThirdClass,50₹,62,8
+AndhraPradesh,Kurnool,VMegaAnandCineComplexKurnool,Telugu,19:30,Platinum,295₹,12,12
+AndhraPradesh,Kurnool,VMegaAnandCineComplexKurnool,Telugu,19:30,Gold,148₹,198,198
+AndhraPradesh,Kurnool,VMegaAnandCineComplexKurnool,Telugu,19:30,Executive,112₹,62,62
+AndhraPradesh,Bhimavaram,AvgCinemasGeethaMultiplex4KDolbyAtmos,Telugu,19:30,Gold,150₹,224,154
+AndhraPradesh,Vizag,InoxCmrCentralMaddilapalem,Telugu,19:40,Executive,177₹,223,157
+AndhraPradesh,Vijayawada,CapitalCinemasTrendsetMallKalaNagar,Telugu,19:55,Gold,295₹,34,34
+AndhraPradesh,Vijayawada,CapitalCinemasTrendsetMallKalaNagar,Telugu,19:55,Executive,177₹,514,438
