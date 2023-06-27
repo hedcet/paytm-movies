@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,13:05,PlatinumSuperior,550₹,8,6
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,13:05,Platinum,550₹,28,0
+WestBengal,Waterland,DemoCinemaCinesyncWaterland,English,16:00,SeniorCitizen,14₹,100,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,17:30,Insignia,450₹,41,41
+UttarPradesh,Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,Hindi,18:25,Normal,180₹,29,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,Hindi,18:25,Executive,180₹,78,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,Hindi,18:25,Premium,180₹,39,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,Hindi,18:25,Vip,450₹,5,2
+UttarPradesh,Noida,CinepolisModiMallFormerlySpiceMall,English,21:10,Classic,200₹,75,0
+UttarPradesh,Noida,CinepolisModiMallFormerlySpiceMall,English,21:10,Premium,200₹,113,7
+WestBengal,Waterland,DemoCinemaCinesyncWaterland,English,21:40,SeniorCitizen,2₹,100,0
