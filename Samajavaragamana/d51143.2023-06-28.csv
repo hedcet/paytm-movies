@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Rajahmundry,SriSivajyothi2KCinema71DolbySeshayyaMetta,Telugu,18:30,ReservedClass,145₹,331,245
+AndhraPradesh,Rajahmundry,SriSivajyothi2KCinema71DolbySeshayyaMetta,Telugu,18:30,SecondClass,75₹,115,44
+Telangana,Hyderabad,MovieMaxAmrEcilSecunderabad,Telugu,22:15,Recliner,300₹,16,15
+Telangana,Hyderabad,MovieMaxAmrEcilSecunderabad,Telugu,22:15,Prime,200₹,180,96
+Telangana,Hyderabad,MovieMaxAmrEcilSecunderabad,Telugu,22:15,Classic,150₹,40,10
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,Telugu,22:30,Classic,200₹,231,161
+Telangana,Hyderabad,PvrNexusMallFormerlyForumSujanaKukatpallyHyderabad,Telugu,22:30,Recliner,250₹,12,12
+Telangana,Hyderabad,JpCinemasChandanagar,Telugu,22:30,Gl,200₹,264,209
+Telangana,Hyderabad,JpCinemasChandanagar,Telugu,22:30,Re,250₹,18,18
+Telangana,Hyderabad,CinepolisDslVirtueMallUppal,Telugu,22:35,Normal,200₹,25,0
+Telangana,Hyderabad,CinepolisDslVirtueMallUppal,Telugu,22:35,Executive,200₹,119,61
+Telangana,Hyderabad,CinepolisDslVirtueMallUppal,Telugu,22:35,Vip,300₹,10,10
+Telangana,Hyderabad,CinepolisCcplMallMalkajgiri,Telugu,22:35,Executive,200₹,133,28
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Telugu,22:50,Classic,200₹,151,144
