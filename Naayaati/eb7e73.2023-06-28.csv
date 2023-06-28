@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Thalayolaparambu,CarnivalThalayolaparambu,Tamil,11:00,Gold,110₹,144,6
+TamilNadu,Chennai,C3LaurelMallRgbLaserChengalpattu,Tamil,14:45,Platinum,150₹,169,23
+TamilNadu,Chennai,C3LaurelMallRgbLaserChengalpattu,Tamil,14:45,Silver,150₹,54,0
+Kerala,Kariyad,CarnivalCinemasKariyad,Tamil,16:45,ExecutiveOffline,140₹,96,0
+Kerala,Kariyad,CarnivalCinemasKariyad,Tamil,16:45,GoldLounge,270₹,32,0
+TamilNadu,Chennai,AgsCinemasMaduravoyal,Tamil,19:50,Pearl,60₹,0,0
+TamilNadu,Chennai,AgsCinemasMaduravoyal,Tamil,19:50,Diamond,190₹,205,0
+TamilNadu,Chennai,AgsCinemasVillivakkam,Tamil,22:40,Pearl,60₹,0,0
+TamilNadu,Chennai,AgsCinemasVillivakkam,Tamil,22:40,Diamond,190₹,129,0
