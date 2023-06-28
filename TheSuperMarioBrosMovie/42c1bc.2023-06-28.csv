@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,12:00,Kiddles,230₹,53,0
+Maharashtra,Thane,InoxInsigniaAtRMallThane,English,12:50,Insignia,400₹,54,0
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,English,13:15,Kiddles,240₹,36,4
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,14:30,Classic,150₹,54,29
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,16:10,3DClassic,101₹,8,8
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,16:10,3DPrime,220₹,67,13
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,19:40,Classic,300₹,49,16
+WestBengal,Waterland,MovieMaxTestCinema,English,23:35,3DClub,112₹,32,0
+WestBengal,Waterland,MovieMaxTestCinema,English,23:35,3DPrime,112₹,96,0
+WestBengal,Waterland,MovieMaxTestCinema,English,23:35,3DExecutive,112₹,54,0
+WestBengal,Waterland,MovieMaxTestCinema,English,23:35,3DMaxRecliner,239₹,16,0
