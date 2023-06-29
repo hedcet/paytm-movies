@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kariyad,CarnivalCinemasKariyad,Malayalam,14:00,ExecutiveOffline,140₹,96,0
+Kerala,Kariyad,CarnivalCinemasKariyad,Malayalam,14:00,GoldLounge,270₹,32,5
+Kerala,Thalayolaparambu,CarnivalThalayolaparambu,Malayalam,16:00,Gold,110₹,144,0
+Kerala,Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,19:45,Club,170₹,63,25
+Kerala,Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,19:45,Executive,130₹,22,0
+Kerala,Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,19:45,RoyalRecliner,290₹,10,1
+Kerala,Thrissur,InoxSobhaCityMallPuzhakkal,Malayalam,19:45,Royal,170₹,16,2
+Kerala,Trivandrum,PvrLuluThiruvananthapuram,Malayalam,22:00,Classic,230₹,65,27
+Kerala,Trivandrum,PvrLuluThiruvananthapuram,Malayalam,22:00,Prime,260₹,30,16
+Kerala,Trivandrum,PvrLuluThiruvananthapuram,Malayalam,22:00,Recliner,500₹,8,5
+Kerala,Kochi,PvrLuluKochi,Malayalam,22:15,Classic,160₹,39,1
+Kerala,Kochi,PvrLuluKochi,Malayalam,22:15,ClassicPlus,200₹,91,50
+Kerala,Kochi,PvrLuluKochi,Malayalam,22:15,Prime,220₹,64,31
+Kerala,Kochi,PvrLuluKochi,Malayalam,22:15,Recliner,450₹,9,4
