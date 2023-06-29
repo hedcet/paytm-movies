@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,JajpurRoad,SaraswatiMultiplexJajpurRoad,Odia,15:00,Vip,200₹,128,88
+Orissa,JajpurRoad,SaraswatiMultiplexJajpurRoad,Odia,15:00,Diamond,150₹,78,55
+Orissa,Rayagada,AshokaTalkiesACDtsRayagada,Odia,17:30,Balcony,150₹,355,3
+Orissa,Rayagada,AshokaTalkiesACDtsRayagada,Odia,17:30,FirstClass,100₹,222,0
+Orissa,Rayagada,AshokaTalkiesACDtsRayagada,Odia,17:30,SecondClass,60₹,57,0
+Orissa,Rayagada,AshokaTalkiesACDtsRayagada,Odia,20:30,Balcony,150₹,355,0
+Orissa,Rayagada,AshokaTalkiesACDtsRayagada,Odia,20:30,FirstClass,100₹,222,0
+Orissa,Rayagada,AshokaTalkiesACDtsRayagada,Odia,20:30,SecondClass,60₹,57,0
