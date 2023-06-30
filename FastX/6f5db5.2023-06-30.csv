@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Vadodara,PvrNilamberTriumphMallSaiyedVasna,Hindi,09:00,Recliner,320₹,7,0
+Gujarat,Vadodara,PvrNilamberTriumphMallSaiyedVasna,Hindi,09:00,Prime,140₹,89,15
+Gujarat,Vadodara,PvrNilamberTriumphMallSaiyedVasna,Hindi,09:00,Classic,140₹,33,0
+Gujarat,Ahmedabad,CityGoldAshramRoad,Hindi,09:00,Executive,150₹,130,0
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Hindi,09:15,Recliner,340₹,24,5
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Hindi,09:15,Prime,190₹,87,12
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Hindi,09:15,ClassicPlus,180₹,30,0
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Hindi,09:15,Classic,180₹,30,0
+Gujarat,Ahmedabad,PvrArvedTranscube,Hindi,10:20,Classic,140₹,33,0
+Gujarat,Ahmedabad,PvrArvedTranscube,Hindi,10:20,Prime,140₹,100,17
+Gujarat,Ahmedabad,CityGoldAshramRoad,Hindi,12:15,Executive,170₹,130,0
