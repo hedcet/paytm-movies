@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,14:30,Classic,380₹,38,36
+Delhi,NewDelhi,PvrVegasDwarka,English,15:05,Recliner,540₹,8,3
+Delhi,NewDelhi,PvrVegasDwarka,English,15:05,Prime,370₹,14,12
+Delhi,NewDelhi,PvrVegasDwarka,English,15:05,Classic,340₹,36,4
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,16:55,Classic,150₹,54,50
+Haryana,Gurgaon,InoxGurgaonArdeeMall,English,17:15,Platinum,600₹,18,18
+Haryana,Gurgaon,InoxGurgaonArdeeMall,English,17:15,PlatinumSuperior,600₹,12,12
