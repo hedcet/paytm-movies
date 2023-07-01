@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,InoxQuestMallBallygunge,Hindi,09:35,RoyalRecliner,440₹,63,3
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Hindi,11:00,Classic,220₹,72,25
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Hindi,11:00,Recliner,410₹,7,6
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,Hindi,12:30,Classic,240₹,156,77
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,Hindi,12:30,Recliner,410₹,12,10
+Gujarat,Ahmedabad,BananaSmartplexSbrThaltej,Hindi,13:05,Premium,190₹,41,0
+Gujarat,Surat,CineverseCinemaVesuSurat,Hindi,16:30,Sofa,200₹,46,0
+Karnataka,Bengaluru,PvrGoldVegaCityBannerghataMainRoad,Hindi,19:10,Gold,900₹,24,10
+Karnataka,Bengaluru,PvrGoldVegaCityBannerghataMainRoad,Hindi,19:10,GoldPrime,"1,000₹",10,7
+Gujarat,Surat,CineverseCinemaVesuSurat,Hindi,22:00,Sofa,220₹,46,0
