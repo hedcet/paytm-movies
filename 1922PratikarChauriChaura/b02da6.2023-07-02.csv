@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Gorakhpur,PvrVenusGorakhpur,Hindi,15:20,Classic,200₹,39,0
+UttarPradesh,Gorakhpur,PvrVenusGorakhpur,Hindi,15:20,Prime,200₹,30,28
+UttarPradesh,Gorakhpur,PvrVenusGorakhpur,Hindi,15:20,ClassicPlus,200₹,82,0
