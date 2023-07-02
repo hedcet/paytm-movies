@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Villupuram,KalyanCinemasACDtsVillupuram,Tamil,11:15,Box,164₹,24,0
+TamilNadu,Villupuram,KalyanCinemasACDtsVillupuram,Tamil,11:15,Balcony,164₹,88,19
+TamilNadu,Villupuram,KalyanCinemasACDtsVillupuram,Tamil,11:15,FirstClass,119₹,154,9
+TamilNadu,Ambur,SriMuruganKarthickCinemasAC2K3D,Tamil,11:30,Elite,100₹,100,10
+TamilNadu,Chennai,MuruganCinemas4KAmbattur,Tamil,13:45,Diamond,110₹,152,93
+TamilNadu,Ambur,SriMuruganKarthickCinemasAC2K3D,Tamil,14:30,Elite,100₹,100,10
+TamilNadu,Kanchipuram,KarthikeyanCinemasACPillaiyarpalayam,Tamil,14:30,Elite,120₹,156,18
+TamilNadu,Ambur,SriMuruganKarthickCinemasAC2K3D,Tamil,18:30,Elite,100₹,100,10
+TamilNadu,PunjaiPuliampatti,SriDeviCinemasPunjaiPuliampatti,Tamil,18:30,FirstClass,100₹,156,6
+TamilNadu,PunjaiPuliampatti,SriDeviCinemasPunjaiPuliampatti,Tamil,18:30,SecondClass,100₹,15,0
+TamilNadu,Ambur,SriMuruganKarthickCinemasAC2K3D,Tamil,21:30,Elite,100₹,100,10
+TamilNadu,Kanchipuram,KarthikeyanCinemasACPillaiyarpalayam,Tamil,21:30,Elite,120₹,156,13
+TamilNadu,PunjaiPuliampatti,SriDeviCinemasPunjaiPuliampatti,Tamil,22:00,FirstClass,100₹,156,10
+TamilNadu,PunjaiPuliampatti,SriDeviCinemasPunjaiPuliampatti,Tamil,22:00,SecondClass,100₹,15,0
