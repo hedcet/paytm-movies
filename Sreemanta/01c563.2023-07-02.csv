@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Kalaburagi,MirajCinemasShraddhaMallMadoopura,Kannada,15:30,Special,130₹,80,0
+Karnataka,Kalaburagi,MirajCinemasShraddhaMallMadoopura,Kannada,15:30,Executive,150₹,192,58
+Karnataka,Kalaburagi,MirajCinemasShraddhaMallMadoopura,Kannada,15:30,Gold,280₹,10,0
