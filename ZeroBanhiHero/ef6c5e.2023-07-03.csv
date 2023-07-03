@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Chhattisgarh,Raipur,FnxCInemas,Chhattisgarhi,12:45,Platinum,250₹,14,0
+Chhattisgarh,Raipur,FnxCInemas,Chhattisgarhi,12:45,Gold,150₹,98,0
+Chhattisgarh,Raipur,FnxCInemas,Chhattisgarhi,12:45,Silver,100₹,28,0
+HimachalPradesh,Bilaspur,PvrRamaMagnetoMallBilaspur,Chhattisgarhi,13:10,Classic,130₹,40,0
+HimachalPradesh,Bilaspur,PvrRamaMagnetoMallBilaspur,Chhattisgarhi,13:10,Prime,140₹,116,14
+HimachalPradesh,Bilaspur,PvrRamaMagnetoMallBilaspur,Chhattisgarhi,13:10,PrimePlus,250₹,13,0
+Chhattisgarh,Raipur,PvrCityCenterRaipur,Chhattisgarhi,14:25,Prime,140₹,145,31
+Chhattisgarh,Raipur,PvrCityCenterRaipur,Chhattisgarhi,14:25,Classic,110₹,26,0
+Chhattisgarh,Raipur,FnxCInemas,Chhattisgarhi,15:45,Platinum,250₹,14,0
+Chhattisgarh,Raipur,FnxCInemas,Chhattisgarhi,15:45,Gold,150₹,98,0
+Chhattisgarh,Raipur,FnxCInemas,Chhattisgarhi,15:45,Silver,100₹,28,0
