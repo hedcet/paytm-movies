@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Marpalli,LocalCinemasSriKrishnaKalamandir,Hindi,11:00,Balcony,70₹,263,195
+Telangana,Marpalli,LocalCinemasSriKrishnaKalamandir,Hindi,11:00,FirstClass,40₹,52,52
+Telangana,Marpalli,LocalCinemasSriKrishnaKalamandir,Hindi,14:00,Balcony,70₹,263,195
+Telangana,Marpalli,LocalCinemasSriKrishnaKalamandir,Hindi,14:00,FirstClass,40₹,52,52
+Telangana,Marpalli,LocalCinemasSriKrishnaKalamandir,Hindi,18:00,Balcony,70₹,263,195
+Telangana,Marpalli,LocalCinemasSriKrishnaKalamandir,Hindi,18:00,FirstClass,40₹,52,52
+Telangana,Marpalli,LocalCinemasSriKrishnaKalamandir,Hindi,21:00,Balcony,70₹,263,195
+Telangana,Marpalli,LocalCinemasSriKrishnaKalamandir,Hindi,21:00,FirstClass,40₹,52,52
