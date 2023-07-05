@@ -1,0 +1,3 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Waterland,MovieMaxTestCinema,Hindi,10:10,Club,100₹,32,1
+WestBengal,Waterland,MovieMaxTestCinema,Hindi,10:10,Executive,100₹,51,1
