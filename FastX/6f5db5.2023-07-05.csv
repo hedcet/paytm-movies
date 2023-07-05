@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Hindi,09:15,Recliner,280₹,24,5
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Hindi,09:15,Prime,180₹,87,11
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Hindi,09:15,ClassicPlus,180₹,30,0
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Hindi,09:15,Classic,180₹,30,0
