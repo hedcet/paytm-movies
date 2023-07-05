@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Jharkhand,Dhanbad,InoxPrabhatamGrandMallDhanbad,Bhojpuri,16:25,RoyalRecliners,360₹,13,0
+Jharkhand,Dhanbad,InoxPrabhatamGrandMallDhanbad,Bhojpuri,16:25,Royal,180₹,88,4
+Jharkhand,Dhanbad,InoxPrabhatamGrandMallDhanbad,Bhojpuri,16:25,Club,160₹,28,2
+Jharkhand,Dhanbad,InoxPrabhatamGrandMallDhanbad,Bhojpuri,16:25,Executive,160₹,28,0
