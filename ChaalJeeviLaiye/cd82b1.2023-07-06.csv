@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,InoxVrSuratDumasRoad,Gujarati,00:05,Club,112₹,159,25
+Gujarat,Surat,InoxVrSuratDumasRoad,Gujarati,00:05,Executive,112₹,34,0
+Gujarat,Surat,InoxVrSuratDumasRoad,Gujarati,00:05,Royal,112₹,54,23
+Gujarat,Surat,InoxVrSuratDumasRoad,Gujarati,00:05,RoyalRecliner,200₹,12,6
