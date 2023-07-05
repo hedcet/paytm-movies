@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Waterland,A1TestCinemaOcl,Tamil,07:00,Balcony,11₹,131,32
+WestBengal,Waterland,A1TestCinemaOcl,Tamil,07:00,FirstClass,11₹,142,34
+WestBengal,Waterland,A1TestCinemaOcl,Tamil,14:15,Balcony,11₹,131,31
+WestBengal,Waterland,A1TestCinemaOcl,Tamil,14:15,FirstClass,11₹,142,34
+WestBengal,Waterland,A1TestCinemaOcl,Tamil,22:30,Balcony,11₹,131,65
+WestBengal,Waterland,A1TestCinemaOcl,Tamil,22:30,FirstClass,11₹,142,71
