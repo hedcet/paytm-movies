@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,InoxGsmMallMadinaguda,Telugu,19:30,Executive,250₹,141,129
+Telangana,Hyderabad,InoxGsmMallMadinaguda,Telugu,19:30,Royal,350₹,11,10
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Telugu,19:55,Classic,250₹,170,82
+Telangana,Hyderabad,CinepolisDslVirtueMallUppal,Telugu,20:00,Normal,250₹,35,0
+Telangana,Hyderabad,CinepolisDslVirtueMallUppal,Telugu,20:00,Executive,250₹,186,26
+Telangana,Hyderabad,CinepolisDslVirtueMallUppal,Telugu,20:00,Vip,350₹,14,7
+AndhraPradesh,Vijayawada,CapitalCinemasTrendsetMallKalaNagar,Telugu,21:45,Gold,295₹,38,38
+AndhraPradesh,Vijayawada,CapitalCinemasTrendsetMallKalaNagar,Telugu,21:45,Executive,177₹,350,299
+AndhraPradesh,Kakinada,SpAnandCinemasKakinada,Telugu,21:45,Reclinear,295₹,35,35
+AndhraPradesh,Kakinada,SpAnandCinemasKakinada,Telugu,21:45,PremiumClass,148₹,513,222
