@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Waterland,MovieMaxTestCinema,Hindi,18:20,Club,160₹,32,1
+WestBengal,Waterland,MovieMaxTestCinema,Hindi,18:20,Prime,160₹,96,0
+WestBengal,Waterland,MovieMaxTestCinema,Hindi,18:20,Executive,190₹,54,0
+WestBengal,Waterland,MovieMaxTestCinema,Hindi,18:20,MaxRecliner,280₹,16,0
+WestBengal,Waterland,MovieMaxTestCinema,Hindi,18:50,Club,160₹,32,0
+WestBengal,Waterland,MovieMaxTestCinema,Hindi,18:50,Prime,160₹,80,0
+WestBengal,Waterland,MovieMaxTestCinema,Hindi,18:50,Executive,190₹,54,0
+WestBengal,Waterland,MovieMaxTestCinema,Hindi,18:50,MaxRecliner,280₹,15,0
+WestBengal,Waterland,MovieMaxTestCinema,Hindi,19:50,Club,160₹,32,0
+WestBengal,Waterland,MovieMaxTestCinema,Hindi,19:50,Prime,160₹,96,0
+WestBengal,Waterland,MovieMaxTestCinema,Hindi,19:50,Executive,190₹,51,0
+WestBengal,Waterland,MovieMaxTestCinema,Hindi,19:50,MaxRecliner,280₹,15,0
