@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Thiruvannamalai,SriBalasubramaniarCinemasChengamRoad,Tamil,11:15,Balcony,109₹,115,0
+TamilNadu,Chennai,MuruganCinemas4KAmbattur,Tamil,11:40,Diamond,110₹,152,80
+TamilNadu,Thiruvannamalai,SriBalasubramaniarCinemasChengamRoad,Tamil,21:45,Balcony,109₹,115,0
