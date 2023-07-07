@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Gurgaon,InoxDreamzMallGurgaon,Hindi,13:15,Club,260₹,86,86
+Haryana,Gurgaon,InoxDreamzMallGurgaon,Hindi,13:15,Executive,240₹,30,30
+Haryana,Gurgaon,InoxDreamzMallGurgaon,Hindi,13:15,RoyalRecliners,460₹,12,12
+Haryana,Narnaul,GoldCinemaNarnaulAggarwalTower,Hindi,14:30,Box,250₹,14,0
+Haryana,Narnaul,GoldCinemaNarnaulAggarwalTower,Hindi,14:30,Gold,150₹,122,0
+Haryana,Rewari,BmgCinemaBmgMallLeoChowk,Hindi,19:00,Gold,110₹,163,34
+Haryana,Rewari,BmgCinemaBmgMallLeoChowk,Hindi,19:40,Gold,110₹,229,44
