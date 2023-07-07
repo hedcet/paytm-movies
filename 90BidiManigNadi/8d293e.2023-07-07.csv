@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bhadravati,TrsCinemasSatyaNetravathiTheatresCNRoad,Kannada,11:30,GoldClass,130₹,257,54
+Karnataka,Bhadravati,TrsCinemasSatyaNetravathiTheatresCNRoad,Kannada,11:30,SilverClass,100₹,251,38
+Karnataka,Bhadravati,TrsCinemasSatyaNetravathiTheatresCNRoad,Kannada,14:30,GoldClass,130₹,257,54
+Karnataka,Bhadravati,TrsCinemasSatyaNetravathiTheatresCNRoad,Kannada,14:30,SilverClass,100₹,251,38
+Karnataka,Bhadravati,TrsCinemasSatyaNetravathiTheatresCNRoad,Kannada,18:30,GoldClass,130₹,257,54
+Karnataka,Bhadravati,TrsCinemasSatyaNetravathiTheatresCNRoad,Kannada,18:30,SilverClass,100₹,251,38
+Karnataka,Bhadravati,TrsCinemasSatyaNetravathiTheatresCNRoad,Kannada,18:30,GoldClass,130₹,175,54
+Karnataka,Bhadravati,TrsCinemasSatyaNetravathiTheatresCNRoad,Kannada,21:30,GoldClass,130₹,257,54
+Karnataka,Bhadravati,TrsCinemasSatyaNetravathiTheatresCNRoad,Kannada,21:30,SilverClass,100₹,251,38
