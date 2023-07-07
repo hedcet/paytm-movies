@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,CoochBehar,NewCinemaBangchatraRoad,Bengali,10:15,Balcony,100₹,87,28
+WestBengal,Kolkata,InoxStarMallMadhyamgram,Bengali,13:30,Club,190₹,104,0
+WestBengal,Kolkata,InoxStarMallMadhyamgram,Bengali,13:30,Executive,170₹,34,0
+WestBengal,Kolkata,InoxStarMallMadhyamgram,Bengali,13:30,Royal,210₹,73,0
+WestBengal,Kolkata,InoxCityCentreIiRajarhat,Bengali,14:00,Club,230₹,229,4
+WestBengal,Kolkata,InoxCityCentreIiRajarhat,Bengali,14:00,Executive,210₹,42,0
+WestBengal,Kolkata,InoxSouthCityMall,Bengali,14:10,Premier,240₹,34,0
+WestBengal,Kolkata,InoxSouthCityMall,Bengali,14:10,Silver,260₹,157,20
+WestBengal,Kolkata,RupMandirCinemaBelgharia,Bengali,14:30,Platinum,100₹,48,0
+WestBengal,Kolkata,RupMandirCinemaBelgharia,Bengali,14:30,Gold,80₹,102,56
+WestBengal,Kolkata,CinepolisAcropolisMallRajdangaRoad,Bengali,14:55,Normal,220₹,42,0
+WestBengal,Kolkata,CinepolisAcropolisMallRajdangaRoad,Bengali,14:55,Executive,240₹,135,5
+WestBengal,Kolkata,CinepolisAcropolisMallRajdangaRoad,Bengali,14:55,Premium,260₹,65,3
+WestBengal,Kolkata,RupMandirCinemaBelgharia,Bengali,16:45,Platinum,100₹,48,0
+WestBengal,Kolkata,RupMandirCinemaBelgharia,Bengali,16:45,Gold,80₹,102,57
+Tripura,Agartala,RupasiCinemaAgartala,Bengali,18:40,GoldClass,150₹,329,67
