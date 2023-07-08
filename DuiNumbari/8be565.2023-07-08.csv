@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Siliguri,InoxCityCentreMatigara,Nepali,12:10,Club,200₹,176,9
+WestBengal,Siliguri,InoxCityCentreMatigara,Nepali,12:10,Executive,160₹,32,0
+WestBengal,Siliguri,InoxCityCentreMatigara,Nepali,12:10,Royale,320₹,10,4
+WestBengal,Siliguri,InoxVegaCircleMallSevokeRoad,Nepali,15:20,Club,160₹,28,0
+WestBengal,Siliguri,InoxVegaCircleMallSevokeRoad,Nepali,15:20,Executive,160₹,28,0
+WestBengal,Siliguri,InoxVegaCircleMallSevokeRoad,Nepali,15:20,Gold,320₹,27,12
+WestBengal,Siliguri,InoxVegaCircleMallSevokeRoad,Nepali,15:20,Royal,200₹,119,21
+WestBengal,Siliguri,InoxCityCentreMatigara,Nepali,17:50,Club,200₹,176,29
+WestBengal,Siliguri,InoxCityCentreMatigara,Nepali,17:50,Executive,160₹,32,0
+WestBengal,Siliguri,InoxCityCentreMatigara,Nepali,17:50,Royale,360₹,10,10
+WestBengal,Siliguri,InoxVegaCircleMallSevokeRoad,Nepali,18:10,Club,160₹,28,0
+WestBengal,Siliguri,InoxVegaCircleMallSevokeRoad,Nepali,18:10,Executive,160₹,28,0
+WestBengal,Siliguri,InoxVegaCircleMallSevokeRoad,Nepali,18:10,Gold,320₹,27,7
+WestBengal,Siliguri,InoxVegaCircleMallSevokeRoad,Nepali,18:10,Royal,200₹,119,12
