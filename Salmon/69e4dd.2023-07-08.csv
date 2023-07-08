@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Mangalore,CineGalaxySurathkalMangalore,Tamil,16:30,Club,152₹,5,4
+Karnataka,Mangalore,CineGalaxySurathkalMangalore,Tamil,16:30,Gold,152₹,18,0
+Karnataka,Mangalore,CineGalaxySurathkalMangalore,Tamil,16:30,Prime,152₹,90,0
+Karnataka,Mangalore,CineGalaxySurathkalMangalore,Tamil,16:30,Classic,152₹,52,0
+Karnataka,Mangalore,CineGalaxySurathkalMangalore,Kannada,19:30,Club,152₹,5,4
+Karnataka,Mangalore,CineGalaxySurathkalMangalore,Kannada,19:30,Gold,152₹,18,0
+Karnataka,Mangalore,CineGalaxySurathkalMangalore,Kannada,19:30,Prime,152₹,90,0
+Karnataka,Mangalore,CineGalaxySurathkalMangalore,Kannada,19:30,Classic,152₹,52,0
