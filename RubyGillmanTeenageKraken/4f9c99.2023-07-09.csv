@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Jaipur,InoxGtCentralMallMalviyaNagar,English,09:45,Kiddles,170₹,34,0
+Haryana,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,10:15,Normal,180₹,22,4
+Haryana,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,10:15,DoubleSofa,270₹,24,0
+Haryana,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,10:15,Lounger,270₹,8,0
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,12:15,Classic,340₹,49,9
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,English,14:35,Club,220₹,32,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,English,14:35,Executive,210₹,16,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMallLucknow,English,14:35,Royale,240₹,20,0
+Maharashtra,Mumbai,PvrCitiMallAndheriW,English,15:00,Classic,270₹,46,0
+Maharashtra,Mumbai,PvrCitiMallAndheriW,English,15:00,Recliner,490₹,24,8
+Maharashtra,Mumbai,PvrCitiMallAndheriW,English,15:00,Prime,320₹,146,53
