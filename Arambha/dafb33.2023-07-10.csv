@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Hubli,CinepolisUrbanOasisMallHubli,Kannada,11:00,Normal,150₹,38,0
+Karnataka,Hubli,CinepolisUrbanOasisMallHubli,Kannada,11:00,Executive,150₹,103,0
+Karnataka,Hubli,CinepolisUrbanOasisMallHubli,Kannada,11:00,Premium,170₹,62,10
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,Kannada,12:00,Club,160₹,209,0
+Karnataka,Kalaburagi,InoxOrchidMallKalaburagi,Kannada,13:30,Club,140₹,67,0
+Karnataka,Kalaburagi,InoxOrchidMallKalaburagi,Kannada,13:30,Executive,140₹,112,0
+Karnataka,Belagavi,InoxCampRoadBelgaum,Kannada,13:30,Club,112₹,56,0
+Karnataka,Belagavi,InoxCampRoadBelgaum,Kannada,13:30,Executive,112₹,14,0
+Karnataka,Belagavi,InoxCampRoadBelgaum,Kannada,13:30,Royal,112₹,5,0
+Karnataka,Mysuru,PvrNexusMallCentreCityMysuru,Kannada,13:45,Classic,110₹,119,0
