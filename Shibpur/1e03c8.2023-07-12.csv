@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,CoochBehar,NewCinemaBangchatraRoad,Bengali,10:15,Balcony,100₹,87,28
+WestBengal,Kolkata,RupMandirCinemaBelgharia,Bengali,14:30,Platinum,100₹,48,0
+WestBengal,Kolkata,RupMandirCinemaBelgharia,Bengali,14:30,Gold,80₹,102,56
+WestBengal,Kolkata,RupMandirCinemaBelgharia,Bengali,16:45,Platinum,100₹,48,0
+WestBengal,Kolkata,RupMandirCinemaBelgharia,Bengali,16:45,Gold,80₹,102,56
