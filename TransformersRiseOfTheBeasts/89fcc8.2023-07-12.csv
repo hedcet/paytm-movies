@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Indore,InoxPhoenixCitadelMall,Hindi,13:10,Club,160₹,119,0
+MadhyaPradesh,Indore,InoxPhoenixCitadelMall,Hindi,13:10,Executive,140₹,22,0
+MadhyaPradesh,Indore,InoxPhoenixCitadelMall,Hindi,13:10,Royal,180₹,38,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,English,16:05,Normal,130₹,29,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,English,16:05,Executive,130₹,78,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,English,16:05,Premium,130₹,44,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCenterMallGomtiNagar,English,16:05,Vip,450₹,13,0
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,English,16:15,Vip,500₹,11,0
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,English,16:15,Premium,240₹,51,4
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,English,16:15,Executive,220₹,42,0
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,English,16:15,Normal,200₹,28,0
+TamilNadu,Chennai,SpiSathyamCinemasRoyapettah,English,19:00,3DElite,220₹,72,0
+TamilNadu,Chennai,SpiSathyamCinemasRoyapettah,English,19:00,3DBudget,101₹,12,12
