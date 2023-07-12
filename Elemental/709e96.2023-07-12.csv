@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Indore,InoxPhoenixCitadelMall,Hindi,10:10,Club,180₹,84,0
+MadhyaPradesh,Indore,InoxPhoenixCitadelMall,Hindi,10:10,Executive,170₹,16,0
+MadhyaPradesh,Indore,InoxPhoenixCitadelMall,Hindi,10:10,Royal,200₹,33,0
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,16:00,3DClassic,101₹,8,8
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,16:00,3DPrime,220₹,67,11
+TamilNadu,Chennai,InoxPhoenixMarketCityVelacheryFormerlyJazzCinemas,English,16:30,Budget,96₹,34,22
+TamilNadu,Chennai,InoxPhoenixMarketCityVelacheryFormerlyJazzCinemas,English,16:30,Elite,241₹,162,4
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,18:40,3DClassic,101₹,8,8
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,18:40,3DPrime,220₹,67,11
