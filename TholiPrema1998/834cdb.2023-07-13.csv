@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Vizag,SreeKanyaTheatreRailwayNewColony,Telugu,18:30,Premium,145₹,441,27
+AndhraPradesh,Vizag,SreeKanyaTheatreRailwayNewColony,Telugu,18:30,NonPremium,100₹,154,0
+AndhraPradesh,Vizag,SreeKanyaTheatreRailwayNewColony,Telugu,21:45,Premium,145₹,441,27
+AndhraPradesh,Vizag,SreeKanyaTheatreRailwayNewColony,Telugu,21:45,NonPremium,100₹,154,0
