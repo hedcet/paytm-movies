@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,CoochBehar,NewCinemaBangchatraRoad,Bengali,13:00,Balcony,100₹,87,28
+WestBengal,Durgapur,DurgapurCinemaCityCenter,Bengali,15:00,Balcony,60₹,480,480
+WestBengal,Durgapur,DurgapurCinemaCityCenter,Bengali,15:00,DressCircle,70₹,92,77
+WestBengal,Durgapur,DurgapurCinemaCityCenter,Bengali,15:00,Box,70₹,32,32
+WestBengal,Durgapur,DurgapurCinemaCityCenter,Bengali,15:00,RareStall,50₹,640,608
+WestBengal,Siliguri,NewCinemaPara,Bengali,16:15,Sofa,100₹,96,24
+WestBengal,Siliguri,NewCinemaPara,Bengali,16:15,Special,80₹,102,0
+WestBengal,Siliguri,NewCinemaPara,Bengali,16:15,FirstClass,50₹,285,285
+WestBengal,Malda,RupkothaCinemaHallMalda,Bengali,16:30,SpecialAc,150₹,82,35
+WestBengal,Malda,RupkothaCinemaHallMalda,Bengali,16:30,DressCircle,80₹,99,59
+WestBengal,CoochBehar,NewCinemaBangchatraRoad,Bengali,18:30,Balcony,100₹,87,28
